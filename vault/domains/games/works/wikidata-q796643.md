@@ -1,0 +1,19 @@
+﻿---
+type: game
+id: wikidata-q796643
+title: "Ganbare Goemon 2: Kiteretsu shōgun Magginesu"
+lang: fr
+platforms: [nintendo-switch, retro]
+platforms_source: ["Super Nintendo Entertainment System"]
+genres: [action, adventure]
+genres_source: ["action-adventure game"]
+coverage_status: heritage
+wikidata_id: Q796643
+metadata_provenance: "Wikidata (CC0)"
+first_release: 1993-12-22
+tags: [jeu, heritage, action, adventure]
+---
+
+# Ganbare Goemon 2: Kiteretsu shōgun Magginesu
+
+Fiche de catalogue importée depuis Wikidata (CC0). Œuvre patrimoniale antérieure à 2006 sur support physique clos, exempte par conception de dark patterns marchands en ligne.

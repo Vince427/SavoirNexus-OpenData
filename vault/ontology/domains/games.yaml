@@ -1,0 +1,235 @@
+# SavoirNexus — pack de domaine : jeux vidéo
+#
+# Étend core.yaml. Ne le contredit jamais : un pack ajoute des types, des
+# champs et des catégories ; il ne retire rien et ne redéfinit aucune règle.
+#
+# Ce fichier est la démonstration de la règle 1 : c'est tout ce qu'il faut pour
+# qu'un domaine existe. Un futur films.yaml aura la même forme et n'exigera pas
+# une ligne de C#.
+
+schema_version: "1.0.0"
+id: games
+extends: core
+title: Jeux vidéo
+updated: 2026-07-22
+
+# ---------------------------------------------------------------------------
+# TYPES DE DOMAINE
+# `extends` déclenche la clôture de sous-typage à l'ingestion : interroger
+# `work` renverra les fiches `game`.
+# ---------------------------------------------------------------------------
+
+types:
+
+  game:
+    extends: work
+    label: { fr: "Jeu", en: "Game" }
+    abstract: false
+    required: [platforms]
+    optional:
+      [engine, genres, monetization_model, publication_status, first_release, storefronts, age_ratings, audited_patterns,
+       cover_url, game_modes, developer, publisher, coverage_status, observations, wikidata_id, wikidata_status, metadata_provenance]
+
+  studio:
+    extends: organization
+    label: { fr: "Studio", en: "Studio" }
+    abstract: false
+    optional: [parent_org, studios_credited]
+
+  publisher:
+    extends: organization
+    label: { fr: "Éditeur", en: "Publisher" }
+    abstract: false
+    optional: [parent_org, subsidiaries]
+
+  platform_holder:
+    extends: organization
+    label: { fr: "Détenteur de plateforme", en: "Platform holder" }
+    description: >
+      Steam, PlayStation, Nintendo, Xbox, App Store. Distingué de l'éditeur
+      parce que leurs politiques de boutique régulent des patterns qu'ils
+      n'ont pas conçus.
+    abstract: false
+    optional: [storefront_policy_url]
+
+# ---------------------------------------------------------------------------
+# STRUCTURES DU DOMAINE
+# ---------------------------------------------------------------------------
+
+structures:
+
+  observation:
+    label: { fr: "Observation d'audit", en: "Audit observation" }
+    description: >
+      Constat d'audit vérifié sur l'absence ou la présence d'un pattern sur une œuvre.
+    required: [id, criterion, result, status, author, ontology_version, checked_at, method, statement, evidence]
+    optional: [platform, checked_version, audit_trail, notes]
+
+# ---------------------------------------------------------------------------
+# VOCABULAIRES DE DOMAINE
+# ---------------------------------------------------------------------------
+
+vocabularies:
+
+  platforms:
+    [pc, playstation, xbox, nintendo-switch, ios, android, web, vr, arcade, retro]
+
+  monetization_model:
+    premium:        { fr: "achat unique" }
+    free-to-play:   { fr: "free-to-play" }
+    subscription:   { fr: "abonnement" }
+    premium-plus-mtx: { fr: "achat unique + microtransactions" }
+
+  publication_status:
+    announced:    { fr: "annoncé" }
+    early-access: { fr: "accès anticipé" }
+    released:     { fr: "sorti" }
+    cancelled:    { fr: "annulé" }
+
+  coverage_status:
+    cataloged:         { fr: "catalogué (non audité)" }
+    heritage:          { fr: "œuvre patrimoniale (compatibilité historique)" }
+    partially_audited: { fr: "partiellement audité" }
+    audited:           { fr: "audité" }
+
+  game_modes:
+    [single-player, multiplayer, co-op, pvp, mmo]
+
+  genres:
+    [rpg, action, adventure, shooter, battle-royale, strategy, simulation, sports, racing, fighting, puzzle, sandbox, mmo, survival, horror, platformer, card-game, gacha, roguelike, hack-and-slash, casual, party, board-game, augmented-reality]
+
+  storefronts:
+    [steam, epic, gog, psn, xbox-store, nintendo-eshop, app-store, google-play]
+
+  age_ratings:
+    [pegi, esrb, usk, cero]
+
+# ---------------------------------------------------------------------------
+# SOUS-CATÉGORIES DE PATTERNS PROPRES AU DOMAINE
+#
+# Les patterns transverses (fausse urgence, prix barrés fictifs, FOMO) restent
+# au niveau core avec un tag de domaine : un futur pack films en hérite
+# gratuitement. Seul ce qui n'a de sens QUE pour un jeu descend ici.
+# ---------------------------------------------------------------------------
+
+pattern_subcategories:
+
+  premium_currency:
+    extends: monetization
+    label: { fr: "monnaie intermédiaire" }
+    description: >
+      Monnaie achetée en paquets qui ne correspondent jamais au prix des
+      articles, brouillant la conversion vers la monnaie réelle.
+
+  loot_box:
+    extends: monetization
+    label: { fr: "coffre aléatoire" }
+    description: Récompense aléatoire payante. Régulée dans plusieurs juridictions.
+
+  grind_gate:
+    extends: progression
+    label: { fr: "mur de progression" }
+    description: >
+      Progression délibérément ralentie jusqu'au point où l'achat devient le
+      contournement évident.
+
+  energy_system:
+    extends: progression
+    label: { fr: "système d'énergie" }
+
+  battle_pass_expiry:
+    extends: urgency
+    label: { fr: "passe saisonnier expirant" }
+
+  social_obligation:
+    extends: social
+    label: { fr: "obligation sociale" }
+    description: Mécanique pénalisant l'absence du joueur au détriment de son groupe.
+
+  pay_to_win:
+    extends: monetization
+    label: { fr: "avantage compétitif payant" }
+
+# ---------------------------------------------------------------------------
+# PALIERS D'AUDIT DE CONCEPTION
+# Palier 1 : Socle structurel de conception auditable universellement (6 critères).
+# Palier 2 : Signaux d'alerte contextuels et dérives d'interface (7 critères).
+# ---------------------------------------------------------------------------
+
+audit_tiers:
+
+  structural_criteria:
+    label: { fr: "Socle structurel d'audit", en: "Structural audit core" }
+    description: >
+      Les 6 mécaniques de conception commerciale universellement observables.
+      Requis pour l'obtention du statut audité complet (6/6).
+    count: 6
+    patterns:
+      - coffre-aleatoire
+      - monnaie-intermediaire
+      - passe-saisonnier-expirant
+      - fausse-urgence
+      - avantage-competitif-payant
+      - systeme-energie
+
+  contextual_indicators:
+    label: { fr: "Indicateurs d'alerte contextuels", en: "Contextual alert indicators" }
+    description: >
+      Les 7 dérives d'interface ou abus documentés par réclamation, enquête ou sanction.
+      Présomption d'intégrité : l'absence de plainte ne génère pas de doute paralysant.
+      Toute pratique active constatée déclenche une alerte et une exclusion immédiate.
+    count: 7
+    patterns:
+      - achat-accidentel
+      - confirmshaming
+      - prix-barre-fictif
+      - resiliation-difficile
+      - pression-sociale
+      - mur-de-progression
+      - recompense-quotidienne
+
+# ---------------------------------------------------------------------------
+# INTENTIONS DU JOUEUR
+# Regroupe les expressions de haut niveau ("respecte mon temps", "budget clair")
+# en listes fermées de patterns documentés.
+# ---------------------------------------------------------------------------
+
+player_intentions:
+
+  respect_du_temps:
+    label: { fr: "Respecte mon temps", en: "Respects my time" }
+    description: "Écarte les mécaniques créant une dépendance temporelle ou une fausse urgence."
+    patterns: [recompense-quotidienne, systeme-energie, passe-saisonnier-expirant, fausse-urgence]
+
+  budget_transparent:
+    label: { fr: "Budget prévisible", en: "Transparent spending" }
+    description: "Écarte les monnaies intermédiaires, les achats aléatoires et les avantages compétitifs payants."
+    patterns: [coffre-aleatoire, monnaie-intermediaire, prix-barre-fictif, avantage-competitif-payant]
+
+  serenite_mentale:
+    label: { fr: "Sérénité mentale", en: "Mental peace" }
+    description: "Écarte le sentiment de culpabilisation, la pression sociale et les désabonnements complexes."
+    patterns: [confirmshaming, pression-sociale, resiliation-difficile]
+
+  anti_grind:
+    label: { fr: "Progression fluide", en: "No artificial grind" }
+    description: "Écarte le ralentissement artificiel destiné à pousser à l'achat d'accélérateurs."
+    patterns: [mur-de-progression, systeme-energie]
+
+# ---------------------------------------------------------------------------
+# NOTES D'APPLICATION
+# ---------------------------------------------------------------------------
+
+notes:
+  versioning: >
+    `game_version` sur un claim est essentiel dans ce domaine : les jeux-services
+    changent en continu. Un claim sans version est un claim daté qui vieillira
+    mal, et c'est exactement ce qu'un éditeur contestera en premier.
+  editions: >
+    Une réédition (GOTY, Definitive, remaster) qui change les pratiques
+    documentées mérite sa propre fiche liée par `variant_of`. Si elles ne
+    changent pas, c'est un simple `aliases`.
+  storefront_vs_publisher: >
+    Un pattern imposé par la boutique (Steam, PSN) est attribué au
+    platform_holder, pas à l'éditeur du jeu. Se tromper de responsable est la
+    principale source de réclamations recevables.

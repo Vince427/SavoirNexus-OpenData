@@ -1,0 +1,19 @@
+﻿---
+type: game
+id: wikidata-q3959542
+title: "Shin Megami Tensei IV"
+lang: fr
+platforms: [nintendo-switch]
+platforms_source: ["Nintendo 3DS"]
+genres: [rpg, strategy]
+genres_source: ["role-playing video game", "turn-based Japanese role-playing game", "post-apocalyptic video game", "science fiction video game", "cyberpunk video game"]
+coverage_status: cataloged
+wikidata_id: Q3959542
+metadata_provenance: "Wikidata (CC0)"
+first_release: 2013-05-23
+tags: [jeu, cataloged, rpg, strategy]
+---
+
+# Shin Megami Tensei IV
+
+Fiche de catalogue importée depuis Wikidata (CC0). Aucune observation de pratique ni dark pattern documenté à ce stade.

@@ -1,0 +1,310 @@
+# SavoirNexus — méta-schéma inter-domaines
+#
+# Ce fichier définit ce qui vaut pour TOUS les domaines. Un pack de domaine
+# (domains/*.yaml) l'étend ; il ne le contredit jamais.
+#
+# Règle 1 de la constitution : ajouter un domaine = un fichier de schéma + un
+# dossier de fiches, zéro code. Si vous devez modifier du C# pour ajouter un
+# domaine, quelque chose est mal placé — probablement ici.
+
+schema_version: "1.1.0"
+id: core
+title: Méta-schéma inter-domaines
+updated: 2026-07-22
+
+# 1.1.0 — ajout de `criteria` et `references` sur le type `pattern`.
+# Évolution additive et optionnelle : aucune migration nécessaire (voir
+# ontology/migrations/index.md). Motif : une note de sévérité sans fondement
+# publié est un jugement déguisé en donnée, et un pattern sans critères
+# opérationnels n'est pas contestable.
+
+# ---------------------------------------------------------------------------
+# TYPES DE FICHES
+# Valeurs admises du champ `type` en frontmatter. Un type `abstract` ne peut
+# pas être porté par une fiche : il n'existe que pour être étendu et interrogé.
+# Interroger `work` renvoie les jeux, parce que la clôture de sous-typage est
+# matérialisée à l'ingestion.
+# ---------------------------------------------------------------------------
+
+types:
+
+  work:
+    label: { fr: "Œuvre", en: "Work" }
+    description: >
+      Une œuvre publiée susceptible de porter des patterns. Racine abstraite
+      dont héritent les types de domaine (jeu, film, application...).
+    abstract: true
+    claimable: true
+    required: [id, title, lang]
+    optional:
+      [aliases, published_by, released, claims, moved_from, translation_of, tags]
+
+  organization:
+    label: { fr: "Organisation", en: "Organization" }
+    description: >
+      Une personne morale — studio, éditeur, plateforme, régulateur. Jamais un
+      individu (voir constraints.no_individual_targets).
+    abstract: true
+    claimable: true
+    required: [id, title, lang]
+    optional: [aliases, country, founded, claims, moved_from, translation_of, tags]
+
+  pattern:
+    label: { fr: "Pattern", en: "Pattern" }
+    description: >
+      Une mécanique de conception documentée, transverse aux domaines. Un
+      pattern décrit un mécanisme et sa base psychologique ; il ne porte pas de
+      claims — ce sont les œuvres qui l'exhibent.
+    abstract: false
+    claimable: false
+    required: [id, title, lang, category, severity_base]
+    optional:
+      [aliases, domains, psychology, criteria, references, regulated_by,
+       moved_from, translation_of, tags]
+    # `criteria` porte deux listes, `includes` et `excludes`, formulées de
+    # façon TESTABLE — « un compte à rebours qui se réinitialise sans que
+    # l'offre change », pas « une urgence qui semble excessive ». C'est ce qui
+    # rend un pattern contestable sur pièces plutôt que sur opinion.
+    #
+    # `references` adosse la sévérité à des travaux publiés ou à des décisions
+    # d'autorité. La couche interprétative du projet vit ici : on ne discute
+    # pas de la formulation d'un claim, on discute des critères d'un pattern.
+
+  dispute:
+    label: { fr: "Litige", en: "Dispute" }
+    description: >
+      Une réclamation reçue et son instruction. Objet de première classe : le
+      droit de réponse n'est pas un e-mail qu'on enterre (règle 6).
+    abstract: false
+    claimable: false
+    required: [id, title, lang, targets, filed_by, filed_at, dispute_status]
+    optional: [acknowledged_at, resolved_at, resolution, respondent_statement, evidence]
+
+  regulation:
+    label: { fr: "Régulation", en: "Regulation" }
+    description: >
+      Un texte normatif ou une décision d'autorité applicable à un pattern.
+    abstract: false
+    claimable: false
+    required: [id, title, lang, jurisdiction]
+    optional: [authority, adopted, in_force, source_url, archive_url, moved_from, tags]
+
+  page:
+    label: { fr: "Page", en: "Page" }
+    description: >
+      Page de prose du site (méthodologie, transparence, mentions légales).
+      Vit dans vault/fr/ ou vault/en/. Ne porte jamais de claims.
+    abstract: false
+    claimable: false
+    required: [id, title, lang]
+    optional: [slug, order, translation_of, updated]
+
+  candidate:
+    label: { fr: "Candidate", en: "Candidate" }
+    description: >
+      Proposition en attente d'arbitrage, dans inbox/pending/. N'est ni
+      indexée, ni servie, ni affichée. Devient connaissance au merge, pas avant.
+    abstract: false
+    claimable: false
+    required: [id, proposal]
+    optional: [body, rejected_reason, rejected_at]
+
+# ---------------------------------------------------------------------------
+# STRUCTURES EMBARQUÉES
+# Pas des fiches : des blocs à l'intérieur du frontmatter d'une fiche.
+# ---------------------------------------------------------------------------
+
+structures:
+
+  claim:
+    label: { fr: "Affirmation", en: "Claim" }
+    description: >
+      Une affirmation vérifiable portée par une œuvre ou une organisation.
+      Unité atomique de responsabilité du projet : c'est ce qui se conteste,
+      se corrige et se rétracte.
+    required: [id, statement, status, confidence, evidence]
+    optional:
+      [pattern, valid_from, valid_until, game_version, severity, notes, disputed_by,
+       superseded_by, superseded_at]
+    id_pattern: '^[a-z0-9][a-z0-9-]*:c[0-9]{2,}$'   # <fiche-id>:cNN
+
+  evidence:
+    label: { fr: "Preuve", en: "Evidence" }
+    description: >
+      Ce qui établit un claim. Une URL vivante n'est pas une preuve : elle
+      disparaîtra. `archive_url` est obligatoire, sans exception.
+    required: [kind, archive_url]
+    optional: [source_url, captured, quote, asset, sha256, rights, page]
+
+  proposal:
+    label: { fr: "Proposition", en: "Proposal" }
+    description: Contrat `brain_propose` — voir AGENTS.md.
+    required: [kind, scope, author_agent, model, created]
+    optional: [session, confidence, rationale, source]
+
+# ---------------------------------------------------------------------------
+# RELATIONS TYPÉES
+# La CI vérifie que chaque arête existe ici, que ses extrémités résolvent, et
+# que domaine/portée sont respectés (sous-types inclus).
+# ---------------------------------------------------------------------------
+
+relations:
+
+  exhibits:
+    label: { fr: "exhibe", en: "exhibits" }
+    domain: [work]
+    range: [pattern]
+    description: Une œuvre met en œuvre un pattern. Portée par un claim.
+
+  supported_by:
+    label: { fr: "étayé par", en: "supported by" }
+    domain: [claim]
+    range: [evidence]
+
+  disputed_by:
+    label: { fr: "contesté par", en: "disputed by" }
+    domain: [claim]
+    range: [dispute]
+
+  published_by:
+    label: { fr: "publié par", en: "published by" }
+    domain: [work]
+    range: [organization]
+
+  variant_of:
+    label: { fr: "variante de", en: "variant of" }
+    domain: [work]
+    range: [work]
+    description: >
+      Édition, remaster ou portage méritant sa propre fiche. À distinguer d'un
+      alias, qui ne crée pas de fiche.
+    transitive: true
+
+  regulated_by:
+    label: { fr: "régulé par", en: "regulated by" }
+    domain: [pattern]
+    range: [regulation]
+
+  translation_of:
+    label: { fr: "traduction de", en: "translation of" }
+    domain: [page]
+    range: [page]
+
+# ---------------------------------------------------------------------------
+# ÉNUMÉRATIONS
+# ---------------------------------------------------------------------------
+
+enums:
+
+  claim_status:
+    proposed:  { fr: "proposé",   badge: "○", public: false }
+    verified:  { fr: "vérifié",   badge: "✓", public: true }
+    disputed:  { fr: "contesté",  badge: "⚠", public: true }
+    upheld:    { fr: "maintenu",  badge: "✓", public: true }
+    corrected: { fr: "pratique retirée", badge: "↺", public: true, description: "La pratique a été supprimée ou modifiée en jeu par l'organisation." }
+    superseded: { fr: "remplacé (obsolète)", badge: "⟲", public: true, description: "Remplacé par une observation plus récente suite à une mise à jour du jeu." }
+    retracted: { fr: "rétracté",  badge: "✕", public: true }
+
+  confidence:
+    proven:   { fr: "prouvé",  description: "La preuve montre exactement l'affirmation." }
+    inferred: { fr: "déduit",  description: "Déduction explicite à partir des preuves." }
+    disputed: { fr: "contesté", description: "Les preuves des parties divergent." }
+
+  evidence_kind:
+    screenshot:         { fr: "capture d'écran" }
+    article:            { fr: "article de presse" }
+    official_statement: { fr: "communication officielle" }
+    tos:                { fr: "conditions d'utilisation" }
+    patch_notes:        { fr: "notes de version" }
+    academic:           { fr: "publication académique" }
+    video:              { fr: "vidéo" }
+    regulatory:         { fr: "décision d'autorité" }
+
+  dispute_status:
+    received:     { fr: "reçue" }
+    acknowledged: { fr: "accusé de réception" }
+    admissible:   { fr: "recevable" }
+    inadmissible: { fr: "irrecevable" }
+    resolved:     { fr: "close" }
+
+  pattern_category:
+    monetization: { fr: "monétisation" }
+    urgency:      { fr: "urgence" }
+    progression:  { fr: "progression" }
+    social:       { fr: "pression sociale" }
+    interface:    { fr: "interface trompeuse" }
+    data:         { fr: "données personnelles" }
+    content:      { fr: "contenu sensible" }
+    theme:        { fr: "thème" }
+
+# ---------------------------------------------------------------------------
+# MACHINE À ÉTATS
+# Source unique de vérité. `SavoirNexus.Core` la réimplémente en dur avec des
+# tests golden, et la CI vérifie que les deux coïncident — une divergence
+# silencieuse entre le schéma et le code est exactement le mode d'échec que la
+# gate existe pour attraper.
+# ---------------------------------------------------------------------------
+
+transitions:
+  claim_status:
+    proposed:   [verified, retracted]
+    verified:   [disputed, corrected, superseded, retracted]
+    disputed:   [upheld, corrected, superseded, retracted]
+    upheld:     [disputed, superseded]
+    corrected:  [disputed]
+    superseded: [disputed]
+    retracted:  []          # terminal
+
+  dispute_status:
+    received:     [acknowledged]
+    acknowledged: [admissible, inadmissible]
+    admissible:   [resolved]
+    inadmissible: [admissible]   # sur nouveaux éléments
+    resolved:     []
+
+# ---------------------------------------------------------------------------
+# CONTRAINTES STRUCTURELLES
+# Règle 6 : ce ne sont pas des préférences de modération, ce sont des
+# impossibilités de schéma. On ne peut pas exprimer ce qui est interdit ici.
+# ---------------------------------------------------------------------------
+
+constraints:
+
+  no_individual_targets:
+    description: >
+      Aucun type ciblable par un claim ne représente une personne physique. Un
+      dirigeant agissant ès qualités n'est pas une exception : le claim vise
+      l'organisation. C'est la protection structurelle de la règle 6.
+    forbidden_type_names:
+      [person, personne, individual, individu, human, people, staff, employee]
+    claim_targets_allowed: [work, organization]
+
+  evidence_required:
+    description: Tout claim porte au moins une preuve, chacune avec archive_url.
+    min_evidence: 1
+    archive_url_required: true
+
+  stable_identity:
+    description: >
+      `id` porte l'identité interne et ne change jamais. L'identité OKF est le
+      chemin ; si le chemin bouge, `moved_from` doit consigner l'ancien.
+    id_pattern: '^[a-z0-9][a-z0-9-]*$'
+    require_moved_from_on_path_change: true
+
+  alias_resolution:
+    description: >
+      Chaque alias résout vers exactement un canonique. Deux fiches ne peuvent
+      pas revendiquer le même alias. Indispensable dès qu'un domaine a des
+      titres régionaux, des rééditions et des remasters.
+    unique_across_vault: true
+
+  link_integrity:
+    description: >
+      Tout lien markdown interne résout vers un fichier du bundle. Plus strict
+      qu'OKF, qui interdit au consommateur de rejeter pour lien cassé — OKF est
+      notre plancher d'interopérabilité, pas notre plafond de rigueur.
+    internal_links_must_resolve: true
+
+  asset_integrity:
+    description: Un asset référencé existe, et son sha256 correspond.
+    verify_sha256: true

@@ -1,0 +1,20 @@
+﻿---
+type: game
+id: wikidata-q7532694
+title: "Six Days in Fallujah"
+lang: fr
+platforms: [pc, xbox]
+platforms_source: ["Xbox Series X and Series S", "Microsoft Windows"]
+genres: [shooter]
+genres_source: ["tactical shooter", "first-person shooter"]
+coverage_status: cataloged
+wikidata_id: Q7532694
+metadata_provenance: "Wikidata (CC0)"
+first_release: 2023-06-22
+cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1548850/header.jpg"
+tags: [jeu, cataloged, shooter]
+---
+
+# Six Days in Fallujah
+
+Fiche de catalogue importée depuis Wikidata (CC0). Aucune observation de pratique ni dark pattern documenté à ce stade.

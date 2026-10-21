@@ -1,0 +1,93 @@
+Licence du contenu — CC BY-SA 4.0
+=================================
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+
+Copyright (c) 2026 les contributeurs de SavoirNexus
+
+
+PÉRIMÈTRE
+---------
+
+Cette licence couvre EXCLUSIVEMENT le contenu du dossier `vault/` :
+
+  - les fiches (œuvres, organisations, patterns, litiges) ;
+  - l'ontologie (`vault/ontology/`) ;
+  - les preuves textuelles et les captures d'écran versées dans
+    `vault/assets/`, dans la limite des droits des tiers rappelée plus bas ;
+  - les pages de prose du site (`vault/fr/`, `vault/en/`).
+
+Le code source du dépôt — tout le reste — est sous licence MIT. Voir LICENSE.
+
+
+CE QUE VOUS POUVEZ FAIRE
+------------------------
+
+Partager, copier, redistribuer le contenu sur tout support et sous tout
+format ; l'adapter, le remixer, le transformer, y compris à des fins
+commerciales.
+
+
+À DEUX CONDITIONS
+-----------------
+
+ATTRIBUTION (BY) — Créditer SavoirNexus, indiquer un lien vers la licence,
+et signaler si des modifications ont été apportées.
+
+PARTAGE DANS LES MÊMES CONDITIONS (SA) — Si vous remixez, transformez ou
+construisez à partir de ce contenu, vous devez diffuser vos contributions
+sous la MÊME licence que l'original.
+
+
+POURQUOI CETTE LICENCE, ET PAS UNE AUTRE
+----------------------------------------
+
+Le partage à l'identique n'est pas ici une préférence idéologique : c'est le
+mécanisme anti-capture du projet.
+
+Un agrégateur, un éditeur ou un acteur commercial qui reprend ces fiches est
+tenu de republier ses dérivés sous CC BY-SA 4.0. La réappropriation
+propriétaire d'un commun documentaire devient structurellement impossible —
+ce qu'aucune règle de CI, aucune modération et aucune clause d'usage ne
+peuvent obtenir.
+
+C'est la contrepartie de la règle 1 de la constitution du projet
+(« souveraineté = fork ») : le fork doit rester libre chez celui qui le prend.
+
+
+CONTRIBUTIONS
+-------------
+
+Toute contribution au dossier `vault/`, par quelque porte qu'elle arrive
+(correction d'utilisateur, réclamation d'éditeur, proposition d'agent, pull
+request), est versée sous CC BY-SA 4.0. C'est rappelé dans CONTRIBUTING.md et
+dans les templates d'issues.
+
+
+DROITS DES TIERS
+----------------
+
+Cette licence ne peut porter que sur ce dont le projet détient les droits.
+Elle ne s'étend PAS :
+
+  - aux captures d'écran d'interfaces de jeux, qui demeurent la propriété de
+    leurs ayants droit et sont utilisées à des fins de critique, d'analyse et
+    d'information ;
+  - aux marques, logos et noms commerciaux cités ;
+  - aux citations de presse, qui restent soumises au droit de citation.
+
+Ces éléments sont identifiés comme tels dans le frontmatter des preuves
+concernées.
+
+
+TEXTE DE RÉFÉRENCE
+------------------
+
+Le texte intégral qui fait foi :
+  https://creativecommons.org/licenses/by-sa/4.0/legalcode.fr
+
+Résumé lisible (sans valeur juridique) :
+  https://creativecommons.org/licenses/by-sa/4.0/deed.fr
+
+En cas de divergence entre le présent fichier et le texte de référence, le
+texte de référence prévaut.

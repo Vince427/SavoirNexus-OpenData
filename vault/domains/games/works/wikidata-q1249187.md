@@ -1,0 +1,19 @@
+﻿---
+type: game
+id: wikidata-q1249187
+title: "Mystic Quest Legend"
+lang: fr
+platforms: [nintendo-switch, retro]
+platforms_source: ["Virtual Console", "Super Nintendo Entertainment System", "Wii U"]
+genres: [rpg]
+genres_source: ["role-playing video game"]
+coverage_status: heritage
+wikidata_id: Q1249187
+metadata_provenance: "Wikidata (CC0)"
+first_release: 1992-10-05
+tags: [jeu, heritage, rpg]
+---
+
+# Mystic Quest Legend
+
+Fiche de catalogue importée depuis Wikidata (CC0). Œuvre patrimoniale antérieure à 2006 sur support physique clos, exempte par conception de dark patterns marchands en ligne.
