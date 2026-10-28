@@ -1,4 +1,4 @@
-﻿---
+---
 type: game
 id: pokemon-scarlet-violet
 title: "Pokémon Scarlet and Violet"
@@ -13,6 +13,10 @@ cover_url: https://upload.wikimedia.org/wikipedia/en/b/b8/Pokemon_Scarlet_and_Vi
 published_by: /domains/games/orgs/nintendo
 wikidata_id: Q111028885
 metadata_provenance: "Wikidata (CC0)"
+aliases:
+  - "Pokémon Écarlate"
+  - "Pokémon Violet"
+  - "Pokémon Écarlate et Violet"
 tags: [jeu, premium, rpg]
 ---
 
