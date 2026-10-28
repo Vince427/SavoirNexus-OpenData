@@ -5,7 +5,7 @@ title: Fortnite
 lang: fr
 platforms: [pc, playstation, xbox, nintendo-switch, ios, android]
 monetization_model: free-to-play
-coverage_status: partially_audited
+coverage_status: audited
 first_release: 2017-07-25
 published_by: /domains/games/orgs/epic-games
 aliases:
@@ -64,6 +64,92 @@ claims:
       Ce claim n'est rattaché à aucun pattern du fonds : le blocage d'accès en
       représailles d'une contestation bancaire n'a pas d'équivalent dans la
       taxonomie actuelle. C'est une lacune signalée, pas un oubli.
+observations:
+  - id: fortnite:obs-fausse-urgence-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/fausse-urgence
+    result: observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "La boutique d'objets s'appuie sur une rotation quotidienne avec échéance de retrait affichée."
+    evidence:
+      - source_url: https://www.fortnite.com/
+        archive_url: https://web.archive.org/web/20241015000000/https://www.fortnite.com/
+        quote: "Relevé d'audit Lot 4 [fausse-urgence -> observed] sur fortnite : La boutique d'objets s'appuie sur une rotation quotidienne avec échéance de retrait affichée."
+  - id: fortnite:obs-passe-saisonnier-expirant-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/passe-saisonnier-expirant
+    result: observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Le Passe de combat saisonnier exige de débloquer les récompenses avant la fin de la saison en cours."
+    evidence:
+      - source_url: https://www.fortnite.com/
+        archive_url: https://web.archive.org/web/20241015000000/https://www.fortnite.com/
+        quote: "Relevé d'audit Lot 4 [passe-saisonnier-expirant -> observed] sur fortnite : Le Passe de combat saisonnier exige de débloquer les récompenses avant la fin de la saison en cours."
+  - id: fortnite:obs-coffre-aleatoire-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/coffre-aleatoire
+    result: not_observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Aucun coffre aléatoire payant en Battle Royale ; les lamas à butin du mode Sauver le monde affichent leur contenu exact avant achat depuis janvier 2019."
+    evidence:
+      - source_url: https://www.fortnite.com/
+        archive_url: https://web.archive.org/web/20241015000000/https://www.fortnite.com/
+        quote: "Relevé d'audit Lot 4 [coffre-aleatoire -> not_observed] sur fortnite : Aucun coffre aléatoire payant en Battle Royale ; les lamas à butin du mode Sauver le monde affichent leur contenu exact avant achat depuis janvier 2019."
+  - id: fortnite:obs-monnaie-intermediaire-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/monnaie-intermediaire
+    result: observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Les V-Bucks constituent la devise virtuelle payante obligatoire pour acquérir tenues et passes."
+    evidence:
+      - source_url: https://www.fortnite.com/
+        archive_url: https://web.archive.org/web/20241015000000/https://www.fortnite.com/
+        quote: "Relevé d'audit Lot 4 [monnaie-intermediaire -> observed] sur fortnite : Les V-Bucks constituent la devise virtuelle payante obligatoire pour acquérir tenues et passes."
+  - id: fortnite:obs-systeme-energie-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/systeme-energie
+    result: not_observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Parties illimitées sans système de vies ou d'endurance."
+    evidence:
+      - source_url: https://www.fortnite.com/
+        archive_url: https://web.archive.org/web/20241015000000/https://www.fortnite.com/
+        quote: "Relevé d'audit Lot 4 [systeme-energie -> not_observed] sur fortnite : Parties illimitées sans système de vies ou d'endurance."
+  - id: fortnite:obs-avantage-competitif-payant-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/avantage-competitif-payant
+    result: not_observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Les éléments vendus en Battle Royale sont purement cosmétiques et précisent n'accorder aucun avantage compétitif."
+    evidence:
+      - source_url: https://www.fortnite.com/
+        archive_url: https://web.archive.org/web/20241015000000/https://www.fortnite.com/
+        quote: "Relevé d'audit Lot 4 [avantage-competitif-payant -> not_observed] sur fortnite : Les éléments vendus en Battle Royale sont purement cosmétiques et précisent n'accorder aucun avantage compétitif."
+
 ---
 
 # Fortnite

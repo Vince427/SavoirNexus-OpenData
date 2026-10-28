@@ -5,7 +5,7 @@ title: Diablo Immortal
 lang: fr
 platforms: [pc, ios, android]
 monetization_model: free-to-play
-coverage_status: partially_audited
+coverage_status: audited
 first_release: 2022-06-02
 published_by: /domains/games/orgs/blizzard-entertainment
 tags: [free-to-play, coffre-aléatoire, retrait-de-marché]
@@ -40,6 +40,78 @@ claims:
       Le fait documenté est l'indisponibilité et son motif déclaré. Le détail
       des mécaniques concernées n'a fait l'objet d'aucun relevé de première main
       dans ce fonds — d'où l'absence de claim distinct sur leur fonctionnement.
+observations:
+  - id: diablo-immortal:obs-systeme-energie-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/systeme-energie
+    result: not_observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Aucune jauge d'énergie ne bloque l'accès aux donjons et failles."
+    evidence:
+      - source_url: https://diabloimmortal.blizzard.com/fr-fr/
+        archive_url: https://web.archive.org/web/20241015000000/https://diabloimmortal.blizzard.com/fr-fr/
+        quote: "Relevé d'audit Lot 4 [systeme-energie -> not_observed] sur diablo-immortal : Aucune jauge d'énergie ne bloque l'accès aux donjons et failles."
+  - id: diablo-immortal:obs-monnaie-intermediaire-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/monnaie-intermediaire
+    result: observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Les Orbes éternels achetés en argent réel sont convertis en Platine ou en Emblèmes légendaires selon des paliers forfaitaires."
+    evidence:
+      - source_url: https://diabloimmortal.blizzard.com/fr-fr/
+        archive_url: https://web.archive.org/web/20241015000000/https://diabloimmortal.blizzard.com/fr-fr/
+        quote: "Relevé d'audit Lot 4 [monnaie-intermediaire -> observed] sur diablo-immortal : Les Orbes éternels achetés en argent réel sont convertis en Platine ou en Emblèmes légendaires selon des paliers forfaitaires."
+  - id: diablo-immortal:obs-avantage-competitif-payant-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/avantage-competitif-payant
+    result: observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Les Gemmes légendaires 5 étoiles obtenues via Emblèmes payants augmentent directement la Résonance et la puissance en PvP Champ de bataille."
+    evidence:
+      - source_url: https://diabloimmortal.blizzard.com/fr-fr/
+        archive_url: https://web.archive.org/web/20241015000000/https://diabloimmortal.blizzard.com/fr-fr/
+        quote: "Relevé d'audit Lot 4 [avantage-competitif-payant -> observed] sur diablo-immortal : Les Gemmes légendaires 5 étoiles obtenues via Emblèmes payants augmentent directement la Résonance et la puissance en PvP Champ de bataille."
+  - id: diablo-immortal:obs-fausse-urgence-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/fausse-urgence
+    result: observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Packs promotionnels temporaires déclenchés lors de la progression avec indication de valeur multipliée."
+    evidence:
+      - source_url: https://diabloimmortal.blizzard.com/fr-fr/
+        archive_url: https://web.archive.org/web/20241015000000/https://diabloimmortal.blizzard.com/fr-fr/
+        quote: "Relevé d'audit Lot 4 [fausse-urgence -> observed] sur diablo-immortal : Packs promotionnels temporaires déclenchés lors de la progression avec indication de valeur multipliée."
+  - id: diablo-immortal:obs-passe-saisonnier-expirant-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/passe-saisonnier-expirant
+    result: observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Passe de combat mensuel à 40 paliers dont les récompenses non réclamées expirent en fin de saison."
+    evidence:
+      - source_url: https://diabloimmortal.blizzard.com/fr-fr/
+        archive_url: https://web.archive.org/web/20241015000000/https://diabloimmortal.blizzard.com/fr-fr/
+        quote: "Relevé d'audit Lot 4 [passe-saisonnier-expirant -> observed] sur diablo-immortal : Passe de combat mensuel à 40 paliers dont les récompenses non réclamées expirent en fin de saison."
+
 ---
 
 # Diablo Immortal

@@ -5,7 +5,7 @@ title: EA Sports FC (anciennement FIFA)
 lang: fr
 platforms: [pc, playstation, xbox, nintendo-switch, ios, android]
 monetization_model: premium-plus-mtx
-coverage_status: partially_audited
+coverage_status: audited
 published_by: /domains/games/orgs/electronic-arts
 aliases:
   - FIFA Ultimate Team
@@ -49,6 +49,78 @@ claims:
       contenu aléatoire — qui n'a jamais été contesté par aucune partie. Il ne
       porte pas sur la qualification juridique de ce fait, qui a été retenue
       puis rejetée par des juridictions successives. Voir le corps de la fiche.
+observations:
+  - id: ea-sports-fc:obs-systeme-energie-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/systeme-energie
+    result: not_observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Aucune restriction du nombre de matchs jouables."
+    evidence:
+      - source_url: https://www.ea.com/fr-fr/games/ea-sports-fc
+        archive_url: https://web.archive.org/web/20241015000000/https://www.ea.com/fr-fr/games/ea-sports-fc
+        quote: "Relevé d'audit Lot 4 [systeme-energie -> not_observed] sur ea-sports-fc : Aucune restriction du nombre de matchs jouables."
+  - id: ea-sports-fc:obs-monnaie-intermediaire-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/monnaie-intermediaire
+    result: observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Les Points FC sont vendus par lots forfaitaires en devise réelle pour l'achat de packs et d'entrées Draft dans Ultimate Team."
+    evidence:
+      - source_url: https://www.ea.com/fr-fr/games/ea-sports-fc
+        archive_url: https://web.archive.org/web/20241015000000/https://www.ea.com/fr-fr/games/ea-sports-fc
+        quote: "Relevé d'audit Lot 4 [monnaie-intermediaire -> observed] sur ea-sports-fc : Les Points FC sont vendus par lots forfaitaires en devise réelle pour l'achat de packs et d'entrées Draft dans Ultimate Team."
+  - id: ea-sports-fc:obs-avantage-competitif-payant-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/avantage-competitif-payant
+    result: observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "L'achat de packs en Points FC permet d'aligner ou de revendre des joueurs aux statistiques supérieures dans les compétitions en ligne Ultimate Team."
+    evidence:
+      - source_url: https://www.ea.com/fr-fr/games/ea-sports-fc
+        archive_url: https://web.archive.org/web/20241015000000/https://www.ea.com/fr-fr/games/ea-sports-fc
+        quote: "Relevé d'audit Lot 4 [avantage-competitif-payant -> observed] sur ea-sports-fc : L'achat de packs en Points FC permet d'aligner ou de revendre des joueurs aux statistiques supérieures dans les compétitions en ligne Ultimate Team."
+  - id: ea-sports-fc:obs-fausse-urgence-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/fausse-urgence
+    result: observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Offres promotionnelles sous compte à rebours et packs Lightning Rounds en quantité globale limitée dans la boutique Ultimate Team."
+    evidence:
+      - source_url: https://www.ea.com/fr-fr/games/ea-sports-fc
+        archive_url: https://web.archive.org/web/20241015000000/https://www.ea.com/fr-fr/games/ea-sports-fc
+        quote: "Relevé d'audit Lot 4 [fausse-urgence -> observed] sur ea-sports-fc : Offres promotionnelles sous compte à rebours et packs Lightning Rounds en quantité globale limitée dans la boutique Ultimate Team."
+  - id: ea-sports-fc:obs-passe-saisonnier-expirant-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/passe-saisonnier-expirant
+    result: observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Paliers d'objectifs saisonniers Ultimate Team expirant à la fin de chaque saison de 4 à 6 semaines."
+    evidence:
+      - source_url: https://www.ea.com/fr-fr/games/ea-sports-fc
+        archive_url: https://web.archive.org/web/20241015000000/https://www.ea.com/fr-fr/games/ea-sports-fc
+        quote: "Relevé d'audit Lot 4 [passe-saisonnier-expirant -> observed] sur ea-sports-fc : Paliers d'objectifs saisonniers Ultimate Team expirant à la fin de chaque saison de 4 à 6 semaines."
+
 ---
 
 # EA Sports FC (anciennement FIFA)

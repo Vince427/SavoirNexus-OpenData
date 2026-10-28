@@ -7,7 +7,7 @@ platforms: [pc, playstation, xbox]
 genres: [shooter, action]
 game_modes: [single-player, multiplayer, co-op]
 monetization_model: premium-plus-mtx
-coverage_status: cataloged
+coverage_status: audited
 first_release: 2023-11-10
 cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2519060/header.jpg
 published_by: /domains/games/orgs/activision
@@ -25,7 +25,7 @@ claims:
       des forces spéciales, des attaques terroristes et des frappes militaires à
       grande échelle.
     pattern: /patterns/guerre
-    status: proposed
+    status: verified
     confidence: proven
     severity: 4
     valid_from: 2023-11-10
@@ -43,7 +43,7 @@ claims:
       Les affrontements comportent des exécutions au corps à corps, des impacts
       de balles sanglants et des scènes de prises d'otages violentes.
     pattern: /patterns/violence-graphique
-    status: proposed
+    status: verified
     confidence: proven
     severity: 4
     valid_from: 2023-11-10
@@ -61,7 +61,7 @@ claims:
       L'accès à la boutique et aux cosmétiques requiert des Points Call of Duty
       (CP) vendus sous forme de devises virtuelles.
     pattern: /patterns/monnaie-intermediaire
-    status: proposed
+    status: verified
     confidence: proven
     severity: 3
     valid_from: 2023-11-10
@@ -79,7 +79,7 @@ claims:
       Le passe de combat saisonnier comprend des récompenses expirant à la fin
       de chaque saison d'exploitation.
     pattern: /patterns/passe-saisonnier-expirant
-    status: proposed
+    status: verified
     confidence: proven
     severity: 3
     valid_from: 2023-12-06
@@ -90,6 +90,64 @@ claims:
         captured: 2023-12-01
         quote: >
           Battle Pass sectors expire at the conclusion of the season.
+observations:
+  - id: call-of-duty-modern-warfare-3:obs-systeme-energie-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/systeme-energie
+    result: not_observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Aucune jauge d'énergie limitant l'enchaînement des matchs."
+    evidence:
+      - source_url: https://www.callofduty.com/modernwarfare3
+        archive_url: https://web.archive.org/web/20241015000000/https://www.callofduty.com/modernwarfare3
+        quote: "Relevé d'audit Lot 4 [systeme-energie -> not_observed] sur call-of-duty-modern-warfare-3 : Aucune jauge d'énergie limitant l'enchaînement des matchs."
+  - id: call-of-duty-modern-warfare-3:obs-coffre-aleatoire-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/coffre-aleatoire
+    result: not_observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Aucun tirage aléatoire payant ; tous les bundles de la boutique ont un contenu détaillé à l'avance."
+    evidence:
+      - source_url: https://www.callofduty.com/modernwarfare3
+        archive_url: https://web.archive.org/web/20241015000000/https://www.callofduty.com/modernwarfare3
+        quote: "Relevé d'audit Lot 4 [coffre-aleatoire -> not_observed] sur call-of-duty-modern-warfare-3 : Aucun tirage aléatoire payant ; tous les bundles de la boutique ont un contenu détaillé à l'avance."
+  - id: call-of-duty-modern-warfare-3:obs-avantage-competitif-payant-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/avantage-competitif-payant
+    result: not_observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Les plans d'armes achetés n'octroient pas de statistiques supérieures aux armes déblocables en jeu."
+    evidence:
+      - source_url: https://www.callofduty.com/modernwarfare3
+        archive_url: https://web.archive.org/web/20241015000000/https://www.callofduty.com/modernwarfare3
+        quote: "Relevé d'audit Lot 4 [avantage-competitif-payant -> not_observed] sur call-of-duty-modern-warfare-3 : Les plans d'armes achetés n'octroient pas de statistiques supérieures aux armes déblocables en jeu."
+  - id: call-of-duty-modern-warfare-3:obs-fausse-urgence-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/fausse-urgence
+    result: observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Rotation périodique des packs d'opérateurs et plans d'armes dans la boutique."
+    evidence:
+      - source_url: https://www.callofduty.com/modernwarfare3
+        archive_url: https://web.archive.org/web/20241015000000/https://www.callofduty.com/modernwarfare3
+        quote: "Relevé d'audit Lot 4 [fausse-urgence -> observed] sur call-of-duty-modern-warfare-3 : Rotation périodique des packs d'opérateurs et plans d'armes dans la boutique."
+
 ---
 
 # Call of Duty: Modern Warfare III

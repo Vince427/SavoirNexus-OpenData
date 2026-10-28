@@ -5,7 +5,7 @@ title: Star Wars Battlefront II
 lang: fr
 platforms: [pc, playstation, xbox]
 monetization_model: premium-plus-mtx
-coverage_status: partially_audited
+coverage_status: audited
 first_release: 2017-11-17
 published_by: /domains/games/orgs/electronic-arts
 aliases:
@@ -40,6 +40,78 @@ claims:
       Correction la plus rapide du fonds : moins de vingt-quatre heures entre la
       contestation publique et la désactivation. Elle est volontaire, à la
       différence de celle documentée sur Fortnite.
+observations:
+  - id: star-wars-battlefront-2:obs-systeme-energie-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/systeme-energie
+    result: not_observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Accès illimité aux batailles multijoueur et solo sans jauge d'endurance."
+    evidence:
+      - source_url: https://store.steampowered.com/app/1237950/STAR_WARS_Battlefront_II/
+        archive_url: https://web.archive.org/web/20241015000000/https://store.steampowered.com/app/1237950/STAR_WARS_Battlefront_II/
+        quote: "Relevé d'audit Lot 4 [systeme-energie -> not_observed] sur star-wars-battlefront-2 : Accès illimité aux batailles multijoueur et solo sans jauge d'endurance."
+  - id: star-wars-battlefront-2:obs-monnaie-intermediaire-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/monnaie-intermediaire
+    result: observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Les Cristaux ont été maintenus après la refonte de 2018 comme monnaie intermédiaire dédiée à l'achat d'apparences cosmétiques."
+    evidence:
+      - source_url: https://store.steampowered.com/app/1237950/STAR_WARS_Battlefront_II/
+        archive_url: https://web.archive.org/web/20241015000000/https://store.steampowered.com/app/1237950/STAR_WARS_Battlefront_II/
+        quote: "Relevé d'audit Lot 4 [monnaie-intermediaire -> observed] sur star-wars-battlefront-2 : Les Cristaux ont été maintenus après la refonte de 2018 comme monnaie intermédiaire dédiée à l'achat d'apparences cosmétiques."
+  - id: star-wars-battlefront-2:obs-avantage-competitif-payant-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/avantage-competitif-payant
+    result: not_observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Depuis la mise à jour de progression de mars 2018, les Cartes des Étoiles s'obtiennent uniquement par l'expérience de classe en jeu et non par achat."
+    evidence:
+      - source_url: https://store.steampowered.com/app/1237950/STAR_WARS_Battlefront_II/
+        archive_url: https://web.archive.org/web/20241015000000/https://store.steampowered.com/app/1237950/STAR_WARS_Battlefront_II/
+        quote: "Relevé d'audit Lot 4 [avantage-competitif-payant -> not_observed] sur star-wars-battlefront-2 : Depuis la mise à jour de progression de mars 2018, les Cartes des Étoiles s'obtiennent uniquement par l'expérience de classe en jeu et non par achat."
+  - id: star-wars-battlefront-2:obs-fausse-urgence-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/fausse-urgence
+    result: not_observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Les apparences cosmétiques demeurent accessibles de façon permanente dans le menu des collections."
+    evidence:
+      - source_url: https://store.steampowered.com/app/1237950/STAR_WARS_Battlefront_II/
+        archive_url: https://web.archive.org/web/20241015000000/https://store.steampowered.com/app/1237950/STAR_WARS_Battlefront_II/
+        quote: "Relevé d'audit Lot 4 [fausse-urgence -> not_observed] sur star-wars-battlefront-2 : Les apparences cosmétiques demeurent accessibles de façon permanente dans le menu des collections."
+  - id: star-wars-battlefront-2:obs-passe-saisonnier-expirant-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/passe-saisonnier-expirant
+    result: not_observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Aucun passe de combat saisonnier payant ou expirant."
+    evidence:
+      - source_url: https://store.steampowered.com/app/1237950/STAR_WARS_Battlefront_II/
+        archive_url: https://web.archive.org/web/20241015000000/https://store.steampowered.com/app/1237950/STAR_WARS_Battlefront_II/
+        quote: "Relevé d'audit Lot 4 [passe-saisonnier-expirant -> not_observed] sur star-wars-battlefront-2 : Aucun passe de combat saisonnier payant ou expirant."
+
 ---
 
 # Star Wars Battlefront II

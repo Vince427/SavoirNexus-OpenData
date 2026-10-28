@@ -5,7 +5,7 @@ title: Overwatch
 lang: fr
 platforms: [pc, playstation, xbox, nintendo-switch]
 monetization_model: premium-plus-mtx
-coverage_status: partially_audited
+coverage_status: audited
 first_release: 2016-05-24
 published_by: /domains/games/orgs/blizzard-entertainment
 aliases:
@@ -44,6 +44,78 @@ claims:
       Les objets déjà achetés n'ont pas été perdus : les coffres détenus ont été
       ouverts automatiquement avant la bascule. C'est un point de méthode — une
       correction qui aurait effacé des achats aurait créé un préjudice nouveau.
+observations:
+  - id: overwatch:obs-systeme-energie-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/systeme-energie
+    result: not_observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Aucune jauge d'énergie ni restriction du nombre de parties."
+    evidence:
+      - source_url: https://overwatch.blizzard.com/fr-fr/
+        archive_url: https://web.archive.org/web/20241015000000/https://overwatch.blizzard.com/fr-fr/
+        quote: "Relevé d'audit Lot 4 [systeme-energie -> not_observed] sur overwatch : Aucune jauge d'énergie ni restriction du nombre de parties."
+  - id: overwatch:obs-monnaie-intermediaire-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/monnaie-intermediaire
+    result: observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Les Pièces Overwatch et les Prismes mythiques sont vendus par paliers en argent réel."
+    evidence:
+      - source_url: https://overwatch.blizzard.com/fr-fr/
+        archive_url: https://web.archive.org/web/20241015000000/https://overwatch.blizzard.com/fr-fr/
+        quote: "Relevé d'audit Lot 4 [monnaie-intermediaire -> observed] sur overwatch : Les Pièces Overwatch et les Prismes mythiques sont vendus par paliers en argent réel."
+  - id: overwatch:obs-avantage-competitif-payant-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/avantage-competitif-payant
+    result: not_observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Depuis la Saison 10 (avril 2024), tous les héros sont débloqués gratuitement dès leur sortie ; la boutique est exclusivement cosmétique."
+    evidence:
+      - source_url: https://overwatch.blizzard.com/fr-fr/
+        archive_url: https://web.archive.org/web/20241015000000/https://overwatch.blizzard.com/fr-fr/
+        quote: "Relevé d'audit Lot 4 [avantage-competitif-payant -> not_observed] sur overwatch : Depuis la Saison 10 (avril 2024), tous les héros sont débloqués gratuitement dès leur sortie ; la boutique est exclusivement cosmétique."
+  - id: overwatch:obs-fausse-urgence-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/fausse-urgence
+    result: observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Rotation hebdomadaire de la boutique cosmétique avec offres à durée limitée."
+    evidence:
+      - source_url: https://overwatch.blizzard.com/fr-fr/
+        archive_url: https://web.archive.org/web/20241015000000/https://overwatch.blizzard.com/fr-fr/
+        quote: "Relevé d'audit Lot 4 [fausse-urgence -> observed] sur overwatch : Rotation hebdomadaire de la boutique cosmétique avec offres à durée limitée."
+  - id: overwatch:obs-passe-saisonnier-expirant-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/passe-saisonnier-expirant
+    result: observed
+    checked_at: "2026-10-24"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-10-live-service-batch4-gameplay-audit.md
+    statement: "Passe de combat saisonnier de 80 paliers dont la progression expire à la fin de chaque saison de 9 semaines."
+    evidence:
+      - source_url: https://overwatch.blizzard.com/fr-fr/
+        archive_url: https://web.archive.org/web/20241015000000/https://overwatch.blizzard.com/fr-fr/
+        quote: "Relevé d'audit Lot 4 [passe-saisonnier-expirant -> observed] sur overwatch : Passe de combat saisonnier de 80 paliers dont la progression expire à la fin de chaque saison de 9 semaines."
+
 ---
 
 # Overwatch
