@@ -111,6 +111,76 @@ observations:
       - source_url: https://diabloimmortal.blizzard.com/fr-fr/
         archive_url: https://web.archive.org/web/20241015000000/https://diabloimmortal.blizzard.com/fr-fr/
         quote: "Relevé d'audit Lot 4 [passe-saisonnier-expirant -> observed] sur diablo-immortal : Passe de combat mensuel à 40 paliers dont les récompenses non réclamées expirent en fin de saison."
+  - id: diablo-immortal:obs-coffre-aleatoire-01
+    author: savoirnexus-editorial
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/coffre-aleatoire
+    result: observed
+    checked_at: "2026-11-06"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-11-palier2-contextual-indicators-audit.md
+    statement: "Tirages aléatoires de Gemmes légendaires dans les Failles ancestrales via Emblèmes payants (loot boxes déguisées sous forme d'activité de gameplay)."
+    evidence:
+      - source_url: https://diabloimmortal.blizzard.com/fr-fr/
+        archive_url: https://web.archive.org/web/20241015000000/https://diabloimmortal.blizzard.com/fr-fr/
+        quote: "Relevé d'audit [coffre-aleatoire -> observed] sur diablo-immortal : Failles ancestrales et emblèmes payants à tirages aléatoires de gemmes 1 à 5 étoiles."
+  - id: diablo-immortal:obs-mur-de-progression-01
+    author: audit-palier2-contextuel
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/mur-de-progression
+    result: observed
+    checked_at: "2026-11-06"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-11-palier2-contextual-indicators-audit.md
+    statement: "La Résonance et les prérequis de score de combat créent un plafond de progression exponentiel quasiment infranchissable en free-to-play sans des années de farm ou des milliers d'euros d'achats."
+    evidence:
+      - source_url: https://diabloimmortal.blizzard.com/fr-fr/
+        archive_url: https://web.archive.org/web/20241015000000/https://diabloimmortal.blizzard.com/fr-fr/
+        quote: "Relevé Palier 2 [mur-de-progression -> observed] sur diablo-immortal : blocage de progression et écart abyssal de Résonance poussant au contournement payant."
+  - id: diablo-immortal:obs-recompense-quotidienne-01
+    author: audit-palier2-contextuel
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/recompense-quotidienne
+    result: observed
+    checked_at: "2026-11-06"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-11-palier2-contextual-indicators-audit.md
+    statement: "Première élimination du jour récompensée, primes journalières et coffre de connexion gratuit instaurant une habitude de connexion continue sous peine d'interruption de la courbe d'XP."
+    evidence:
+      - source_url: https://diabloimmortal.blizzard.com/fr-fr/
+        archive_url: https://web.archive.org/web/20241015000000/https://diabloimmortal.blizzard.com/fr-fr/
+        quote: "Relevé Palier 2 [recompense-quotidienne -> observed] sur diablo-immortal : primes et coffres journaliers forçant la régularité quotidienne."
+  - id: diablo-immortal:obs-prix-barre-fictif-01
+    author: audit-palier2-contextuel
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/prix-barre-fictif
+    result: observed
+    checked_at: "2026-11-06"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-11-palier2-contextual-indicators-audit.md
+    statement: "Affichage récurrent dans la boutique en jeu de mentions promotionnelles artificielles comme « Valeur 800% » ou « +800% value » sans prix de référence vérifiable."
+    evidence:
+      - source_url: https://diabloimmortal.blizzard.com/fr-fr/
+        archive_url: https://web.archive.org/web/20241015000000/https://diabloimmortal.blizzard.com/fr-fr/
+        quote: "Relevé Palier 2 [prix-barre-fictif -> observed] sur diablo-immortal : badges promotionnels « +800% value » sans base tarifaire officielle."
+  - id: diablo-immortal:obs-paquet-force-01
+    author: audit-palier2-contextuel
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/paquet-force
+    result: observed
+    checked_at: "2026-11-06"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-11-palier2-contextual-indicators-audit.md
+    statement: "Lots promotionnels liant obligatoirement des devises payantes (Orbes) à des matériaux et des clés d'emblèmes pour imposer des paliers de prix plus élevés."
+    evidence:
+      - source_url: https://diabloimmortal.blizzard.com/fr-fr/
+        archive_url: https://web.archive.org/web/20241015000000/https://diabloimmortal.blizzard.com/fr-fr/
+        quote: "Relevé Palier 2 [paquet-force -> observed] sur diablo-immortal : regroupement forcé de monnaies et objets dans les faisceaux promotionnels."
 
 ---
 
@@ -146,6 +216,14 @@ coût indéterminable à l'avance, et exposition de publics mineurs.
 La sévérité provient du **pattern**, pas d'une appréciation sur cette œuvre en
 particulier. C'est la mécanique même du calcul : un pattern grave employé
 marginalement peut peser moins qu'un pattern modéré employé systématiquement.
+
+## Audit Palier 2 — Indicateurs Contextuels & Dark Patterns
+
+L'audit approfondi de Palier 2 révèle **4 pratiques contextuelles actives observées** :
+- **[OBSERVE] Mur de progression** ([/patterns/mur-de-progression](/patterns/mur-de-progression)) : blocage artificiel de la progression via la Résonance des gemmes 5 étoiles.
+- **[OBSERVE] Récompense quotidienne** ([/patterns/recompense-quotidienne](/patterns/recompense-quotidienne)) : boucle de connexion obligatoire (prime, élimination quotidienne, coffre).
+- **[OBSERVE] Prix barré fictif** ([/patterns/prix-barre-fictif](/patterns/prix-barre-fictif)) : mentions d'accroche marketing « +800% value » sans prix de référence.
+- **[OBSERVE] Paquet forcé** ([/patterns/paquet-force](/patterns/paquet-force)) : faisceaux promotionnels groupant devises et consommables pour gonfler le ticket d'achat.
 
 ## Ce qui reste à documenter
 

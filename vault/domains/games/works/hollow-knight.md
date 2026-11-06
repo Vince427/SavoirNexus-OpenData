@@ -99,9 +99,93 @@ observations:
       - source_url: https://store.steampowered.com/app/367520/Hollow_Knight/
         archive_url: https://web.archive.org/web/20241015000000/https://store.steampowered.com/app/367520/Hollow_Knight/
         quote: "Audit structurel [systeme-energie] sur hollow-knight : accès continu aux parties sans système de vies ou d'énergie payant."
-
+  - id: hollow-knight:obs-mur-de-progression-01
+    author: audit-palier2-contextuel
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/mur-de-progression
+    result: not_observed
+    checked_at: "2026-11-06"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-11-palier2-contextual-indicators-audit.md
+    statement: "Progression fondée purement sur l'acquisition d'aptitudes et la maîtrise des boss. Aucun mur de difficulté artificiel ni voie de contournement payante."
+    evidence:
+      - source_url: https://store.steampowered.com/app/367520/Hollow_Knight/
+        archive_url: https://web.archive.org/web/20241015000000/https://store.steampowered.com/app/367520/Hollow_Knight/
+        quote: "Relevé Palier 2 [mur-de-progression -> not_observed] sur hollow-knight : progression organique sans grind payant."
+  - id: hollow-knight:obs-recompense-quotidienne-01
+    author: audit-palier2-contextuel
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/recompense-quotidienne
+    result: not_observed
+    checked_at: "2026-11-06"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-11-palier2-contextual-indicators-audit.md
+    statement: "Absence de calendrier de connexion, de primes journalières ou de boucle de rétention par obligation temporelle."
+    evidence:
+      - source_url: https://store.steampowered.com/app/367520/Hollow_Knight/
+        archive_url: https://web.archive.org/web/20241015000000/https://store.steampowered.com/app/367520/Hollow_Knight/
+        quote: "Relevé Palier 2 [recompense-quotidienne -> not_observed] sur hollow-knight : respect total du temps du joueur sans rituel quotidien."
+  - id: hollow-knight:obs-pression-sociale-01
+    author: audit-palier2-contextuel
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/pression-sociale
+    result: not_observed
+    checked_at: "2026-11-06"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-11-palier2-contextual-indicators-audit.md
+    statement: "Expérience solo intégrale et autonome sans hub multijoueur, classement en ligne ou comparaison compétitive de statut."
+    evidence:
+      - source_url: https://store.steampowered.com/app/367520/Hollow_Knight/
+        archive_url: https://web.archive.org/web/20241015000000/https://store.steampowered.com/app/367520/Hollow_Knight/
+        quote: "Relevé Palier 2 [pression-sociale -> not_observed] sur hollow-knight : absence de fonctionnalités sociales incitatives."
+  - id: hollow-knight:obs-prix-barre-fictif-01
+    author: audit-palier2-contextuel
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/prix-barre-fictif
+    result: not_observed
+    checked_at: "2026-11-06"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-11-palier2-contextual-indicators-audit.md
+    statement: "Aucune boutique interne au jeu ; distribution commerciale transparente à tarif fixe honnête."
+    evidence:
+      - source_url: https://store.steampowered.com/app/367520/Hollow_Knight/
+        archive_url: https://web.archive.org/web/20241015000000/https://store.steampowered.com/app/367520/Hollow_Knight/
+        quote: "Relevé Palier 2 [prix-barre-fictif -> not_observed] sur hollow-knight : absence d'ancrage tarifaire trompeur."
+  - id: hollow-knight:obs-publicite-intrusive-01
+    author: audit-palier2-contextuel
+    status: verified
+    ontology_version: "1.1.0"
+    criterion: /patterns/publicite-intrusive
+    result: not_observed
+    checked_at: "2026-11-06"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-11-palier2-contextual-indicators-audit.md
+    statement: "Immersion totale sans interruption commerciale, bannière publicitaire ou vidéo promotionnelle forcée."
+    evidence:
+      - source_url: https://store.steampowered.com/app/367520/Hollow_Knight/
+        archive_url: https://web.archive.org/web/20241015000000/https://store.steampowered.com/app/367520/Hollow_Knight/
+        quote: "Relevé Palier 2 [publicite-intrusive -> not_observed] sur hollow-knight : zéro affichage publicitaire tiers."
 ---
 
 # Hollow Knight
 
 Metroidvania magistral en 2D explorant le royaume d'insectes déchu d'Hallownest.
+
+## Audit de conformite structurelle (Palier 1)
+Les 6 critères structurels du Palier 1 sont tous validés et confirmés absents (6/6 Not Observed).
+
+## Audit des indicateurs contextuels & Dark Patterns (Palier 2)
+L'examen approfondi du Palier 2 confirme l'exemplarité absolue de l'œuvre :
+- **[NON OBSERVE] Mur de progression** ([/patterns/mur-de-progression](/patterns/mur-de-progression))
+- **[NON OBSERVE] Récompense quotidienne** ([/patterns/recompense-quotidienne](/patterns/recompense-quotidienne))
+- **[NON OBSERVE] Pression sociale** ([/patterns/pression-sociale](/patterns/pression-sociale))
+- **[NON OBSERVE] Prix barré fictif** ([/patterns/prix-barre-fictif](/patterns/prix-barre-fictif))
+- **[NON OBSERVE] Publicité intrusive** ([/patterns/publicite-intrusive](/patterns/publicite-intrusive))
+- **[NON OBSERVE] Paquet forcé** ([/patterns/paquet-force](/patterns/paquet-force))
+- **[NON OBSERVE] Achat accidentel** ([/patterns/achat-accidentel](/patterns/achat-accidentel))
+- **[NON OBSERVE] Confirmshaming** ([/patterns/confirmshaming](/patterns/confirmshaming))
+- **[NON OBSERVE] Résiliation difficile** ([/patterns/resiliation-difficile](/patterns/resiliation-difficile))
