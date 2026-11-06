@@ -1,4 +1,4 @@
-﻿---
+---
 type: game
 id: wikidata-q2068279
 title: "Train Simulator"
@@ -30,19 +30,19 @@ observations:
         archive_url: https://web.archive.org/web/20261001000000/https://store.steampowered.com/app/24043/
         quote: "Audit structurel [coffre-aleatoire] sur wikidata-q2068279 (Train Simulator) : jeu commercial sans caisses de butin payantes."
   - id: wikidata-q2068279:obs-monnaie-intermediaire-01
-    author: audit-stream-7-racing-fin
+    author: audit-storefront-steam
     status: verified
     ontology_version: "1.1.0"
     criterion: /patterns/monnaie-intermediaire
-    result: not_observed
-    checked_at: "2026-11-05"
-    method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Economie de jeu fermee sans boutique de devises virtuelles ou conversion monetaire en argent reel."
+    result: observed
+    checked_at: "2026-11-06"
+    method: store-api-verification
+    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    statement: "Presence confirmee d'achats integres declares sur Steam (Categorie 35) : boutique en jeu de materiel roulant et microtransactions de contenus."
     evidence:
       - source_url: https://store.steampowered.com/app/24043/
         archive_url: https://web.archive.org/web/20261001000000/https://store.steampowered.com/app/24043/
-        quote: "Audit structurel [monnaie-intermediaire] sur wikidata-q2068279 (Train Simulator) : absence de monnaie virtuelle intermediaire payante."
+        quote: "Fiche officielle Steam (AppID 24043) : categorie 'Achats integres' (Category 35) declaree par l'editeur Dovetail Games sur le store."
   - id: wikidata-q2068279:obs-passe-saisonnier-expirant-01
     author: audit-stream-7-racing-fin
     status: verified

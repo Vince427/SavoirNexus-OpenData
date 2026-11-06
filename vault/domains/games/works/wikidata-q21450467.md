@@ -1,4 +1,4 @@
-﻿---
+---
 type: game
 id: wikidata-q21450467
 title: "Kingdom: Classic"
@@ -7,7 +7,7 @@ platforms: [pc]
 platforms_source: ["macOS", "Microsoft Windows", "Linux"]
 genres: [adventure, simulation]
 genres_source: ["adventure video game", "business simulation game"]
-monetization_model: premium
+monetization_model: free-to-play
 coverage_status: audited
 wikidata_id: Q21450467
 metadata_provenance: "Wikidata (CC0)"

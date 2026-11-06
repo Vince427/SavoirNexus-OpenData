@@ -1,4 +1,4 @@
-﻿---
+---
 type: game
 id: wikidata-q18536861
 title: "Life Is Strange"
@@ -7,7 +7,7 @@ platforms: [pc, playstation]
 platforms_source: ["PlayStation 3", "macOS", "Microsoft Windows", "Linux"]
 genres: [adventure]
 genres_source: ["interactive film", "graphic adventure game", "science fiction video game", "LGBT-themed video game", "video game with LGBT character"]
-monetization_model: premium
+monetization_model: free-to-play
 coverage_status: audited
 wikidata_id: Q18536861
 metadata_provenance: "Wikidata (CC0)"
