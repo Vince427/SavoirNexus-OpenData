@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: bayonetta-3
 title: "Bayonetta 3"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [hack-and-slash, action]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/f/fe/Bayonetta_3_cover.webp
 coverage_status: audited
 first_release: 2022-10-28
 published_by: /domains/games/orgs/nintendo

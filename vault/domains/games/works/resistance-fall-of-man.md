@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: resistance-fall-of-man
 title: "Resistance: Fall of Man"
@@ -7,6 +7,7 @@ platforms: [playstation]
 genres: [shooter, action]
 game_modes: [single-player, multiplayer, co-op]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/a/a8/Resistance_Fall_of_Man.jpg
 coverage_status: audited
 first_release: 2006-11-14
 published_by: /domains/games/orgs/sony-interactive-entertainment

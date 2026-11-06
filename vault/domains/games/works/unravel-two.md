@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: unravel-two
 title: "Unravel Two"
@@ -7,6 +7,7 @@ platforms: [pc, playstation, xbox, nintendo-switch]
 genres: [platformer, puzzle]
 game_modes: [single-player, co-op]
 monetization_model: premium
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1225570/header.jpg
 coverage_status: audited
 first_release: 2018-06-09
 published_by: /domains/games/orgs/electronic-arts

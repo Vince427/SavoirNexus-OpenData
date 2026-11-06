@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: gears-of-war
 title: "Gears of War"
@@ -7,6 +7,7 @@ platforms: [pc, xbox]
 genres: [shooter, action]
 game_modes: [single-player, multiplayer, co-op, pvp]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/commons/1/1c/Gears_of_War_logo.png
 coverage_status: audited
 first_release: 2006-11-07
 published_by: /domains/games/orgs/xbox-game-studios

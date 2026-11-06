@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: infamous-2
 title: "inFAMOUS 2"
@@ -7,6 +7,7 @@ platforms: [playstation]
 genres: [action, adventure]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/d/db/Infamous_2.png
 coverage_status: audited
 first_release: 2011-06-07
 published_by: /domains/games/orgs/sony-interactive-entertainment

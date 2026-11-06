@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: mario-plus-rabbids-sparks-of-hope
 title: "Mario + Rabbids Sparks of Hope"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [strategy]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/6/66/Mario_%2B_Rabbids_Sparks_of_Hope_cover_art.jpg
 coverage_status: audited
 first_release: 2022-10-20
 published_by: /domains/games/orgs/ubisoft

@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: killzone-2
 title: "Killzone 2"
@@ -7,6 +7,7 @@ platforms: [playstation]
 genres: [shooter, action]
 game_modes: [single-player, multiplayer, pvp]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/3/31/Killzone2_Box_Art.jpg
 coverage_status: audited
 first_release: 2009-02-27
 published_by: /domains/games/orgs/sony-interactive-entertainment

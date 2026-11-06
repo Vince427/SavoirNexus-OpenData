@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: crash-bandicoot-4-its-about-time
 title: "Crash Bandicoot 4: It's About Time"
@@ -7,6 +7,7 @@ platforms: [pc, playstation, xbox, nintendo-switch]
 genres: [platformer, action]
 game_modes: [single-player, multiplayer]
 monetization_model: premium
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1378990/header.jpg
 coverage_status: audited
 first_release: 2020-10-02
 published_by: /domains/games/orgs/activision

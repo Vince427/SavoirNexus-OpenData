@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: xenoblade-chronicles-2
 title: "Xenoblade Chronicles 2"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [rpg]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/4/4a/Xenoblade_Chronicles_2.jpg
 coverage_status: audited
 first_release: 2017-12-01
 published_by: /domains/games/orgs/nintendo

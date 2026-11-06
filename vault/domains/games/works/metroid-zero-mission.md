@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: metroid-zero-mission
 title: "Metroid: Zero Mission"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [action, platformer]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/7/7d/Metroid_--_Zero_Mission_%28box_art%29.jpg
 coverage_status: heritage
 first_release: 2004-02-09
 published_by: /domains/games/orgs/nintendo

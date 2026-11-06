@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: god-of-war-ii
 title: "God of War II"
@@ -7,6 +7,7 @@ platforms: [playstation]
 genres: [action, hack-and-slash]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/2/25/God_of_War_II_cover.jpg
 coverage_status: audited
 first_release: 2007-03-13
 published_by: /domains/games/orgs/sony-interactive-entertainment

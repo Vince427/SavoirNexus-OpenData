@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: lorelei-and-the-laser-eyes
 title: "Lorelei and the Laser Eyes"
@@ -7,6 +7,7 @@ platforms: [pc, nintendo-switch, playstation]
 genres: [puzzle, adventure]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2008920/header.jpg
 coverage_status: audited
 first_release: 2024-05-16
 published_by: /domains/games/orgs/annapurna-interactive

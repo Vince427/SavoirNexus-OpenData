@@ -1,10 +1,11 @@
----
+﻿---
 type: game
 id: diablo-immortal
 title: Diablo Immortal
 lang: fr
 platforms: [pc, ios, android]
 monetization_model: free-to-play
+cover_url: /covers/diablo-immortal.svg
 coverage_status: audited
 first_release: 2022-06-02
 published_by: /domains/games/orgs/blizzard-entertainment

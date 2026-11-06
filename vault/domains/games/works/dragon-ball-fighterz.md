@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: dragon-ball-fighterz
 title: "Dragon Ball FighterZ"
@@ -7,6 +7,7 @@ platforms: [pc, playstation, xbox, nintendo-switch]
 genres: [action]
 game_modes: [single-player, multiplayer, pvp]
 monetization_model: premium-plus-mtx
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/678950/header.jpg
 coverage_status: audited
 first_release: 2018-01-26
 published_by: /domains/games/orgs/bandai-namco

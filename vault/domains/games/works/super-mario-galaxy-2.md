@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: super-mario-galaxy-2
 title: "Super Mario Galaxy 2"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [platformer, adventure]
 game_modes: [single-player, co-op]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/6/65/Super_Mario_Galaxy_2_Box_Art.jpg
 coverage_status: audited
 first_release: 2010-05-23
 published_by: /domains/games/orgs/nintendo

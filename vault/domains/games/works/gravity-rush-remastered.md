@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: gravity-rush-remastered
 title: "Gravity Rush Remastered"
@@ -7,6 +7,7 @@ platforms: [playstation]
 genres: [action, adventure]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/0/0e/GravityRushPSVitaCover.png
 coverage_status: audited
 first_release: 2015-12-10
 published_by: /domains/games/orgs/sony-interactive-entertainment

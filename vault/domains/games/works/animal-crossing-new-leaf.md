@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: animal-crossing-new-leaf
 title: "Animal Crossing: New Leaf"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [simulation, casual]
 game_modes: [single-player, multiplayer]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/0/04/AnimalCrossingNewLeafNABoxart.jpg
 coverage_status: audited
 first_release: 2012-11-08
 published_by: /domains/games/orgs/nintendo

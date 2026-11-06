@@ -1,10 +1,11 @@
----
+﻿---
 type: game
 id: star-wars-battlefront-2
 title: Star Wars Battlefront II
 lang: fr
 platforms: [pc, playstation, xbox]
 monetization_model: premium-plus-mtx
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1237950/header.jpg
 coverage_status: audited
 first_release: 2017-11-17
 published_by: /domains/games/orgs/electronic-arts

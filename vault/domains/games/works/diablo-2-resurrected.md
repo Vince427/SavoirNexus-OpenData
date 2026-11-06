@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: diablo-2-resurrected
 title: "Diablo II: Resurrected"
@@ -7,6 +7,7 @@ platforms: [pc, playstation, xbox, nintendo-switch]
 genres: [rpg, action]
 game_modes: [single-player, multiplayer, co-op]
 monetization_model: premium
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2536520/header.jpg
 coverage_status: audited
 first_release: 2021-09-23
 published_by: /domains/games/orgs/blizzard-entertainment

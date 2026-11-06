@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: tales-of-vesperia-definitive-edition
 title: "Tales of Vesperia: Definitive Edition"
@@ -7,6 +7,7 @@ platforms: [pc, playstation, xbox, nintendo-switch]
 genres: [rpg, action]
 game_modes: [single-player, co-op]
 monetization_model: premium
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/738540/header.jpg
 coverage_status: audited
 first_release: 2019-01-11
 published_by: /domains/games/orgs/bandai-namco

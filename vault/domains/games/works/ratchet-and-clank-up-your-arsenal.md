@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: ratchet-and-clank-up-your-arsenal
 title: "Ratchet & Clank: Up Your Arsenal"
@@ -7,6 +7,7 @@ platforms: [playstation]
 genres: [platformer, shooter]
 game_modes: [single-player, multiplayer]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/7/73/Ratchetandclank3box.jpg
 coverage_status: heritage
 first_release: 2004-11-03
 published_by: /domains/games/orgs/sony-interactive-entertainment

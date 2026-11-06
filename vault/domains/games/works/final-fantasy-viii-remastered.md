@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: final-fantasy-viii-remastered
 title: "Final Fantasy VIII Remastered"
@@ -7,6 +7,7 @@ platforms: [pc, playstation, xbox, nintendo-switch]
 genres: [rpg]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1026680/header.jpg
 coverage_status: audited
 first_release: 2019-09-03
 published_by: /domains/games/orgs/square-enix

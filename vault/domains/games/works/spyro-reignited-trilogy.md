@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: spyro-reignited-trilogy
 title: "Spyro Reignited Trilogy"
@@ -7,6 +7,7 @@ platforms: [pc, playstation, xbox, nintendo-switch]
 genres: [platformer, adventure]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/996580/header.jpg
 coverage_status: audited
 first_release: 2018-11-13
 published_by: /domains/games/orgs/activision

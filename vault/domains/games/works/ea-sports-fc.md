@@ -1,10 +1,11 @@
----
+﻿---
 type: game
 id: ea-sports-fc
 title: EA Sports FC (anciennement FIFA)
 lang: fr
 platforms: [pc, playstation, xbox, nintendo-switch, ios, android]
 monetization_model: premium-plus-mtx
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080220/header.jpg
 coverage_status: audited
 published_by: /domains/games/orgs/electronic-arts
 aliases:

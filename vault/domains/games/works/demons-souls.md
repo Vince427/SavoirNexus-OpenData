@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: demons-souls
 title: "Demon's Souls"
@@ -7,6 +7,7 @@ platforms: [playstation]
 genres: [action, rpg]
 game_modes: [single-player, multiplayer, co-op, pvp]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/9/91/Demon%27s_Souls_Cover.jpg
 coverage_status: audited
 first_release: 2009-02-05
 published_by: /domains/games/orgs/sony-interactive-entertainment

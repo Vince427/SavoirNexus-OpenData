@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: ratchet-and-clank-2016
 title: "Ratchet & Clank (2016)"
@@ -7,6 +7,7 @@ platforms: [playstation]
 genres: [platformer, action]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/3/37/Ratchet_and_Clank_cover.jpg
 coverage_status: audited
 first_release: 2016-04-12
 published_by: /domains/games/orgs/sony-interactive-entertainment

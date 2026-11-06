@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: risk-of-rain-returns
 title: "Risk of Rain Returns"
@@ -7,6 +7,7 @@ platforms: [pc, nintendo-switch]
 genres: [action]
 game_modes: [single-player, multiplayer, co-op]
 monetization_model: premium
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1337520/header.jpg
 coverage_status: audited
 first_release: 2023-11-08
 published_by: /domains/games/orgs/gearbox-publishing

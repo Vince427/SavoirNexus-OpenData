@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: unravel
 title: "Unravel"
@@ -7,6 +7,7 @@ platforms: [pc, playstation, xbox]
 genres: [platformer, puzzle]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/6/6a/Unravel_cover_art.jpg
 coverage_status: audited
 first_release: 2016-02-09
 published_by: /domains/games/orgs/electronic-arts

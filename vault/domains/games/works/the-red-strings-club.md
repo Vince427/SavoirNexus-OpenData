@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: the-red-strings-club
 title: "The Red Strings Club"
@@ -7,6 +7,7 @@ platforms: [pc, nintendo-switch]
 genres: [adventure]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/589780/header.jpg
 coverage_status: audited
 first_release: 2018-01-22
 published_by: /domains/games/orgs/devolver-digital

@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: mario-plus-rabbids-kingdom-battle
 title: "Mario + Rabbids Kingdom Battle"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [strategy]
 game_modes: [single-player, co-op, pvp]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/f/f5/Mario_%2B_Rabbids_Kingdom_Battle.jpg
 coverage_status: audited
 first_release: 2017-08-29
 published_by: /domains/games/orgs/ubisoft

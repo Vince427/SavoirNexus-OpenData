@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: the-last-guardian
 title: "The Last Guardian"
@@ -7,6 +7,7 @@ platforms: [playstation]
 genres: [adventure, puzzle]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/2/25/The_Last_Guardian_cover_art.jpg
 coverage_status: audited
 first_release: 2016-12-06
 published_by: /domains/games/orgs/sony-interactive-entertainment

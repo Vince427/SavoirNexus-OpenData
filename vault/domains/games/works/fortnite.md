@@ -1,10 +1,11 @@
----
+﻿---
 type: game
 id: fortnite
 title: Fortnite
 lang: fr
 platforms: [pc, playstation, xbox, nintendo-switch, ios, android]
 monetization_model: free-to-play
+cover_url: /covers/fortnite.svg
 coverage_status: audited
 first_release: 2017-07-25
 published_by: /domains/games/orgs/epic-games

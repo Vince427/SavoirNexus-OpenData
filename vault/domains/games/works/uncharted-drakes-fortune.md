@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: uncharted-drakes-fortune
 title: "Uncharted: Drake's Fortune"
@@ -7,6 +7,7 @@ platforms: [playstation]
 genres: [action, adventure]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/5/5b/Uncharted_Drake%27s_Fortune.jpg
 coverage_status: audited
 first_release: 2007-11-19
 published_by: /domains/games/orgs/sony-interactive-entertainment

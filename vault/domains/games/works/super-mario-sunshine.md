@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: super-mario-sunshine
 title: "Super Mario Sunshine"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [platformer, adventure]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/0/05/Super_Mario_Sunshine_Box_Art.png
 coverage_status: heritage
 first_release: 2002-07-19
 published_by: /domains/games/orgs/nintendo

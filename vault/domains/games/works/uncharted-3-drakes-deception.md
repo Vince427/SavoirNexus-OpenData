@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: uncharted-3-drakes-deception
 title: "Uncharted 3: Drake's Deception"
@@ -7,6 +7,7 @@ platforms: [playstation]
 genres: [action, adventure]
 game_modes: [single-player, multiplayer]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/0/02/Uncharted_3_Boxart.jpg
 coverage_status: audited
 first_release: 2011-11-01
 published_by: /domains/games/orgs/sony-interactive-entertainment

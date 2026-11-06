@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: metroid-prime-3-corruption
 title: "Metroid Prime 3: Corruption"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [action, adventure]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/7/75/Metroid_Prime_3_Packaging.jpg
 coverage_status: audited
 first_release: 2007-08-27
 published_by: /domains/games/orgs/nintendo

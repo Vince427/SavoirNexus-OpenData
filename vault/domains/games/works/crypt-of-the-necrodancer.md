@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: crypt-of-the-necrodancer
 title: "Crypt of the NecroDancer"
@@ -7,6 +7,7 @@ platforms: [pc, playstation, xbox, nintendo-switch, mobile]
 genres: [rpg]
 game_modes: [single-player, co-op]
 monetization_model: premium
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/247080/header.jpg
 coverage_status: audited
 first_release: 2015-04-23
 published_by: /domains/games/orgs/brace-yourself-games

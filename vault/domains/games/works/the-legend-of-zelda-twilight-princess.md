@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: the-legend-of-zelda-twilight-princess
 title: "The Legend of Zelda: Twilight Princess"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [adventure, action]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/0/0e/The_Legend_of_Zelda_Twilight_Princess_Game_Cover.jpg
 coverage_status: audited
 first_release: 2006-11-19
 published_by: /domains/games/orgs/nintendo

@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: fable-ii
 title: "Fable II"
@@ -7,6 +7,7 @@ platforms: [xbox]
 genres: [rpg, action]
 game_modes: [single-player, co-op]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/commons/a/a4/Fable_II_cover_%28cropped%29.png
 coverage_status: audited
 first_release: 2008-10-21
 published_by: /domains/games/orgs/xbox-game-studios

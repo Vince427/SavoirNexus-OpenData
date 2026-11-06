@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: super-mario-galaxy
 title: "Super Mario Galaxy"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [platformer, adventure]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/7/76/SuperMarioGalaxy.jpg
 coverage_status: audited
 first_release: 2007-11-01
 published_by: /domains/games/orgs/nintendo

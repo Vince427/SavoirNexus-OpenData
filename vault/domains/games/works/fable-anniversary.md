@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: fable-anniversary
 title: "Fable Anniversary"
@@ -7,6 +7,7 @@ platforms: [pc, xbox]
 genres: [rpg, action]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/288470/header.jpg
 coverage_status: audited
 first_release: 2014-02-04
 published_by: /domains/games/orgs/xbox-game-studios

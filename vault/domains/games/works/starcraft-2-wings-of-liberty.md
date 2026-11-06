@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: starcraft-2-wings-of-liberty
 title: "StarCraft II: Wings of Liberty"
@@ -7,6 +7,7 @@ platforms: [pc]
 genres: [strategy]
 game_modes: [single-player, multiplayer, co-op]
 monetization_model: free-to-play
+cover_url: https://upload.wikimedia.org/wikipedia/en/2/20/StarCraft_II_-_Box_Art.jpg
 coverage_status: audited
 first_release: 2010-07-27
 published_by: /domains/games/orgs/blizzard-entertainment

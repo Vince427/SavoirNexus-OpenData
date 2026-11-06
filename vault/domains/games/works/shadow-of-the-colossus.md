@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: shadow-of-the-colossus
 title: "Shadow of the Colossus"
@@ -7,6 +7,7 @@ platforms: [playstation]
 genres: [adventure, action]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/f/f8/Shadow_of_the_Colossus_%282005%29_cover.jpg
 coverage_status: audited
 first_release: 2018-02-06
 published_by: /domains/games/orgs/sony-interactive-entertainment

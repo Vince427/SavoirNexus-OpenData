@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: ultrakill
 title: "ULTRAKILL"
@@ -8,6 +8,7 @@ genres: [shooter, action]
 game_modes: [single-player]
 monetization_model: premium
 publication_status: early-access
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1229490/header.jpg
 coverage_status: audited
 first_release: 2020-09-03
 published_by: /domains/games/orgs/new-blood-interactive

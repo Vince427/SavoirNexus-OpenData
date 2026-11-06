@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: the-legend-of-zelda-a-link-to-the-past
 title: "The Legend of Zelda: A Link to the Past"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [adventure, action]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://thumb.wikimedia.org/wikipedia/en/thumb/2/21/The_Legend_of_Zelda_A_Link_to_the_Past_SNES_Game_Cover.jpg/330px-The_Legend_of_Zelda_A_Link_to_the_Past_SNES_Game_Cover.jpg
 coverage_status: heritage
 first_release: 1991-11-21
 published_by: /domains/games/orgs/nintendo

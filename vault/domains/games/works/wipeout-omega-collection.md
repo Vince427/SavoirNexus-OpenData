@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: wipeout-omega-collection
 title: "WipEout Omega Collection"
@@ -7,6 +7,7 @@ platforms: [playstation]
 genres: [racing, arcade]
 game_modes: [single-player, multiplayer, pvp]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/a/ae/WipeoutOmega_coverUS.jpg
 coverage_status: audited
 first_release: 2017-06-06
 published_by: /domains/games/orgs/sony-interactive-entertainment

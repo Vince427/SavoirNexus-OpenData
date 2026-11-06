@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: castlevania-symphony-of-the-night
 title: "Castlevania: Symphony of the Night"
@@ -7,6 +7,7 @@ platforms: [playstation, xbox, mobile]
 genres: [action, platformer]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/c/cf/Castlevania_SOTN_PAL.jpg
 coverage_status: heritage
 first_release: 1997-03-20
 published_by: /domains/games/orgs/konami

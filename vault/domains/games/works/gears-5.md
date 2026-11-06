@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: gears-5
 title: "Gears 5"
@@ -7,6 +7,7 @@ platforms: [pc, xbox]
 genres: [shooter, action]
 game_modes: [single-player, multiplayer, co-op, pvp]
 monetization_model: premium
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1097840/header.jpg
 coverage_status: audited
 first_release: 2019-09-10
 published_by: /domains/games/orgs/xbox-game-studios

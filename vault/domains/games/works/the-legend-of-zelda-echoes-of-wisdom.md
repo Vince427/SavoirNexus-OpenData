@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: the-legend-of-zelda-echoes-of-wisdom
 title: "The Legend of Zelda: Echoes of Wisdom"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [adventure, puzzle, action]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/1/1e/The_Legend_of_Zelda_%E2%80%93_Echoes_of_Wisdom.jpg
 coverage_status: audited
 first_release: 2024-09-26
 published_by: /domains/games/orgs/nintendo

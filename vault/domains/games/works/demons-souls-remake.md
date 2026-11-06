@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: demons-souls-remake
 title: "Demon's Souls (Remake)"
@@ -7,6 +7,7 @@ platforms: [playstation]
 genres: [action, rpg]
 game_modes: [single-player, multiplayer, co-op, pvp]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/1/11/Demons_Souls_remake_cover_art.jpg
 coverage_status: audited
 first_release: 2020-11-12
 published_by: /domains/games/orgs/sony-interactive-entertainment

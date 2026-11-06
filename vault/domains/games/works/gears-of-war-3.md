@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: gears-of-war-3
 title: "Gears of War 3"
@@ -7,6 +7,7 @@ platforms: [xbox]
 genres: [shooter, action]
 game_modes: [single-player, multiplayer, co-op, pvp]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/d/dc/Gears_of_War_3_box_artwork.png
 coverage_status: audited
 first_release: 2011-09-20
 published_by: /domains/games/orgs/xbox-game-studios

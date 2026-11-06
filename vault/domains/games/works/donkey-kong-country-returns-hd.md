@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: donkey-kong-country-returns-hd
 title: "Donkey Kong Country Returns HD"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [platformer, action]
 game_modes: [single-player, co-op]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/1/1f/Donkeykongcountryreturns.jpg
 coverage_status: audited
 first_release: 2025-01-16
 published_by: /domains/games/orgs/nintendo

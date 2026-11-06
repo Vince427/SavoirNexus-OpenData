@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: halo-reach
 title: "Halo: Reach"
@@ -7,6 +7,7 @@ platforms: [pc, xbox]
 genres: [shooter, action]
 game_modes: [single-player, multiplayer, co-op, pvp]
 monetization_model: premium
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1064220/header.jpg
 coverage_status: audited
 first_release: 2010-09-14
 published_by: /domains/games/orgs/xbox-game-studios

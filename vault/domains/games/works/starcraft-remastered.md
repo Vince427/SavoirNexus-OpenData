@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: starcraft-remastered
 title: "StarCraft: Remastered"
@@ -7,6 +7,7 @@ platforms: [pc]
 genres: [strategy]
 game_modes: [single-player, multiplayer]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/b/b4/StarCraft_Remastered.jpg
 coverage_status: audited
 first_release: 2017-08-14
 published_by: /domains/games/orgs/blizzard-entertainment

@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: final-fantasy-iv
 title: "Final Fantasy IV"
@@ -7,6 +7,7 @@ platforms: [snes, playstation, game-boy-advance, nintendo-ds, pc, mobile]
 genres: [rpg]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1173800/header.jpg
 coverage_status: heritage
 first_release: 1991-07-19
 published_by: /domains/games/orgs/square-enix

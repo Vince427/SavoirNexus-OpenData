@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: jak-ii
 title: "Jak II"
@@ -7,6 +7,7 @@ platforms: [playstation]
 genres: [action, adventure]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/b/b3/JakIIbox.jpg
 coverage_status: heritage
 first_release: 2003-10-14
 published_by: /domains/games/orgs/sony-interactive-entertainment

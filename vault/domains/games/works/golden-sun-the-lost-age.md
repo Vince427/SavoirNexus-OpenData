@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: golden-sun-the-lost-age
 title: "Golden Sun: The Lost Age"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [rpg]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/4/4f/TheLostAgebox.jpg
 coverage_status: heritage
 first_release: 2002-06-28
 published_by: /domains/games/orgs/nintendo

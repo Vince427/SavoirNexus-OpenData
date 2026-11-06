@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: gears-of-war-2
 title: "Gears of War 2"
@@ -7,6 +7,7 @@ platforms: [xbox]
 genres: [shooter, action]
 game_modes: [single-player, multiplayer, co-op, pvp]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/e/e0/Gears_of_War_2_Game_Cover.jpg
 coverage_status: audited
 first_release: 2008-11-07
 published_by: /domains/games/orgs/xbox-game-studios

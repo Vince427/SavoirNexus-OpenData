@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: blue-dragon
 title: "Blue Dragon"
@@ -7,6 +7,7 @@ platforms: [xbox]
 genres: [rpg, turn-based]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/f/f7/Blue_Dragon_Box_Art.jpeg
 coverage_status: audited
 first_release: 2006-12-07
 published_by: /domains/games/orgs/xbox-game-studios

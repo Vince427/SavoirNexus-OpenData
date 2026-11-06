@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: god-of-war
 title: God of War
@@ -7,9 +7,9 @@ platforms: [pc]
 genres: [action, adventure, rpg]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/b/b9/God_of_War_2005_cover.jpg
 coverage_status: audited
 first_release: 2022-01-14
-cover_url: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412
 published_by: /domains/games/orgs/playstation-publishing-llc
 wikidata_id: Q24576839
 wikidata_status: verified

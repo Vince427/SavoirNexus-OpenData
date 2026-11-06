@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: crow-country
 title: "Crow Country"
@@ -7,6 +7,7 @@ platforms: [pc, playstation, xbox, nintendo-switch]
 genres: [horror, survival]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1996010/header.jpg
 coverage_status: audited
 first_release: 2024-05-09
 published_by: /domains/games/orgs/sfb-games

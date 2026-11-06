@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: chrono-cross-the-radical-dreamers-edition
 title: "Chrono Cross: The Radical Dreamers Edition"
@@ -7,6 +7,7 @@ platforms: [pc, playstation, xbox, nintendo-switch]
 genres: [rpg]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1133760/header.jpg
 coverage_status: audited
 first_release: 2022-04-07
 published_by: /domains/games/orgs/square-enix

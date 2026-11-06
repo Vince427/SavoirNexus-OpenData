@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: quantum-break
 title: "Quantum Break"
@@ -7,6 +7,7 @@ platforms: [pc, xbox]
 genres: [action, adventure]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/474960/header.jpg
 coverage_status: audited
 first_release: 2016-04-05
 published_by: /domains/games/orgs/xbox-game-studios

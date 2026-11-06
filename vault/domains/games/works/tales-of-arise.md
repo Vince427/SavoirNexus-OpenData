@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: tales-of-arise
 title: "Tales of Arise"
@@ -7,6 +7,7 @@ platforms: [pc, playstation, xbox]
 genres: [rpg, action]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/740130/header.jpg
 coverage_status: audited
 first_release: 2021-09-10
 published_by: /domains/games/orgs/bandai-namco

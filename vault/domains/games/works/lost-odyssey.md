@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: lost-odyssey
 title: "Lost Odyssey"
@@ -7,6 +7,7 @@ platforms: [xbox]
 genres: [rpg, turn-based]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/0/09/Lost_Odyssey_cover.jpg
 coverage_status: audited
 first_release: 2007-12-06
 published_by: /domains/games/orgs/xbox-game-studios

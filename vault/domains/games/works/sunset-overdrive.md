@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: sunset-overdrive
 title: "Sunset Overdrive"
@@ -7,6 +7,7 @@ platforms: [pc, xbox]
 genres: [action, shooter]
 game_modes: [single-player, multiplayer, co-op]
 monetization_model: premium
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/847370/header.jpg
 coverage_status: audited
 first_release: 2014-10-28
 published_by: /domains/games/orgs/xbox-game-studios

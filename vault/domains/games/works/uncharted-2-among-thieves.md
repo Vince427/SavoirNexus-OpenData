@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: uncharted-2-among-thieves
 title: "Uncharted 2: Among Thieves"
@@ -7,6 +7,7 @@ platforms: [playstation]
 genres: [action, adventure]
 game_modes: [single-player, multiplayer]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/7/7b/Uncharted_2_box_artwork.jpg
 coverage_status: audited
 first_release: 2009-10-13
 published_by: /domains/games/orgs/sony-interactive-entertainment

@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: bayonetta-2
 title: "Bayonetta 2"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [hack-and-slash, action]
 game_modes: [single-player, co-op]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/b/b1/Bayonetta_2_box_artwork.png
 coverage_status: audited
 first_release: 2014-09-20
 published_by: /domains/games/orgs/nintendo

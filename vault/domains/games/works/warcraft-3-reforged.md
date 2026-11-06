@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: warcraft-3-reforged
 title: "Warcraft III: Reforged"
@@ -7,6 +7,7 @@ platforms: [pc]
 genres: [strategy, rts]
 game_modes: [single-player, multiplayer]
 monetization_model: premium
+cover_url: https://thumb.wikimedia.org/wikipedia/en/thumb/4/4f/Warcraft_III_Reforged_Logo.png/330px-Warcraft_III_Reforged_Logo.png
 coverage_status: audited
 first_release: 2020-01-29
 published_by: /domains/games/orgs/blizzard-entertainment

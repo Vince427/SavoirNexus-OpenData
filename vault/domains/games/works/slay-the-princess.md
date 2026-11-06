@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: slay-the-princess
 title: "Slay the Princess"
@@ -7,6 +7,7 @@ platforms: [pc, playstation, xbox, nintendo-switch]
 genres: [adventure]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1989270/header.jpg
 coverage_status: audited
 first_release: 2023-10-23
 published_by: /domains/games/orgs/serenity-forge

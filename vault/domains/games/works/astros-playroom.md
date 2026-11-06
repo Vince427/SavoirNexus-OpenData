@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: astros-playroom
 title: "Astro's Playroom"
@@ -7,6 +7,7 @@ platforms: [playstation]
 genres: [platformer]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://thumb.wikimedia.org/wikipedia/en/thumb/c/c6/Astro%27s_Playroom.jpg/330px-Astro%27s_Playroom.jpg
 coverage_status: audited
 first_release: 2020-11-12
 published_by: /domains/games/orgs/sony-interactive-entertainment

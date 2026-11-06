@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: sly-3-honor-among-thieves
 title: "Sly 3: Honor Among Thieves"
@@ -7,6 +7,7 @@ platforms: [playstation]
 genres: [stealth, action]
 game_modes: [single-player, multiplayer]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/c/c4/Sly_3.jpg
 coverage_status: heritage
 first_release: 2005-09-26
 published_by: /domains/games/orgs/sony-interactive-entertainment

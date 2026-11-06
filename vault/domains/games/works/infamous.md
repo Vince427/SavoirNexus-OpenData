@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: infamous
 title: "inFAMOUS"
@@ -7,6 +7,7 @@ platforms: [playstation]
 genres: [action, adventure]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/2/2b/Infamous-cover.jpg
 coverage_status: audited
 first_release: 2009-05-26
 published_by: /domains/games/orgs/sony-interactive-entertainment

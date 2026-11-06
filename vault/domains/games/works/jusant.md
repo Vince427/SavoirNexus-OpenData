@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: jusant
 title: "Jusant"
@@ -7,6 +7,7 @@ platforms: [pc, playstation, xbox]
 genres: [adventure]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1977170/header.jpg
 coverage_status: audited
 first_release: 2023-10-31
 published_by: /domains/games/orgs/dontnod-entertainment

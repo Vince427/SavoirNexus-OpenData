@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: mortal-kombat-11
 title: "Mortal Kombat 11"
@@ -7,6 +7,7 @@ platforms: [pc, playstation, xbox, nintendo-switch]
 genres: [action]
 game_modes: [single-player, multiplayer, pvp]
 monetization_model: premium-plus-mtx
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/976310/header.jpg
 coverage_status: audited
 first_release: 2019-04-23
 published_by: /domains/games/orgs/warner-bros-games

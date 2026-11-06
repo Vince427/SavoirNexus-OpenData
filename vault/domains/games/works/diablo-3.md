@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: diablo-3
 title: "Diablo III"
@@ -7,6 +7,7 @@ platforms: [pc, playstation, xbox, nintendo-switch]
 genres: [rpg, action]
 game_modes: [single-player, multiplayer, co-op]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/8/80/Diablo_III_cover.png
 coverage_status: audited
 first_release: 2012-05-15
 published_by: /domains/games/orgs/blizzard-entertainment

@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: fire-emblem-awakening
 title: "Fire Emblem: Awakening"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [rpg, strategy]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/4/44/Fire_Emblem_Awakening_box_art.png
 coverage_status: audited
 first_release: 2012-04-19
 published_by: /domains/games/orgs/nintendo

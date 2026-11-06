@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: xenoblade-chronicles-x
 title: "Xenoblade Chronicles X"
@@ -7,6 +7,7 @@ platforms: [wii-u]
 genres: [rpg, action]
 game_modes: [single-player, multiplayer]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/7/7f/Xenoblade_Chronicles_X_-_Boxart.jpg
 coverage_status: audited
 first_release: 2015-04-29
 published_by: /domains/games/orgs/nintendo

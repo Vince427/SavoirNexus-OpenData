@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: tales-of-symphonia-remastered
 title: "Tales of Symphonia Remastered"
@@ -7,6 +7,7 @@ platforms: [pc, playstation, xbox, nintendo-switch]
 genres: [rpg, action]
 game_modes: [single-player, co-op]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/6/6d/Tales_of_Symphonia_case_cover.jpg
 coverage_status: audited
 first_release: 2023-02-17
 published_by: /domains/games/orgs/bandai-namco

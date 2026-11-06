@@ -1,10 +1,11 @@
----
+﻿---
 type: game
 id: overwatch
 title: Overwatch
 lang: fr
 platforms: [pc, playstation, xbox, nintendo-switch]
 monetization_model: premium-plus-mtx
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2357570/header.jpg
 coverage_status: audited
 first_release: 2016-05-24
 published_by: /domains/games/orgs/blizzard-entertainment

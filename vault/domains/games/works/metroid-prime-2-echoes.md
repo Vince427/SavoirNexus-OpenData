@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: metroid-prime-2-echoes
 title: "Metroid Prime 2: Echoes"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [action, adventure]
 game_modes: [single-player, multiplayer]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/6/6e/Echoesboxart_%28Large%29.jpg
 coverage_status: heritage
 first_release: 2004-11-15
 published_by: /domains/games/orgs/nintendo

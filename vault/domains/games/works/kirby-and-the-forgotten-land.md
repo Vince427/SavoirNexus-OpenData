@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: kirby-and-the-forgotten-land
 title: "Kirby and the Forgotten Land"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [platformer, action]
 game_modes: [single-player, co-op]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/e/e7/Kirby_and_The_Forgotten_Land_Icon.jpg
 coverage_status: audited
 first_release: 2022-03-25
 published_by: /domains/games/orgs/nintendo

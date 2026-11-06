@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: fire-emblem-engage
 title: "Fire Emblem Engage"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [rpg, strategy]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/f/f6/Fire_Emblem_Engage.jpg
 coverage_status: audited
 first_release: 2023-01-20
 published_by: /domains/games/orgs/nintendo

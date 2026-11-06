@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: gran-turismo-4
 title: "Gran Turismo 4"
@@ -7,6 +7,7 @@ platforms: [playstation]
 genres: [racing, simulation]
 game_modes: [single-player, multiplayer]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/0/06/Gran_Turismo_4.jpg
 coverage_status: heritage
 first_release: 2004-12-28
 published_by: /domains/games/orgs/sony-interactive-entertainment

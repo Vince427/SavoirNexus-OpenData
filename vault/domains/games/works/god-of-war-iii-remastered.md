@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: god-of-war-iii-remastered
 title: "God of War III Remastered"
@@ -7,6 +7,7 @@ platforms: [playstation]
 genres: [action, hack-and-slash]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/8/8b/God_of_War_III_cover_art.jpg
 coverage_status: audited
 first_release: 2015-07-14
 published_by: /domains/games/orgs/sony-interactive-entertainment

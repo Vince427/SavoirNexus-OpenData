@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: animal-crossing-new-horizons
 title: "Animal Crossing: New Horizons"
@@ -8,7 +8,7 @@ genres: [simulation]
 game_modes: [single-player, multiplayer]
 monetization_model: premium
 coverage_status: audited
-cover_url: https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000027619/9989957eae3a6b545194c42fec2071675c34aadacd65e6b33fdfe7b3b6a86c3a
+cover_url: /covers/animal-crossing-new-horizons.jpg
 first_release: 2020-03-20
 wikidata_id: Q64566657
 wikidata_status: verified

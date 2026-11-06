@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: super-mario-rpg
 title: "Super Mario RPG"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [rpg]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://thumb.wikimedia.org/wikipedia/en/thumb/8/89/SuperMarioRPGSNESCoverArtUS.jpg/330px-SuperMarioRPGSNESCoverArtUS.jpg
 coverage_status: audited
 first_release: 2023-11-17
 published_by: /domains/games/orgs/nintendo

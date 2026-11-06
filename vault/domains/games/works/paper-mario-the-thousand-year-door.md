@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: paper-mario-the-thousand-year-door
 title: "Paper Mario: The Thousand-Year Door"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [rpg]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/1/18/Paper_Mario_The_Thousand-Year_Door_%28artwork%29.jpg
 coverage_status: audited
 first_release: 2024-05-23
 published_by: /domains/games/orgs/nintendo

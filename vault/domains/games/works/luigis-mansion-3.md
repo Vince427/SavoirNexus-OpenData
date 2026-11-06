@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: luigis-mansion-3
 title: "Luigi's Mansion 3"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [action, adventure]
 game_modes: [single-player, co-op, multiplayer]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/3/38/Luigi%27s_Mansion_3.jpg
 coverage_status: audited
 first_release: 2019-10-31
 published_by: /domains/games/orgs/nintendo

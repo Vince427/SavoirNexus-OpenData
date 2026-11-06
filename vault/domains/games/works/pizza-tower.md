@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: pizza-tower
 title: "Pizza Tower"
@@ -7,6 +7,7 @@ platforms: [pc, nintendo-switch]
 genres: [platformer, action]
 game_modes: [single-player]
 monetization_model: premium
+cover_url: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2231450/header.jpg
 coverage_status: audited
 first_release: 2023-01-26
 published_by: /domains/games/orgs/tour-de-pizza

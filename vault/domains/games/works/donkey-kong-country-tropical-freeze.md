@@ -1,4 +1,4 @@
----
+﻿---
 type: game
 id: donkey-kong-country-tropical-freeze
 title: "Donkey Kong Country: Tropical Freeze"
@@ -7,6 +7,7 @@ platforms: [nintendo-switch]
 genres: [platformer]
 game_modes: [single-player, co-op]
 monetization_model: premium
+cover_url: https://upload.wikimedia.org/wikipedia/en/f/fb/DKC5_box_art.jpg
 coverage_status: audited
 first_release: 2018-05-04
 published_by: /domains/games/orgs/nintendo
