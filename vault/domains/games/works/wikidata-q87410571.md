@@ -1,4 +1,4 @@
-﻿---
+---
 type: game
 id: wikidata-q87410571
 title: "Iron Harvest"
@@ -11,7 +11,7 @@ monetization_model: premium
 coverage_status: audited
 wikidata_id: Q87410571
 metadata_provenance: "Wikidata (CC0)"
-first_release: http://www
+publication_status: in_development
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/826630/header.jpg"
 tags: [jeu, audited, strategy]
 observations:

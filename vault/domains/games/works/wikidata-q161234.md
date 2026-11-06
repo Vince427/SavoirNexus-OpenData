@@ -1,4 +1,4 @@
-﻿---
+---
 type: game
 id: wikidata-q161234
 title: "0 A.D."
@@ -9,6 +9,7 @@ genres: [strategy]
 genres_source: ["real-time strategy", "historical video game"]
 monetization_model: free-to-play
 coverage_status: audited
+cover_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/0_A.D._alpha_25_-_playing_as_Spartans.jpg/330px-0_A.D._alpha_25_-_playing_as_Spartans.jpg
 wikidata_id: Q161234
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2021-02-21

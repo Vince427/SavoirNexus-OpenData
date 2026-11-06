@@ -1,4 +1,4 @@
-﻿---
+---
 type: game
 id: wikidata-q816823
 title: "Beneath a Steel Sky"
@@ -11,7 +11,7 @@ monetization_model: premium
 coverage_status: audited
 wikidata_id: Q816823
 metadata_provenance: "Wikidata (CC0)"
-first_release: http://www
+first_release: 1994-03-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1368340/header.jpg"
 tags: [jeu, audited, adventure]
 observations:

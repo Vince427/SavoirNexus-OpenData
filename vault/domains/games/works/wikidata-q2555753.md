@@ -1,4 +1,4 @@
-﻿---
+---
 type: game
 id: wikidata-q2555753
 title: "Beyond Good & Evil 2"
@@ -11,7 +11,7 @@ monetization_model: premium
 coverage_status: audited
 wikidata_id: Q2555753
 metadata_provenance: "Wikidata (CC0)"
-first_release: http://www
+first_release: 2020-09-01
 tags: [jeu, audited, action, adventure, rpg]
 observations:
   - id: wikidata-q2555753:obs-coffre-aleatoire-01

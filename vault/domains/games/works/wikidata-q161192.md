@@ -1,4 +1,4 @@
-﻿---
+---
 type: game
 id: wikidata-q161192
 title: "007 Legends"
@@ -9,6 +9,7 @@ genres: [shooter]
 genres_source: ["first-person shooter"]
 monetization_model: premium
 coverage_status: audited
+cover_url: https://upload.wikimedia.org/wikipedia/en/5/58/007Legends.jpg
 wikidata_id: Q161192
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-10-16

@@ -1,4 +1,4 @@
-﻿---
+---
 type: game
 id: wikidata-q2804858
 title: "'Splosion Man"
@@ -8,6 +8,7 @@ genres: [action, platformer]
 genres_source: ["action game", "platformer"]
 monetization_model: premium
 coverage_status: audited
+cover_url: https://upload.wikimedia.org/wikipedia/en/2/22/Splosion_Man.jpg
 wikidata_id: Q2804858
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-07-22

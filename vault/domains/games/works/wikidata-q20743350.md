@@ -1,4 +1,4 @@
-﻿---
+---
 type: game
 id: wikidata-q20743350
 title: "Titanic: Honor and Glory"
@@ -11,7 +11,7 @@ monetization_model: premium
 coverage_status: audited
 wikidata_id: Q20743350
 metadata_provenance: "Wikidata (CC0)"
-first_release: http://www
+publication_status: in_development
 tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q20743350:obs-coffre-aleatoire-01

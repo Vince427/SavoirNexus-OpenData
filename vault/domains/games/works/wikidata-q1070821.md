@@ -1,4 +1,4 @@
-﻿---
+---
 type: game
 id: wikidata-q1070821
 title: "007: Quantum of Solace"
@@ -9,6 +9,7 @@ genres: [shooter]
 genres_source: ["third-person shooter", "first-person shooter"]
 monetization_model: premium
 coverage_status: audited
+cover_url: https://upload.wikimedia.org/wikipedia/en/a/ab/Quantum_of_Solace_Cover_Art.PNG
 wikidata_id: Q1070821
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-10-31
