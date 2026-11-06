@@ -13,7 +13,7 @@ wikidata_id: Q4049368
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-08-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6120/header.jpg"
-tags: [jeu, cataloged, action, fighting]
+tags: [jeu, audited, action, fighting]
 observations:
   - id: wikidata-q4049368:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Shank
 
-**Shank** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4049368](https://www.wikidata.org/wiki/Q4049368)).
+**Shank** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4049368` (Wikidata : [Q4049368](https://www.wikidata.org/wiki/Q4049368)).
 
 ## Audit de conformite structurelle
 

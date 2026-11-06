@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3269481
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-09-25
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q3269481:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Sands of Destruction
 
-**Sands of Destruction** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3269481](https://www.wikidata.org/wiki/Q3269481)).
+**Sands of Destruction** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3269481` (Wikidata : [Q3269481](https://www.wikidata.org/wiki/Q3269481)).
 
 ## Audit de conformite structurelle
 

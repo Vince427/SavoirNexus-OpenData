@@ -13,7 +13,7 @@ wikidata_id: Q45319725
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-11-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/633460/header.jpg"
-tags: [jeu, cataloged, action, shooter]
+tags: [jeu, audited, action, shooter]
 observations:
   - id: wikidata-q45319725:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Tannenberg
 
-**Tannenberg** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q45319725](https://www.wikidata.org/wiki/Q45319725)).
+**Tannenberg** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q45319725` (Wikidata : [Q45319725](https://www.wikidata.org/wiki/Q45319725)).
 
 ## Audit de conformite structurelle
 

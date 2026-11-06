@@ -13,7 +13,7 @@ wikidata_id: Q1813552
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-03-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22180/header.jpg"
-tags: [jeu, cataloged, action, adventure, horror, puzzle, survival]
+tags: [jeu, audited, action, adventure, horror, puzzle, survival]
 observations:
   - id: wikidata-q1813552:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Penumbra: Overture
 
-**Penumbra: Overture** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1813552](https://www.wikidata.org/wiki/Q1813552)).
+**Penumbra: Overture** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1813552` (Wikidata : [Q1813552](https://www.wikidata.org/wiki/Q1813552)).
 
 ## Audit de conformite structurelle
 

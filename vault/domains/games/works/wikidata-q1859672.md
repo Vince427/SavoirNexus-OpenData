@@ -13,7 +13,7 @@ wikidata_id: Q1859672
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-01-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/645730/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1859672:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Resonance of Fate
 
-**Resonance of Fate** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1859672](https://www.wikidata.org/wiki/Q1859672)).
+**Resonance of Fate** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1859672` (Wikidata : [Q1859672](https://www.wikidata.org/wiki/Q1859672)).
 
 ## Audit de conformite structurelle
 

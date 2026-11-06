@@ -13,7 +13,7 @@ wikidata_id: Q3181087
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-12-19
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/102840/header.jpg"
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q3181087:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Shank 2
 
-**Shank 2** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3181087](https://www.wikidata.org/wiki/Q3181087)).
+**Shank 2** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3181087` (Wikidata : [Q3181087](https://www.wikidata.org/wiki/Q3181087)).
 
 ## Audit de conformite structurelle
 

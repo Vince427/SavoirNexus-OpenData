@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2301369
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-03-29
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q2301369:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Kingdom Hearts 3D: Dream Drop Distance
 
-**Kingdom Hearts 3D: Dream Drop Distance** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2301369](https://www.wikidata.org/wiki/Q2301369)).
+**Kingdom Hearts 3D: Dream Drop Distance** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2301369` (Wikidata : [Q2301369](https://www.wikidata.org/wiki/Q2301369)).
 
 ## Audit de conformite structurelle
 

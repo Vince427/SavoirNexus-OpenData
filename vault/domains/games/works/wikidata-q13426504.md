@@ -13,7 +13,7 @@ wikidata_id: Q13426504
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-04-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/230840/header.jpg"
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q13426504:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Daylight
 
-**Daylight** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q13426504](https://www.wikidata.org/wiki/Q13426504)).
+**Daylight** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q13426504` (Wikidata : [Q13426504](https://www.wikidata.org/wiki/Q13426504)).
 
 ## Audit de conformite structurelle
 

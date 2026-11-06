@@ -13,7 +13,7 @@ wikidata_id: Q130578
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/219780/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q130578:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Divinity II
 
-**Divinity II** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q130578](https://www.wikidata.org/wiki/Q130578)).
+**Divinity II** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q130578` (Wikidata : [Q130578](https://www.wikidata.org/wiki/Q130578)).
 
 ## Audit de conformite structurelle
 

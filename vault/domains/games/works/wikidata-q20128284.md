@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q20128284
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-10-22
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q20128284:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # The Legend of Zelda : Tri Force Heroes
 
-**The Legend of Zelda : Tri Force Heroes** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20128284](https://www.wikidata.org/wiki/Q20128284)).
+**The Legend of Zelda : Tri Force Heroes** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20128284` (Wikidata : [Q20128284](https://www.wikidata.org/wiki/Q20128284)).
 
 ## Audit de conformite structurelle
 

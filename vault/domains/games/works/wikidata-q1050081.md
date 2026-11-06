@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1050081
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-08-15
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q1050081:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Touhou Hisōtensoku
 
-**Touhou Hisōtensoku** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1050081](https://www.wikidata.org/wiki/Q1050081)).
+**Touhou Hisōtensoku** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1050081` (Wikidata : [Q1050081](https://www.wikidata.org/wiki/Q1050081)).
 
 ## Audit de conformite structurelle
 

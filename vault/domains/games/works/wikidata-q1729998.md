@@ -13,7 +13,7 @@ wikidata_id: Q1729998
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-10-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/47400/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1729998:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Stronghold 3
 
-**Stronghold 3** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1729998](https://www.wikidata.org/wiki/Q1729998)).
+**Stronghold 3** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1729998` (Wikidata : [Q1729998](https://www.wikidata.org/wiki/Q1729998)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q2558253
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-09-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/25980/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q2558253:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Majesty 2: The Fantasy Kingdom Sim
 
-**Majesty 2: The Fantasy Kingdom Sim** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2558253](https://www.wikidata.org/wiki/Q2558253)).
+**Majesty 2: The Fantasy Kingdom Sim** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2558253` (Wikidata : [Q2558253](https://www.wikidata.org/wiki/Q2558253)).
 
 ## Audit de conformite structurelle
 

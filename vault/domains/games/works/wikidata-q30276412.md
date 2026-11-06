@@ -13,7 +13,7 @@ wikidata_id: Q30276412
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-10-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/612880/header.jpg"
-tags: [jeu, cataloged, action, adventure, shooter]
+tags: [jeu, audited, action, adventure, shooter]
 observations:
   - id: wikidata-q30276412:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Wolfenstein II : The New Colossus
 
-**Wolfenstein II : The New Colossus** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q30276412](https://www.wikidata.org/wiki/Q30276412)).
+**Wolfenstein II : The New Colossus** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q30276412` (Wikidata : [Q30276412](https://www.wikidata.org/wiki/Q30276412)).
 
 ## Audit de conformite structurelle
 

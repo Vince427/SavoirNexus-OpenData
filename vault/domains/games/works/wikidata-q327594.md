@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q327594
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-03-16
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q327594:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Final Fantasy XII
 
-**Final Fantasy XII** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q327594](https://www.wikidata.org/wiki/Q327594)).
+**Final Fantasy XII** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q327594` (Wikidata : [Q327594](https://www.wikidata.org/wiki/Q327594)).
 
 ## Audit de conformite structurelle
 

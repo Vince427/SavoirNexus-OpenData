@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2328977
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-27
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q2328977:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -102,7 +102,7 @@ observations:
 
 # Madagascar Kartz
 
-**Madagascar Kartz** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2328977](https://www.wikidata.org/wiki/Q2328977)).
+**Madagascar Kartz** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2328977` (Wikidata : [Q2328977](https://www.wikidata.org/wiki/Q2328977)).
 
 ## Audit de conformite structurelle
 

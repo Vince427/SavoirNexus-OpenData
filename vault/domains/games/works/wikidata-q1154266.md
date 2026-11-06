@@ -13,7 +13,7 @@ wikidata_id: Q1154266
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-09-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/92000/header.jpg"
-tags: [jeu, cataloged, action, adventure, horror, survival]
+tags: [jeu, audited, action, adventure, horror, survival]
 observations:
   - id: wikidata-q1154266:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Hydrophobia
 
-**Hydrophobia** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1154266](https://www.wikidata.org/wiki/Q1154266)).
+**Hydrophobia** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1154266` (Wikidata : [Q1154266](https://www.wikidata.org/wiki/Q1154266)).
 
 ## Audit de conformite structurelle
 

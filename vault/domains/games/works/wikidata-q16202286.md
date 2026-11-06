@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q16202286
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-09-12
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q16202286:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # NHL 2K7
 
-**NHL 2K7** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16202286](https://www.wikidata.org/wiki/Q16202286)).
+**NHL 2K7** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16202286` (Wikidata : [Q16202286](https://www.wikidata.org/wiki/Q16202286)).
 
 ## Audit de conformite structurelle
 

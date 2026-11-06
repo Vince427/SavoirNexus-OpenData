@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2334357
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-04-21
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2334357:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -102,7 +102,7 @@ observations:
 
 # Paradise
 
-**Paradise** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2334357](https://www.wikidata.org/wiki/Q2334357)).
+**Paradise** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2334357` (Wikidata : [Q2334357](https://www.wikidata.org/wiki/Q2334357)).
 
 ## Audit de conformite structurelle
 

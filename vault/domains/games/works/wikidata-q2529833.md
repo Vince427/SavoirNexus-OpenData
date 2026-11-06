@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2529833
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-06-21
-tags: [jeu, cataloged, horror]
+tags: [jeu, audited, horror]
 observations:
   - id: wikidata-q2529833:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Shadows of the Damned
 
-**Shadows of the Damned** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2529833](https://www.wikidata.org/wiki/Q2529833)).
+**Shadows of the Damned** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2529833` (Wikidata : [Q2529833](https://www.wikidata.org/wiki/Q2529833)).
 
 ## Audit de conformite structurelle
 

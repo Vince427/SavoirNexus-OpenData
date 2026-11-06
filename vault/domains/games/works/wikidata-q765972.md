@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q765972
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-12-14
-tags: [jeu, cataloged, rpg, strategy]
+tags: [jeu, audited, rpg, strategy]
 observations:
   - id: wikidata-q765972:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Pokémon Battle Revolution
 
-**Pokémon Battle Revolution** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q765972](https://www.wikidata.org/wiki/Q765972)).
+**Pokémon Battle Revolution** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q765972` (Wikidata : [Q765972](https://www.wikidata.org/wiki/Q765972)).
 
 ## Audit de conformite structurelle
 

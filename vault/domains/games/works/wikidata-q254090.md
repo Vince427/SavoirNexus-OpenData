@@ -13,7 +13,7 @@ wikidata_id: Q254090
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-09-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/44360/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q254090:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # F1 2011
 
-**F1 2011** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q254090](https://www.wikidata.org/wiki/Q254090)).
+**F1 2011** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q254090` (Wikidata : [Q254090](https://www.wikidata.org/wiki/Q254090)).
 
 ## Audit de conformite structurelle
 

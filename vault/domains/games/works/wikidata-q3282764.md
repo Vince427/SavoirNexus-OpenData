@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q3282764
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-04-27
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q3282764:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -101,7 +101,7 @@ observations:
 
 # Innocent Life: A Futuristic Harvest Moon
 
-**Innocent Life: A Futuristic Harvest Moon** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3282764](https://www.wikidata.org/wiki/Q3282764)).
+**Innocent Life: A Futuristic Harvest Moon** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3282764` (Wikidata : [Q3282764](https://www.wikidata.org/wiki/Q3282764)).
 
 ## Audit de conformite structurelle
 

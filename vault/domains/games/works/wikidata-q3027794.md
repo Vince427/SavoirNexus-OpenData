@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3027794
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-07-19
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q3027794:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Digimon World Re:Digitize
 
-**Digimon World Re:Digitize** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3027794](https://www.wikidata.org/wiki/Q3027794)).
+**Digimon World Re:Digitize** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3027794` (Wikidata : [Q3027794](https://www.wikidata.org/wiki/Q3027794)).
 
 ## Audit de conformite structurelle
 

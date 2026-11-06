@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q840253
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-08
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q840253:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Shin Megami Tensei: Strange Journey
 
-**Shin Megami Tensei: Strange Journey** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q840253](https://www.wikidata.org/wiki/Q840253)).
+**Shin Megami Tensei: Strange Journey** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q840253` (Wikidata : [Q840253](https://www.wikidata.org/wiki/Q840253)).
 
 ## Audit de conformite structurelle
 

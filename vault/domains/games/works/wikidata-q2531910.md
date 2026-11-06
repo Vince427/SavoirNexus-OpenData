@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2531910
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-12-22
-tags: [jeu, cataloged, action, rpg, shooter]
+tags: [jeu, audited, action, rpg, shooter]
 observations:
   - id: wikidata-q2531910:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # The 3rd Birthday
 
-**The 3rd Birthday** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2531910](https://www.wikidata.org/wiki/Q2531910)).
+**The 3rd Birthday** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2531910` (Wikidata : [Q2531910](https://www.wikidata.org/wiki/Q2531910)).
 
 ## Audit de conformite structurelle
 

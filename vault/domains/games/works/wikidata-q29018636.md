@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q29018636
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-12-14
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q29018636:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -102,7 +102,7 @@ observations:
 
 # Digimon Story: Cyber Sleuth - Hacker's Memory
 
-**Digimon Story: Cyber Sleuth - Hacker's Memory** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q29018636](https://www.wikidata.org/wiki/Q29018636)).
+**Digimon Story: Cyber Sleuth - Hacker's Memory** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q29018636` (Wikidata : [Q29018636](https://www.wikidata.org/wiki/Q29018636)).
 
 ## Audit de conformite structurelle
 

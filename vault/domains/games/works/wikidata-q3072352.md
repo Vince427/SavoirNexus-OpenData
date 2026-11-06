@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3072352
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-12-13
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q3072352:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Final Fantasy Fables: Chocobo's Dungeon
 
-**Final Fantasy Fables: Chocobo's Dungeon** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3072352](https://www.wikidata.org/wiki/Q3072352)).
+**Final Fantasy Fables: Chocobo's Dungeon** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3072352` (Wikidata : [Q3072352](https://www.wikidata.org/wiki/Q3072352)).
 
 ## Audit de conformite structurelle
 

@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q2265766
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-02-13
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2265766:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -101,7 +101,7 @@ observations:
 
 # Ghost Rider
 
-**Ghost Rider** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2265766](https://www.wikidata.org/wiki/Q2265766)).
+**Ghost Rider** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2265766` (Wikidata : [Q2265766](https://www.wikidata.org/wiki/Q2265766)).
 
 ## Audit de conformite structurelle
 

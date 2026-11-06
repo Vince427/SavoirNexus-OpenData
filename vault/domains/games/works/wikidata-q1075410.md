@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1075410
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-07-22
-tags: [jeu, cataloged, adventure, rpg]
+tags: [jeu, audited, adventure, rpg]
 observations:
   - id: wikidata-q1075410:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Fate/EXTRA
 
-**Fate/EXTRA** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1075410](https://www.wikidata.org/wiki/Q1075410)).
+**Fate/EXTRA** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1075410` (Wikidata : [Q1075410](https://www.wikidata.org/wiki/Q1075410)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q684160
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-12-07
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q684160:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Yakuza 2
 
-**Yakuza 2** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q684160](https://www.wikidata.org/wiki/Q684160)).
+**Yakuza 2** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q684160` (Wikidata : [Q684160](https://www.wikidata.org/wiki/Q684160)).
 
 ## Audit de conformite structurelle
 

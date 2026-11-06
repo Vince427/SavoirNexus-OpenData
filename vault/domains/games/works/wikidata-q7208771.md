@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q7208771
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-04-24
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q7208771:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Pokémon Rumble U
 
-**Pokémon Rumble U** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q7208771](https://www.wikidata.org/wiki/Q7208771)).
+**Pokémon Rumble U** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q7208771` (Wikidata : [Q7208771](https://www.wikidata.org/wiki/Q7208771)).
 
 ## Audit de conformite structurelle
 

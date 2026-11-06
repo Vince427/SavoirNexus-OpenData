@@ -13,7 +13,7 @@ wikidata_id: Q28753372
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-10-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/399810/header.jpg"
-tags: [jeu, cataloged, horror, rpg, survival]
+tags: [jeu, audited, horror, rpg, survival]
 observations:
   - id: wikidata-q28753372:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Call of Cthulhu: The Official Video Game
 
-**Call of Cthulhu: The Official Video Game** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28753372](https://www.wikidata.org/wiki/Q28753372)).
+**Call of Cthulhu: The Official Video Game** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28753372` (Wikidata : [Q28753372](https://www.wikidata.org/wiki/Q28753372)).
 
 ## Audit de conformite structurelle
 

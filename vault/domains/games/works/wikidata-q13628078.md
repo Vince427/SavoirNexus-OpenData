@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q13628078
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-06-27
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q13628078:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Atelier Escha & Logy: Alchemists of the Dusk Sky
 
-**Atelier Escha & Logy: Alchemists of the Dusk Sky** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q13628078](https://www.wikidata.org/wiki/Q13628078)).
+**Atelier Escha & Logy: Alchemists of the Dusk Sky** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q13628078` (Wikidata : [Q13628078](https://www.wikidata.org/wiki/Q13628078)).
 
 ## Audit de conformite structurelle
 

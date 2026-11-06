@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1150685
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-01-08
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q1150685:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Sonic Riders: Zero Gravity
 
-**Sonic Riders: Zero Gravity** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1150685](https://www.wikidata.org/wiki/Q1150685)).
+**Sonic Riders: Zero Gravity** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1150685` (Wikidata : [Q1150685](https://www.wikidata.org/wiki/Q1150685)).
 
 ## Audit de conformite structurelle
 

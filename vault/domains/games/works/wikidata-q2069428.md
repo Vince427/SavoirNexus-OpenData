@@ -13,7 +13,7 @@ wikidata_id: Q2069428
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-05-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/234630/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q2069428:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Project CARS
 
-**Project CARS** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2069428](https://www.wikidata.org/wiki/Q2069428)).
+**Project CARS** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2069428` (Wikidata : [Q2069428](https://www.wikidata.org/wiki/Q2069428)).
 
 ## Audit de conformite structurelle
 

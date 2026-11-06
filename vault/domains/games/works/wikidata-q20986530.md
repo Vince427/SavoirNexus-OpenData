@@ -13,7 +13,7 @@ wikidata_id: Q20986530
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-03-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1530160/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q20986530:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Digimon World : Next Order
 
-**Digimon World : Next Order** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20986530](https://www.wikidata.org/wiki/Q20986530)).
+**Digimon World : Next Order** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20986530` (Wikidata : [Q20986530](https://www.wikidata.org/wiki/Q20986530)).
 
 ## Audit de conformite structurelle
 

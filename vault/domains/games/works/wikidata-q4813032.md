@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q4813032
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-06-24
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q4813032:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Atelier Totori: The Adventurer of Arland
 
-**Atelier Totori: The Adventurer of Arland** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4813032](https://www.wikidata.org/wiki/Q4813032)).
+**Atelier Totori: The Adventurer of Arland** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4813032` (Wikidata : [Q4813032](https://www.wikidata.org/wiki/Q4813032)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q5417661
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-08-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/417880/header.jpg"
-tags: [jeu, cataloged, adventure, simulation]
+tags: [jeu, audited, adventure, simulation]
 observations:
   - id: wikidata-q5417661:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Everybody's Gone to the Rapture
 
-**Everybody's Gone to the Rapture** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5417661](https://www.wikidata.org/wiki/Q5417661)).
+**Everybody's Gone to the Rapture** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5417661` (Wikidata : [Q5417661](https://www.wikidata.org/wiki/Q5417661)).
 
 ## Audit de conformite structurelle
 

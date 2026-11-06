@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1207061
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-03-23
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1207061:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Red Steel 2
 
-**Red Steel 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1207061](https://www.wikidata.org/wiki/Q1207061)).
+**Red Steel 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1207061` (Wikidata : [Q1207061](https://www.wikidata.org/wiki/Q1207061)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q7200554
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-05-26
-tags: [jeu, cataloged, simulation, strategy]
+tags: [jeu, audited, simulation, strategy]
 observations:
   - id: wikidata-q7200554:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Plague Inc.
 
-**Plague Inc.** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q7200554](https://www.wikidata.org/wiki/Q7200554)).
+**Plague Inc.** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q7200554` (Wikidata : [Q7200554](https://www.wikidata.org/wiki/Q7200554)).
 
 ## Audit de conformite structurelle
 

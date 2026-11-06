@@ -13,7 +13,7 @@ wikidata_id: Q27971937
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-09-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/493840/header.jpg"
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q27971937:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Marvel vs. Capcom: Infinite
 
-**Marvel vs. Capcom: Infinite** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q27971937](https://www.wikidata.org/wiki/Q27971937)).
+**Marvel vs. Capcom: Infinite** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q27971937` (Wikidata : [Q27971937](https://www.wikidata.org/wiki/Q27971937)).
 
 ## Audit de conformite structurelle
 

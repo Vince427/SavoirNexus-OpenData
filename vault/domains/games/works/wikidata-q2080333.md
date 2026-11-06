@@ -13,7 +13,7 @@ wikidata_id: Q2080333
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-08-10
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215260/header.jpg"
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q2080333:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Scott Pilgrim contre le Monde, le jeu
 
-**Scott Pilgrim contre le Monde, le jeu** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2080333](https://www.wikidata.org/wiki/Q2080333)).
+**Scott Pilgrim contre le Monde, le jeu** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2080333` (Wikidata : [Q2080333](https://www.wikidata.org/wiki/Q2080333)).
 
 ## Audit de conformite structurelle
 

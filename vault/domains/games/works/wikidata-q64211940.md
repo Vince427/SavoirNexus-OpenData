@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q64211940
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-05-28
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q64211940:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -101,7 +101,7 @@ observations:
 
 # Blood and Truth
 
-**Blood and Truth** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q64211940](https://www.wikidata.org/wiki/Q64211940)).
+**Blood and Truth** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q64211940` (Wikidata : [Q64211940](https://www.wikidata.org/wiki/Q64211940)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3858424
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-12-19
-tags: [jeu, cataloged, action, adventure, rpg, survival]
+tags: [jeu, audited, action, adventure, rpg, survival]
 observations:
   - id: wikidata-q3858424:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Minicraft
 
-**Minicraft** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3858424](https://www.wikidata.org/wiki/Q3858424)).
+**Minicraft** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3858424` (Wikidata : [Q3858424](https://www.wikidata.org/wiki/Q3858424)).
 
 ## Audit de conformite structurelle
 

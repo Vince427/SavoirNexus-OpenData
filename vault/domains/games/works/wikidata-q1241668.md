@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1241668
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-06-28
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q1241668:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Donkey Kong Jet Race
 
-**Donkey Kong Jet Race** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1241668](https://www.wikidata.org/wiki/Q1241668)).
+**Donkey Kong Jet Race** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1241668` (Wikidata : [Q1241668](https://www.wikidata.org/wiki/Q1241668)).
 
 ## Audit de conformite structurelle
 

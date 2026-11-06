@@ -13,7 +13,7 @@ wikidata_id: Q1707918
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-03-04
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/213670/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1707918:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # South Park : Le Bâton de la vérité
 
-**South Park : Le Bâton de la vérité** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1707918](https://www.wikidata.org/wiki/Q1707918)).
+**South Park : Le Bâton de la vérité** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1707918` (Wikidata : [Q1707918](https://www.wikidata.org/wiki/Q1707918)).
 
 ## Audit de conformite structurelle
 

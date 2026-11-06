@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q300548
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-12-23
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q300548:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # A Second Face
 
-**A Second Face** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q300548](https://www.wikidata.org/wiki/Q300548)).
+**A Second Face** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q300548` (Wikidata : [Q300548](https://www.wikidata.org/wiki/Q300548)).
 
 ## Audit de conformite structurelle
 

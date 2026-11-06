@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3282588
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-12-10
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q3282588:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Again
 
-**Again** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3282588](https://www.wikidata.org/wiki/Q3282588)).
+**Again** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3282588` (Wikidata : [Q3282588](https://www.wikidata.org/wiki/Q3282588)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q2666198
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-03-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/48110/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2666198:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Silent Hunter 5: Battle of the Atlantic
 
-**Silent Hunter 5: Battle of the Atlantic** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2666198](https://www.wikidata.org/wiki/Q2666198)).
+**Silent Hunter 5: Battle of the Atlantic** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2666198` (Wikidata : [Q2666198](https://www.wikidata.org/wiki/Q2666198)).
 
 ## Audit de conformite structurelle
 

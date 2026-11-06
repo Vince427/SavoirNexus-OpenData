@@ -13,7 +13,7 @@ wikidata_id: Q2641772
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-10-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/71270/header.jpg"
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2641772:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Football Manager 2012
 
-**Football Manager 2012** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2641772](https://www.wikidata.org/wiki/Q2641772)).
+**Football Manager 2012** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2641772` (Wikidata : [Q2641772](https://www.wikidata.org/wiki/Q2641772)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q21558573
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-01-19
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q21558573:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Valkyria Revolution
 
-**Valkyria Revolution** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q21558573](https://www.wikidata.org/wiki/Q21558573)).
+**Valkyria Revolution** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q21558573` (Wikidata : [Q21558573](https://www.wikidata.org/wiki/Q21558573)).
 
 ## Audit de conformite structurelle
 

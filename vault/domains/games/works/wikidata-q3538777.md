@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3538777
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-01-01
-tags: [jeu, cataloged, action, shooter]
+tags: [jeu, audited, action, shooter]
 observations:
   - id: wikidata-q3538777:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # E.X. Troopers
 
-**E.X. Troopers** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3538777](https://www.wikidata.org/wiki/Q3538777)).
+**E.X. Troopers** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3538777` (Wikidata : [Q3538777](https://www.wikidata.org/wiki/Q3538777)).
 
 ## Audit de conformite structurelle
 

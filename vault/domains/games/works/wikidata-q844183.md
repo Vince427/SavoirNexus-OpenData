@@ -13,7 +13,7 @@ wikidata_id: Q844183
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/237850/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q844183:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Dreamfall Chapters
 
-**Dreamfall Chapters** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q844183](https://www.wikidata.org/wiki/Q844183)).
+**Dreamfall Chapters** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q844183` (Wikidata : [Q844183](https://www.wikidata.org/wiki/Q844183)).
 
 ## Audit de conformite structurelle
 

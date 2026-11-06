@@ -13,7 +13,7 @@ wikidata_id: Q211229
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-03-06
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/362890/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q211229:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Black Mesa
 
-**Black Mesa** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q211229](https://www.wikidata.org/wiki/Q211229)).
+**Black Mesa** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q211229` (Wikidata : [Q211229](https://www.wikidata.org/wiki/Q211229)).
 
 ## Audit de conformite structurelle
 

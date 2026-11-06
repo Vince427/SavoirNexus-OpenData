@@ -13,7 +13,7 @@ wikidata_id: Q30321596
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/607050/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q30321596:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Wargroove
 
-**Wargroove** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q30321596](https://www.wikidata.org/wiki/Q30321596)).
+**Wargroove** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q30321596` (Wikidata : [Q30321596](https://www.wikidata.org/wiki/Q30321596)).
 
 ## Audit de conformite structurelle
 

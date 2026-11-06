@@ -13,7 +13,7 @@ wikidata_id: Q846296
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-03-04
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13000/header.jpg"
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q846296:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Ninja Reflex
 
-**Ninja Reflex** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q846296](https://www.wikidata.org/wiki/Q846296)).
+**Ninja Reflex** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q846296` (Wikidata : [Q846296](https://www.wikidata.org/wiki/Q846296)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q17985365
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/381780/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q17985365:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # 80 Days
 
-**80 Days** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17985365](https://www.wikidata.org/wiki/Q17985365)).
+**80 Days** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17985365` (Wikidata : [Q17985365](https://www.wikidata.org/wiki/Q17985365)).
 
 ## Audit de conformite structurelle
 

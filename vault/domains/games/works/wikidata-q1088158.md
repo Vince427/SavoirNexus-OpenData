@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1088158
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-05-19
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q1088158:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dead or Alive: Dimensions
 
-**Dead or Alive: Dimensions** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1088158](https://www.wikidata.org/wiki/Q1088158)).
+**Dead or Alive: Dimensions** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1088158` (Wikidata : [Q1088158](https://www.wikidata.org/wiki/Q1088158)).
 
 ## Audit de conformite structurelle
 

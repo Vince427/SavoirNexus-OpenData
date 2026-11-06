@@ -13,7 +13,7 @@ wikidata_id: Q17486360
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-11-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/311560/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q17486360:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Assassin's Creed Rogue
 
-**Assassin's Creed Rogue** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17486360](https://www.wikidata.org/wiki/Q17486360)).
+**Assassin's Creed Rogue** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17486360` (Wikidata : [Q17486360](https://www.wikidata.org/wiki/Q17486360)).
 
 ## Audit de conformite structurelle
 

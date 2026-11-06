@@ -13,7 +13,7 @@ wikidata_id: Q1988780
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-08-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/33440/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1988780:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Driver: San Francisco
 
-**Driver: San Francisco** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1988780](https://www.wikidata.org/wiki/Q1988780)).
+**Driver: San Francisco** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1988780` (Wikidata : [Q1988780](https://www.wikidata.org/wiki/Q1988780)).
 
 ## Audit de conformite structurelle
 

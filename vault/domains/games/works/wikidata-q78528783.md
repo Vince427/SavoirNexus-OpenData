@@ -13,7 +13,7 @@ wikidata_id: Q78528783
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-04-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1184050/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q78528783:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Gears Tactics
 
-**Gears Tactics** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q78528783](https://www.wikidata.org/wiki/Q78528783)).
+**Gears Tactics** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q78528783` (Wikidata : [Q78528783](https://www.wikidata.org/wiki/Q78528783)).
 
 ## Audit de conformite structurelle
 

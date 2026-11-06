@@ -13,7 +13,7 @@ wikidata_id: Q14646314
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-10-10
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/347830/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q14646314:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Fairy Fencer F
 
-**Fairy Fencer F** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q14646314](https://www.wikidata.org/wiki/Q14646314)).
+**Fairy Fencer F** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q14646314` (Wikidata : [Q14646314](https://www.wikidata.org/wiki/Q14646314)).
 
 ## Audit de conformite structurelle
 

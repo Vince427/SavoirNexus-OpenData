@@ -13,7 +13,7 @@ wikidata_id: Q29966201
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-08-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/515220/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q29966201:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # F1 2017
 
-**F1 2017** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q29966201](https://www.wikidata.org/wiki/Q29966201)).
+**F1 2017** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q29966201` (Wikidata : [Q29966201](https://www.wikidata.org/wiki/Q29966201)).
 
 ## Audit de conformite structurelle
 

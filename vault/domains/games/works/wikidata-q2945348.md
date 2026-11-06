@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2945348
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-12-27
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q2945348:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Fantasy Life
 
-**Fantasy Life** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2945348](https://www.wikidata.org/wiki/Q2945348)).
+**Fantasy Life** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2945348` (Wikidata : [Q2945348](https://www.wikidata.org/wiki/Q2945348)).
 
 ## Audit de conformite structurelle
 

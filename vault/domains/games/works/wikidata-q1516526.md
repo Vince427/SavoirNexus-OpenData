@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q1516526
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-01-19
-tags: [jeu, cataloged, horror]
+tags: [jeu, audited, horror]
 observations:
   - id: wikidata-q1516526:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # Rule of Rose
 
-**Rule of Rose** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1516526](https://www.wikidata.org/wiki/Q1516526)).
+**Rule of Rose** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1516526` (Wikidata : [Q1516526](https://www.wikidata.org/wiki/Q1516526)).
 
 ## Audit de conformite structurelle
 

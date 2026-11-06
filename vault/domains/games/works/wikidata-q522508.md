@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q522508
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-04-09
-tags: [jeu, cataloged, platformer, rpg]
+tags: [jeu, audited, platformer, rpg]
 observations:
   - id: wikidata-q522508:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Super Paper Mario
 
-**Super Paper Mario** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q522508](https://www.wikidata.org/wiki/Q522508)).
+**Super Paper Mario** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q522508` (Wikidata : [Q522508](https://www.wikidata.org/wiki/Q522508)).
 
 ## Audit de conformite structurelle
 

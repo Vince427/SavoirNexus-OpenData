@@ -13,7 +13,7 @@ wikidata_id: Q4048375
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-08-31
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22230/header.jpg"
-tags: [jeu, cataloged, action, strategy]
+tags: [jeu, audited, action, strategy]
 observations:
   - id: wikidata-q4048375:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Rock of Ages
 
-**Rock of Ages** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4048375](https://www.wikidata.org/wiki/Q4048375)).
+**Rock of Ages** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4048375` (Wikidata : [Q4048375](https://www.wikidata.org/wiki/Q4048375)).
 
 ## Audit de conformite structurelle
 

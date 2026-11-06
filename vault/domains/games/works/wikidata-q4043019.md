@@ -13,7 +13,7 @@ wikidata_id: Q4043019
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-10-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42920/header.jpg"
-tags: [jeu, cataloged, rpg, strategy]
+tags: [jeu, audited, rpg, strategy]
 observations:
   - id: wikidata-q4043019:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # The Kings' Crusade
 
-**The Kings' Crusade** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4043019](https://www.wikidata.org/wiki/Q4043019)).
+**The Kings' Crusade** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4043019` (Wikidata : [Q4043019](https://www.wikidata.org/wiki/Q4043019)).
 
 ## Audit de conformite structurelle
 

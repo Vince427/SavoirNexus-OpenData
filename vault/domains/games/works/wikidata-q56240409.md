@@ -13,7 +13,7 @@ wikidata_id: Q56240409
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-09-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/581320/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q56240409:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Insurgency: Sandstorm
 
-**Insurgency: Sandstorm** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q56240409](https://www.wikidata.org/wiki/Q56240409)).
+**Insurgency: Sandstorm** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q56240409` (Wikidata : [Q56240409](https://www.wikidata.org/wiki/Q56240409)).
 
 ## Audit de conformite structurelle
 

@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q3737907
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-05-02
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q3737907:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -101,7 +101,7 @@ observations:
 
 # Fable Heroes
 
-**Fable Heroes** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3737907](https://www.wikidata.org/wiki/Q3737907)).
+**Fable Heroes** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3737907` (Wikidata : [Q3737907](https://www.wikidata.org/wiki/Q3737907)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2312881
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-08-01
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q2312881:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Monster Hunter Tri
 
-**Monster Hunter Tri** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2312881](https://www.wikidata.org/wiki/Q2312881)).
+**Monster Hunter Tri** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2312881` (Wikidata : [Q2312881](https://www.wikidata.org/wiki/Q2312881)).
 
 ## Audit de conformite structurelle
 

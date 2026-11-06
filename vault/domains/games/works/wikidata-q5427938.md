@@ -13,7 +13,7 @@ wikidata_id: Q5427938
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-10-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/250320/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q5427938:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # The Wolf Among Us
 
-**The Wolf Among Us** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5427938](https://www.wikidata.org/wiki/Q5427938)).
+**The Wolf Among Us** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5427938` (Wikidata : [Q5427938](https://www.wikidata.org/wiki/Q5427938)).
 
 ## Audit de conformite structurelle
 

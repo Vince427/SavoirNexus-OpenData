@@ -13,7 +13,7 @@ wikidata_id: Q16258874
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-02-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/269050/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q16258874:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Year Walk
 
-**Year Walk** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16258874](https://www.wikidata.org/wiki/Q16258874)).
+**Year Walk** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16258874` (Wikidata : [Q16258874](https://www.wikidata.org/wiki/Q16258874)).
 
 ## Audit de conformite structurelle
 

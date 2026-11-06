@@ -13,7 +13,7 @@ wikidata_id: Q13165
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-16
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/9800/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q13165:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Death to Spies
 
-**Death to Spies** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q13165](https://www.wikidata.org/wiki/Q13165)).
+**Death to Spies** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q13165` (Wikidata : [Q13165](https://www.wikidata.org/wiki/Q13165)).
 
 ## Audit de conformite structurelle
 

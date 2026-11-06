@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q21076316
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-02-10
-tags: [jeu, cataloged, rpg, strategy]
+tags: [jeu, audited, rpg, strategy]
 observations:
   - id: wikidata-q21076316:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Shin Megami Tensei IV: Apocalypse
 
-**Shin Megami Tensei IV: Apocalypse** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q21076316](https://www.wikidata.org/wiki/Q21076316)).
+**Shin Megami Tensei IV: Apocalypse** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q21076316` (Wikidata : [Q21076316](https://www.wikidata.org/wiki/Q21076316)).
 
 ## Audit de conformite structurelle
 

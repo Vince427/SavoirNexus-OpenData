@@ -13,7 +13,7 @@ wikidata_id: Q1995146
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-10-10
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/314160/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q1995146:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Flight Simulator X
 
-**Flight Simulator X** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1995146](https://www.wikidata.org/wiki/Q1995146)).
+**Flight Simulator X** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1995146` (Wikidata : [Q1995146](https://www.wikidata.org/wiki/Q1995146)).
 
 ## Audit de conformite structurelle
 

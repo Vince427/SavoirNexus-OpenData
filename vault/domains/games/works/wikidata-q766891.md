@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q766891
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-09-11
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q766891:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # MotorStorm: Pacific Rift
 
-**MotorStorm: Pacific Rift** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q766891](https://www.wikidata.org/wiki/Q766891)).
+**MotorStorm: Pacific Rift** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q766891` (Wikidata : [Q766891](https://www.wikidata.org/wiki/Q766891)).
 
 ## Audit de conformite structurelle
 

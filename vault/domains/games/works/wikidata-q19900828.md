@@ -13,7 +13,7 @@ wikidata_id: Q19900828
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-07-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/388090/header.jpg"
-tags: [jeu, cataloged, adventure, horror, survival]
+tags: [jeu, audited, adventure, horror, survival]
 observations:
   - id: wikidata-q19900828:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Five Nights at Freddy's 4
 
-**Five Nights at Freddy's 4** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q19900828](https://www.wikidata.org/wiki/Q19900828)).
+**Five Nights at Freddy's 4** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q19900828` (Wikidata : [Q19900828](https://www.wikidata.org/wiki/Q19900828)).
 
 ## Audit de conformite structurelle
 

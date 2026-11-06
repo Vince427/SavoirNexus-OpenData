@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1204108
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-06-28
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1204108:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Half-Life 2: Survivor
 
-**Half-Life 2: Survivor** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1204108](https://www.wikidata.org/wiki/Q1204108)).
+**Half-Life 2: Survivor** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1204108` (Wikidata : [Q1204108](https://www.wikidata.org/wiki/Q1204108)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q1342528
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-08-06
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/282440/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1342528:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Quake Live
 
-**Quake Live** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1342528](https://www.wikidata.org/wiki/Q1342528)).
+**Quake Live** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1342528` (Wikidata : [Q1342528](https://www.wikidata.org/wiki/Q1342528)).
 
 ## Audit de conformite structurelle
 

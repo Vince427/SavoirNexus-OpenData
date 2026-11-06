@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2640332
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-09-08
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2640332:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Tales of Xillia
 
-**Tales of Xillia** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2640332](https://www.wikidata.org/wiki/Q2640332)).
+**Tales of Xillia** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2640332` (Wikidata : [Q2640332](https://www.wikidata.org/wiki/Q2640332)).
 
 ## Audit de conformite structurelle
 

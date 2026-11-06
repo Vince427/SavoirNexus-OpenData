@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2581577
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-02-28
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2581577:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Soma Bringer
 
-**Soma Bringer** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2581577](https://www.wikidata.org/wiki/Q2581577)).
+**Soma Bringer** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2581577` (Wikidata : [Q2581577](https://www.wikidata.org/wiki/Q2581577)).
 
 ## Audit de conformite structurelle
 

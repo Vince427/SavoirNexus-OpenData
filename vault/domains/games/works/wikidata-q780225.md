@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q780225
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-07-20
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q780225:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Battle Stadium D.O.N
 
-**Battle Stadium D.O.N** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q780225](https://www.wikidata.org/wiki/Q780225)).
+**Battle Stadium D.O.N** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q780225` (Wikidata : [Q780225](https://www.wikidata.org/wiki/Q780225)).
 
 ## Audit de conformite structurelle
 

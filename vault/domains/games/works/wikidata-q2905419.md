@@ -13,7 +13,7 @@ wikidata_id: Q2905419
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286480/header.jpg"
-tags: [jeu, cataloged, adventure, horror]
+tags: [jeu, audited, adventure, horror]
 observations:
   - id: wikidata-q2905419:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Black Mirror 3
 
-**Black Mirror 3** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2905419](https://www.wikidata.org/wiki/Q2905419)).
+**Black Mirror 3** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2905419` (Wikidata : [Q2905419](https://www.wikidata.org/wiki/Q2905419)).
 
 ## Audit de conformite structurelle
 

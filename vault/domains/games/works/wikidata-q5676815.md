@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q5676815
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-01-25
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q5676815:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Harvest Moon: Hero of Leaf Valley
 
-**Harvest Moon: Hero of Leaf Valley** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5676815](https://www.wikidata.org/wiki/Q5676815)).
+**Harvest Moon: Hero of Leaf Valley** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5676815` (Wikidata : [Q5676815](https://www.wikidata.org/wiki/Q5676815)).
 
 ## Audit de conformite structurelle
 

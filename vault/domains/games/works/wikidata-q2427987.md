@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2427987
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-06-16
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q2427987:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # MySims Racing
 
-**MySims Racing** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2427987](https://www.wikidata.org/wiki/Q2427987)).
+**MySims Racing** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2427987` (Wikidata : [Q2427987](https://www.wikidata.org/wiki/Q2427987)).
 
 ## Audit de conformite structurelle
 

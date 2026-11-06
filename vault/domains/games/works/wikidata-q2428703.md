@@ -13,7 +13,7 @@ wikidata_id: Q2428703
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-06-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/25910/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q2428703:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Supreme Ruler 2020
 
-**Supreme Ruler 2020** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2428703](https://www.wikidata.org/wiki/Q2428703)).
+**Supreme Ruler 2020** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2428703` (Wikidata : [Q2428703](https://www.wikidata.org/wiki/Q2428703)).
 
 ## Audit de conformite structurelle
 

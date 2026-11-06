@@ -13,7 +13,7 @@ wikidata_id: Q23783496
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-08-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/365450/header.jpg"
-tags: [jeu, cataloged, adventure, simulation]
+tags: [jeu, audited, adventure, simulation]
 observations:
   - id: wikidata-q23783496:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Hacknet
 
-**Hacknet** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q23783496](https://www.wikidata.org/wiki/Q23783496)).
+**Hacknet** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q23783496` (Wikidata : [Q23783496](https://www.wikidata.org/wiki/Q23783496)).
 
 ## Audit de conformite structurelle
 

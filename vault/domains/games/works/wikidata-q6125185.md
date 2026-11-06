@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q6125185
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-06-18
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q6125185:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Tomodachi Collection
 
-**Tomodachi Collection** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q6125185](https://www.wikidata.org/wiki/Q6125185)).
+**Tomodachi Collection** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q6125185` (Wikidata : [Q6125185](https://www.wikidata.org/wiki/Q6125185)).
 
 ## Audit de conformite structurelle
 

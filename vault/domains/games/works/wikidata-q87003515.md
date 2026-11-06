@@ -13,7 +13,7 @@ wikidata_id: Q87003515
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-03-05
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/893850/header.jpg"
-tags: [jeu, cataloged, adventure, puzzle, simulation]
+tags: [jeu, audited, adventure, puzzle, simulation]
 observations:
   - id: wikidata-q87003515:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # The Longing
 
-**The Longing** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q87003515](https://www.wikidata.org/wiki/Q87003515)).
+**The Longing** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q87003515` (Wikidata : [Q87003515](https://www.wikidata.org/wiki/Q87003515)).
 
 ## Audit de conformite structurelle
 

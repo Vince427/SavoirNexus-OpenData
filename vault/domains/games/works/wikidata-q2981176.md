@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2981176
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-08-22
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q2981176:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -102,7 +102,7 @@ observations:
 
 # Pac-Man World Rally
 
-**Pac-Man World Rally** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2981176](https://www.wikidata.org/wiki/Q2981176)).
+**Pac-Man World Rally** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2981176` (Wikidata : [Q2981176](https://www.wikidata.org/wiki/Q2981176)).
 
 ## Audit de conformite structurelle
 

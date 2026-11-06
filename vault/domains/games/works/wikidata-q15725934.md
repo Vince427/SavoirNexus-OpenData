@@ -13,7 +13,7 @@ wikidata_id: Q15725934
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-04-09
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/275390/header.jpg"
-tags: [jeu, cataloged, action, fighting]
+tags: [jeu, audited, action, fighting]
 observations:
   - id: wikidata-q15725934:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Guacamelee!
 
-**Guacamelee!** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15725934](https://www.wikidata.org/wiki/Q15725934)).
+**Guacamelee!** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15725934` (Wikidata : [Q15725934](https://www.wikidata.org/wiki/Q15725934)).
 
 ## Audit de conformite structurelle
 

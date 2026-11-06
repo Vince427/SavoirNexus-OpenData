@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q788134
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-02-15
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q788134:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Marvel vs. Capcom 3 : Fate of Two Worlds
 
-**Marvel vs. Capcom 3 : Fate of Two Worlds** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q788134](https://www.wikidata.org/wiki/Q788134)).
+**Marvel vs. Capcom 3 : Fate of Two Worlds** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q788134` (Wikidata : [Q788134](https://www.wikidata.org/wiki/Q788134)).
 
 ## Audit de conformite structurelle
 

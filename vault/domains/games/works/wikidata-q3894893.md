@@ -13,7 +13,7 @@ wikidata_id: Q3894893
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-08-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227080/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q3894893:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Papo & Yo
 
-**Papo & Yo** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3894893](https://www.wikidata.org/wiki/Q3894893)).
+**Papo & Yo** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3894893` (Wikidata : [Q3894893](https://www.wikidata.org/wiki/Q3894893)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q11118657
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-06-12
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q11118657:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Metal Gear Online
 
-**Metal Gear Online** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q11118657](https://www.wikidata.org/wiki/Q11118657)).
+**Metal Gear Online** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q11118657` (Wikidata : [Q11118657](https://www.wikidata.org/wiki/Q11118657)).
 
 ## Audit de conformite structurelle
 

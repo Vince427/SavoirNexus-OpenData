@@ -13,7 +13,7 @@ wikidata_id: Q16267745
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-02-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/322500/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q16267745:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Superhot
 
-**Superhot** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16267745](https://www.wikidata.org/wiki/Q16267745)).
+**Superhot** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16267745` (Wikidata : [Q16267745](https://www.wikidata.org/wiki/Q16267745)).
 
 ## Audit de conformite structurelle
 

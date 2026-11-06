@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1315644
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-10-14
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q1315644:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -102,7 +102,7 @@ observations:
 
 # Pro Evolution Soccer 2012
 
-**Pro Evolution Soccer 2012** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1315644](https://www.wikidata.org/wiki/Q1315644)).
+**Pro Evolution Soccer 2012** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1315644` (Wikidata : [Q1315644](https://www.wikidata.org/wiki/Q1315644)).
 
 ## Audit de conformite structurelle
 

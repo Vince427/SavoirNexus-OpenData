@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1276932
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-03-15
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q1276932:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -102,7 +102,7 @@ observations:
 
 # Top Spin 4
 
-**Top Spin 4** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1276932](https://www.wikidata.org/wiki/Q1276932)).
+**Top Spin 4** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1276932` (Wikidata : [Q1276932](https://www.wikidata.org/wiki/Q1276932)).
 
 ## Audit de conformite structurelle
 

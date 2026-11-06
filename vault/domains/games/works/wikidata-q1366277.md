@@ -13,7 +13,7 @@ wikidata_id: Q1366277
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-08-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42960/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1366277:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Victoria 2
 
-**Victoria 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1366277](https://www.wikidata.org/wiki/Q1366277)).
+**Victoria 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1366277` (Wikidata : [Q1366277](https://www.wikidata.org/wiki/Q1366277)).
 
 ## Audit de conformite structurelle
 

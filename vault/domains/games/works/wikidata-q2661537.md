@@ -13,7 +13,7 @@ wikidata_id: Q2661537
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-09-03
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/48180/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2661537:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Tom Clancy's HAWX 2
 
-**Tom Clancy's HAWX 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2661537](https://www.wikidata.org/wiki/Q2661537)).
+**Tom Clancy's HAWX 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2661537` (Wikidata : [Q2661537](https://www.wikidata.org/wiki/Q2661537)).
 
 ## Audit de conformite structurelle
 

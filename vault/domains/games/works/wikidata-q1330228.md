@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1330228
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-01-22
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1330228:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Hotel Dusk: Room 215
 
-**Hotel Dusk: Room 215** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1330228](https://www.wikidata.org/wiki/Q1330228)).
+**Hotel Dusk: Room 215** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1330228` (Wikidata : [Q1330228](https://www.wikidata.org/wiki/Q1330228)).
 
 ## Audit de conformite structurelle
 

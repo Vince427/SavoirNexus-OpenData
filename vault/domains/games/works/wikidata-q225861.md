@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q225861
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-27
-tags: [jeu, cataloged, adventure, puzzle]
+tags: [jeu, audited, adventure, puzzle]
 observations:
   - id: wikidata-q225861:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Professeur Layton et le Destin perdu
 
-**Professeur Layton et le Destin perdu** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q225861](https://www.wikidata.org/wiki/Q225861)).
+**Professeur Layton et le Destin perdu** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q225861` (Wikidata : [Q225861](https://www.wikidata.org/wiki/Q225861)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q97590136
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-11-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1356670/header.jpg"
-tags: [jeu, cataloged, action, platformer, rpg, simulation]
+tags: [jeu, audited, action, platformer, rpg, simulation]
 observations:
   - id: wikidata-q97590136:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Sakuna : Of Rice and Ruin
 
-**Sakuna : Of Rice and Ruin** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q97590136](https://www.wikidata.org/wiki/Q97590136)).
+**Sakuna : Of Rice and Ruin** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q97590136` (Wikidata : [Q97590136](https://www.wikidata.org/wiki/Q97590136)).
 
 ## Audit de conformite structurelle
 

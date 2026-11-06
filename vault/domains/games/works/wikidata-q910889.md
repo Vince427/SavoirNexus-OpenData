@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q910889
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-07-13
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q910889:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # Shin Megami Tensei: Persona 3
 
-**Shin Megami Tensei: Persona 3** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q910889](https://www.wikidata.org/wiki/Q910889)).
+**Shin Megami Tensei: Persona 3** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q910889` (Wikidata : [Q910889](https://www.wikidata.org/wiki/Q910889)).
 
 ## Audit de conformite structurelle
 

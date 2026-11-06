@@ -13,7 +13,7 @@ wikidata_id: Q55080111
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/536270/header.jpg"
-tags: [jeu, cataloged, survival]
+tags: [jeu, audited, survival]
 observations:
   - id: wikidata-q55080111:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Ancestors: The Humankind Odyssey
 
-**Ancestors: The Humankind Odyssey** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q55080111](https://www.wikidata.org/wiki/Q55080111)).
+**Ancestors: The Humankind Odyssey** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q55080111` (Wikidata : [Q55080111](https://www.wikidata.org/wiki/Q55080111)).
 
 ## Audit de conformite structurelle
 

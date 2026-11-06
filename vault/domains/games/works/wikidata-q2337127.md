@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2337127
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-09-18
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2337127:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dragon Ball: Origins
 
-**Dragon Ball: Origins** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2337127](https://www.wikidata.org/wiki/Q2337127)).
+**Dragon Ball: Origins** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2337127` (Wikidata : [Q2337127](https://www.wikidata.org/wiki/Q2337127)).
 
 ## Audit de conformite structurelle
 

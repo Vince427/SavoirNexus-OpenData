@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q54870
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-03
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q54870:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Star Wars: Battlefront - Elite Squadron
 
-**Star Wars: Battlefront - Elite Squadron** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q54870](https://www.wikidata.org/wiki/Q54870)).
+**Star Wars: Battlefront - Elite Squadron** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q54870` (Wikidata : [Q54870](https://www.wikidata.org/wiki/Q54870)).
 
 ## Audit de conformite structurelle
 

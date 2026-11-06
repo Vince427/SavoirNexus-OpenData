@@ -13,7 +13,7 @@ wikidata_id: Q2529074
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-09-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/35000/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2529074:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Mini Ninjas
 
-**Mini Ninjas** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2529074](https://www.wikidata.org/wiki/Q2529074)).
+**Mini Ninjas** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2529074` (Wikidata : [Q2529074](https://www.wikidata.org/wiki/Q2529074)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2633998
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-10-04
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2633998:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -102,7 +102,7 @@ observations:
 
 # Spider-Man : Aux frontières du temps
 
-**Spider-Man : Aux frontières du temps** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2633998](https://www.wikidata.org/wiki/Q2633998)).
+**Spider-Man : Aux frontières du temps** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2633998` (Wikidata : [Q2633998](https://www.wikidata.org/wiki/Q2633998)).
 
 ## Audit de conformite structurelle
 

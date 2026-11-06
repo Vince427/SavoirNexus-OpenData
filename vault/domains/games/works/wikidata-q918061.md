@@ -13,7 +13,7 @@ wikidata_id: Q918061
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-09-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/44310/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q918061:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # F1 2010
 
-**F1 2010** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q918061](https://www.wikidata.org/wiki/Q918061)).
+**F1 2010** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q918061` (Wikidata : [Q918061](https://www.wikidata.org/wiki/Q918061)).
 
 ## Audit de conformite structurelle
 

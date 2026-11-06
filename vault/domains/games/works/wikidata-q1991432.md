@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1991432
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-03-12
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q1991432:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Picross 3D
 
-**Picross 3D** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1991432](https://www.wikidata.org/wiki/Q1991432)).
+**Picross 3D** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1991432` (Wikidata : [Q1991432](https://www.wikidata.org/wiki/Q1991432)).
 
 ## Audit de conformite structurelle
 

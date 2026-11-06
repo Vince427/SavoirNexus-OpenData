@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q3503169
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-02-23
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q3503169:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -101,7 +101,7 @@ observations:
 
 # Suikoden V
 
-**Suikoden V** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3503169](https://www.wikidata.org/wiki/Q3503169)).
+**Suikoden V** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3503169` (Wikidata : [Q3503169](https://www.wikidata.org/wiki/Q3503169)).
 
 ## Audit de conformite structurelle
 

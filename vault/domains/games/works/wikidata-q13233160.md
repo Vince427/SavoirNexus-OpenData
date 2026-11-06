@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q13233160
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-11-08
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q13233160:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario & Sonic at the Sochi 2014 Olympic Winter Games
 
-**Mario & Sonic at the Sochi 2014 Olympic Winter Games** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q13233160](https://www.wikidata.org/wiki/Q13233160)).
+**Mario & Sonic at the Sochi 2014 Olympic Winter Games** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q13233160` (Wikidata : [Q13233160](https://www.wikidata.org/wiki/Q13233160)).
 
 ## Audit de conformite structurelle
 

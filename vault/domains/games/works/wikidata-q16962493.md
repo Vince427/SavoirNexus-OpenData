@@ -13,7 +13,7 @@ wikidata_id: Q16962493
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-11-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/330830/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q16962493:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Tales from the Borderlands
 
-**Tales from the Borderlands** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16962493](https://www.wikidata.org/wiki/Q16962493)).
+**Tales from the Borderlands** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16962493` (Wikidata : [Q16962493](https://www.wikidata.org/wiki/Q16962493)).
 
 ## Audit de conformite structurelle
 

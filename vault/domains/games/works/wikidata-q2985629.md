@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2985629
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-01-01
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2985629:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -102,7 +102,7 @@ observations:
 
 # Kud Wafter
 
-**Kud Wafter** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2985629](https://www.wikidata.org/wiki/Q2985629)).
+**Kud Wafter** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2985629` (Wikidata : [Q2985629](https://www.wikidata.org/wiki/Q2985629)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3283277
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-08-25
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q3283277:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Silent Hill: Orphan
 
-**Silent Hill: Orphan** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3283277](https://www.wikidata.org/wiki/Q3283277)).
+**Silent Hill: Orphan** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3283277` (Wikidata : [Q3283277](https://www.wikidata.org/wiki/Q3283277)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q5954954
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-01-27
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q5954954:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Valkyria Chronicles III
 
-**Valkyria Chronicles III** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5954954](https://www.wikidata.org/wiki/Q5954954)).
+**Valkyria Chronicles III** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5954954` (Wikidata : [Q5954954](https://www.wikidata.org/wiki/Q5954954)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2308631
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-10-16
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2308631:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # RollerCoaster Tycoon 3D
 
-**RollerCoaster Tycoon 3D** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2308631](https://www.wikidata.org/wiki/Q2308631)).
+**RollerCoaster Tycoon 3D** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2308631` (Wikidata : [Q2308631](https://www.wikidata.org/wiki/Q2308631)).
 
 ## Audit de conformite structurelle
 

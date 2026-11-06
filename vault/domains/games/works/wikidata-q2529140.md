@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2529140
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-03-10
-tags: [jeu, cataloged, hack-and-slash]
+tags: [jeu, audited, hack-and-slash]
 observations:
   - id: wikidata-q2529140:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -102,7 +102,7 @@ observations:
 
 # Dynasty Warriors 7
 
-**Dynasty Warriors 7** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2529140](https://www.wikidata.org/wiki/Q2529140)).
+**Dynasty Warriors 7** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2529140` (Wikidata : [Q2529140](https://www.wikidata.org/wiki/Q2529140)).
 
 ## Audit de conformite structurelle
 

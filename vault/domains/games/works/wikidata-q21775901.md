@@ -13,7 +13,7 @@ wikidata_id: Q21775901
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-12-10
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/825630/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q21775901:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Steins;Gate 0
 
-**Steins;Gate 0** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q21775901](https://www.wikidata.org/wiki/Q21775901)).
+**Steins;Gate 0** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q21775901` (Wikidata : [Q21775901](https://www.wikidata.org/wiki/Q21775901)).
 
 ## Audit de conformite structurelle
 

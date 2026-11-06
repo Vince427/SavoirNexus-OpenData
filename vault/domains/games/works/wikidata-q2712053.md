@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q2712053
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-07
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q2712053:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -101,7 +101,7 @@ observations:
 
 # Dragon Ball Z: Budokai Tenkaichi 2
 
-**Dragon Ball Z: Budokai Tenkaichi 2** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2712053](https://www.wikidata.org/wiki/Q2712053)).
+**Dragon Ball Z: Budokai Tenkaichi 2** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2712053` (Wikidata : [Q2712053](https://www.wikidata.org/wiki/Q2712053)).
 
 ## Audit de conformite structurelle
 

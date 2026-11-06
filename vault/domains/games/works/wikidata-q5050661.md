@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q5050661
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-02
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q5050661:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Castlevania: The Arcade
 
-**Castlevania: The Arcade** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5050661](https://www.wikidata.org/wiki/Q5050661)).
+**Castlevania: The Arcade** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5050661` (Wikidata : [Q5050661](https://www.wikidata.org/wiki/Q5050661)).
 
 ## Audit de conformite structurelle
 

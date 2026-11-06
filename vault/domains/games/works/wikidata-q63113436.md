@@ -13,7 +13,7 @@ wikidata_id: Q63113436
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-06-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/928600/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q63113436:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # F1 2019
 
-**F1 2019** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q63113436](https://www.wikidata.org/wiki/Q63113436)).
+**F1 2019** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q63113436` (Wikidata : [Q63113436](https://www.wikidata.org/wiki/Q63113436)).
 
 ## Audit de conformite structurelle
 

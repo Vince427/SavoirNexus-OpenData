@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2664557
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-02
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2664557:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # LFP Manager 08
 
-**LFP Manager 08** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2664557](https://www.wikidata.org/wiki/Q2664557)).
+**LFP Manager 08** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2664557` (Wikidata : [Q2664557](https://www.wikidata.org/wiki/Q2664557)).
 
 ## Audit de conformite structurelle
 

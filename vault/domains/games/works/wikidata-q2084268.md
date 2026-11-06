@@ -13,7 +13,7 @@ wikidata_id: Q2084268
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-10-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/215470/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2084268:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Primal Carnage
 
-**Primal Carnage** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2084268](https://www.wikidata.org/wiki/Q2084268)).
+**Primal Carnage** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2084268` (Wikidata : [Q2084268](https://www.wikidata.org/wiki/Q2084268)).
 
 ## Audit de conformite structurelle
 

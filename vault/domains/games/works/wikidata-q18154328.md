@@ -13,7 +13,7 @@ wikidata_id: Q18154328
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-06-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/436670/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q18154328:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Legend of Heroes: Trails in the Sky Third Chapter
 
-**The Legend of Heroes: Trails in the Sky Third Chapter** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18154328](https://www.wikidata.org/wiki/Q18154328)).
+**The Legend of Heroes: Trails in the Sky Third Chapter** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18154328` (Wikidata : [Q18154328](https://www.wikidata.org/wiki/Q18154328)).
 
 ## Audit de conformite structurelle
 

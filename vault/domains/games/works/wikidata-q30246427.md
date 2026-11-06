@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q30246427
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-08-29
-tags: [jeu, cataloged, rpg, strategy]
+tags: [jeu, audited, rpg, strategy]
 observations:
   - id: wikidata-q30246427:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -101,7 +101,7 @@ observations:
 
 # Mario + The Lapins Crétins Kingdom Battle
 
-**Mario + The Lapins Crétins Kingdom Battle** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q30246427](https://www.wikidata.org/wiki/Q30246427)).
+**Mario + The Lapins Crétins Kingdom Battle** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q30246427` (Wikidata : [Q30246427](https://www.wikidata.org/wiki/Q30246427)).
 
 ## Audit de conformite structurelle
 

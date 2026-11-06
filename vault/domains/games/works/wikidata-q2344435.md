@@ -13,7 +13,7 @@ wikidata_id: Q2344435
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-04-02
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/901399/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2344435:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Sam and Max: The Devil's Playhouse
 
-**Sam and Max: The Devil's Playhouse** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2344435](https://www.wikidata.org/wiki/Q2344435)).
+**Sam and Max: The Devil's Playhouse** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2344435` (Wikidata : [Q2344435](https://www.wikidata.org/wiki/Q2344435)).
 
 ## Audit de conformite structurelle
 

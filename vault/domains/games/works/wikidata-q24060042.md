@@ -13,7 +13,7 @@ wikidata_id: Q24060042
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-10-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/506610/header.jpg"
-tags: [jeu, cataloged, adventure, horror, survival]
+tags: [jeu, audited, adventure, horror, survival]
 observations:
   - id: wikidata-q24060042:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -103,7 +103,7 @@ observations:
 
 # Five Nights at Freddy's: Sister Location
 
-**Five Nights at Freddy's: Sister Location** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q24060042](https://www.wikidata.org/wiki/Q24060042)).
+**Five Nights at Freddy's: Sister Location** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q24060042` (Wikidata : [Q24060042](https://www.wikidata.org/wiki/Q24060042)).
 
 ## Audit de conformite structurelle
 

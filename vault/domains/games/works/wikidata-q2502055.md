@@ -13,7 +13,7 @@ wikidata_id: Q2502055
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-02-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/202750/header.jpg"
-tags: [jeu, cataloged, horror, shooter]
+tags: [jeu, audited, horror, shooter]
 observations:
   - id: wikidata-q2502055:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Alan Wake's American Nightmare
 
-**Alan Wake's American Nightmare** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2502055](https://www.wikidata.org/wiki/Q2502055)).
+**Alan Wake's American Nightmare** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2502055` (Wikidata : [Q2502055](https://www.wikidata.org/wiki/Q2502055)).
 
 ## Audit de conformite structurelle
 

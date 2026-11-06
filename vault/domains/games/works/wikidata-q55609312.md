@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q55609312
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-11-06
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q55609312:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -101,7 +101,7 @@ observations:
 
 # Déraciné
 
-**Déraciné** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q55609312](https://www.wikidata.org/wiki/Q55609312)).
+**Déraciné** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q55609312` (Wikidata : [Q55609312](https://www.wikidata.org/wiki/Q55609312)).
 
 ## Audit de conformite structurelle
 

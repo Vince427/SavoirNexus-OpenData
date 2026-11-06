@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q867999
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-23
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q867999:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Clive Barker's Jericho
 
-**Clive Barker's Jericho** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q867999](https://www.wikidata.org/wiki/Q867999)).
+**Clive Barker's Jericho** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q867999` (Wikidata : [Q867999](https://www.wikidata.org/wiki/Q867999)).
 
 ## Audit de conformite structurelle
 

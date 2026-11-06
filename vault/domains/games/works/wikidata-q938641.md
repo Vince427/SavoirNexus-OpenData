@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q938641
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-05-30
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q938641:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Kingdom Hearts: 358/2 Days
 
-**Kingdom Hearts: 358/2 Days** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q938641](https://www.wikidata.org/wiki/Q938641)).
+**Kingdom Hearts: 358/2 Days** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q938641` (Wikidata : [Q938641](https://www.wikidata.org/wiki/Q938641)).
 
 ## Audit de conformite structurelle
 

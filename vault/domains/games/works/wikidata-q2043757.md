@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2043757
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-02-23
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2043757:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Simon le sorcier 4 : En proie au chaos
 
-**Simon le sorcier 4 : En proie au chaos** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2043757](https://www.wikidata.org/wiki/Q2043757)).
+**Simon le sorcier 4 : En proie au chaos** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2043757` (Wikidata : [Q2043757](https://www.wikidata.org/wiki/Q2043757)).
 
 ## Audit de conformite structurelle
 

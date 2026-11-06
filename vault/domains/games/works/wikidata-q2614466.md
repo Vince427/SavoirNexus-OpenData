@@ -13,7 +13,7 @@ wikidata_id: Q2614466
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-11-16
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/212480/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q2614466:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Sonic and All-Stars Racing Transformed
 
-**Sonic and All-Stars Racing Transformed** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2614466](https://www.wikidata.org/wiki/Q2614466)).
+**Sonic and All-Stars Racing Transformed** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2614466` (Wikidata : [Q2614466](https://www.wikidata.org/wiki/Q2614466)).
 
 ## Audit de conformite structurelle
 

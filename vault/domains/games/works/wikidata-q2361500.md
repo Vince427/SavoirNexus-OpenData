@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2361500
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-12-07
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2361500:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -102,7 +102,7 @@ observations:
 
 # Star Wars: Lethal Alliance
 
-**Star Wars: Lethal Alliance** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2361500](https://www.wikidata.org/wiki/Q2361500)).
+**Star Wars: Lethal Alliance** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2361500` (Wikidata : [Q2361500](https://www.wikidata.org/wiki/Q2361500)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q536366
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-12-02
-tags: [jeu, cataloged, action, adventure, platformer]
+tags: [jeu, audited, action, adventure, platformer]
 observations:
   - id: wikidata-q536366:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Prince of Persia: The Fallen King
 
-**Prince of Persia: The Fallen King** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q536366](https://www.wikidata.org/wiki/Q536366)).
+**Prince of Persia: The Fallen King** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q536366` (Wikidata : [Q536366](https://www.wikidata.org/wiki/Q536366)).
 
 ## Audit de conformite structurelle
 

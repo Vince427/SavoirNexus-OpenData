@@ -13,7 +13,7 @@ wikidata_id: Q548203
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-05-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q548203:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Red Dead Redemption
 
-**Red Dead Redemption** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q548203](https://www.wikidata.org/wiki/Q548203)).
+**Red Dead Redemption** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q548203` (Wikidata : [Q548203](https://www.wikidata.org/wiki/Q548203)).
 
 ## Audit de conformite structurelle
 

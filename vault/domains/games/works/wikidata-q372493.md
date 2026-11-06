@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q372493
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-09-17
-tags: [jeu, cataloged, adventure, simulation]
+tags: [jeu, audited, adventure, simulation]
 observations:
   - id: wikidata-q372493:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Endless Ocean 2 : Aventuriers des fonds marins
 
-**Endless Ocean 2 : Aventuriers des fonds marins** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q372493](https://www.wikidata.org/wiki/Q372493)).
+**Endless Ocean 2 : Aventuriers des fonds marins** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q372493` (Wikidata : [Q372493](https://www.wikidata.org/wiki/Q372493)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2014577
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-05-17
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q2014577:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Odin Sphere
 
-**Odin Sphere** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2014577](https://www.wikidata.org/wiki/Q2014577)).
+**Odin Sphere** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2014577` (Wikidata : [Q2014577](https://www.wikidata.org/wiki/Q2014577)).
 
 ## Audit de conformite structurelle
 

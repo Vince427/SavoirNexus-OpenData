@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2331727
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-09-24
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2331727:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -102,7 +102,7 @@ observations:
 
 # Jackass: The Game
 
-**Jackass: The Game** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2331727](https://www.wikidata.org/wiki/Q2331727)).
+**Jackass: The Game** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2331727` (Wikidata : [Q2331727](https://www.wikidata.org/wiki/Q2331727)).
 
 ## Audit de conformite structurelle
 

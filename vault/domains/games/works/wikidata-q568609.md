@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q568609
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-07-10
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q568609:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Shin Megami Tensei: Persona 4
 
-**Shin Megami Tensei: Persona 4** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q568609](https://www.wikidata.org/wiki/Q568609)).
+**Shin Megami Tensei: Persona 4** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q568609` (Wikidata : [Q568609](https://www.wikidata.org/wiki/Q568609)).
 
 ## Audit de conformite structurelle
 

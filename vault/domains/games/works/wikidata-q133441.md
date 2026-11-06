@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q133441
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-12-18
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q133441:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Tales of Hearts
 
-**Tales of Hearts** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q133441](https://www.wikidata.org/wiki/Q133441)).
+**Tales of Hearts** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q133441` (Wikidata : [Q133441](https://www.wikidata.org/wiki/Q133441)).
 
 ## Audit de conformite structurelle
 

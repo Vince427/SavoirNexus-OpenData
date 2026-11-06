@@ -13,7 +13,7 @@ wikidata_id: Q1067441
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/35510/header.jpg"
-tags: [jeu, cataloged, mmo]
+tags: [jeu, audited, mmo]
 observations:
   - id: wikidata-q1067441:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Cities XL
 
-**Cities XL** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1067441](https://www.wikidata.org/wiki/Q1067441)).
+**Cities XL** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1067441` (Wikidata : [Q1067441](https://www.wikidata.org/wiki/Q1067441)).
 
 ## Audit de conformite structurelle
 

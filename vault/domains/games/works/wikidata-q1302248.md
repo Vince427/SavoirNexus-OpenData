@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1302248
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-04-27
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q1302248:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Super Street Fighter IV
 
-**Super Street Fighter IV** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1302248](https://www.wikidata.org/wiki/Q1302248)).
+**Super Street Fighter IV** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1302248` (Wikidata : [Q1302248](https://www.wikidata.org/wiki/Q1302248)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1977516
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-11
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1977516:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Genji: Days of the Blade
 
-**Genji: Days of the Blade** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1977516](https://www.wikidata.org/wiki/Q1977516)).
+**Genji: Days of the Blade** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1977516` (Wikidata : [Q1977516](https://www.wikidata.org/wiki/Q1977516)).
 
 ## Audit de conformite structurelle
 

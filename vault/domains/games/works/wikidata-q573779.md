@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q573779
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-11-02
-tags: [jeu, cataloged, hack-and-slash]
+tags: [jeu, audited, hack-and-slash]
 observations:
   - id: wikidata-q573779:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # God of War: Ghost of Sparta
 
-**God of War: Ghost of Sparta** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q573779](https://www.wikidata.org/wiki/Q573779)).
+**God of War: Ghost of Sparta** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q573779` (Wikidata : [Q573779](https://www.wikidata.org/wiki/Q573779)).
 
 ## Audit de conformite structurelle
 

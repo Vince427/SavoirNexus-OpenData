@@ -13,7 +13,7 @@ wikidata_id: Q906260
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-02-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/34030/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q906260:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Napoleon: Total War
 
-**Napoleon: Total War** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q906260](https://www.wikidata.org/wiki/Q906260)).
+**Napoleon: Total War** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q906260` (Wikidata : [Q906260](https://www.wikidata.org/wiki/Q906260)).
 
 ## Audit de conformite structurelle
 

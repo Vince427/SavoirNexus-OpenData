@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3286611
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-01-01
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q3286611:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # NBA 2K7
 
-**NBA 2K7** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3286611](https://www.wikidata.org/wiki/Q3286611)).
+**NBA 2K7** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3286611` (Wikidata : [Q3286611](https://www.wikidata.org/wiki/Q3286611)).
 
 ## Audit de conformite structurelle
 

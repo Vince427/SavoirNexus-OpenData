@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2736358
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-01-31
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2736358:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # We Ski
 
-**We Ski** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2736358](https://www.wikidata.org/wiki/Q2736358)).
+**We Ski** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2736358` (Wikidata : [Q2736358](https://www.wikidata.org/wiki/Q2736358)).
 
 ## Audit de conformite structurelle
 

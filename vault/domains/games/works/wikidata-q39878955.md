@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q39878955
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-11-10
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q39878955:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario Party: The Top 100
 
-**Mario Party: The Top 100** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q39878955](https://www.wikidata.org/wiki/Q39878955)).
+**Mario Party: The Top 100** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q39878955` (Wikidata : [Q39878955](https://www.wikidata.org/wiki/Q39878955)).
 
 ## Audit de conformite structurelle
 

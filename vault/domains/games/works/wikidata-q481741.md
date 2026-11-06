@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q481741
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-23
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q481741:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -101,7 +101,7 @@ observations:
 
 # Ace Combat 6: Fires of Liberation
 
-**Ace Combat 6: Fires of Liberation** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q481741](https://www.wikidata.org/wiki/Q481741)).
+**Ace Combat 6: Fires of Liberation** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q481741` (Wikidata : [Q481741](https://www.wikidata.org/wiki/Q481741)).
 
 ## Audit de conformite structurelle
 

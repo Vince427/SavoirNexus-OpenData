@@ -13,7 +13,7 @@ wikidata_id: Q117859
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-07-03
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/35700/header.jpg"
-tags: [jeu, cataloged, platformer, puzzle]
+tags: [jeu, audited, platformer, puzzle]
 observations:
   - id: wikidata-q117859:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Trine
 
-**Trine** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q117859](https://www.wikidata.org/wiki/Q117859)).
+**Trine** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q117859` (Wikidata : [Q117859](https://www.wikidata.org/wiki/Q117859)).
 
 ## Audit de conformite structurelle
 

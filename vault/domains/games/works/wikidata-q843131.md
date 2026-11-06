@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q843131
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-01-31
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q843131:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Super Smash Bros. Brawl
 
-**Super Smash Bros. Brawl** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q843131](https://www.wikidata.org/wiki/Q843131)).
+**Super Smash Bros. Brawl** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q843131` (Wikidata : [Q843131](https://www.wikidata.org/wiki/Q843131)).
 
 ## Audit de conformite structurelle
 

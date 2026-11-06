@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q663968
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-10-30
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q663968:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Sports Champions 2
 
-**Sports Champions 2** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q663968](https://www.wikidata.org/wiki/Q663968)).
+**Sports Champions 2** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q663968` (Wikidata : [Q663968](https://www.wikidata.org/wiki/Q663968)).
 
 ## Audit de conformite structurelle
 

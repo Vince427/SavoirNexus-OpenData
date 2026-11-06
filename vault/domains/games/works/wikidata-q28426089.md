@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q28426089
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-01-01
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q28426089:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -101,7 +101,7 @@ observations:
 
 # Fast RMX
 
-**Fast RMX** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28426089](https://www.wikidata.org/wiki/Q28426089)).
+**Fast RMX** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28426089` (Wikidata : [Q28426089](https://www.wikidata.org/wiki/Q28426089)).
 
 ## Audit de conformite structurelle
 

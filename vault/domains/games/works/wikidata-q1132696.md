@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1132696
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-01-01
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1132696:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Starry Sky
 
-**Starry Sky** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1132696](https://www.wikidata.org/wiki/Q1132696)).
+**Starry Sky** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1132696` (Wikidata : [Q1132696](https://www.wikidata.org/wiki/Q1132696)).
 
 ## Audit de conformite structurelle
 

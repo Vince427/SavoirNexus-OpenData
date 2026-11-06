@@ -13,7 +13,7 @@ wikidata_id: Q2449150
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-05-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21080/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2449150:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Terminator Renaissance
 
-**Terminator Renaissance** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2449150](https://www.wikidata.org/wiki/Q2449150)).
+**Terminator Renaissance** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2449150` (Wikidata : [Q2449150](https://www.wikidata.org/wiki/Q2449150)).
 
 ## Audit de conformite structurelle
 

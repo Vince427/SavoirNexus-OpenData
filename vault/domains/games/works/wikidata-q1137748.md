@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1137748
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-06-13
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q1137748:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Wii Play: Motion
 
-**Wii Play: Motion** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1137748](https://www.wikidata.org/wiki/Q1137748)).
+**Wii Play: Motion** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1137748` (Wikidata : [Q1137748](https://www.wikidata.org/wiki/Q1137748)).
 
 ## Audit de conformite structurelle
 

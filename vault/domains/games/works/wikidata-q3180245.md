@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3180245
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-04-09
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q3180245:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Muramasa: The Demon Blade
 
-**Muramasa: The Demon Blade** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3180245](https://www.wikidata.org/wiki/Q3180245)).
+**Muramasa: The Demon Blade** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3180245` (Wikidata : [Q3180245](https://www.wikidata.org/wiki/Q3180245)).
 
 ## Audit de conformite structurelle
 

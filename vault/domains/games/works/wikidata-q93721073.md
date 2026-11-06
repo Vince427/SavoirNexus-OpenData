@@ -13,7 +13,7 @@ wikidata_id: Q93721073
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2021-06-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/775500/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q93721073:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Scarlet Nexus
 
-**Scarlet Nexus** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q93721073](https://www.wikidata.org/wiki/Q93721073)).
+**Scarlet Nexus** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q93721073` (Wikidata : [Q93721073](https://www.wikidata.org/wiki/Q93721073)).
 
 ## Audit de conformite structurelle
 

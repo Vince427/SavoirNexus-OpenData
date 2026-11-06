@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2348788
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-01-18
-tags: [jeu, cataloged, board-game]
+tags: [jeu, audited, board-game]
 observations:
   - id: wikidata-q2348788:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Wii Échecs
 
-**Wii Échecs** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2348788](https://www.wikidata.org/wiki/Q2348788)).
+**Wii Échecs** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2348788` (Wikidata : [Q2348788](https://www.wikidata.org/wiki/Q2348788)).
 
 ## Audit de conformite structurelle
 

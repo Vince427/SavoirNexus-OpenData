@@ -13,7 +13,7 @@ wikidata_id: Q1130980
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-10-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/901660/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1130980:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Sam and Max : Sauvez le monde
 
-**Sam and Max : Sauvez le monde** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1130980](https://www.wikidata.org/wiki/Q1130980)).
+**Sam and Max : Sauvez le monde** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1130980` (Wikidata : [Q1130980](https://www.wikidata.org/wiki/Q1130980)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q2625129
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-06-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/212580/header.jpg"
-tags: [jeu, cataloged, action, adventure, platformer]
+tags: [jeu, audited, action, adventure, platformer]
 observations:
   - id: wikidata-q2625129:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # The Amazing Spider-Man
 
-**The Amazing Spider-Man** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2625129](https://www.wikidata.org/wiki/Q2625129)).
+**The Amazing Spider-Man** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2625129` (Wikidata : [Q2625129](https://www.wikidata.org/wiki/Q2625129)).
 
 ## Audit de conformite structurelle
 

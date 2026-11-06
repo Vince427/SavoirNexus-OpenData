@@ -13,7 +13,7 @@ wikidata_id: Q24664848
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/473690/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q24664848:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Absolver
 
-**Absolver** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q24664848](https://www.wikidata.org/wiki/Q24664848)).
+**Absolver** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q24664848` (Wikidata : [Q24664848](https://www.wikidata.org/wiki/Q24664848)).
 
 ## Audit de conformite structurelle
 

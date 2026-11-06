@@ -13,7 +13,7 @@ wikidata_id: Q1779100
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-11-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/637650/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q1779100:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Final Fantasy XV
 
-**Final Fantasy XV** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1779100](https://www.wikidata.org/wiki/Q1779100)).
+**Final Fantasy XV** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1779100` (Wikidata : [Q1779100](https://www.wikidata.org/wiki/Q1779100)).
 
 ## Audit de conformite structurelle
 

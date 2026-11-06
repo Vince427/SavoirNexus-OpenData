@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2275773
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-13
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2275773:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -102,7 +102,7 @@ observations:
 
 # Medal of Honor: Heroes 2
 
-**Medal of Honor: Heroes 2** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2275773](https://www.wikidata.org/wiki/Q2275773)).
+**Medal of Honor: Heroes 2** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2275773` (Wikidata : [Q2275773](https://www.wikidata.org/wiki/Q2275773)).
 
 ## Audit de conformite structurelle
 

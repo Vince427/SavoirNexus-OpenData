@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1456914
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-03-31
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1456914:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Odama
 
-**Odama** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1456914](https://www.wikidata.org/wiki/Q1456914)).
+**Odama** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1456914` (Wikidata : [Q1456914](https://www.wikidata.org/wiki/Q1456914)).
 
 ## Audit de conformite structurelle
 

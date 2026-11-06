@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2546103
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-06-21
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q2546103:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Folklore
 
-**Folklore** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2546103](https://www.wikidata.org/wiki/Q2546103)).
+**Folklore** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2546103` (Wikidata : [Q2546103](https://www.wikidata.org/wiki/Q2546103)).
 
 ## Audit de conformite structurelle
 

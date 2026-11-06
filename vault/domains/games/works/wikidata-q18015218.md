@@ -13,7 +13,7 @@ wikidata_id: Q18015218
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-03-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/803600/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q18015218:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Disgaea 5: Alliance of Vengeance
 
-**Disgaea 5: Alliance of Vengeance** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18015218](https://www.wikidata.org/wiki/Q18015218)).
+**Disgaea 5: Alliance of Vengeance** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18015218` (Wikidata : [Q18015218](https://www.wikidata.org/wiki/Q18015218)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q2438580
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-08-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10530/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q2438580:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Space Siege
 
-**Space Siege** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2438580](https://www.wikidata.org/wiki/Q2438580)).
+**Space Siege** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2438580` (Wikidata : [Q2438580](https://www.wikidata.org/wiki/Q2438580)).
 
 ## Audit de conformite structurelle
 

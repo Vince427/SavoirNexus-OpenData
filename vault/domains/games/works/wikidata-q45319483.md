@@ -13,7 +13,7 @@ wikidata_id: Q45319483
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-12-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/684410/header.jpg"
-tags: [jeu, cataloged, platformer, puzzle, simulation]
+tags: [jeu, audited, platformer, puzzle, simulation]
 observations:
   - id: wikidata-q45319483:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Bridge Constructor Portal
 
-**Bridge Constructor Portal** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q45319483](https://www.wikidata.org/wiki/Q45319483)).
+**Bridge Constructor Portal** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q45319483` (Wikidata : [Q45319483](https://www.wikidata.org/wiki/Q45319483)).
 
 ## Audit de conformite structurelle
 

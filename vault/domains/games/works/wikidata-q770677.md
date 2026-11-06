@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q770677
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-09-27
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q770677:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Sega Rally
 
-**Sega Rally** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q770677](https://www.wikidata.org/wiki/Q770677)).
+**Sega Rally** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q770677` (Wikidata : [Q770677](https://www.wikidata.org/wiki/Q770677)).
 
 ## Audit de conformite structurelle
 

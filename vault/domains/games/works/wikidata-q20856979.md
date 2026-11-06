@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q20856979
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-11-28
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q20856979:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Monster Hunter Generations
 
-**Monster Hunter Generations** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20856979](https://www.wikidata.org/wiki/Q20856979)).
+**Monster Hunter Generations** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20856979` (Wikidata : [Q20856979](https://www.wikidata.org/wiki/Q20856979)).
 
 ## Audit de conformite structurelle
 

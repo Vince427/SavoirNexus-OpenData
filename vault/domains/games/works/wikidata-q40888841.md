@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q40888841
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-03-16
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q40888841:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -101,7 +101,7 @@ observations:
 
 # Kirby Star Allies
 
-**Kirby Star Allies** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q40888841](https://www.wikidata.org/wiki/Q40888841)).
+**Kirby Star Allies** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q40888841` (Wikidata : [Q40888841](https://www.wikidata.org/wiki/Q40888841)).
 
 ## Audit de conformite structurelle
 

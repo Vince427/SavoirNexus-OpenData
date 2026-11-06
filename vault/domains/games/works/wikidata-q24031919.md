@@ -13,7 +13,7 @@ wikidata_id: Q24031919
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-10-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/607890/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q24031919:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Sword Art Online: Hollow Realization
 
-**Sword Art Online: Hollow Realization** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q24031919](https://www.wikidata.org/wiki/Q24031919)).
+**Sword Art Online: Hollow Realization** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q24031919` (Wikidata : [Q24031919](https://www.wikidata.org/wiki/Q24031919)).
 
 ## Audit de conformite structurelle
 

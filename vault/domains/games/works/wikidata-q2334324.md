@@ -13,7 +13,7 @@ wikidata_id: Q2334324
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/225640/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2334324:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Sacred 2: Fallen Angel
 
-**Sacred 2: Fallen Angel** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2334324](https://www.wikidata.org/wiki/Q2334324)).
+**Sacred 2: Fallen Angel** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2334324` (Wikidata : [Q2334324](https://www.wikidata.org/wiki/Q2334324)).
 
 ## Audit de conformite structurelle
 

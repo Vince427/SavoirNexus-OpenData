@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q1627493
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-06-29
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1627493:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # Metal Slug
 
-**Metal Slug** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1627493](https://www.wikidata.org/wiki/Q1627493)).
+**Metal Slug** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1627493` (Wikidata : [Q1627493](https://www.wikidata.org/wiki/Q1627493)).
 
 ## Audit de conformite structurelle
 

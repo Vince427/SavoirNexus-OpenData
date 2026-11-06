@@ -13,7 +13,7 @@ wikidata_id: Q19861433
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/361640/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q19861433:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Disney Infinity 3.0
 
-**Disney Infinity 3.0** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q19861433](https://www.wikidata.org/wiki/Q19861433)).
+**Disney Infinity 3.0** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q19861433` (Wikidata : [Q19861433](https://www.wikidata.org/wiki/Q19861433)).
 
 ## Audit de conformite structurelle
 

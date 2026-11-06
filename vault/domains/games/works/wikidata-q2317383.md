@@ -13,7 +13,7 @@ wikidata_id: Q2317383
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-02-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8160/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2317383:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Shellshock 2: Blood Trails
 
-**Shellshock 2: Blood Trails** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2317383](https://www.wikidata.org/wiki/Q2317383)).
+**Shellshock 2: Blood Trails** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2317383` (Wikidata : [Q2317383](https://www.wikidata.org/wiki/Q2317383)).
 
 ## Audit de conformite structurelle
 

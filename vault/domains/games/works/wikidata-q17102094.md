@@ -13,7 +13,7 @@ wikidata_id: Q17102094
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-09-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/253330/header.jpg"
-tags: [jeu, cataloged, action, adventure, horror]
+tags: [jeu, audited, action, adventure, horror]
 observations:
   - id: wikidata-q17102094:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Neverending Nightmares
 
-**Neverending Nightmares** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17102094](https://www.wikidata.org/wiki/Q17102094)).
+**Neverending Nightmares** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17102094` (Wikidata : [Q17102094](https://www.wikidata.org/wiki/Q17102094)).
 
 ## Audit de conformite structurelle
 

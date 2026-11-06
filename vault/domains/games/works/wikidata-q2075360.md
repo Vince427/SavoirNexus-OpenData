@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2075360
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-17
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2075360:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Assassin's Creed II: Discovery
 
-**Assassin's Creed II: Discovery** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2075360](https://www.wikidata.org/wiki/Q2075360)).
+**Assassin's Creed II: Discovery** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2075360` (Wikidata : [Q2075360](https://www.wikidata.org/wiki/Q2075360)).
 
 ## Audit de conformite structurelle
 

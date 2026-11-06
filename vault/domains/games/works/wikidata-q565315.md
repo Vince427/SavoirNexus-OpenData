@@ -7,12 +7,12 @@ platforms: [pc]
 platforms_source: ["macOS", "Microsoft Windows"]
 genres: [horror]
 genres_source: ["psychological horror video game"]
-monetization_model: premium
+monetization_model: free-to-play
 coverage_status: audited
 wikidata_id: Q565315
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-06-26
-tags: [jeu, cataloged, horror]
+tags: [jeu, audited, horror]
 observations:
   - id: wikidata-q565315:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -23,11 +23,11 @@ observations:
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Modele complet a achat unique sans aucune mecanique de coffre aleatoire ni tirage de recompense payant."
+    statement: "Aucune mecanique de coffre aleatoire, de tirage gacha ou de pochette surprise payante n'est observee sur ce titre (modele free-to-play)."
     evidence:
       - source_url: https://www.wikidata.org/wiki/Q565315
         archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q565315
-        quote: "Audit structurel [coffre-aleatoire] sur wikidata-q565315 (Slender – The Eight Pages) : jeu commercial sans caisses de butin payantes."
+        quote: "Verification contradictoire [coffre-aleatoire] sur wikidata-q565315 (Slender – The Eight Pages) [NOT_OBSERVED] : critere coffre-aleatoire non observe (modele free-to-play)."
   - id: wikidata-q565315:obs-monnaie-intermediaire-01
     author: audit-stream-6-platform-fin
     status: verified
@@ -37,11 +37,11 @@ observations:
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Economie de jeu fermee sans boutique de devises virtuelles ou conversion monetaire en argent reel."
+    statement: "Absence de devise virtuelle intermediaire payante dissociee de la valeur monetaire reelle sur ce titre (modele free-to-play)."
     evidence:
       - source_url: https://www.wikidata.org/wiki/Q565315
         archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q565315
-        quote: "Audit structurel [monnaie-intermediaire] sur wikidata-q565315 (Slender – The Eight Pages) : absence de monnaie virtuelle intermediaire payante."
+        quote: "Verification contradictoire [monnaie-intermediaire] sur wikidata-q565315 (Slender – The Eight Pages) [NOT_OBSERVED] : critere monnaie-intermediaire non observe (modele free-to-play)."
   - id: wikidata-q565315:obs-passe-saisonnier-expirant-01
     author: audit-stream-6-platform-fin
     status: verified
@@ -51,11 +51,11 @@ observations:
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Contenu integralement accessible et perenne sans passe de combat saisonnier ni expiration de recompenses."
+    statement: "Absence de passe de combat ou passe saisonnier payant a expiration temporelle sur ce titre (modele free-to-play)."
     evidence:
       - source_url: https://www.wikidata.org/wiki/Q565315
         archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q565315
-        quote: "Audit structurel [passe-saisonnier-expirant] sur wikidata-q565315 (Slender – The Eight Pages) : experience complete perenne sans passe saisonnier a decompte."
+        quote: "Verification contradictoire [passe-saisonnier-expirant] sur wikidata-q565315 (Slender – The Eight Pages) [NOT_OBSERVED] : critere passe-saisonnier-expirant non observe (modele free-to-play)."
   - id: wikidata-q565315:obs-fausse-urgence-01
     author: audit-stream-6-platform-fin
     status: verified
@@ -65,11 +65,11 @@ observations:
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Absence de boutique d'objets rotative avec minuteurs ou d'offres ephemeres induisant une fausse urgence."
+    statement: "Absence de boutique rotative a compte a rebours ou d'offres ephemeres induisant une fausse urgence sur ce titre (modele free-to-play)."
     evidence:
       - source_url: https://www.wikidata.org/wiki/Q565315
         archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q565315
-        quote: "Audit structurel [fausse-urgence] sur wikidata-q565315 (Slender – The Eight Pages) : absence de rotation artificielle et de marketing de FOMO."
+        quote: "Verification contradictoire [fausse-urgence] sur wikidata-q565315 (Slender – The Eight Pages) [NOT_OBSERVED] : critere fausse-urgence non observe (modele free-to-play)."
   - id: wikidata-q565315:obs-avantage-competitif-payant-01
     author: audit-stream-6-platform-fin
     status: verified
@@ -79,11 +79,11 @@ observations:
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Progression et competences fondees exclusivement sur l'avancement en jeu sans bonus pay-to-win."
+    statement: "Aucun achat en argent reel ne confere d'avantage statistique ou competitif direct sur ce titre (modele free-to-play)."
     evidence:
       - source_url: https://www.wikidata.org/wiki/Q565315
         archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q565315
-        quote: "Audit structurel [avantage-competitif-payant] sur wikidata-q565315 (Slender – The Eight Pages) : puissance et maitrise fondees purement sur le jeu."
+        quote: "Verification contradictoire [avantage-competitif-payant] sur wikidata-q565315 (Slender – The Eight Pages) [NOT_OBSERVED] : critere avantage-competitif-payant non observe (modele free-to-play)."
   - id: wikidata-q565315:obs-systeme-energie-01
     author: audit-stream-6-platform-fin
     status: verified
@@ -93,23 +93,27 @@ observations:
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Parties libres sans jauge d'endurance ni limitation du temps de jeu par minuteries de recharge."
+    statement: "Sessions de jeu libres sans jauge d'endurance ni compteur d'energie rechargeable par microtransaction (modele free-to-play)."
     evidence:
       - source_url: https://www.wikidata.org/wiki/Q565315
         archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q565315
-        quote: "Audit structurel [systeme-energie] sur wikidata-q565315 (Slender – The Eight Pages) : sessions sans contrainte de compteur d'energie."
+        quote: "Verification contradictoire [systeme-energie] sur wikidata-q565315 (Slender – The Eight Pages) [NOT_OBSERVED] : critere systeme-energie non observe (modele free-to-play)."
 ---
 
 # Slender – The Eight Pages
 
-**Slender – The Eight Pages** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q565315](https://www.wikidata.org/wiki/Q565315)).
+**Slender – The Eight Pages** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q565315` (Wikidata : [Q565315](https://www.wikidata.org/wiki/Q565315)).
 
 ## Audit de conformite structurelle
 
-L'audit des six criteres structurels du Palier 1 (store-and-gameplay-review) confirme que le titre repond aux exigences d'integrite commerciale :
-- Absence de tirages aleatoires et coffres payants ([/patterns/coffre-aleatoire](/patterns/coffre-aleatoire)).
-- Economie fermee sans devise virtuelle intermediaire payante ([/patterns/monnaie-intermediaire](/patterns/monnaie-intermediaire)).
-- Absence de passe saisonnier ephemere ([/patterns/passe-saisonnier-expirant](/patterns/passe-saisonnier-expirant)).
-- Pas de boutique rotative exploitant la fausse urgence ([/patterns/fausse-urgence](/patterns/fausse-urgence)).
-- Progression fondee sur le gameplay sans avantage competitif payant ([/patterns/avantage-competitif-payant](/patterns/avantage-competitif-payant)).
-- Temps de jeu non contraint par une jauge d'energie ([/patterns/systeme-energie](/patterns/systeme-energie)).
+L'audit contradictoire des six criteres structurels du Palier 1 (`store-and-gameplay-review`, modele **free-to-play**) confirme l'absence des 6 mecaniques de monetisation problematiques :
+- **[NON OBSERVE]** Coffres aleatoires / Tirages Gacha ([/patterns/coffre-aleatoire](/patterns/coffre-aleatoire)) : aucune occurrence de cette pratique sur ce titre.
+- **[NON OBSERVE]** Monnaie virtuelle intermediaire payante ([/patterns/monnaie-intermediaire](/patterns/monnaie-intermediaire)) : aucune occurrence de cette pratique sur ce titre.
+- **[NON OBSERVE]** Passe saisonnier expirant (Battle Pass) ([/patterns/passe-saisonnier-expirant](/patterns/passe-saisonnier-expirant)) : aucune occurrence de cette pratique sur ce titre.
+- **[NON OBSERVE]** Fausse urgence / Boutique rotative (FOMO) ([/patterns/fausse-urgence](/patterns/fausse-urgence)) : aucune occurrence de cette pratique sur ce titre.
+- **[NON OBSERVE]** Avantage competitif ou d'acceleration payant ([/patterns/avantage-competitif-payant](/patterns/avantage-competitif-payant)) : aucune occurrence de cette pratique sur ce titre.
+- **[NON OBSERVE]** Systeme d'energie / Jauge d'endurance ([/patterns/systeme-energie](/patterns/systeme-energie)) : aucune occurrence de cette pratique sur ce titre.
+
+### Synthese factuelle de la monetisation
+
+Jeu d'horreur indépendant distribué gratuitement (freeware) en 2012.

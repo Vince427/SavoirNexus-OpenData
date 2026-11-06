@@ -13,7 +13,7 @@ wikidata_id: Q908804
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/437000/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q908804:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -103,7 +103,7 @@ observations:
 
 # Guilty Gear 2: Overture
 
-**Guilty Gear 2: Overture** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q908804](https://www.wikidata.org/wiki/Q908804)).
+**Guilty Gear 2: Overture** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q908804` (Wikidata : [Q908804](https://www.wikidata.org/wiki/Q908804)).
 
 ## Audit de conformite structurelle
 

@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q576602
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-02
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q576602:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # Project Gotham Racing 4
 
-**Project Gotham Racing 4** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q576602](https://www.wikidata.org/wiki/Q576602)).
+**Project Gotham Racing 4** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q576602` (Wikidata : [Q576602](https://www.wikidata.org/wiki/Q576602)).
 
 ## Audit de conformite structurelle
 

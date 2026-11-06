@@ -13,7 +13,7 @@ wikidata_id: Q129277
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-11-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/203140/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q129277:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Hitman: Absolution
 
-**Hitman: Absolution** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q129277](https://www.wikidata.org/wiki/Q129277)).
+**Hitman: Absolution** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q129277` (Wikidata : [Q129277](https://www.wikidata.org/wiki/Q129277)).
 
 ## Audit de conformite structurelle
 

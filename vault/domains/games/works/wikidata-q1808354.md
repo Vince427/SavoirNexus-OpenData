@@ -13,7 +13,7 @@ wikidata_id: Q1808354
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-02-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1088710/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1808354:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Yakuza 3
 
-**Yakuza 3** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1808354](https://www.wikidata.org/wiki/Q1808354)).
+**Yakuza 3** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1808354` (Wikidata : [Q1808354](https://www.wikidata.org/wiki/Q1808354)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1207525
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-08-19
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1207525:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -102,7 +102,7 @@ observations:
 
 # Hyperdimension Neptunia
 
-**Hyperdimension Neptunia** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1207525](https://www.wikidata.org/wiki/Q1207525)).
+**Hyperdimension Neptunia** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1207525` (Wikidata : [Q1207525](https://www.wikidata.org/wiki/Q1207525)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2486464
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-12-12
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2486464:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Far Cry Vengeance
 
-**Far Cry Vengeance** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2486464](https://www.wikidata.org/wiki/Q2486464)).
+**Far Cry Vengeance** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2486464` (Wikidata : [Q2486464](https://www.wikidata.org/wiki/Q2486464)).
 
 ## Audit de conformite structurelle
 

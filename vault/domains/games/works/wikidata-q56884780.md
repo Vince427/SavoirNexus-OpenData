@@ -13,7 +13,7 @@ wikidata_id: Q56884780
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-05-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1672970/header.jpg"
-tags: [jeu, cataloged, action, adventure, rpg]
+tags: [jeu, audited, action, adventure, rpg]
 observations:
   - id: wikidata-q56884780:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Minecraft: Dungeons
 
-**Minecraft: Dungeons** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q56884780](https://www.wikidata.org/wiki/Q56884780)).
+**Minecraft: Dungeons** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q56884780` (Wikidata : [Q56884780](https://www.wikidata.org/wiki/Q56884780)).
 
 ## Audit de conformite structurelle
 

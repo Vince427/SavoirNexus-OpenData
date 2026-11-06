@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q4035467
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-01-01
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q4035467:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -102,7 +102,7 @@ observations:
 
 # Brothers in Arms: Furious 4
 
-**Brothers in Arms: Furious 4** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4035467](https://www.wikidata.org/wiki/Q4035467)).
+**Brothers in Arms: Furious 4** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4035467` (Wikidata : [Q4035467](https://www.wikidata.org/wiki/Q4035467)).
 
 ## Audit de conformite structurelle
 

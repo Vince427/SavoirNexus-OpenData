@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2290200
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-08-22
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2290200:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -102,7 +102,7 @@ observations:
 
 # Madden NFL 07
 
-**Madden NFL 07** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2290200](https://www.wikidata.org/wiki/Q2290200)).
+**Madden NFL 07** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2290200` (Wikidata : [Q2290200](https://www.wikidata.org/wiki/Q2290200)).
 
 ## Audit de conformite structurelle
 

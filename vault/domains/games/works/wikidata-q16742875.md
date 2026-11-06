@@ -13,7 +13,7 @@ wikidata_id: Q16742875
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-05-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/493200/header.jpg"
-tags: [jeu, cataloged, action, adventure, platformer, puzzle]
+tags: [jeu, audited, action, adventure, platformer, puzzle]
 observations:
   - id: wikidata-q16742875:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Rime
 
-**Rime** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16742875](https://www.wikidata.org/wiki/Q16742875)).
+**Rime** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16742875` (Wikidata : [Q16742875](https://www.wikidata.org/wiki/Q16742875)).
 
 ## Audit de conformite structurelle
 

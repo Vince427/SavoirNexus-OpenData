@@ -13,7 +13,7 @@ wikidata_id: Q24939454
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-03-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/355790/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q24939454:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Styx: Shards of Darkness
 
-**Styx: Shards of Darkness** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q24939454](https://www.wikidata.org/wiki/Q24939454)).
+**Styx: Shards of Darkness** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q24939454` (Wikidata : [Q24939454](https://www.wikidata.org/wiki/Q24939454)).
 
 ## Audit de conformite structurelle
 

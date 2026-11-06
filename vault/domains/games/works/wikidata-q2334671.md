@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2334671
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-25
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2334671:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Final Fantasy Tactics A2: Grimoire of the Rift
 
-**Final Fantasy Tactics A2: Grimoire of the Rift** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2334671](https://www.wikidata.org/wiki/Q2334671)).
+**Final Fantasy Tactics A2: Grimoire of the Rift** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2334671` (Wikidata : [Q2334671](https://www.wikidata.org/wiki/Q2334671)).
 
 ## Audit de conformite structurelle
 

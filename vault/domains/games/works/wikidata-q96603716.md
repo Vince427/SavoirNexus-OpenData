@@ -13,7 +13,7 @@ wikidata_id: Q96603716
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2021-06-04
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1338770/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q96603716:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Sniper: Ghost Warrior Contracts 2
 
-**Sniper: Ghost Warrior Contracts 2** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q96603716](https://www.wikidata.org/wiki/Q96603716)).
+**Sniper: Ghost Warrior Contracts 2** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q96603716` (Wikidata : [Q96603716](https://www.wikidata.org/wiki/Q96603716)).
 
 ## Audit de conformite structurelle
 

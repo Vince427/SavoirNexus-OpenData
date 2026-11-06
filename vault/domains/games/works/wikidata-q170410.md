@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q170410
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-11
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q170410:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # New Super Mario Bros. Wii
 
-**New Super Mario Bros. Wii** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q170410](https://www.wikidata.org/wiki/Q170410)).
+**New Super Mario Bros. Wii** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q170410` (Wikidata : [Q170410](https://www.wikidata.org/wiki/Q170410)).
 
 ## Audit de conformite structurelle
 

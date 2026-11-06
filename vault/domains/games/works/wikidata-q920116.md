@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q920116
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-10-05
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q920116:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Desperate Housewives, le jeu
 
-**Desperate Housewives, le jeu** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q920116](https://www.wikidata.org/wiki/Q920116)).
+**Desperate Housewives, le jeu** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q920116` (Wikidata : [Q920116](https://www.wikidata.org/wiki/Q920116)).
 
 ## Audit de conformite structurelle
 

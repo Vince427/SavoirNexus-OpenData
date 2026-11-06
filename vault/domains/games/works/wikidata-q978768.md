@@ -13,7 +13,7 @@ wikidata_id: Q978768
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-05-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12750/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q978768:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Race Driver : Grid
 
-**Race Driver : Grid** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q978768](https://www.wikidata.org/wiki/Q978768)).
+**Race Driver : Grid** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q978768` (Wikidata : [Q978768](https://www.wikidata.org/wiki/Q978768)).
 
 ## Audit de conformite structurelle
 

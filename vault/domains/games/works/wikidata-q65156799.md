@@ -13,7 +13,7 @@ wikidata_id: Q65156799
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-06-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/969990/header.jpg"
-tags: [jeu, cataloged, action, platformer]
+tags: [jeu, audited, action, platformer]
 observations:
   - id: wikidata-q65156799:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Bob l'éponge : Bataille pour Bikini Bottom - Réhydraté
 
-**Bob l'éponge : Bataille pour Bikini Bottom - Réhydraté** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q65156799](https://www.wikidata.org/wiki/Q65156799)).
+**Bob l'éponge : Bataille pour Bikini Bottom - Réhydraté** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q65156799` (Wikidata : [Q65156799](https://www.wikidata.org/wiki/Q65156799)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2457285
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-03-25
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q2457285:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dr. Mario & Bactéricide
 
-**Dr. Mario & Bactéricide** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2457285](https://www.wikidata.org/wiki/Q2457285)).
+**Dr. Mario & Bactéricide** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2457285` (Wikidata : [Q2457285](https://www.wikidata.org/wiki/Q2457285)).
 
 ## Audit de conformite structurelle
 

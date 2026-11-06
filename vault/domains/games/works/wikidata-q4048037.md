@@ -13,7 +13,7 @@ wikidata_id: Q4048037
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-01-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/281130/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q4048037:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Raven's Cry
 
-**Raven's Cry** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4048037](https://www.wikidata.org/wiki/Q4048037)).
+**Raven's Cry** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4048037` (Wikidata : [Q4048037](https://www.wikidata.org/wiki/Q4048037)).
 
 ## Audit de conformite structurelle
 

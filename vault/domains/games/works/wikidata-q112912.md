@@ -13,7 +13,7 @@ wikidata_id: Q112912
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/213330/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q112912:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Lego Batman 2: DC Super Heroes
 
-**Lego Batman 2: DC Super Heroes** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q112912](https://www.wikidata.org/wiki/Q112912)).
+**Lego Batman 2: DC Super Heroes** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q112912` (Wikidata : [Q112912](https://www.wikidata.org/wiki/Q112912)).
 
 ## Audit de conformite structurelle
 

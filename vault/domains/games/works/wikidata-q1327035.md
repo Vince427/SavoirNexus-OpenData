@@ -13,7 +13,7 @@ wikidata_id: Q1327035
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-02-09
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/237950/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1327035:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # UFO: Afterlight
 
-**UFO: Afterlight** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1327035](https://www.wikidata.org/wiki/Q1327035)).
+**UFO: Afterlight** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1327035` (Wikidata : [Q1327035](https://www.wikidata.org/wiki/Q1327035)).
 
 ## Audit de conformite structurelle
 

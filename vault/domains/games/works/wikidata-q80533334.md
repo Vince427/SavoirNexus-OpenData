@@ -13,7 +13,7 @@ wikidata_id: Q80533334
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-08-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/972660/header.jpg"
-tags: [jeu, cataloged, platformer, simulation]
+tags: [jeu, audited, platformer, simulation]
 observations:
   - id: wikidata-q80533334:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Spiritfarer
 
-**Spiritfarer** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q80533334](https://www.wikidata.org/wiki/Q80533334)).
+**Spiritfarer** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q80533334` (Wikidata : [Q80533334](https://www.wikidata.org/wiki/Q80533334)).
 
 ## Audit de conformite structurelle
 

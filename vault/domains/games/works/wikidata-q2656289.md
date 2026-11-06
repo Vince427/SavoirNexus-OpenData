@@ -13,7 +13,7 @@ wikidata_id: Q2656289
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-09-19
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1530/header.jpg"
-tags: [jeu, cataloged, action, strategy]
+tags: [jeu, audited, action, strategy]
 observations:
   - id: wikidata-q2656289:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Multiwinia
 
-**Multiwinia** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2656289](https://www.wikidata.org/wiki/Q2656289)).
+**Multiwinia** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2656289` (Wikidata : [Q2656289](https://www.wikidata.org/wiki/Q2656289)).
 
 ## Audit de conformite structurelle
 

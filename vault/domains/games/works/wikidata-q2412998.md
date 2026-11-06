@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2412998
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-03-18
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2412998:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Everybody's Golf 5
 
-**Everybody's Golf 5** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2412998](https://www.wikidata.org/wiki/Q2412998)).
+**Everybody's Golf 5** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2412998` (Wikidata : [Q2412998](https://www.wikidata.org/wiki/Q2412998)).
 
 ## Audit de conformite structurelle
 

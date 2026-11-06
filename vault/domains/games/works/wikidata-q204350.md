@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q204350
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-10-04
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q204350:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -101,7 +101,7 @@ observations:
 
 # Modern Combat 2: Black Pegasus
 
-**Modern Combat 2: Black Pegasus** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q204350](https://www.wikidata.org/wiki/Q204350)).
+**Modern Combat 2: Black Pegasus** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q204350` (Wikidata : [Q204350](https://www.wikidata.org/wiki/Q204350)).
 
 ## Audit de conformite structurelle
 

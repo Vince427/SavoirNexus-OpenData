@@ -13,7 +13,7 @@ wikidata_id: Q15818120
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-06-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/246110/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q15818120:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Massive Chalice
 
-**Massive Chalice** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15818120](https://www.wikidata.org/wiki/Q15818120)).
+**Massive Chalice** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15818120` (Wikidata : [Q15818120](https://www.wikidata.org/wiki/Q15818120)).
 
 ## Audit de conformite structurelle
 

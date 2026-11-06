@@ -13,7 +13,7 @@ wikidata_id: Q14558333
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-10-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/274190/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q14558333:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Broforce
 
-**Broforce** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q14558333](https://www.wikidata.org/wiki/Q14558333)).
+**Broforce** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q14558333` (Wikidata : [Q14558333](https://www.wikidata.org/wiki/Q14558333)).
 
 ## Audit de conformite structurelle
 

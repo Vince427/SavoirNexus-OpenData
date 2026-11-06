@@ -13,7 +13,7 @@ wikidata_id: Q65242784
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-08-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/958400/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q65242784:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Project Cars 3
 
-**Project Cars 3** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q65242784](https://www.wikidata.org/wiki/Q65242784)).
+**Project Cars 3** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q65242784` (Wikidata : [Q65242784](https://www.wikidata.org/wiki/Q65242784)).
 
 ## Audit de conformite structurelle
 

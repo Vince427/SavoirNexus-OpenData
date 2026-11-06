@@ -13,7 +13,7 @@ wikidata_id: Q20538667
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-09-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/333420/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q20538667:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Cossacks 3
 
-**Cossacks 3** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20538667](https://www.wikidata.org/wiki/Q20538667)).
+**Cossacks 3** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20538667` (Wikidata : [Q20538667](https://www.wikidata.org/wiki/Q20538667)).
 
 ## Audit de conformite structurelle
 

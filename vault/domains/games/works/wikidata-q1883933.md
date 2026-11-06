@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1883933
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-16
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q1883933:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Sonic Rivals
 
-**Sonic Rivals** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1883933](https://www.wikidata.org/wiki/Q1883933)).
+**Sonic Rivals** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1883933` (Wikidata : [Q1883933](https://www.wikidata.org/wiki/Q1883933)).
 
 ## Audit de conformite structurelle
 

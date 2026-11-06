@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1313322
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-03
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q1313322:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Need for Speed: Nitro
 
-**Need for Speed: Nitro** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1313322](https://www.wikidata.org/wiki/Q1313322)).
+**Need for Speed: Nitro** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1313322` (Wikidata : [Q1313322](https://www.wikidata.org/wiki/Q1313322)).
 
 ## Audit de conformite structurelle
 

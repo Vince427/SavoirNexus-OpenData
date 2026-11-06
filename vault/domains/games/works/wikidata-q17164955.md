@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q17164955
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-09-10
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q17164955:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Super Mario Maker
 
-**Super Mario Maker** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17164955](https://www.wikidata.org/wiki/Q17164955)).
+**Super Mario Maker** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17164955` (Wikidata : [Q17164955](https://www.wikidata.org/wiki/Q17164955)).
 
 ## Audit de conformite structurelle
 

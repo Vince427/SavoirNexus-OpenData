@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q20031702
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-01-01
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q20031702:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dr. Mario: Miracle Cure
 
-**Dr. Mario: Miracle Cure** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20031702](https://www.wikidata.org/wiki/Q20031702)).
+**Dr. Mario: Miracle Cure** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20031702` (Wikidata : [Q20031702](https://www.wikidata.org/wiki/Q20031702)).
 
 ## Audit de conformite structurelle
 

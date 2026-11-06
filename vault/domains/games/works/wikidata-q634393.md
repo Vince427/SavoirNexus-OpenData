@@ -13,7 +13,7 @@ wikidata_id: Q634393
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-03-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/207040/header.jpg"
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q634393:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Sine Mora
 
-**Sine Mora** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q634393](https://www.wikidata.org/wiki/Q634393)).
+**Sine Mora** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q634393` (Wikidata : [Q634393](https://www.wikidata.org/wiki/Q634393)).
 
 ## Audit de conformite structurelle
 

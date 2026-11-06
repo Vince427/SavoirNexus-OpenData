@@ -13,7 +13,7 @@ wikidata_id: Q13565603
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-09-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/334120/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q13565603:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Armikrog
 
-**Armikrog** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q13565603](https://www.wikidata.org/wiki/Q13565603)).
+**Armikrog** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q13565603` (Wikidata : [Q13565603](https://www.wikidata.org/wiki/Q13565603)).
 
 ## Audit de conformite structurelle
 

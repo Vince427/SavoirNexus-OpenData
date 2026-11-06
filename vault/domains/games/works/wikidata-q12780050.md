@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q12780050
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-01-13
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q12780050:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Digimon Adventure
 
-**Digimon Adventure** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q12780050](https://www.wikidata.org/wiki/Q12780050)).
+**Digimon Adventure** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q12780050` (Wikidata : [Q12780050](https://www.wikidata.org/wiki/Q12780050)).
 
 ## Audit de conformite structurelle
 

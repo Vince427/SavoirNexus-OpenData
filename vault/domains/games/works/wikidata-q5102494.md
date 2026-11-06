@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q5102494
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-11-15
-tags: [jeu, cataloged, action, platformer]
+tags: [jeu, audited, action, platformer]
 observations:
   - id: wikidata-q5102494:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -101,7 +101,7 @@ observations:
 
 # Knack
 
-**Knack** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5102494](https://www.wikidata.org/wiki/Q5102494)).
+**Knack** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5102494` (Wikidata : [Q5102494](https://www.wikidata.org/wiki/Q5102494)).
 
 ## Audit de conformite structurelle
 

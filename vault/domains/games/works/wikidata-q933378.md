@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q933378
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-01-01
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q933378:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Rodea the Sky Soldier
 
-**Rodea the Sky Soldier** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q933378](https://www.wikidata.org/wiki/Q933378)).
+**Rodea the Sky Soldier** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q933378` (Wikidata : [Q933378](https://www.wikidata.org/wiki/Q933378)).
 
 ## Audit de conformite structurelle
 

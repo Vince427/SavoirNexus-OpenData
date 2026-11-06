@@ -13,7 +13,7 @@ wikidata_id: Q3874132
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-02-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7860/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q3874132:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -103,7 +103,7 @@ observations:
 
 # NecroVisioN
 
-**NecroVisioN** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3874132](https://www.wikidata.org/wiki/Q3874132)).
+**NecroVisioN** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3874132` (Wikidata : [Q3874132](https://www.wikidata.org/wiki/Q3874132)).
 
 ## Audit de conformite structurelle
 

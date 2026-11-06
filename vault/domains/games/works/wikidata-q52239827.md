@@ -13,7 +13,7 @@ wikidata_id: Q52239827
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-05-03
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/712100/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q52239827:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Total War Saga: Thrones of Britannia
 
-**Total War Saga: Thrones of Britannia** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q52239827](https://www.wikidata.org/wiki/Q52239827)).
+**Total War Saga: Thrones of Britannia** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q52239827` (Wikidata : [Q52239827](https://www.wikidata.org/wiki/Q52239827)).
 
 ## Audit de conformite structurelle
 

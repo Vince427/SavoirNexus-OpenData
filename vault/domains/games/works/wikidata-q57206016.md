@@ -13,7 +13,7 @@ wikidata_id: Q57206016
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-04-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1127400/header.jpg"
-tags: [jeu, cataloged, sandbox, simulation]
+tags: [jeu, audited, sandbox, simulation]
 observations:
   - id: wikidata-q57206016:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Mindustry
 
-**Mindustry** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q57206016](https://www.wikidata.org/wiki/Q57206016)).
+**Mindustry** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q57206016` (Wikidata : [Q57206016](https://www.wikidata.org/wiki/Q57206016)).
 
 ## Audit de conformite structurelle
 

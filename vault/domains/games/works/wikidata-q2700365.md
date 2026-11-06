@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2700365
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-09-25
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q2700365:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Wipeout HD
 
-**Wipeout HD** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2700365](https://www.wikidata.org/wiki/Q2700365)).
+**Wipeout HD** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2700365` (Wikidata : [Q2700365](https://www.wikidata.org/wiki/Q2700365)).
 
 ## Audit de conformite structurelle
 

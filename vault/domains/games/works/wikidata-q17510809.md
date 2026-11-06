@@ -13,7 +13,7 @@ wikidata_id: Q17510809
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-11-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/295270/header.jpg"
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q17510809:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Football Manager 2015
 
-**Football Manager 2015** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17510809](https://www.wikidata.org/wiki/Q17510809)).
+**Football Manager 2015** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17510809` (Wikidata : [Q17510809](https://www.wikidata.org/wiki/Q17510809)).
 
 ## Audit de conformite structurelle
 

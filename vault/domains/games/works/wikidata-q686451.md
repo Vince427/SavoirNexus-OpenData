@@ -13,7 +13,7 @@ wikidata_id: Q686451
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-05-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40340/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q686451:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Secret Files 2: Puritas Cordis
 
-**Secret Files 2: Puritas Cordis** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q686451](https://www.wikidata.org/wiki/Q686451)).
+**Secret Files 2: Puritas Cordis** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q686451` (Wikidata : [Q686451](https://www.wikidata.org/wiki/Q686451)).
 
 ## Audit de conformite structurelle
 

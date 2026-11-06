@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2465368
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-12-02
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2465368:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Escape from Bug Island!
 
-**Escape from Bug Island!** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2465368](https://www.wikidata.org/wiki/Q2465368)).
+**Escape from Bug Island!** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2465368` (Wikidata : [Q2465368](https://www.wikidata.org/wiki/Q2465368)).
 
 ## Audit de conformite structurelle
 

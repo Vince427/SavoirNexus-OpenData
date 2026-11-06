@@ -13,7 +13,7 @@ wikidata_id: Q52161838
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-12-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1072420/header.jpg"
-tags: [jeu, cataloged, action, rpg, sandbox]
+tags: [jeu, audited, action, rpg, sandbox]
 observations:
   - id: wikidata-q52161838:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Dragon Quest Builders 2
 
-**Dragon Quest Builders 2** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q52161838](https://www.wikidata.org/wiki/Q52161838)).
+**Dragon Quest Builders 2** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q52161838` (Wikidata : [Q52161838](https://www.wikidata.org/wiki/Q52161838)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q18668465
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-08-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/285900/header.jpg"
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q18668465:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Gang Beasts
 
-**Gang Beasts** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18668465](https://www.wikidata.org/wiki/Q18668465)).
+**Gang Beasts** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18668465` (Wikidata : [Q18668465](https://www.wikidata.org/wiki/Q18668465)).
 
 ## Audit de conformite structurelle
 

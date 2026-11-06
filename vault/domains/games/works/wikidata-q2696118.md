@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2696118
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-09-01
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q2696118:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Driver: Renegade 3D
 
-**Driver: Renegade 3D** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2696118](https://www.wikidata.org/wiki/Q2696118)).
+**Driver: Renegade 3D** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2696118` (Wikidata : [Q2696118](https://www.wikidata.org/wiki/Q2696118)).
 
 ## Audit de conformite structurelle
 

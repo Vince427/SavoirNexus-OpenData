@@ -13,7 +13,7 @@ wikidata_id: Q55381990
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-05-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/613100/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q55381990:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # House Flipper
 
-**House Flipper** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q55381990](https://www.wikidata.org/wiki/Q55381990)).
+**House Flipper** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q55381990` (Wikidata : [Q55381990](https://www.wikidata.org/wiki/Q55381990)).
 
 ## Audit de conformite structurelle
 

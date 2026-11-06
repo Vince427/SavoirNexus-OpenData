@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q665733
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-11-16
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q665733:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -102,7 +102,7 @@ observations:
 
 # Harry Potter et les Reliques de la Mort
 
-**Harry Potter et les Reliques de la Mort** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q665733](https://www.wikidata.org/wiki/Q665733)).
+**Harry Potter et les Reliques de la Mort** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q665733` (Wikidata : [Q665733](https://www.wikidata.org/wiki/Q665733)).
 
 ## Audit de conformite structurelle
 

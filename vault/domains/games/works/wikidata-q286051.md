@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q286051
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-01-01
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q286051:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # True tears
 
-**True tears** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q286051](https://www.wikidata.org/wiki/Q286051)).
+**True tears** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q286051` (Wikidata : [Q286051](https://www.wikidata.org/wiki/Q286051)).
 
 ## Audit de conformite structurelle
 

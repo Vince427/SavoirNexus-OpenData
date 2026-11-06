@@ -13,7 +13,7 @@ wikidata_id: Q1371726
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-05-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/243470/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1371726:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Watch Dogs
 
-**Watch Dogs** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1371726](https://www.wikidata.org/wiki/Q1371726)).
+**Watch Dogs** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1371726` (Wikidata : [Q1371726](https://www.wikidata.org/wiki/Q1371726)).
 
 ## Audit de conformite structurelle
 

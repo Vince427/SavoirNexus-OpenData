@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2736373
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-08-01
-tags: [jeu, cataloged, adventure, party]
+tags: [jeu, audited, adventure, party]
 observations:
   - id: wikidata-q2736373:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # La Ferme en folie
 
-**La Ferme en folie** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2736373](https://www.wikidata.org/wiki/Q2736373)).
+**La Ferme en folie** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2736373` (Wikidata : [Q2736373](https://www.wikidata.org/wiki/Q2736373)).
 
 ## Audit de conformite structurelle
 

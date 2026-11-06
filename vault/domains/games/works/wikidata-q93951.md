@@ -13,7 +13,7 @@ wikidata_id: Q93951
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-11-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/221260/header.jpg"
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q93951:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Little Inferno
 
-**Little Inferno** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q93951](https://www.wikidata.org/wiki/Q93951)).
+**Little Inferno** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q93951` (Wikidata : [Q93951](https://www.wikidata.org/wiki/Q93951)).
 
 ## Audit de conformite structurelle
 

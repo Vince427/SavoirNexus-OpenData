@@ -13,7 +13,7 @@ wikidata_id: Q2527560
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-09-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/70600/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q2527560:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Worms: Ultimate Mayhem
 
-**Worms: Ultimate Mayhem** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2527560](https://www.wikidata.org/wiki/Q2527560)).
+**Worms: Ultimate Mayhem** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2527560` (Wikidata : [Q2527560](https://www.wikidata.org/wiki/Q2527560)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q21152169
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-08-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/327030/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q21152169:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Worms WMD
 
-**Worms WMD** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q21152169](https://www.wikidata.org/wiki/Q21152169)).
+**Worms WMD** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q21152169` (Wikidata : [Q21152169](https://www.wikidata.org/wiki/Q21152169)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1416029
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-04-26
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1416029:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Final Fantasy XII: Revenant Wings
 
-**Final Fantasy XII: Revenant Wings** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1416029](https://www.wikidata.org/wiki/Q1416029)).
+**Final Fantasy XII: Revenant Wings** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1416029` (Wikidata : [Q1416029](https://www.wikidata.org/wiki/Q1416029)).
 
 ## Audit de conformite structurelle
 

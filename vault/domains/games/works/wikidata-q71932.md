@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q71932
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-11-13
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q71932:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Call of Duty: Black Ops - Declassified
 
-**Call of Duty: Black Ops - Declassified** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q71932](https://www.wikidata.org/wiki/Q71932)).
+**Call of Duty: Black Ops - Declassified** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q71932` (Wikidata : [Q71932](https://www.wikidata.org/wiki/Q71932)).
 
 ## Audit de conformite structurelle
 

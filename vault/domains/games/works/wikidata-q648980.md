@@ -13,7 +13,7 @@ wikidata_id: Q648980
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-06-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/19680/header.jpg"
-tags: [jeu, cataloged, action, adventure, horror]
+tags: [jeu, audited, action, adventure, horror]
 observations:
   - id: wikidata-q648980:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Alice : Retour au pays de la folie
 
-**Alice : Retour au pays de la folie** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q648980](https://www.wikidata.org/wiki/Q648980)).
+**Alice : Retour au pays de la folie** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q648980` (Wikidata : [Q648980](https://www.wikidata.org/wiki/Q648980)).
 
 ## Audit de conformite structurelle
 

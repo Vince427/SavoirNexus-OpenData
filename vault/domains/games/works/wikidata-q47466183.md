@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q47466183
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-03-08
-tags: [jeu, cataloged, action, fighting, rpg]
+tags: [jeu, audited, action, fighting, rpg]
 observations:
   - id: wikidata-q47466183:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -101,7 +101,7 @@ observations:
 
 # Fist of the North Star: Lost Paradise
 
-**Fist of the North Star: Lost Paradise** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q47466183](https://www.wikidata.org/wiki/Q47466183)).
+**Fist of the North Star: Lost Paradise** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q47466183` (Wikidata : [Q47466183](https://www.wikidata.org/wiki/Q47466183)).
 
 ## Audit de conformite structurelle
 

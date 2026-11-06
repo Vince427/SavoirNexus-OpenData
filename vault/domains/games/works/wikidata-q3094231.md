@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q3094231
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-09-26
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q3094231:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -101,7 +101,7 @@ observations:
 
 # The Fast and the Furious
 
-**The Fast and the Furious** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3094231](https://www.wikidata.org/wiki/Q3094231)).
+**The Fast and the Furious** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3094231` (Wikidata : [Q3094231](https://www.wikidata.org/wiki/Q3094231)).
 
 ## Audit de conformite structurelle
 

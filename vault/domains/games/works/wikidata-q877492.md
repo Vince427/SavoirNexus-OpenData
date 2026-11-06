@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q877492
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-12-02
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q877492:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Wii Play
 
-**Wii Play** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q877492](https://www.wikidata.org/wiki/Q877492)).
+**Wii Play** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q877492` (Wikidata : [Q877492](https://www.wikidata.org/wiki/Q877492)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2706944
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-03-13
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q2706944:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Naruto Shippūden: Ultimate Ninja Storm Generations
 
-**Naruto Shippūden: Ultimate Ninja Storm Generations** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2706944](https://www.wikidata.org/wiki/Q2706944)).
+**Naruto Shippūden: Ultimate Ninja Storm Generations** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2706944` (Wikidata : [Q2706944](https://www.wikidata.org/wiki/Q2706944)).
 
 ## Audit de conformite structurelle
 

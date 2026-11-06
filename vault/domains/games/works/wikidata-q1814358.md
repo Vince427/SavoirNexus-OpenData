@@ -13,7 +13,7 @@ wikidata_id: Q1814358
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-03-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/901436/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1814358:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Settlers 7 : À l'aube d'un nouveau royaume
 
-**The Settlers 7 : À l'aube d'un nouveau royaume** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1814358](https://www.wikidata.org/wiki/Q1814358)).
+**The Settlers 7 : À l'aube d'un nouveau royaume** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1814358` (Wikidata : [Q1814358](https://www.wikidata.org/wiki/Q1814358)).
 
 ## Audit de conformite structurelle
 

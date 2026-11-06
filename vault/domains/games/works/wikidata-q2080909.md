@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2080909
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-06-19
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2080909:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Les Sims : Histoires d'animaux
 
-**Les Sims : Histoires d'animaux** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2080909](https://www.wikidata.org/wiki/Q2080909)).
+**Les Sims : Histoires d'animaux** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2080909` (Wikidata : [Q2080909](https://www.wikidata.org/wiki/Q2080909)).
 
 ## Audit de conformite structurelle
 

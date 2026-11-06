@@ -13,7 +13,7 @@ wikidata_id: Q15933494
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/555950/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q15933494:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Danganronpa Another Episode: Ultra Despair Girls
 
-**Danganronpa Another Episode: Ultra Despair Girls** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15933494](https://www.wikidata.org/wiki/Q15933494)).
+**Danganronpa Another Episode: Ultra Despair Girls** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15933494` (Wikidata : [Q15933494](https://www.wikidata.org/wiki/Q15933494)).
 
 ## Audit de conformite structurelle
 

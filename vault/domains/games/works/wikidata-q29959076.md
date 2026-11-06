@@ -13,7 +13,7 @@ wikidata_id: Q29959076
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-11-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/647830/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q29959076:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Lego Marvel Super Heroes 2
 
-**Lego Marvel Super Heroes 2** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q29959076](https://www.wikidata.org/wiki/Q29959076)).
+**Lego Marvel Super Heroes 2** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q29959076` (Wikidata : [Q29959076](https://www.wikidata.org/wiki/Q29959076)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3375698
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-03-01
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q3375698:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Persona 4: Arena
 
-**Persona 4: Arena** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3375698](https://www.wikidata.org/wiki/Q3375698)).
+**Persona 4: Arena** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3375698` (Wikidata : [Q3375698](https://www.wikidata.org/wiki/Q3375698)).
 
 ## Audit de conformite structurelle
 

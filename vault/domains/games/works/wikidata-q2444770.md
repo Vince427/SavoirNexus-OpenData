@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2444770
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-09
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q2444770:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dragon Ball: Raging Blast
 
-**Dragon Ball: Raging Blast** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2444770](https://www.wikidata.org/wiki/Q2444770)).
+**Dragon Ball: Raging Blast** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2444770` (Wikidata : [Q2444770](https://www.wikidata.org/wiki/Q2444770)).
 
 ## Audit de conformite structurelle
 

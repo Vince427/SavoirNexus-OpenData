@@ -13,7 +13,7 @@ wikidata_id: Q2006628
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-05-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/9480/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2006628:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Saints Row 2
 
-**Saints Row 2** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2006628](https://www.wikidata.org/wiki/Q2006628)).
+**Saints Row 2** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2006628` (Wikidata : [Q2006628](https://www.wikidata.org/wiki/Q2006628)).
 
 ## Audit de conformite structurelle
 

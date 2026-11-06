@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1200921
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-07-08
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q1200921:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Wii Party
 
-**Wii Party** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1200921](https://www.wikidata.org/wiki/Q1200921)).
+**Wii Party** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1200921` (Wikidata : [Q1200921](https://www.wikidata.org/wiki/Q1200921)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q19599048
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-09-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/323580/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q19599048:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Jotun
 
-**Jotun** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q19599048](https://www.wikidata.org/wiki/Q19599048)).
+**Jotun** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q19599048` (Wikidata : [Q19599048](https://www.wikidata.org/wiki/Q19599048)).
 
 ## Audit de conformite structurelle
 

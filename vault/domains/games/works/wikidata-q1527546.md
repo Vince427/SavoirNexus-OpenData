@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1527546
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-11-23
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1527546:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Pokémon Donjon Mystère : Les Portes de l'infini
 
-**Pokémon Donjon Mystère : Les Portes de l'infini** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1527546](https://www.wikidata.org/wiki/Q1527546)).
+**Pokémon Donjon Mystère : Les Portes de l'infini** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1527546` (Wikidata : [Q1527546](https://www.wikidata.org/wiki/Q1527546)).
 
 ## Audit de conformite structurelle
 

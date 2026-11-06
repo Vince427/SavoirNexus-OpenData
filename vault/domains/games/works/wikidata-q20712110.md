@@ -13,7 +13,7 @@ wikidata_id: Q20712110
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-04-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/427820/header.jpg"
-tags: [jeu, cataloged, board-game, puzzle]
+tags: [jeu, audited, board-game, puzzle]
 observations:
   - id: wikidata-q20712110:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Hitman Go
 
-**Hitman Go** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20712110](https://www.wikidata.org/wiki/Q20712110)).
+**Hitman Go** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20712110` (Wikidata : [Q20712110](https://www.wikidata.org/wiki/Q20712110)).
 
 ## Audit de conformite structurelle
 

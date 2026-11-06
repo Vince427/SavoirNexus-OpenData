@@ -13,7 +13,7 @@ wikidata_id: Q7766240
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-10-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/221910/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q7766240:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Stanley Parable
 
-**The Stanley Parable** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q7766240](https://www.wikidata.org/wiki/Q7766240)).
+**The Stanley Parable** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q7766240` (Wikidata : [Q7766240](https://www.wikidata.org/wiki/Q7766240)).
 
 ## Audit de conformite structurelle
 

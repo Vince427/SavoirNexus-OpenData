@@ -13,7 +13,7 @@ wikidata_id: Q2313070
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-05-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/212630/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2313070:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Tom Clancy's Ghost Recon: Future Soldier
 
-**Tom Clancy's Ghost Recon: Future Soldier** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2313070](https://www.wikidata.org/wiki/Q2313070)).
+**Tom Clancy's Ghost Recon: Future Soldier** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2313070` (Wikidata : [Q2313070](https://www.wikidata.org/wiki/Q2313070)).
 
 ## Audit de conformite structurelle
 

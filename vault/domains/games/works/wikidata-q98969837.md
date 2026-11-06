@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q98969837
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-11-20
-tags: [jeu, cataloged, hack-and-slash]
+tags: [jeu, audited, hack-and-slash]
 observations:
   - id: wikidata-q98969837:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -101,7 +101,7 @@ observations:
 
 # Hyrule Warriors : L'Ère du Fléau
 
-**Hyrule Warriors : L'Ère du Fléau** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q98969837](https://www.wikidata.org/wiki/Q98969837)).
+**Hyrule Warriors : L'Ère du Fléau** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q98969837` (Wikidata : [Q98969837](https://www.wikidata.org/wiki/Q98969837)).
 
 ## Audit de conformite structurelle
 

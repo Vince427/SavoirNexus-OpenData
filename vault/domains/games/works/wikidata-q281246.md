@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q281246
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-11-15
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q281246:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -102,7 +102,7 @@ observations:
 
 # Need for Speed: The Run
 
-**Need for Speed: The Run** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q281246](https://www.wikidata.org/wiki/Q281246)).
+**Need for Speed: The Run** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q281246` (Wikidata : [Q281246](https://www.wikidata.org/wiki/Q281246)).
 
 ## Audit de conformite structurelle
 

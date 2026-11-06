@@ -13,7 +13,7 @@ wikidata_id: Q5284389
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-06-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/230230/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q5284389:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Divinity: Original Sin
 
-**Divinity: Original Sin** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5284389](https://www.wikidata.org/wiki/Q5284389)).
+**Divinity: Original Sin** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5284389` (Wikidata : [Q5284389](https://www.wikidata.org/wiki/Q5284389)).
 
 ## Audit de conformite structurelle
 

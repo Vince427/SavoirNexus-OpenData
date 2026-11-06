@@ -13,7 +13,7 @@ wikidata_id: Q38623191
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-08-31
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/635320/header.jpg"
-tags: [jeu, cataloged, adventure, puzzle]
+tags: [jeu, audited, adventure, puzzle]
 observations:
   - id: wikidata-q38623191:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Last Day of June
 
-**Last Day of June** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q38623191](https://www.wikidata.org/wiki/Q38623191)).
+**Last Day of June** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q38623191` (Wikidata : [Q38623191](https://www.wikidata.org/wiki/Q38623191)).
 
 ## Audit de conformite structurelle
 

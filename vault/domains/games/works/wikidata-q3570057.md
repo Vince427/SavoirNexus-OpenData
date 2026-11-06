@@ -13,7 +13,7 @@ wikidata_id: Q3570057
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-08-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22600/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q3570057:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Worms Reloaded
 
-**Worms Reloaded** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3570057](https://www.wikidata.org/wiki/Q3570057)).
+**Worms Reloaded** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3570057` (Wikidata : [Q3570057](https://www.wikidata.org/wiki/Q3570057)).
 
 ## Audit de conformite structurelle
 

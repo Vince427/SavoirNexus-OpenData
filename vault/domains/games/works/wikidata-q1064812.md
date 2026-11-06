@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1064812
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-08-24
-tags: [jeu, cataloged, rpg, simulation]
+tags: [jeu, audited, rpg, simulation]
 observations:
   - id: wikidata-q1064812:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Rune Factory: A Fantasy Harvest Moon
 
-**Rune Factory: A Fantasy Harvest Moon** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1064812](https://www.wikidata.org/wiki/Q1064812)).
+**Rune Factory: A Fantasy Harvest Moon** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1064812` (Wikidata : [Q1064812](https://www.wikidata.org/wiki/Q1064812)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q177432
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-07-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3430300/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q177432:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Tayutama: Kiss on My Deity
 
-**Tayutama: Kiss on My Deity** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q177432](https://www.wikidata.org/wiki/Q177432)).
+**Tayutama: Kiss on My Deity** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q177432` (Wikidata : [Q177432](https://www.wikidata.org/wiki/Q177432)).
 
 ## Audit de conformite structurelle
 

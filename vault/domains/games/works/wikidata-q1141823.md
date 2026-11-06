@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1141823
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-08-07
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q1141823:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Tales of Vesperia
 
-**Tales of Vesperia** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1141823](https://www.wikidata.org/wiki/Q1141823)).
+**Tales of Vesperia** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1141823` (Wikidata : [Q1141823](https://www.wikidata.org/wiki/Q1141823)).
 
 ## Audit de conformite structurelle
 

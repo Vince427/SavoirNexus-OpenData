@@ -13,7 +13,7 @@ wikidata_id: Q1077719
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-09-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/43000/header.jpg"
-tags: [jeu, cataloged, shooter, simulation]
+tags: [jeu, audited, shooter, simulation]
 observations:
   - id: wikidata-q1077719:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Front Mission Evolved
 
-**Front Mission Evolved** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1077719](https://www.wikidata.org/wiki/Q1077719)).
+**Front Mission Evolved** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1077719` (Wikidata : [Q1077719](https://www.wikidata.org/wiki/Q1077719)).
 
 ## Audit de conformite structurelle
 

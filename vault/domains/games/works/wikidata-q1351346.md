@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1351346
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-12-24
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q1351346:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # WarioWare: Snapped!
 
-**WarioWare: Snapped!** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1351346](https://www.wikidata.org/wiki/Q1351346)).
+**WarioWare: Snapped!** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1351346` (Wikidata : [Q1351346](https://www.wikidata.org/wiki/Q1351346)).
 
 ## Audit de conformite structurelle
 

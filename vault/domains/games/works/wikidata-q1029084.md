@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1029084
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-09-07
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1029084:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Batman : L'Alliance des héros
 
-**Batman : L'Alliance des héros** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1029084](https://www.wikidata.org/wiki/Q1029084)).
+**Batman : L'Alliance des héros** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1029084` (Wikidata : [Q1029084](https://www.wikidata.org/wiki/Q1029084)).
 
 ## Audit de conformite structurelle
 

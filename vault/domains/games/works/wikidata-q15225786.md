@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q15225786
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-06-05
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q15225786:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Persona Q : Shadow of the Labyrinth
 
-**Persona Q : Shadow of the Labyrinth** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15225786](https://www.wikidata.org/wiki/Q15225786)).
+**Persona Q : Shadow of the Labyrinth** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15225786` (Wikidata : [Q15225786](https://www.wikidata.org/wiki/Q15225786)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q5356103
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-07-30
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q5356103:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Puyo Puyo 7
 
-**Puyo Puyo 7** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5356103](https://www.wikidata.org/wiki/Q5356103)).
+**Puyo Puyo 7** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5356103` (Wikidata : [Q5356103](https://www.wikidata.org/wiki/Q5356103)).
 
 ## Audit de conformite structurelle
 

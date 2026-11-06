@@ -13,7 +13,7 @@ wikidata_id: Q237484
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/17300/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q237484:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Crysis
 
-**Crysis** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q237484](https://www.wikidata.org/wiki/Q237484)).
+**Crysis** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q237484` (Wikidata : [Q237484](https://www.wikidata.org/wiki/Q237484)).
 
 ## Audit de conformite structurelle
 

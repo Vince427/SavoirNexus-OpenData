@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q683324
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-06-24
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q683324:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -102,7 +102,7 @@ observations:
 
 # Rewrite
 
-**Rewrite** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q683324](https://www.wikidata.org/wiki/Q683324)).
+**Rewrite** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q683324` (Wikidata : [Q683324](https://www.wikidata.org/wiki/Q683324)).
 
 ## Audit de conformite structurelle
 

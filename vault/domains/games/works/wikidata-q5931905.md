@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q5931905
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-02-16
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q5931905:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -102,7 +102,7 @@ observations:
 
 # Virtue's Last Reward
 
-**Virtue's Last Reward** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5931905](https://www.wikidata.org/wiki/Q5931905)).
+**Virtue's Last Reward** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5931905` (Wikidata : [Q5931905](https://www.wikidata.org/wiki/Q5931905)).
 
 ## Audit de conformite structurelle
 

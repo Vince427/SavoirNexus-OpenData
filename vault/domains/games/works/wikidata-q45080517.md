@@ -13,7 +13,7 @@ wikidata_id: Q45080517
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-10-19
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/544750/header.jpg"
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q45080517:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # SoulCalibur VI
 
-**SoulCalibur VI** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q45080517](https://www.wikidata.org/wiki/Q45080517)).
+**SoulCalibur VI** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q45080517` (Wikidata : [Q45080517](https://www.wikidata.org/wiki/Q45080517)).
 
 ## Audit de conformite structurelle
 

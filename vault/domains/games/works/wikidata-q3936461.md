@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3936461
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-09-06
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q3936461:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Rise of Nightmares
 
-**Rise of Nightmares** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3936461](https://www.wikidata.org/wiki/Q3936461)).
+**Rise of Nightmares** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3936461` (Wikidata : [Q3936461](https://www.wikidata.org/wiki/Q3936461)).
 
 ## Audit de conformite structurelle
 

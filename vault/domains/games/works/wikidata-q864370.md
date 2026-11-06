@@ -13,7 +13,7 @@ wikidata_id: Q864370
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-12-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/741140/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q864370:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Baldr Sky
 
-**Baldr Sky** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q864370](https://www.wikidata.org/wiki/Q864370)).
+**Baldr Sky** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q864370` (Wikidata : [Q864370](https://www.wikidata.org/wiki/Q864370)).
 
 ## Audit de conformite structurelle
 

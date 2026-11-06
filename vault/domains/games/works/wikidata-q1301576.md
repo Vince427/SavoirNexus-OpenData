@@ -13,7 +13,7 @@ wikidata_id: Q1301576
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-09-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289300/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1301576:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Faces of War
 
-**Faces of War** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1301576](https://www.wikidata.org/wiki/Q1301576)).
+**Faces of War** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1301576` (Wikidata : [Q1301576](https://www.wikidata.org/wiki/Q1301576)).
 
 ## Audit de conformite structurelle
 

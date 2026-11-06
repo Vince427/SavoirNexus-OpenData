@@ -13,7 +13,7 @@ wikidata_id: Q55602944
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-09-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/948740/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q55602944:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # AI: The Somnium Files
 
-**AI: The Somnium Files** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q55602944](https://www.wikidata.org/wiki/Q55602944)).
+**AI: The Somnium Files** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q55602944` (Wikidata : [Q55602944](https://www.wikidata.org/wiki/Q55602944)).
 
 ## Audit de conformite structurelle
 

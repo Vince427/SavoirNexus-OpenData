@@ -13,7 +13,7 @@ wikidata_id: Q1837199
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-02-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/202200/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1837199:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Galactic Civilizations II: Dread Lords
 
-**Galactic Civilizations II: Dread Lords** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1837199](https://www.wikidata.org/wiki/Q1837199)).
+**Galactic Civilizations II: Dread Lords** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1837199` (Wikidata : [Q1837199](https://www.wikidata.org/wiki/Q1837199)).
 
 ## Audit de conformite structurelle
 

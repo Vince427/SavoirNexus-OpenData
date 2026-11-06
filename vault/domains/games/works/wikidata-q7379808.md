@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q7379808
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-07-19
-tags: [jeu, cataloged, action, rpg, simulation]
+tags: [jeu, audited, action, rpg, simulation]
 observations:
   - id: wikidata-q7379808:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Rune Factory 4
 
-**Rune Factory 4** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q7379808](https://www.wikidata.org/wiki/Q7379808)).
+**Rune Factory 4** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q7379808` (Wikidata : [Q7379808](https://www.wikidata.org/wiki/Q7379808)).
 
 ## Audit de conformite structurelle
 

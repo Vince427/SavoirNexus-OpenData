@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q1187204
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-16
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q1187204:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # Beautiful Katamari
 
-**Beautiful Katamari** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1187204](https://www.wikidata.org/wiki/Q1187204)).
+**Beautiful Katamari** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1187204` (Wikidata : [Q1187204](https://www.wikidata.org/wiki/Q1187204)).
 
 ## Audit de conformite structurelle
 

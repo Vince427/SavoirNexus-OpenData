@@ -13,7 +13,7 @@ wikidata_id: Q664538
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-09-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21760/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q664538:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # World in Conflict
 
-**World in Conflict** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q664538](https://www.wikidata.org/wiki/Q664538)).
+**World in Conflict** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q664538` (Wikidata : [Q664538](https://www.wikidata.org/wiki/Q664538)).
 
 ## Audit de conformite structurelle
 

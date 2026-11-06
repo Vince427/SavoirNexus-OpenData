@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q11488174
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-05-30
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q11488174:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Kanojo x Kanojo x Kanojo
 
-**Kanojo x Kanojo x Kanojo** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q11488174](https://www.wikidata.org/wiki/Q11488174)).
+**Kanojo x Kanojo x Kanojo** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q11488174` (Wikidata : [Q11488174](https://www.wikidata.org/wiki/Q11488174)).
 
 ## Audit de conformite structurelle
 

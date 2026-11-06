@@ -13,7 +13,7 @@ wikidata_id: Q714782
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-04-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/63380/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q714782:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Sniper Elite V2
 
-**Sniper Elite V2** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q714782](https://www.wikidata.org/wiki/Q714782)).
+**Sniper Elite V2** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q714782` (Wikidata : [Q714782](https://www.wikidata.org/wiki/Q714782)).
 
 ## Audit de conformite structurelle
 

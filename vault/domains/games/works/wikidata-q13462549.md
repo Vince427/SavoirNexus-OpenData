@@ -12,36 +12,36 @@ coverage_status: audited
 wikidata_id: Q13462549
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-09-10
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q13462549:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
     status: verified
     ontology_version: "1.1.0"
     criterion: /patterns/coffre-aleatoire
-    result: not_observed
+    result: observed
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Modele complet a achat unique sans aucune mecanique de coffre aleatoire ni tirage de recompense payant."
+    statement: "Presence confirmee de mecaniques de recompenses aleatoires (loot boxes, tirages gacha ou packs de cartes) : Mode Hockey Ultimate Team (HUT) avec packs de cartes de joueurs aléatoires achetables en argent réel et boosts d'attributs payants en multijoueur (EASHL)."
     evidence:
       - source_url: https://www.wikidata.org/wiki/Q13462549
         archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q13462549
-        quote: "Audit structurel [coffre-aleatoire] sur wikidata-q13462549 (NHL 14) : jeu commercial sans caisses de butin payantes."
+        quote: "Verification contradictoire [coffre-aleatoire] sur wikidata-q13462549 (NHL 14) [OBSERVED] : Mode Hockey Ultimate Team (HUT) avec packs de cartes de joueurs aléatoires achetables en argent réel et boosts d'attributs payants en multijoueur (EASHL)."
   - id: wikidata-q13462549:obs-monnaie-intermediaire-01
     author: audit-stream-5-strategy-fin
     status: verified
     ontology_version: "1.1.0"
     criterion: /patterns/monnaie-intermediaire
-    result: not_observed
+    result: observed
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Economie de jeu fermee sans boutique de devises virtuelles ou conversion monetaire en argent reel."
+    statement: "Presence confirmee d'une devise virtuelle intermediaire achetable en argent reel dans la boutique du jeu : Mode Hockey Ultimate Team (HUT) avec packs de cartes de joueurs aléatoires achetables en argent réel et boosts d'attributs payants en multijoueur (EASHL)."
     evidence:
       - source_url: https://www.wikidata.org/wiki/Q13462549
         archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q13462549
-        quote: "Audit structurel [monnaie-intermediaire] sur wikidata-q13462549 (NHL 14) : absence de monnaie virtuelle intermediaire payante."
+        quote: "Verification contradictoire [monnaie-intermediaire] sur wikidata-q13462549 (NHL 14) [OBSERVED] : Mode Hockey Ultimate Team (HUT) avec packs de cartes de joueurs aléatoires achetables en argent réel et boosts d'attributs payants en multijoueur (EASHL)."
   - id: wikidata-q13462549:obs-passe-saisonnier-expirant-01
     author: audit-stream-5-strategy-fin
     status: verified
@@ -51,11 +51,11 @@ observations:
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Contenu integralement accessible et perenne sans passe de combat saisonnier ni expiration de recompenses."
+    statement: "Absence de passe de combat ou passe saisonnier payant a expiration temporelle sur ce titre (modele a achat (premium))."
     evidence:
       - source_url: https://www.wikidata.org/wiki/Q13462549
         archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q13462549
-        quote: "Audit structurel [passe-saisonnier-expirant] sur wikidata-q13462549 (NHL 14) : experience complete perenne sans passe saisonnier a decompte."
+        quote: "Verification contradictoire [passe-saisonnier-expirant] sur wikidata-q13462549 (NHL 14) [NOT_OBSERVED] : critere passe-saisonnier-expirant non observe (modele a achat (premium))."
   - id: wikidata-q13462549:obs-fausse-urgence-01
     author: audit-stream-5-strategy-fin
     status: verified
@@ -65,25 +65,25 @@ observations:
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Absence de boutique d'objets rotative avec minuteurs ou d'offres ephemeres induisant une fausse urgence."
+    statement: "Absence de boutique rotative a compte a rebours ou d'offres ephemeres induisant une fausse urgence sur ce titre (modele a achat (premium))."
     evidence:
       - source_url: https://www.wikidata.org/wiki/Q13462549
         archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q13462549
-        quote: "Audit structurel [fausse-urgence] sur wikidata-q13462549 (NHL 14) : absence de rotation artificielle et de marketing de FOMO."
+        quote: "Verification contradictoire [fausse-urgence] sur wikidata-q13462549 (NHL 14) [NOT_OBSERVED] : critere fausse-urgence non observe (modele a achat (premium))."
   - id: wikidata-q13462549:obs-avantage-competitif-payant-01
     author: audit-stream-5-strategy-fin
     status: verified
     ontology_version: "1.1.0"
     criterion: /patterns/avantage-competitif-payant
-    result: not_observed
+    result: observed
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Progression et competences fondees exclusivement sur l'avancement en jeu sans bonus pay-to-win."
+    statement: "Presence confirmee d'achats en argent reel conferant un avantage direct de puissance, d'equipement ou d'acceleration : Mode Hockey Ultimate Team (HUT) avec packs de cartes de joueurs aléatoires achetables en argent réel et boosts d'attributs payants en multijoueur (EASHL)."
     evidence:
       - source_url: https://www.wikidata.org/wiki/Q13462549
         archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q13462549
-        quote: "Audit structurel [avantage-competitif-payant] sur wikidata-q13462549 (NHL 14) : puissance et maitrise fondees purement sur le jeu."
+        quote: "Verification contradictoire [avantage-competitif-payant] sur wikidata-q13462549 (NHL 14) [OBSERVED] : Mode Hockey Ultimate Team (HUT) avec packs de cartes de joueurs aléatoires achetables en argent réel et boosts d'attributs payants en multijoueur (EASHL)."
   - id: wikidata-q13462549:obs-systeme-energie-01
     author: audit-stream-5-strategy-fin
     status: verified
@@ -93,23 +93,27 @@ observations:
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Parties libres sans jauge d'endurance ni limitation du temps de jeu par minuteries de recharge."
+    statement: "Sessions de jeu libres sans jauge d'endurance ni compteur d'energie rechargeable par microtransaction (modele a achat (premium))."
     evidence:
       - source_url: https://www.wikidata.org/wiki/Q13462549
         archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q13462549
-        quote: "Audit structurel [systeme-energie] sur wikidata-q13462549 (NHL 14) : sessions sans contrainte de compteur d'energie."
+        quote: "Verification contradictoire [systeme-energie] sur wikidata-q13462549 (NHL 14) [NOT_OBSERVED] : critere systeme-energie non observe (modele a achat (premium))."
 ---
 
 # NHL 14
 
-**NHL 14** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q13462549](https://www.wikidata.org/wiki/Q13462549)).
+**NHL 14** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q13462549` (Wikidata : [Q13462549](https://www.wikidata.org/wiki/Q13462549)).
 
 ## Audit de conformite structurelle
 
-L'audit des six criteres structurels du Palier 1 (store-and-gameplay-review) confirme que le titre repond aux exigences d'integrite commerciale :
-- Absence de tirages aleatoires et coffres payants ([/patterns/coffre-aleatoire](/patterns/coffre-aleatoire)).
-- Economie fermee sans devise virtuelle intermediaire payante ([/patterns/monnaie-intermediaire](/patterns/monnaie-intermediaire)).
-- Absence de passe saisonnier ephemere ([/patterns/passe-saisonnier-expirant](/patterns/passe-saisonnier-expirant)).
-- Pas de boutique rotative exploitant la fausse urgence ([/patterns/fausse-urgence](/patterns/fausse-urgence)).
-- Progression fondee sur le gameplay sans avantage competitif payant ([/patterns/avantage-competitif-payant](/patterns/avantage-competitif-payant)).
-- Temps de jeu non contraint par une jauge d'energie ([/patterns/systeme-energie](/patterns/systeme-energie)).
+L'audit contradictoire des six criteres structurels du Palier 1 (`store-and-gameplay-review`, modele **premium**) met en evidence **3 pratique(s) observee(s)** sur 6 :
+- **[OBSERVE]** Coffres aleatoires / Tirages Gacha ([/patterns/coffre-aleatoire](/patterns/coffre-aleatoire)) : mecanique identifiee et documentee sur ce titre.
+- **[OBSERVE]** Monnaie virtuelle intermediaire payante ([/patterns/monnaie-intermediaire](/patterns/monnaie-intermediaire)) : mecanique identifiee et documentee sur ce titre.
+- **[NON OBSERVE]** Passe saisonnier expirant (Battle Pass) ([/patterns/passe-saisonnier-expirant](/patterns/passe-saisonnier-expirant)) : aucune occurrence de cette pratique sur ce titre.
+- **[NON OBSERVE]** Fausse urgence / Boutique rotative (FOMO) ([/patterns/fausse-urgence](/patterns/fausse-urgence)) : aucune occurrence de cette pratique sur ce titre.
+- **[OBSERVE]** Avantage competitif ou d'acceleration payant ([/patterns/avantage-competitif-payant](/patterns/avantage-competitif-payant)) : mecanique identifiee et documentee sur ce titre.
+- **[NON OBSERVE]** Systeme d'energie / Jauge d'endurance ([/patterns/systeme-energie](/patterns/systeme-energie)) : aucune occurrence de cette pratique sur ce titre.
+
+### Synthese factuelle de la monetisation
+
+Mode Hockey Ultimate Team (HUT) avec packs de cartes de joueurs aléatoires achetables en argent réel et boosts d'attributs payants en multijoueur (EASHL).

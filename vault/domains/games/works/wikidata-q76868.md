@@ -13,7 +13,7 @@ wikidata_id: Q76868
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-10-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/260210/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q76868:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Assassin's Creed III: Liberation
 
-**Assassin's Creed III: Liberation** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q76868](https://www.wikidata.org/wiki/Q76868)).
+**Assassin's Creed III: Liberation** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q76868` (Wikidata : [Q76868](https://www.wikidata.org/wiki/Q76868)).
 
 ## Audit de conformite structurelle
 

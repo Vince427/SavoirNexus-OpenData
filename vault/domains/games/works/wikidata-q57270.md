@@ -13,7 +13,7 @@ wikidata_id: Q57270
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-08-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7670/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q57270:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # BioShock
 
-**BioShock** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q57270](https://www.wikidata.org/wiki/Q57270)).
+**BioShock** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q57270` (Wikidata : [Q57270](https://www.wikidata.org/wiki/Q57270)).
 
 ## Audit de conformite structurelle
 

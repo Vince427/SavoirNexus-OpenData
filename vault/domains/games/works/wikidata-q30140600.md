@@ -13,7 +13,7 @@ wikidata_id: Q30140600
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-06-05
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1927740/header.jpg"
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q30140600:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Monument Valley 2
 
-**Monument Valley 2** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q30140600](https://www.wikidata.org/wiki/Q30140600)).
+**Monument Valley 2** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q30140600` (Wikidata : [Q30140600](https://www.wikidata.org/wiki/Q30140600)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2069294
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-12-16
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2069294:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Shining Hearts
 
-**Shining Hearts** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2069294](https://www.wikidata.org/wiki/Q2069294)).
+**Shining Hearts** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2069294` (Wikidata : [Q2069294](https://www.wikidata.org/wiki/Q2069294)).
 
 ## Audit de conformite structurelle
 

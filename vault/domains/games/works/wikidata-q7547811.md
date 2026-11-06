@@ -13,7 +13,7 @@ wikidata_id: Q7547811
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-07-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238090/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q7547811:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Sniper Elite III
 
-**Sniper Elite III** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q7547811](https://www.wikidata.org/wiki/Q7547811)).
+**Sniper Elite III** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q7547811` (Wikidata : [Q7547811](https://www.wikidata.org/wiki/Q7547811)).
 
 ## Audit de conformite structurelle
 

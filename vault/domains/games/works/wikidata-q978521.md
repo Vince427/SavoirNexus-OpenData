@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q978521
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-03-19
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q978521:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Sports Island
 
-**Sports Island** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q978521](https://www.wikidata.org/wiki/Q978521)).
+**Sports Island** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q978521` (Wikidata : [Q978521](https://www.wikidata.org/wiki/Q978521)).
 
 ## Audit de conformite structurelle
 

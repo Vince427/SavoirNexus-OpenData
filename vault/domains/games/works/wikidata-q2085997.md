@@ -13,7 +13,7 @@ wikidata_id: Q2085997
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-02-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/58610/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q2085997:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Wargame: European Escalation
 
-**Wargame: European Escalation** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2085997](https://www.wikidata.org/wiki/Q2085997)).
+**Wargame: European Escalation** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2085997` (Wikidata : [Q2085997](https://www.wikidata.org/wiki/Q2085997)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2825390
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-04-07
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q2825390:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Adventure Island: The Beginning
 
-**Adventure Island: The Beginning** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2825390](https://www.wikidata.org/wiki/Q2825390)).
+**Adventure Island: The Beginning** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2825390` (Wikidata : [Q2825390](https://www.wikidata.org/wiki/Q2825390)).
 
 ## Audit de conformite structurelle
 

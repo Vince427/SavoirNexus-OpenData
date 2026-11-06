@@ -13,7 +13,7 @@ wikidata_id: Q93722551
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-12-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1042490/header.jpg"
-tags: [jeu, cataloged, adventure, puzzle]
+tags: [jeu, audited, adventure, puzzle]
 observations:
   - id: wikidata-q93722551:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Call of the Sea
 
-**Call of the Sea** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q93722551](https://www.wikidata.org/wiki/Q93722551)).
+**Call of the Sea** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q93722551` (Wikidata : [Q93722551](https://www.wikidata.org/wiki/Q93722551)).
 
 ## Audit de conformite structurelle
 

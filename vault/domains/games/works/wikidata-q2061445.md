@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2061445
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-08-18
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2061445:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Hyperdimension Neptunia mk2
 
-**Hyperdimension Neptunia mk2** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2061445](https://www.wikidata.org/wiki/Q2061445)).
+**Hyperdimension Neptunia mk2** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2061445` (Wikidata : [Q2061445](https://www.wikidata.org/wiki/Q2061445)).
 
 ## Audit de conformite structurelle
 

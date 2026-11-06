@@ -13,7 +13,7 @@ wikidata_id: Q1633410
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-09-19
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/240760/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1633410:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Wasteland 2
 
-**Wasteland 2** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1633410](https://www.wikidata.org/wiki/Q1633410)).
+**Wasteland 2** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1633410` (Wikidata : [Q1633410](https://www.wikidata.org/wiki/Q1633410)).
 
 ## Audit de conformite structurelle
 

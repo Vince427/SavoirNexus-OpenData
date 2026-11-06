@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q349433
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-02-05
-tags: [jeu, cataloged, action, adventure, shooter]
+tags: [jeu, audited, action, adventure, shooter]
 observations:
   - id: wikidata-q349433:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Turok
 
-**Turok** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q349433](https://www.wikidata.org/wiki/Q349433)).
+**Turok** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q349433` (Wikidata : [Q349433](https://www.wikidata.org/wiki/Q349433)).
 
 ## Audit de conformite structurelle
 

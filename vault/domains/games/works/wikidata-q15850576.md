@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q15850576
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-10-03
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q15850576:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # The Witch's House
 
-**The Witch's House** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15850576](https://www.wikidata.org/wiki/Q15850576)).
+**The Witch's House** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15850576` (Wikidata : [Q15850576](https://www.wikidata.org/wiki/Q15850576)).
 
 ## Audit de conformite structurelle
 

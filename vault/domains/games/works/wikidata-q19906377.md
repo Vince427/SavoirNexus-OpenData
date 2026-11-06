@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q19906377
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-08-28
-tags: [jeu, cataloged, horror, shooter, survival]
+tags: [jeu, audited, horror, shooter, survival]
 observations:
   - id: wikidata-q19906377:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -102,7 +102,7 @@ observations:
 
 # Metro Redux
 
-**Metro Redux** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q19906377](https://www.wikidata.org/wiki/Q19906377)).
+**Metro Redux** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q19906377` (Wikidata : [Q19906377](https://www.wikidata.org/wiki/Q19906377)).
 
 ## Audit de conformite structurelle
 

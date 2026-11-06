@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2734032
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-05-28
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2734032:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ace Attorney Investigations: Miles Edgeworth
 
-**Ace Attorney Investigations: Miles Edgeworth** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2734032](https://www.wikidata.org/wiki/Q2734032)).
+**Ace Attorney Investigations: Miles Edgeworth** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2734032` (Wikidata : [Q2734032](https://www.wikidata.org/wiki/Q2734032)).
 
 ## Audit de conformite structurelle
 

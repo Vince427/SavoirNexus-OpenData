@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q7460732
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-09-29
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q7460732:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Shadowgun
 
-**Shadowgun** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q7460732](https://www.wikidata.org/wiki/Q7460732)).
+**Shadowgun** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q7460732` (Wikidata : [Q7460732](https://www.wikidata.org/wiki/Q7460732)).
 
 ## Audit de conformite structurelle
 

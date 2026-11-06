@@ -13,7 +13,7 @@ wikidata_id: Q1440462
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-11-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32800/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1440462:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Le Seigneur des anneaux : La Guerre du Nord
 
-**Le Seigneur des anneaux : La Guerre du Nord** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1440462](https://www.wikidata.org/wiki/Q1440462)).
+**Le Seigneur des anneaux : La Guerre du Nord** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1440462` (Wikidata : [Q1440462](https://www.wikidata.org/wiki/Q1440462)).
 
 ## Audit de conformite structurelle
 

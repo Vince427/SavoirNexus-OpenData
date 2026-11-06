@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q15007953
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-03-19
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q15007953:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # J-Stars Victory Vs
 
-**J-Stars Victory Vs** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15007953](https://www.wikidata.org/wiki/Q15007953)).
+**J-Stars Victory Vs** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15007953` (Wikidata : [Q15007953](https://www.wikidata.org/wiki/Q15007953)).
 
 ## Audit de conformite structurelle
 

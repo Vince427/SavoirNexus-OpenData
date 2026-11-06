@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q94397518
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-07-17
-tags: [jeu, cataloged, action, adventure, rpg]
+tags: [jeu, audited, action, adventure, rpg]
 observations:
   - id: wikidata-q94397518:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -101,7 +101,7 @@ observations:
 
 # Paper Mario: The Origami King
 
-**Paper Mario: The Origami King** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q94397518](https://www.wikidata.org/wiki/Q94397518)).
+**Paper Mario: The Origami King** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q94397518` (Wikidata : [Q94397518](https://www.wikidata.org/wiki/Q94397518)).
 
 ## Audit de conformite structurelle
 

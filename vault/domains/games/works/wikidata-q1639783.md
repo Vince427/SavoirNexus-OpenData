@@ -13,7 +13,7 @@ wikidata_id: Q1639783
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-12-10
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10430/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1639783:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Universe at War: Earth Assault
 
-**Universe at War: Earth Assault** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1639783](https://www.wikidata.org/wiki/Q1639783)).
+**Universe at War: Earth Assault** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1639783` (Wikidata : [Q1639783](https://www.wikidata.org/wiki/Q1639783)).
 
 ## Audit de conformite structurelle
 

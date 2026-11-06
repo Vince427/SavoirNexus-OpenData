@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2057433
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-07-30
-tags: [jeu, cataloged, horror]
+tags: [jeu, audited, horror]
 observations:
   - id: wikidata-q2057433:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ju-on: The Grudge
 
-**Ju-on: The Grudge** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2057433](https://www.wikidata.org/wiki/Q2057433)).
+**Ju-on: The Grudge** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2057433` (Wikidata : [Q2057433](https://www.wikidata.org/wiki/Q2057433)).
 
 ## Audit de conformite structurelle
 

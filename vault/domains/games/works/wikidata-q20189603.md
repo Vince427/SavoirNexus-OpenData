@@ -13,7 +13,7 @@ wikidata_id: Q20189603
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-10-06
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/338930/header.jpg"
-tags: [jeu, cataloged, action, hack-and-slash]
+tags: [jeu, audited, action, hack-and-slash]
 observations:
   - id: wikidata-q20189603:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Transformers: Devastation
 
-**Transformers: Devastation** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20189603](https://www.wikidata.org/wiki/Q20189603)).
+**Transformers: Devastation** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20189603` (Wikidata : [Q20189603](https://www.wikidata.org/wiki/Q20189603)).
 
 ## Audit de conformite structurelle
 

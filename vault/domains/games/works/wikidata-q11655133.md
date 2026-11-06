@@ -13,7 +13,7 @@ wikidata_id: Q11655133
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/411830/header.jpg"
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q11655133:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Senran Kagura Shinovi Versus
 
-**Senran Kagura Shinovi Versus** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q11655133](https://www.wikidata.org/wiki/Q11655133)).
+**Senran Kagura Shinovi Versus** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q11655133` (Wikidata : [Q11655133](https://www.wikidata.org/wiki/Q11655133)).
 
 ## Audit de conformite structurelle
 

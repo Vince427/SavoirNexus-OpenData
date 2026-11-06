@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q806592
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-11
-tags: [jeu, cataloged, action, adventure, simulation]
+tags: [jeu, audited, action, adventure, simulation]
 observations:
   - id: wikidata-q806592:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -101,7 +101,7 @@ observations:
 
 # Banjo-Kazooie: Nuts and Bolts
 
-**Banjo-Kazooie: Nuts and Bolts** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q806592](https://www.wikidata.org/wiki/Q806592)).
+**Banjo-Kazooie: Nuts and Bolts** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q806592` (Wikidata : [Q806592](https://www.wikidata.org/wiki/Q806592)).
 
 ## Audit de conformite structurelle
 

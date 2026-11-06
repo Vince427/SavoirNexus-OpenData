@@ -13,7 +13,7 @@ wikidata_id: Q2790195
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-03-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/34870/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2790195:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Sniper: Ghost Warrior 2
 
-**Sniper: Ghost Warrior 2** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2790195](https://www.wikidata.org/wiki/Q2790195)).
+**Sniper: Ghost Warrior 2** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2790195` (Wikidata : [Q2790195](https://www.wikidata.org/wiki/Q2790195)).
 
 ## Audit de conformite structurelle
 

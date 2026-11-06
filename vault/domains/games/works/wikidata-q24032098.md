@@ -13,7 +13,7 @@ wikidata_id: Q24032098
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-04-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/285190/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q24032098:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Warhammer 40,000: Dawn of War III
 
-**Warhammer 40,000: Dawn of War III** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q24032098](https://www.wikidata.org/wiki/Q24032098)).
+**Warhammer 40,000: Dawn of War III** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q24032098` (Wikidata : [Q24032098](https://www.wikidata.org/wiki/Q24032098)).
 
 ## Audit de conformite structurelle
 

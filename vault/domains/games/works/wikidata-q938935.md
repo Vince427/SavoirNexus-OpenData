@@ -13,7 +13,7 @@ wikidata_id: Q938935
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-09-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/19000/header.jpg"
-tags: [jeu, cataloged, horror]
+tags: [jeu, audited, horror]
 observations:
   - id: wikidata-q938935:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Silent Hill: Homecoming
 
-**Silent Hill: Homecoming** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q938935](https://www.wikidata.org/wiki/Q938935)).
+**Silent Hill: Homecoming** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q938935` (Wikidata : [Q938935](https://www.wikidata.org/wiki/Q938935)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2545624
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-06-26
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q2545624:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ratatouille
 
-**Ratatouille** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2545624](https://www.wikidata.org/wiki/Q2545624)).
+**Ratatouille** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2545624` (Wikidata : [Q2545624](https://www.wikidata.org/wiki/Q2545624)).
 
 ## Audit de conformite structurelle
 

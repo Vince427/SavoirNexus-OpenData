@@ -13,7 +13,7 @@ wikidata_id: Q860620
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-09-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1668510/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q860620:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # The Legend of Heroes VII
 
-**The Legend of Heroes VII** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q860620](https://www.wikidata.org/wiki/Q860620)).
+**The Legend of Heroes VII** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q860620` (Wikidata : [Q860620](https://www.wikidata.org/wiki/Q860620)).
 
 ## Audit de conformite structurelle
 

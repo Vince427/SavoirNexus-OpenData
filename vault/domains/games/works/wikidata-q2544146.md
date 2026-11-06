@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2544146
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-08-15
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2544146:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ship Simulator
 
-**Ship Simulator** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2544146](https://www.wikidata.org/wiki/Q2544146)).
+**Ship Simulator** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2544146` (Wikidata : [Q2544146](https://www.wikidata.org/wiki/Q2544146)).
 
 ## Audit de conformite structurelle
 

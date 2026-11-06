@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1152102
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-13
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q1152102:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Rayman Prod' présente : The Lapins Crétins Show
 
-**Rayman Prod' présente : The Lapins Crétins Show** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1152102](https://www.wikidata.org/wiki/Q1152102)).
+**Rayman Prod' présente : The Lapins Crétins Show** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1152102` (Wikidata : [Q1152102](https://www.wikidata.org/wiki/Q1152102)).
 
 ## Audit de conformite structurelle
 

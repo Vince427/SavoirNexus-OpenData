@@ -13,7 +13,7 @@ wikidata_id: Q219119
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-11-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/339230/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q219119:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # ZombiU
 
-**ZombiU** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q219119](https://www.wikidata.org/wiki/Q219119)).
+**ZombiU** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q219119` (Wikidata : [Q219119](https://www.wikidata.org/wiki/Q219119)).
 
 ## Audit de conformite structurelle
 

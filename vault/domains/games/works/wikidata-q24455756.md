@@ -13,7 +13,7 @@ wikidata_id: Q24455756
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-11-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/447040/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q24455756:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Watch Dogs 2
 
-**Watch Dogs 2** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q24455756](https://www.wikidata.org/wiki/Q24455756)).
+**Watch Dogs 2** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q24455756` (Wikidata : [Q24455756](https://www.wikidata.org/wiki/Q24455756)).
 
 ## Audit de conformite structurelle
 

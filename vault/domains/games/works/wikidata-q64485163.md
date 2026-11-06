@@ -13,7 +13,7 @@ wikidata_id: Q64485163
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/965230/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q64485163:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Doraemon Story of Seasons
 
-**Doraemon Story of Seasons** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q64485163](https://www.wikidata.org/wiki/Q64485163)).
+**Doraemon Story of Seasons** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q64485163` (Wikidata : [Q64485163](https://www.wikidata.org/wiki/Q64485163)).
 
 ## Audit de conformite structurelle
 

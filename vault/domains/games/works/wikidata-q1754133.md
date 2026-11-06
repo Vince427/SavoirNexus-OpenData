@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1754133
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-12-08
-tags: [jeu, cataloged, horror]
+tags: [jeu, audited, horror]
 observations:
   - id: wikidata-q1754133:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Silent Hill: Shattered Memories
 
-**Silent Hill: Shattered Memories** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1754133](https://www.wikidata.org/wiki/Q1754133)).
+**Silent Hill: Shattered Memories** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1754133` (Wikidata : [Q1754133](https://www.wikidata.org/wiki/Q1754133)).
 
 ## Audit de conformite structurelle
 

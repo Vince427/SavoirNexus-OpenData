@@ -13,7 +13,7 @@ wikidata_id: Q11580371
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-09-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1023690/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q11580371:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Hakuisei Renai Shoukougun
 
-**Hakuisei Renai Shoukougun** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q11580371](https://www.wikidata.org/wiki/Q11580371)).
+**Hakuisei Renai Shoukougun** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q11580371` (Wikidata : [Q11580371](https://www.wikidata.org/wiki/Q11580371)).
 
 ## Audit de conformite structurelle
 

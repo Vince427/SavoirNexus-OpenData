@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1132456
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-09-22
-tags: [jeu, cataloged, action, platformer]
+tags: [jeu, audited, action, platformer]
 observations:
   - id: wikidata-q1132456:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Kirby Super Star Ultra
 
-**Kirby Super Star Ultra** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1132456](https://www.wikidata.org/wiki/Q1132456)).
+**Kirby Super Star Ultra** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1132456` (Wikidata : [Q1132456](https://www.wikidata.org/wiki/Q1132456)).
 
 ## Audit de conformite structurelle
 

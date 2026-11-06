@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q18781808
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-03-05
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q18781808:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario vs. Donkey Kong: Tipping Stars
 
-**Mario vs. Donkey Kong: Tipping Stars** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18781808](https://www.wikidata.org/wiki/Q18781808)).
+**Mario vs. Donkey Kong: Tipping Stars** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18781808` (Wikidata : [Q18781808](https://www.wikidata.org/wiki/Q18781808)).
 
 ## Audit de conformite structurelle
 

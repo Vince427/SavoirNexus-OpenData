@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q60187866
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2026-01-13
-tags: [jeu, cataloged, adventure, rpg, sandbox]
+tags: [jeu, audited, adventure, rpg, sandbox]
 observations:
   - id: wikidata-q60187866:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -102,7 +102,7 @@ observations:
 
 # Hytale
 
-**Hytale** est une oeuvre sortie initialement en 2026, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q60187866](https://www.wikidata.org/wiki/Q60187866)).
+**Hytale** est une oeuvre sortie initialement en 2026, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q60187866` (Wikidata : [Q60187866](https://www.wikidata.org/wiki/Q60187866)).
 
 ## Audit de conformite structurelle
 

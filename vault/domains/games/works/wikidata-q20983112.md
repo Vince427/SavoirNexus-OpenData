@@ -13,7 +13,7 @@ wikidata_id: Q20983112
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1388590/header.jpg"
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q20983112:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Yakuza 6
 
-**Yakuza 6** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20983112](https://www.wikidata.org/wiki/Q20983112)).
+**Yakuza 6** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20983112` (Wikidata : [Q20983112](https://www.wikidata.org/wiki/Q20983112)).
 
 ## Audit de conformite structurelle
 

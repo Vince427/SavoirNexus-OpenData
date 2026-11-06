@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q2046506
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-07-01
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q2046506:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # Worms 2: Armageddon
 
-**Worms 2: Armageddon** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2046506](https://www.wikidata.org/wiki/Q2046506)).
+**Worms 2: Armageddon** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2046506` (Wikidata : [Q2046506](https://www.wikidata.org/wiki/Q2046506)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1991708
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-27
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q1991708:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Game Party
 
-**Game Party** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1991708](https://www.wikidata.org/wiki/Q1991708)).
+**Game Party** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1991708` (Wikidata : [Q1991708](https://www.wikidata.org/wiki/Q1991708)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q12496422
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-04-19
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/233720/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q12496422:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Surgeon Simulator 2013
 
-**Surgeon Simulator 2013** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q12496422](https://www.wikidata.org/wiki/Q12496422)).
+**Surgeon Simulator 2013** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q12496422` (Wikidata : [Q12496422](https://www.wikidata.org/wiki/Q12496422)).
 
 ## Audit de conformite structurelle
 

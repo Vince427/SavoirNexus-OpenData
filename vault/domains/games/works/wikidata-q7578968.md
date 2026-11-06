@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q7578968
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-23
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q7578968:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Bob l'éponge : Bulle en Atlantide
 
-**Bob l'éponge : Bulle en Atlantide** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q7578968](https://www.wikidata.org/wiki/Q7578968)).
+**Bob l'éponge : Bulle en Atlantide** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q7578968` (Wikidata : [Q7578968](https://www.wikidata.org/wiki/Q7578968)).
 
 ## Audit de conformite structurelle
 

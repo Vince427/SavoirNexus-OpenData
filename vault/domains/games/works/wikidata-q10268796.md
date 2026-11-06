@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q10268796
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-10-07
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q10268796:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -101,7 +101,7 @@ observations:
 
 # DriveClub
 
-**DriveClub** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q10268796](https://www.wikidata.org/wiki/Q10268796)).
+**DriveClub** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q10268796` (Wikidata : [Q10268796](https://www.wikidata.org/wiki/Q10268796)).
 
 ## Audit de conformite structurelle
 

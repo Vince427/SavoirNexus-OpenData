@@ -13,7 +13,7 @@ wikidata_id: Q2339021
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-12-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201510/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q2339021:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # FlatOut 3: Chaos and Destruction
 
-**FlatOut 3: Chaos and Destruction** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2339021](https://www.wikidata.org/wiki/Q2339021)).
+**FlatOut 3: Chaos and Destruction** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2339021` (Wikidata : [Q2339021](https://www.wikidata.org/wiki/Q2339021)).
 
 ## Audit de conformite structurelle
 

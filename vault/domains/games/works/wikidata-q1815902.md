@@ -13,7 +13,7 @@ wikidata_id: Q1815902
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-08-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/268540/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1815902:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -103,7 +103,7 @@ observations:
 
 # Les Chroniques de Sadwick : The Whispered World
 
-**Les Chroniques de Sadwick : The Whispered World** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1815902](https://www.wikidata.org/wiki/Q1815902)).
+**Les Chroniques de Sadwick : The Whispered World** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1815902` (Wikidata : [Q1815902](https://www.wikidata.org/wiki/Q1815902)).
 
 ## Audit de conformite structurelle
 

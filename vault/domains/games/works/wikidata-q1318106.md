@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1318106
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-10-20
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q1318106:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -102,7 +102,7 @@ observations:
 
 # Pro Evolution Soccer 2011
 
-**Pro Evolution Soccer 2011** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1318106](https://www.wikidata.org/wiki/Q1318106)).
+**Pro Evolution Soccer 2011** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1318106` (Wikidata : [Q1318106](https://www.wikidata.org/wiki/Q1318106)).
 
 ## Audit de conformite structurelle
 

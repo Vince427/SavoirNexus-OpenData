@@ -13,7 +13,7 @@ wikidata_id: Q765239
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-07-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201790/header.jpg"
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q765239:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Orcs Must Die! 2
 
-**Orcs Must Die! 2** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q765239](https://www.wikidata.org/wiki/Q765239)).
+**Orcs Must Die! 2** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q765239` (Wikidata : [Q765239](https://www.wikidata.org/wiki/Q765239)).
 
 ## Audit de conformite structurelle
 

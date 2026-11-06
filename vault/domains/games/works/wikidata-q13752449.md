@@ -13,7 +13,7 @@ wikidata_id: Q13752449
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-06-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/241600/header.jpg"
-tags: [jeu, cataloged, platformer, roguelike, rpg]
+tags: [jeu, audited, platformer, roguelike, rpg]
 observations:
   - id: wikidata-q13752449:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Rogue Legacy
 
-**Rogue Legacy** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q13752449](https://www.wikidata.org/wiki/Q13752449)).
+**Rogue Legacy** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q13752449` (Wikidata : [Q13752449](https://www.wikidata.org/wiki/Q13752449)).
 
 ## Audit de conformite structurelle
 

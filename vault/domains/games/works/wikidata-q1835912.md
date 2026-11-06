@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1835912
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-02-26
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1835912:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # La Guerre des têtes
 
-**La Guerre des têtes** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1835912](https://www.wikidata.org/wiki/Q1835912)).
+**La Guerre des têtes** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1835912` (Wikidata : [Q1835912](https://www.wikidata.org/wiki/Q1835912)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q1788949
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201290/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1788949:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Sins of a Solar Empire
 
-**Sins of a Solar Empire** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1788949](https://www.wikidata.org/wiki/Q1788949)).
+**Sins of a Solar Empire** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1788949` (Wikidata : [Q1788949](https://www.wikidata.org/wiki/Q1788949)).
 
 ## Audit de conformite structurelle
 

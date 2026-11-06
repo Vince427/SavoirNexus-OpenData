@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q608920
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-03-02
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q608920:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario Party 9
 
-**Mario Party 9** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q608920](https://www.wikidata.org/wiki/Q608920)).
+**Mario Party 9** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q608920` (Wikidata : [Q608920](https://www.wikidata.org/wiki/Q608920)).
 
 ## Audit de conformite structurelle
 

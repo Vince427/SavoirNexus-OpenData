@@ -13,7 +13,7 @@ wikidata_id: Q16267798
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-03-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244450/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q16267798:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Men of War: Assault Squad 2
 
-**Men of War: Assault Squad 2** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16267798](https://www.wikidata.org/wiki/Q16267798)).
+**Men of War: Assault Squad 2** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16267798` (Wikidata : [Q16267798](https://www.wikidata.org/wiki/Q16267798)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q13759410
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-11-06
-tags: [jeu, cataloged, platformer, shooter]
+tags: [jeu, audited, platformer, shooter]
 observations:
   - id: wikidata-q13759410:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ratchet and Clank: Into the Nexus
 
-**Ratchet and Clank: Into the Nexus** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q13759410](https://www.wikidata.org/wiki/Q13759410)).
+**Ratchet and Clank: Into the Nexus** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q13759410` (Wikidata : [Q13759410](https://www.wikidata.org/wiki/Q13759410)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q39073579
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-07-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/505460/header.jpg"
-tags: [jeu, cataloged, mmo, strategy]
+tags: [jeu, audited, mmo, strategy]
 observations:
   - id: wikidata-q39073579:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Foxhole
 
-**Foxhole** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q39073579](https://www.wikidata.org/wiki/Q39073579)).
+**Foxhole** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q39073579` (Wikidata : [Q39073579](https://www.wikidata.org/wiki/Q39073579)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q24071
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-09-17
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q24071:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # MotorStorm: Arctic Edge
 
-**MotorStorm: Arctic Edge** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q24071](https://www.wikidata.org/wiki/Q24071)).
+**MotorStorm: Arctic Edge** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q24071` (Wikidata : [Q24071](https://www.wikidata.org/wiki/Q24071)).
 
 ## Audit de conformite structurelle
 

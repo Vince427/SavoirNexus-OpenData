@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1783394
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-02-22
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q1783394:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Monster Hunter Freedom 2
 
-**Monster Hunter Freedom 2** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1783394](https://www.wikidata.org/wiki/Q1783394)).
+**Monster Hunter Freedom 2** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1783394` (Wikidata : [Q1783394](https://www.wikidata.org/wiki/Q1783394)).
 
 ## Audit de conformite structurelle
 

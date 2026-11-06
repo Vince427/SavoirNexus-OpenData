@@ -13,7 +13,7 @@ wikidata_id: Q15635717
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-05-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/415480/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q15635717:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Chō Megami Shinkō Noire: Gekishin Black Heart
 
-**Chō Megami Shinkō Noire: Gekishin Black Heart** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15635717](https://www.wikidata.org/wiki/Q15635717)).
+**Chō Megami Shinkō Noire: Gekishin Black Heart** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15635717` (Wikidata : [Q15635717](https://www.wikidata.org/wiki/Q15635717)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q22009602
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-06-10
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/350640/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q22009602:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Sherlock Holmes: The Devil's Daughter
 
-**Sherlock Holmes: The Devil's Daughter** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q22009602](https://www.wikidata.org/wiki/Q22009602)).
+**Sherlock Holmes: The Devil's Daughter** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q22009602` (Wikidata : [Q22009602](https://www.wikidata.org/wiki/Q22009602)).
 
 ## Audit de conformite structurelle
 

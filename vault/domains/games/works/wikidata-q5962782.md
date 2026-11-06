@@ -13,7 +13,7 @@ wikidata_id: Q5962782
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-09-10
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/70400/header.jpg"
-tags: [jeu, cataloged, rpg, simulation]
+tags: [jeu, audited, rpg, simulation]
 observations:
   - id: wikidata-q5962782:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Recettear: An Item Shop's Tale
 
-**Recettear: An Item Shop's Tale** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5962782](https://www.wikidata.org/wiki/Q5962782)).
+**Recettear: An Item Shop's Tale** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5962782` (Wikidata : [Q5962782](https://www.wikidata.org/wiki/Q5962782)).
 
 ## Audit de conformite structurelle
 

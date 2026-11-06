@@ -13,7 +13,7 @@ wikidata_id: Q16267809
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-12-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/557600/header.jpg"
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q16267809:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Gorogoa
 
-**Gorogoa** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16267809](https://www.wikidata.org/wiki/Q16267809)).
+**Gorogoa** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16267809` (Wikidata : [Q16267809](https://www.wikidata.org/wiki/Q16267809)).
 
 ## Audit de conformite structurelle
 

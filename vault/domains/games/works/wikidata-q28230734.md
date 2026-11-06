@@ -13,7 +13,7 @@ wikidata_id: Q28230734
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-05-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/487720/header.jpg"
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q28230734:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Agony
 
-**Agony** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28230734](https://www.wikidata.org/wiki/Q28230734)).
+**Agony** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28230734` (Wikidata : [Q28230734](https://www.wikidata.org/wiki/Q28230734)).
 
 ## Audit de conformite structurelle
 

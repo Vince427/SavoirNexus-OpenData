@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2053052
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-06-23
-tags: [jeu, cataloged, action, adventure, shooter]
+tags: [jeu, audited, action, adventure, shooter]
 observations:
   - id: wikidata-q2053052:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Overlord: Dark Legend
 
-**Overlord: Dark Legend** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2053052](https://www.wikidata.org/wiki/Q2053052)).
+**Overlord: Dark Legend** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2053052` (Wikidata : [Q2053052](https://www.wikidata.org/wiki/Q2053052)).
 
 ## Audit de conformite structurelle
 

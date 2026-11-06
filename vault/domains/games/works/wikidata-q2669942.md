@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2669942
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-29
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2669942:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Final Fantasy: The 4 Heroes of Light
 
-**Final Fantasy: The 4 Heroes of Light** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2669942](https://www.wikidata.org/wiki/Q2669942)).
+**Final Fantasy: The 4 Heroes of Light** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2669942` (Wikidata : [Q2669942](https://www.wikidata.org/wiki/Q2669942)).
 
 ## Audit de conformite structurelle
 

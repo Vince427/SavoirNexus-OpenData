@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q28325024
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-05-26
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q28325024:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -101,7 +101,7 @@ observations:
 
 # Ultra Street Fighter II: The Final Challengers
 
-**Ultra Street Fighter II: The Final Challengers** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28325024](https://www.wikidata.org/wiki/Q28325024)).
+**Ultra Street Fighter II: The Final Challengers** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28325024` (Wikidata : [Q28325024](https://www.wikidata.org/wiki/Q28325024)).
 
 ## Audit de conformite structurelle
 

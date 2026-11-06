@@ -13,7 +13,7 @@ wikidata_id: Q2454626
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10540/header.jpg"
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2454626:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Football Manager 2009
 
-**Football Manager 2009** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2454626](https://www.wikidata.org/wiki/Q2454626)).
+**Football Manager 2009** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2454626` (Wikidata : [Q2454626](https://www.wikidata.org/wiki/Q2454626)).
 
 ## Audit de conformite structurelle
 

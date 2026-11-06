@@ -13,7 +13,7 @@ wikidata_id: Q74539
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-10-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32500/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q74539:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Star Wars : Le Pouvoir de la Force II
 
-**Star Wars : Le Pouvoir de la Force II** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q74539](https://www.wikidata.org/wiki/Q74539)).
+**Star Wars : Le Pouvoir de la Force II** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q74539` (Wikidata : [Q74539](https://www.wikidata.org/wiki/Q74539)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q11879017
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-03-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/311340/header.jpg"
-tags: [jeu, cataloged, action, adventure, shooter]
+tags: [jeu, audited, action, adventure, shooter]
 observations:
   - id: wikidata-q11879017:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Metal Gear Solid V: Ground Zeroes
 
-**Metal Gear Solid V: Ground Zeroes** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q11879017](https://www.wikidata.org/wiki/Q11879017)).
+**Metal Gear Solid V: Ground Zeroes** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q11879017` (Wikidata : [Q11879017](https://www.wikidata.org/wiki/Q11879017)).
 
 ## Audit de conformite structurelle
 

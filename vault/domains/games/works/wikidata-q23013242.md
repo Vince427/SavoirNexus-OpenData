@@ -13,7 +13,7 @@ wikidata_id: Q23013242
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-02-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/312660/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q23013242:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Sniper Elite 4
 
-**Sniper Elite 4** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q23013242](https://www.wikidata.org/wiki/Q23013242)).
+**Sniper Elite 4** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q23013242` (Wikidata : [Q23013242](https://www.wikidata.org/wiki/Q23013242)).
 
 ## Audit de conformite structurelle
 

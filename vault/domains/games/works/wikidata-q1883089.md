@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1883089
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-03-10
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q1883089:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # MadWorld
 
-**MadWorld** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1883089](https://www.wikidata.org/wiki/Q1883089)).
+**MadWorld** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1883089` (Wikidata : [Q1883089](https://www.wikidata.org/wiki/Q1883089)).
 
 ## Audit de conformite structurelle
 

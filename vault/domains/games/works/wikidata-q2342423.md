@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2342423
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-08-26
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2342423:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Les Sims 2 : Mes petits compagnons
 
-**Les Sims 2 : Mes petits compagnons** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2342423](https://www.wikidata.org/wiki/Q2342423)).
+**Les Sims 2 : Mes petits compagnons** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2342423` (Wikidata : [Q2342423](https://www.wikidata.org/wiki/Q2342423)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q13424603
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-01-12
-tags: [jeu, cataloged, action, shooter]
+tags: [jeu, audited, action, shooter]
 observations:
   - id: wikidata-q13424603:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ace Combat: Assault Horizon Legacy
 
-**Ace Combat: Assault Horizon Legacy** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q13424603](https://www.wikidata.org/wiki/Q13424603)).
+**Ace Combat: Assault Horizon Legacy** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q13424603` (Wikidata : [Q13424603](https://www.wikidata.org/wiki/Q13424603)).
 
 ## Audit de conformite structurelle
 

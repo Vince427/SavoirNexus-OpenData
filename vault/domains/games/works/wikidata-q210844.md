@@ -13,7 +13,7 @@ wikidata_id: Q210844
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-09-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/17390/header.jpg"
-tags: [jeu, cataloged, rpg, simulation, strategy]
+tags: [jeu, audited, rpg, simulation, strategy]
 observations:
   - id: wikidata-q210844:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Spore
 
-**Spore** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q210844](https://www.wikidata.org/wiki/Q210844)).
+**Spore** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q210844` (Wikidata : [Q210844](https://www.wikidata.org/wiki/Q210844)).
 
 ## Audit de conformite structurelle
 

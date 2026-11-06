@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2604256
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-01-26
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q2604256:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ferrari Challenge: Trofeo Pirelli
 
-**Ferrari Challenge: Trofeo Pirelli** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2604256](https://www.wikidata.org/wiki/Q2604256)).
+**Ferrari Challenge: Trofeo Pirelli** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2604256` (Wikidata : [Q2604256](https://www.wikidata.org/wiki/Q2604256)).
 
 ## Audit de conformite structurelle
 

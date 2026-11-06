@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1367120
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-03-23
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q1367120:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Cooking Mama
 
-**Cooking Mama** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1367120](https://www.wikidata.org/wiki/Q1367120)).
+**Cooking Mama** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1367120` (Wikidata : [Q1367120](https://www.wikidata.org/wiki/Q1367120)).
 
 ## Audit de conformite structurelle
 

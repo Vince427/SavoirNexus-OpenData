@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q1734828
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-08-27
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1734828:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # Modern Combat: Sandstorm
 
-**Modern Combat: Sandstorm** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1734828](https://www.wikidata.org/wiki/Q1734828)).
+**Modern Combat: Sandstorm** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1734828` (Wikidata : [Q1734828](https://www.wikidata.org/wiki/Q1734828)).
 
 ## Audit de conformite structurelle
 

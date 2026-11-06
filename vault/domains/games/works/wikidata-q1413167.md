@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1413167
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-03-05
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1413167:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # 7th Dragon
 
-**7th Dragon** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1413167](https://www.wikidata.org/wiki/Q1413167)).
+**7th Dragon** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1413167` (Wikidata : [Q1413167](https://www.wikidata.org/wiki/Q1413167)).
 
 ## Audit de conformite structurelle
 

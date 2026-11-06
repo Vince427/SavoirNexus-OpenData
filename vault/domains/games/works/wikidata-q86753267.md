@@ -13,7 +13,7 @@ wikidata_id: Q86753267
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-12-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1402320/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q86753267:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Medal of Honor: Above and Beyond
 
-**Medal of Honor: Above and Beyond** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q86753267](https://www.wikidata.org/wiki/Q86753267)).
+**Medal of Honor: Above and Beyond** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q86753267` (Wikidata : [Q86753267](https://www.wikidata.org/wiki/Q86753267)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q2320846
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-03-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1105500/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2320846:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Yakuza 4
 
-**Yakuza 4** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2320846](https://www.wikidata.org/wiki/Q2320846)).
+**Yakuza 4** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2320846` (Wikidata : [Q2320846](https://www.wikidata.org/wiki/Q2320846)).
 
 ## Audit de conformite structurelle
 

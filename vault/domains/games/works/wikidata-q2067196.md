@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q2067196
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-04-03
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q2067196:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -101,7 +101,7 @@ observations:
 
 # Kinect Star Wars
 
-**Kinect Star Wars** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2067196](https://www.wikidata.org/wiki/Q2067196)).
+**Kinect Star Wars** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2067196` (Wikidata : [Q2067196](https://www.wikidata.org/wiki/Q2067196)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2987027
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-02-24
-tags: [jeu, cataloged, hack-and-slash]
+tags: [jeu, audited, hack-and-slash]
 observations:
   - id: wikidata-q2987027:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Samurai Warriors 2
 
-**Samurai Warriors 2** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2987027](https://www.wikidata.org/wiki/Q2987027)).
+**Samurai Warriors 2** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2987027` (Wikidata : [Q2987027](https://www.wikidata.org/wiki/Q2987027)).
 
 ## Audit de conformite structurelle
 

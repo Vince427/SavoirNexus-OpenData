@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q30894518
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-08-03
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q30894518:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -102,7 +102,7 @@ observations:
 
 # The Great Ace Attorney 2 : Resolve
 
-**The Great Ace Attorney 2 : Resolve** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q30894518](https://www.wikidata.org/wiki/Q30894518)).
+**The Great Ace Attorney 2 : Resolve** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q30894518` (Wikidata : [Q30894518](https://www.wikidata.org/wiki/Q30894518)).
 
 ## Audit de conformite structurelle
 

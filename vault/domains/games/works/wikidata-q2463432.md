@@ -13,7 +13,7 @@ wikidata_id: Q2463432
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-01-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1868180/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2463432:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Etrian Odyssey
 
-**Etrian Odyssey** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2463432](https://www.wikidata.org/wiki/Q2463432)).
+**Etrian Odyssey** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2463432` (Wikidata : [Q2463432](https://www.wikidata.org/wiki/Q2463432)).
 
 ## Audit de conformite structurelle
 

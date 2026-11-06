@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2221461
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-07-11
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2221461:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dragon Quest IX: Les Sentinelles du firmament
 
-**Dragon Quest IX: Les Sentinelles du firmament** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2221461](https://www.wikidata.org/wiki/Q2221461)).
+**Dragon Quest IX: Les Sentinelles du firmament** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2221461` (Wikidata : [Q2221461](https://www.wikidata.org/wiki/Q2221461)).
 
 ## Audit de conformite structurelle
 

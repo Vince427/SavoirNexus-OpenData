@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q61831178
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-06-28
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q61831178:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -101,7 +101,7 @@ observations:
 
 # Super Mario Maker 2
 
-**Super Mario Maker 2** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q61831178](https://www.wikidata.org/wiki/Q61831178)).
+**Super Mario Maker 2** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q61831178` (Wikidata : [Q61831178](https://www.wikidata.org/wiki/Q61831178)).
 
 ## Audit de conformite structurelle
 

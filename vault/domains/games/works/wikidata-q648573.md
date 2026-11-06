@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q648573
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-12-04
-tags: [jeu, cataloged, card-game]
+tags: [jeu, audited, card-game]
 observations:
   - id: wikidata-q648573:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Uncharted: Fight for Fortune
 
-**Uncharted: Fight for Fortune** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q648573](https://www.wikidata.org/wiki/Q648573)).
+**Uncharted: Fight for Fortune** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q648573` (Wikidata : [Q648573](https://www.wikidata.org/wiki/Q648573)).
 
 ## Audit de conformite structurelle
 

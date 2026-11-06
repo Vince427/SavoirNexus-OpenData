@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1101241
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-12-22
-tags: [jeu, cataloged, hack-and-slash]
+tags: [jeu, audited, hack-and-slash]
 observations:
   - id: wikidata-q1101241:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Warriors Orochi 3
 
-**Warriors Orochi 3** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1101241](https://www.wikidata.org/wiki/Q1101241)).
+**Warriors Orochi 3** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1101241` (Wikidata : [Q1101241](https://www.wikidata.org/wiki/Q1101241)).
 
 ## Audit de conformite structurelle
 

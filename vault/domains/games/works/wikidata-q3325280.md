@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3325280
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-11-22
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q3325280:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # MotorStorm: RC
 
-**MotorStorm: RC** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3325280](https://www.wikidata.org/wiki/Q3325280)).
+**MotorStorm: RC** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3325280` (Wikidata : [Q3325280](https://www.wikidata.org/wiki/Q3325280)).
 
 ## Audit de conformite structurelle
 

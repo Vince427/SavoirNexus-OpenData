@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q17163279
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-02-20
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q17163279:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Kirby et le Pinceau arc-en-ciel
 
-**Kirby et le Pinceau arc-en-ciel** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17163279](https://www.wikidata.org/wiki/Q17163279)).
+**Kirby et le Pinceau arc-en-ciel** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17163279` (Wikidata : [Q17163279](https://www.wikidata.org/wiki/Q17163279)).
 
 ## Audit de conformite structurelle
 

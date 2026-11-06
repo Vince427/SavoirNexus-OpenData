@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1338867
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-06-14
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1338867:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Eternal Sonata
 
-**Eternal Sonata** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1338867](https://www.wikidata.org/wiki/Q1338867)).
+**Eternal Sonata** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1338867` (Wikidata : [Q1338867](https://www.wikidata.org/wiki/Q1338867)).
 
 ## Audit de conformite structurelle
 

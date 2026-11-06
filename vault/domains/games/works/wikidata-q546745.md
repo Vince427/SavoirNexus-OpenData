@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q546745
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-09-25
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q546745:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Sonic Chronicles : La Confrérie des ténèbres
 
-**Sonic Chronicles : La Confrérie des ténèbres** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q546745](https://www.wikidata.org/wiki/Q546745)).
+**Sonic Chronicles : La Confrérie des ténèbres** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q546745` (Wikidata : [Q546745](https://www.wikidata.org/wiki/Q546745)).
 
 ## Audit de conformite structurelle
 

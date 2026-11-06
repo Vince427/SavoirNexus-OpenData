@@ -13,7 +13,7 @@ wikidata_id: Q837923
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
-tags: [jeu, cataloged, sandbox, shooter]
+tags: [jeu, audited, sandbox, shooter]
 observations:
   - id: wikidata-q837923:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Garry's Mod
 
-**Garry's Mod** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q837923](https://www.wikidata.org/wiki/Q837923)).
+**Garry's Mod** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q837923` (Wikidata : [Q837923](https://www.wikidata.org/wiki/Q837923)).
 
 ## Audit de conformite structurelle
 

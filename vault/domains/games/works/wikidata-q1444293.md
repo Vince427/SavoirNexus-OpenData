@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q1444293
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-08-25
-tags: [jeu, cataloged, action, simulation]
+tags: [jeu, audited, action, simulation]
 observations:
   - id: wikidata-q1444293:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # Spore Origins
 
-**Spore Origins** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1444293](https://www.wikidata.org/wiki/Q1444293)).
+**Spore Origins** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1444293` (Wikidata : [Q1444293](https://www.wikidata.org/wiki/Q1444293)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q24807252
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-01-01
-tags: [jeu, cataloged, action, adventure, rpg]
+tags: [jeu, audited, action, adventure, rpg]
 observations:
   - id: wikidata-q24807252:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ever Oasis
 
-**Ever Oasis** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q24807252](https://www.wikidata.org/wiki/Q24807252)).
+**Ever Oasis** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q24807252` (Wikidata : [Q24807252](https://www.wikidata.org/wiki/Q24807252)).
 
 ## Audit de conformite structurelle
 

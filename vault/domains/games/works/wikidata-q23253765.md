@@ -13,7 +13,7 @@ wikidata_id: Q23253765
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-04-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/271240/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q23253765:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Offworld Trading Company
 
-**Offworld Trading Company** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q23253765](https://www.wikidata.org/wiki/Q23253765)).
+**Offworld Trading Company** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q23253765` (Wikidata : [Q23253765](https://www.wikidata.org/wiki/Q23253765)).
 
 ## Audit de conformite structurelle
 

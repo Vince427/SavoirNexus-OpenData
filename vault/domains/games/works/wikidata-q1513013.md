@@ -13,7 +13,7 @@ wikidata_id: Q1513013
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-02
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40300/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q1513013:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Risen
 
-**Risen** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1513013](https://www.wikidata.org/wiki/Q1513013)).
+**Risen** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1513013` (Wikidata : [Q1513013](https://www.wikidata.org/wiki/Q1513013)).
 
 ## Audit de conformite structurelle
 

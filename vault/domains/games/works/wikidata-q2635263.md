@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2635263
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-08-27
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q2635263:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # SoulCalibur: Broken Destiny
 
-**SoulCalibur: Broken Destiny** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2635263](https://www.wikidata.org/wiki/Q2635263)).
+**SoulCalibur: Broken Destiny** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2635263` (Wikidata : [Q2635263](https://www.wikidata.org/wiki/Q2635263)).
 
 ## Audit de conformite structurelle
 

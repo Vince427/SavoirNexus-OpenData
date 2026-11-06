@@ -13,7 +13,7 @@ wikidata_id: Q2636097
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-11-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/41070/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2636097:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Serious Sam 3: BFE
 
-**Serious Sam 3: BFE** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2636097](https://www.wikidata.org/wiki/Q2636097)).
+**Serious Sam 3: BFE** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2636097` (Wikidata : [Q2636097](https://www.wikidata.org/wiki/Q2636097)).
 
 ## Audit de conformite structurelle
 

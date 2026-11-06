@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1071044
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-06-15
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1071044:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Digimon World DS
 
-**Digimon World DS** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1071044](https://www.wikidata.org/wiki/Q1071044)).
+**Digimon World DS** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1071044` (Wikidata : [Q1071044](https://www.wikidata.org/wiki/Q1071044)).
 
 ## Audit de conformite structurelle
 

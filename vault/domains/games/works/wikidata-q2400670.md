@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2400670
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-03-19
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2400670:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # SimCity DS 2
 
-**SimCity DS 2** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2400670](https://www.wikidata.org/wiki/Q2400670)).
+**SimCity DS 2** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2400670` (Wikidata : [Q2400670](https://www.wikidata.org/wiki/Q2400670)).
 
 ## Audit de conformite structurelle
 

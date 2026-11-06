@@ -13,7 +13,7 @@ wikidata_id: Q2112423
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-06-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/224060/header.jpg"
-tags: [jeu, cataloged, action, hack-and-slash, shooter]
+tags: [jeu, audited, action, hack-and-slash, shooter]
 observations:
   - id: wikidata-q2112423:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Deadpool
 
-**Deadpool** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2112423](https://www.wikidata.org/wiki/Q2112423)).
+**Deadpool** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2112423` (Wikidata : [Q2112423](https://www.wikidata.org/wiki/Q2112423)).
 
 ## Audit de conformite structurelle
 

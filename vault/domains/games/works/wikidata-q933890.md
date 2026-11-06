@@ -13,7 +13,7 @@ wikidata_id: Q933890
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-10-04
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/9200/header.jpg"
-tags: [jeu, cataloged, racing, shooter]
+tags: [jeu, audited, racing, shooter]
 observations:
   - id: wikidata-q933890:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Rage
 
-**Rage** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q933890](https://www.wikidata.org/wiki/Q933890)).
+**Rage** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q933890` (Wikidata : [Q933890](https://www.wikidata.org/wiki/Q933890)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2500418
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-06-09
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2500418:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Indiana Jones et le Sceptre des rois
 
-**Indiana Jones et le Sceptre des rois** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2500418](https://www.wikidata.org/wiki/Q2500418)).
+**Indiana Jones et le Sceptre des rois** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2500418` (Wikidata : [Q2500418](https://www.wikidata.org/wiki/Q2500418)).
 
 ## Audit de conformite structurelle
 

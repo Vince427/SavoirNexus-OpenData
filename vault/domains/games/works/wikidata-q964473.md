@@ -13,7 +13,7 @@ wikidata_id: Q964473
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-05-10
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/311770/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q964473:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Lego Pirates des Caraïbes, le jeu vidéo
 
-**Lego Pirates des Caraïbes, le jeu vidéo** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q964473](https://www.wikidata.org/wiki/Q964473)).
+**Lego Pirates des Caraïbes, le jeu vidéo** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q964473` (Wikidata : [Q964473](https://www.wikidata.org/wiki/Q964473)).
 
 ## Audit de conformite structurelle
 

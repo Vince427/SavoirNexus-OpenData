@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1138744
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-04-24
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q1138744:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -102,7 +102,7 @@ observations:
 
 # Coupe du monde FIFA 2006
 
-**Coupe du monde FIFA 2006** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1138744](https://www.wikidata.org/wiki/Q1138744)).
+**Coupe du monde FIFA 2006** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1138744` (Wikidata : [Q1138744](https://www.wikidata.org/wiki/Q1138744)).
 
 ## Audit de conformite structurelle
 

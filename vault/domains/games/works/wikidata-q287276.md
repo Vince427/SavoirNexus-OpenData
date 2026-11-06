@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q287276
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-10-17
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q287276:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -101,7 +101,7 @@ observations:
 
 # Destroy All Humans! 2
 
-**Destroy All Humans! 2** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q287276](https://www.wikidata.org/wiki/Q287276)).
+**Destroy All Humans! 2** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q287276` (Wikidata : [Q287276](https://www.wikidata.org/wiki/Q287276)).
 
 ## Audit de conformite structurelle
 

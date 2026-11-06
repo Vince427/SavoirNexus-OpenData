@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2241522
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-12-05
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q2241522:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Godzilla: Unleashed
 
-**Godzilla: Unleashed** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2241522](https://www.wikidata.org/wiki/Q2241522)).
+**Godzilla: Unleashed** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2241522` (Wikidata : [Q2241522](https://www.wikidata.org/wiki/Q2241522)).
 
 ## Audit de conformite structurelle
 

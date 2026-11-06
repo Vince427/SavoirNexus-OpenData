@@ -13,7 +13,7 @@ wikidata_id: Q1194033
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-10-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/202530/header.jpg"
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q1194033:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Sonic the Hedgehog 4: Episode 1
 
-**Sonic the Hedgehog 4: Episode 1** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1194033](https://www.wikidata.org/wiki/Q1194033)).
+**Sonic the Hedgehog 4: Episode 1** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1194033` (Wikidata : [Q1194033](https://www.wikidata.org/wiki/Q1194033)).
 
 ## Audit de conformite structurelle
 

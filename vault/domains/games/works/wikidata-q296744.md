@@ -13,7 +13,7 @@ wikidata_id: Q296744
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-06-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/33900/header.jpg"
-tags: [jeu, cataloged, action, shooter, simulation, strategy]
+tags: [jeu, audited, action, shooter, simulation, strategy]
 observations:
   - id: wikidata-q296744:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # ArmA II
 
-**ArmA II** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q296744](https://www.wikidata.org/wiki/Q296744)).
+**ArmA II** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q296744` (Wikidata : [Q296744](https://www.wikidata.org/wiki/Q296744)).
 
 ## Audit de conformite structurelle
 

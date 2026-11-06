@@ -13,7 +13,7 @@ wikidata_id: Q2278385
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11040/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2278385:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Sherlock Holmes contre Arsène Lupin
 
-**Sherlock Holmes contre Arsène Lupin** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2278385](https://www.wikidata.org/wiki/Q2278385)).
+**Sherlock Holmes contre Arsène Lupin** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2278385` (Wikidata : [Q2278385](https://www.wikidata.org/wiki/Q2278385)).
 
 ## Audit de conformite structurelle
 

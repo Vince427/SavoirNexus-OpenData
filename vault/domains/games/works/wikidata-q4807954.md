@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q4807954
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-08-28
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q4807954:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Asphalt 4: Elite Racing
 
-**Asphalt 4: Elite Racing** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4807954](https://www.wikidata.org/wiki/Q4807954)).
+**Asphalt 4: Elite Racing** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4807954` (Wikidata : [Q4807954](https://www.wikidata.org/wiki/Q4807954)).
 
 ## Audit de conformite structurelle
 

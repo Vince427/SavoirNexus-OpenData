@@ -13,7 +13,7 @@ wikidata_id: Q21539941
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/356570/header.jpg"
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q21539941:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Party Hard
 
-**Party Hard** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q21539941](https://www.wikidata.org/wiki/Q21539941)).
+**Party Hard** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q21539941` (Wikidata : [Q21539941](https://www.wikidata.org/wiki/Q21539941)).
 
 ## Audit de conformite structurelle
 

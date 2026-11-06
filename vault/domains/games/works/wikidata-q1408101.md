@@ -13,7 +13,7 @@ wikidata_id: Q1408101
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-04-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/9710/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1408101:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -103,7 +103,7 @@ observations:
 
 # Western Commandos : La Revanche de Cooper
 
-**Western Commandos : La Revanche de Cooper** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1408101](https://www.wikidata.org/wiki/Q1408101)).
+**Western Commandos : La Revanche de Cooper** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1408101` (Wikidata : [Q1408101](https://www.wikidata.org/wiki/Q1408101)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q20762666
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-02-15
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q20762666:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -102,7 +102,7 @@ observations:
 
 # Crackdown 3
 
-**Crackdown 3** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20762666](https://www.wikidata.org/wiki/Q20762666)).
+**Crackdown 3** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20762666` (Wikidata : [Q20762666](https://www.wikidata.org/wiki/Q20762666)).
 
 ## Audit de conformite structurelle
 

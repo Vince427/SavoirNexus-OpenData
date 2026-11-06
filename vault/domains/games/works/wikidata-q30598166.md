@@ -13,7 +13,7 @@ wikidata_id: Q30598166
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-04-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/629760/header.jpg"
-tags: [jeu, cataloged, hack-and-slash]
+tags: [jeu, audited, hack-and-slash]
 observations:
   - id: wikidata-q30598166:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Mordhau
 
-**Mordhau** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q30598166](https://www.wikidata.org/wiki/Q30598166)).
+**Mordhau** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q30598166` (Wikidata : [Q30598166](https://www.wikidata.org/wiki/Q30598166)).
 
 ## Audit de conformite structurelle
 

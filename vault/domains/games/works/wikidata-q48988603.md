@@ -13,7 +13,7 @@ wikidata_id: Q48988603
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2022-10-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/698670/header.jpg"
-tags: [jeu, cataloged, adventure, horror, shooter, survival]
+tags: [jeu, audited, adventure, horror, shooter, survival]
 observations:
   - id: wikidata-q48988603:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Scorn
 
-**Scorn** est une oeuvre sortie initialement en 2022, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q48988603](https://www.wikidata.org/wiki/Q48988603)).
+**Scorn** est une oeuvre sortie initialement en 2022, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q48988603` (Wikidata : [Q48988603](https://www.wikidata.org/wiki/Q48988603)).
 
 ## Audit de conformite structurelle
 

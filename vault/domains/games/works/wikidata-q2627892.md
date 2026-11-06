@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2627892
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-12-06
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2627892:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Tales of Innocence
 
-**Tales of Innocence** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2627892](https://www.wikidata.org/wiki/Q2627892)).
+**Tales of Innocence** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2627892` (Wikidata : [Q2627892](https://www.wikidata.org/wiki/Q2627892)).
 
 ## Audit de conformite structurelle
 

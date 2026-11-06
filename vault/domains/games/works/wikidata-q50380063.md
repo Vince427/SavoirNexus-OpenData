@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q50380063
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-07-27
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q50380063:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -102,7 +102,7 @@ observations:
 
 # WarioWare Gold
 
-**WarioWare Gold** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q50380063](https://www.wikidata.org/wiki/Q50380063)).
+**WarioWare Gold** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q50380063` (Wikidata : [Q50380063](https://www.wikidata.org/wiki/Q50380063)).
 
 ## Audit de conformite structurelle
 

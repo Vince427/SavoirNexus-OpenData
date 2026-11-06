@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3285683
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-12-18
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q3285683:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Harvest Moon DS: Grand Bazaar
 
-**Harvest Moon DS: Grand Bazaar** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3285683](https://www.wikidata.org/wiki/Q3285683)).
+**Harvest Moon DS: Grand Bazaar** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3285683` (Wikidata : [Q3285683](https://www.wikidata.org/wiki/Q3285683)).
 
 ## Audit de conformite structurelle
 

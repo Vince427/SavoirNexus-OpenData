@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q667363
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-09-16
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q667363:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Kung Fu Rider
 
-**Kung Fu Rider** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q667363](https://www.wikidata.org/wiki/Q667363)).
+**Kung Fu Rider** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q667363` (Wikidata : [Q667363](https://www.wikidata.org/wiki/Q667363)).
 
 ## Audit de conformite structurelle
 

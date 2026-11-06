@@ -13,7 +13,7 @@ wikidata_id: Q18655006
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-02-04
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/349040/header.jpg"
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q18655006:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -103,7 +103,7 @@ observations:
 
 # Naruto Shippūden : Ultimate Ninja Storm 4
 
-**Naruto Shippūden : Ultimate Ninja Storm 4** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18655006](https://www.wikidata.org/wiki/Q18655006)).
+**Naruto Shippūden : Ultimate Ninja Storm 4** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18655006` (Wikidata : [Q18655006](https://www.wikidata.org/wiki/Q18655006)).
 
 ## Audit de conformite structurelle
 

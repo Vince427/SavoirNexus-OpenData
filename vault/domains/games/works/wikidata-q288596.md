@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q288596
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-03-13
-tags: [jeu, cataloged, horror]
+tags: [jeu, audited, horror]
 observations:
   - id: wikidata-q288596:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Silent Hill: Downpour
 
-**Silent Hill: Downpour** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q288596](https://www.wikidata.org/wiki/Q288596)).
+**Silent Hill: Downpour** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q288596` (Wikidata : [Q288596](https://www.wikidata.org/wiki/Q288596)).
 
 ## Audit de conformite structurelle
 

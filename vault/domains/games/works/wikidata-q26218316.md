@@ -13,7 +13,7 @@ wikidata_id: Q26218316
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-08-02
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/443810/header.jpg"
-tags: [jeu, cataloged, adventure, strategy]
+tags: [jeu, audited, adventure, strategy]
 observations:
   - id: wikidata-q26218316:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # This Is the Police
 
-**This Is the Police** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q26218316](https://www.wikidata.org/wiki/Q26218316)).
+**This Is the Police** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q26218316` (Wikidata : [Q26218316](https://www.wikidata.org/wiki/Q26218316)).
 
 ## Audit de conformite structurelle
 

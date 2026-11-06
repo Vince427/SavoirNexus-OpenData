@@ -13,7 +13,7 @@ wikidata_id: Q21704660
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-01-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/502500/header.jpg"
-tags: [jeu, cataloged, action, simulation]
+tags: [jeu, audited, action, simulation]
 observations:
   - id: wikidata-q21704660:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Ace Combat 7
 
-**Ace Combat 7** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q21704660](https://www.wikidata.org/wiki/Q21704660)).
+**Ace Combat 7** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q21704660` (Wikidata : [Q21704660](https://www.wikidata.org/wiki/Q21704660)).
 
 ## Audit de conformite structurelle
 

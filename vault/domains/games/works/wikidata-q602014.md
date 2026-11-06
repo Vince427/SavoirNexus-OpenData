@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q602014
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-07-16
-tags: [jeu, cataloged, rpg, sports]
+tags: [jeu, audited, rpg, sports]
 observations:
   - id: wikidata-q602014:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Inazuma Eleven Strikers
 
-**Inazuma Eleven Strikers** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q602014](https://www.wikidata.org/wiki/Q602014)).
+**Inazuma Eleven Strikers** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q602014` (Wikidata : [Q602014](https://www.wikidata.org/wiki/Q602014)).
 
 ## Audit de conformite structurelle
 

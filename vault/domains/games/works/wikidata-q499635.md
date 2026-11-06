@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q499635
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-02-14
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q499635:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Tekken 3D: Prime Edition
 
-**Tekken 3D: Prime Edition** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q499635](https://www.wikidata.org/wiki/Q499635)).
+**Tekken 3D: Prime Edition** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q499635` (Wikidata : [Q499635](https://www.wikidata.org/wiki/Q499635)).
 
 ## Audit de conformite structurelle
 

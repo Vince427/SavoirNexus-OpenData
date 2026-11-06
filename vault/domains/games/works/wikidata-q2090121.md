@@ -13,7 +13,7 @@ wikidata_id: Q2090121
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-03-09
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13640/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2090121:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -103,7 +103,7 @@ observations:
 
 # Tom Clancy's Ghost Recon Advanced Warfighter
 
-**Tom Clancy's Ghost Recon Advanced Warfighter** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2090121](https://www.wikidata.org/wiki/Q2090121)).
+**Tom Clancy's Ghost Recon Advanced Warfighter** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2090121` (Wikidata : [Q2090121](https://www.wikidata.org/wiki/Q2090121)).
 
 ## Audit de conformite structurelle
 

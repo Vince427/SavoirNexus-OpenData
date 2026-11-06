@@ -13,7 +13,7 @@ wikidata_id: Q1503177
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-06-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/314650/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q1503177:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # SpaceEngine
 
-**SpaceEngine** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1503177](https://www.wikidata.org/wiki/Q1503177)).
+**SpaceEngine** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1503177` (Wikidata : [Q1503177](https://www.wikidata.org/wiki/Q1503177)).
 
 ## Audit de conformite structurelle
 

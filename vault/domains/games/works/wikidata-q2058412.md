@@ -13,7 +13,7 @@ wikidata_id: Q2058412
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-06-05
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/212410/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2058412:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Inversion
 
-**Inversion** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2058412](https://www.wikidata.org/wiki/Q2058412)).
+**Inversion** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2058412` (Wikidata : [Q2058412](https://www.wikidata.org/wiki/Q2058412)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2522442
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-02-01
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2522442:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Harvest Moon DS : Île Sereine
 
-**Harvest Moon DS : Île Sereine** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2522442](https://www.wikidata.org/wiki/Q2522442)).
+**Harvest Moon DS : Île Sereine** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2522442` (Wikidata : [Q2522442](https://www.wikidata.org/wiki/Q2522442)).
 
 ## Audit de conformite structurelle
 

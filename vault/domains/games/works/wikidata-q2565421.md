@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2565421
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-12
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2565421:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Final Fantasy Crystal Chronicles: The Crystal Bearers
 
-**Final Fantasy Crystal Chronicles: The Crystal Bearers** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2565421](https://www.wikidata.org/wiki/Q2565421)).
+**Final Fantasy Crystal Chronicles: The Crystal Bearers** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2565421` (Wikidata : [Q2565421](https://www.wikidata.org/wiki/Q2565421)).
 
 ## Audit de conformite structurelle
 

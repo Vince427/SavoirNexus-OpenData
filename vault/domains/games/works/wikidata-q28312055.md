@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q28312055
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-03-03
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q28312055:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -101,7 +101,7 @@ observations:
 
 # Snipperclips : Les deux font la paire
 
-**Snipperclips : Les deux font la paire** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28312055](https://www.wikidata.org/wiki/Q28312055)).
+**Snipperclips : Les deux font la paire** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28312055` (Wikidata : [Q28312055](https://www.wikidata.org/wiki/Q28312055)).
 
 ## Audit de conformite structurelle
 

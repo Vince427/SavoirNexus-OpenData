@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q18536880
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-11-11
-tags: [jeu, cataloged, action, adventure, platformer]
+tags: [jeu, audited, action, adventure, platformer]
 observations:
   - id: wikidata-q18536880:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Sonic Boom: Rise of Lyric
 
-**Sonic Boom: Rise of Lyric** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18536880](https://www.wikidata.org/wiki/Q18536880)).
+**Sonic Boom: Rise of Lyric** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18536880` (Wikidata : [Q18536880](https://www.wikidata.org/wiki/Q18536880)).
 
 ## Audit de conformite structurelle
 

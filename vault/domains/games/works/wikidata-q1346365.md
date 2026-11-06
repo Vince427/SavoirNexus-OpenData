@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1346365
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-08-03
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1346365:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Star Fox Command
 
-**Star Fox Command** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1346365](https://www.wikidata.org/wiki/Q1346365)).
+**Star Fox Command** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1346365` (Wikidata : [Q1346365](https://www.wikidata.org/wiki/Q1346365)).
 
 ## Audit de conformite structurelle
 

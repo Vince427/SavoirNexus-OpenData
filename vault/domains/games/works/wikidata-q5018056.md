@@ -13,7 +13,7 @@ wikidata_id: Q5018056
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-09-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/36180/header.jpg"
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q5018056:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Cake Mania
 
-**Cake Mania** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5018056](https://www.wikidata.org/wiki/Q5018056)).
+**Cake Mania** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5018056` (Wikidata : [Q5018056](https://www.wikidata.org/wiki/Q5018056)).
 
 ## Audit de conformite structurelle
 

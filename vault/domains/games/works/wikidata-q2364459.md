@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2364459
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-01-31
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2364459:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Disgaea 3: Absence of Justice
 
-**Disgaea 3: Absence of Justice** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2364459](https://www.wikidata.org/wiki/Q2364459)).
+**Disgaea 3: Absence of Justice** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2364459` (Wikidata : [Q2364459](https://www.wikidata.org/wiki/Q2364459)).
 
 ## Audit de conformite structurelle
 

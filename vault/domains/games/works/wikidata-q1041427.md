@@ -13,7 +13,7 @@ wikidata_id: Q1041427
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-09-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/113200/header.jpg"
-tags: [jeu, cataloged, action, adventure, roguelike]
+tags: [jeu, audited, action, adventure, roguelike]
 observations:
   - id: wikidata-q1041427:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Binding of Isaac
 
-**The Binding of Isaac** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1041427](https://www.wikidata.org/wiki/Q1041427)).
+**The Binding of Isaac** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1041427` (Wikidata : [Q1041427](https://www.wikidata.org/wiki/Q1041427)).
 
 ## Audit de conformite structurelle
 

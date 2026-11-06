@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q726752
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-09-15
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q726752:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # ParaWorld
 
-**ParaWorld** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q726752](https://www.wikidata.org/wiki/Q726752)).
+**ParaWorld** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q726752` (Wikidata : [Q726752](https://www.wikidata.org/wiki/Q726752)).
 
 ## Audit de conformite structurelle
 

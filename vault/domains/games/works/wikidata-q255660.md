@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q255660
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-10-30
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q255660:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # LFP Manager 09
 
-**LFP Manager 09** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q255660](https://www.wikidata.org/wiki/Q255660)).
+**LFP Manager 09** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q255660` (Wikidata : [Q255660](https://www.wikidata.org/wiki/Q255660)).
 
 ## Audit de conformite structurelle
 

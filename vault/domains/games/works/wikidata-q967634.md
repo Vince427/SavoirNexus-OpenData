@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q967634
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-05-09
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q967634:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Rise of Nations: Rise of Legends
 
-**Rise of Nations: Rise of Legends** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q967634](https://www.wikidata.org/wiki/Q967634)).
+**Rise of Nations: Rise of Legends** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q967634` (Wikidata : [Q967634](https://www.wikidata.org/wiki/Q967634)).
 
 ## Audit de conformite structurelle
 

@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q3650813
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-12-01
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q3650813:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -101,7 +101,7 @@ observations:
 
 # Call of Duty: Black Ops - Zombies
 
-**Call of Duty: Black Ops - Zombies** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3650813](https://www.wikidata.org/wiki/Q3650813)).
+**Call of Duty: Black Ops - Zombies** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3650813` (Wikidata : [Q3650813](https://www.wikidata.org/wiki/Q3650813)).
 
 ## Audit de conformite structurelle
 

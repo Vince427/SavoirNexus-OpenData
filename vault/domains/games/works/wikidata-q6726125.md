@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q6726125
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-04
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q6726125:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -102,7 +102,7 @@ observations:
 
 # Madagascar 2
 
-**Madagascar 2** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q6726125](https://www.wikidata.org/wiki/Q6726125)).
+**Madagascar 2** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q6726125` (Wikidata : [Q6726125](https://www.wikidata.org/wiki/Q6726125)).
 
 ## Audit de conformite structurelle
 

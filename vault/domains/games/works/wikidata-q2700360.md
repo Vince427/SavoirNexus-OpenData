@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2700360
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-06-07
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2700360:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Harvest Moon : L'Arbre de la sérénité
 
-**Harvest Moon : L'Arbre de la sérénité** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2700360](https://www.wikidata.org/wiki/Q2700360)).
+**Harvest Moon : L'Arbre de la sérénité** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2700360` (Wikidata : [Q2700360](https://www.wikidata.org/wiki/Q2700360)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3256645
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-11-06
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q3256645:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Little Big Planet Karting
 
-**Little Big Planet Karting** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3256645](https://www.wikidata.org/wiki/Q3256645)).
+**Little Big Planet Karting** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3256645` (Wikidata : [Q3256645](https://www.wikidata.org/wiki/Q3256645)).
 
 ## Audit de conformite structurelle
 

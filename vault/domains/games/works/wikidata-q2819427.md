@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2819427
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-04
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2819427:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # ASH: Archaic Sealed Heat
 
-**ASH: Archaic Sealed Heat** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2819427](https://www.wikidata.org/wiki/Q2819427)).
+**ASH: Archaic Sealed Heat** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2819427` (Wikidata : [Q2819427](https://www.wikidata.org/wiki/Q2819427)).
 
 ## Audit de conformite structurelle
 

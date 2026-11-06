@@ -13,7 +13,7 @@ wikidata_id: Q4774596
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-01-31
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/219890/header.jpg"
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q4774596:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Antichamber
 
-**Antichamber** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4774596](https://www.wikidata.org/wiki/Q4774596)).
+**Antichamber** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4774596` (Wikidata : [Q4774596](https://www.wikidata.org/wiki/Q4774596)).
 
 ## Audit de conformite structurelle
 

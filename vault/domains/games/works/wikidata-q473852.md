@@ -13,7 +13,7 @@ wikidata_id: Q473852
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-06-09
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10150/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q473852:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Prototype
 
-**Prototype** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q473852](https://www.wikidata.org/wiki/Q473852)).
+**Prototype** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q473852` (Wikidata : [Q473852](https://www.wikidata.org/wiki/Q473852)).
 
 ## Audit de conformite structurelle
 

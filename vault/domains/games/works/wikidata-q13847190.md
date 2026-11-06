@@ -13,7 +13,7 @@ wikidata_id: Q13847190
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-01-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238750/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q13847190:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Might and Magic X: Legacy
 
-**Might and Magic X: Legacy** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q13847190](https://www.wikidata.org/wiki/Q13847190)).
+**Might and Magic X: Legacy** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q13847190` (Wikidata : [Q13847190](https://www.wikidata.org/wiki/Q13847190)).
 
 ## Audit de conformite structurelle
 

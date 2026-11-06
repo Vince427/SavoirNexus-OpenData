@@ -13,7 +13,7 @@ wikidata_id: Q13077230
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-12-10
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/239820/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q13077230:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Game Dev Tycoon
 
-**Game Dev Tycoon** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q13077230](https://www.wikidata.org/wiki/Q13077230)).
+**Game Dev Tycoon** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q13077230` (Wikidata : [Q13077230](https://www.wikidata.org/wiki/Q13077230)).
 
 ## Audit de conformite structurelle
 

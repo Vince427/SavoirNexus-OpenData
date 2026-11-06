@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2474856
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-12-10
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2474856:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # 999: Nine Hours, Nine Persons, Nine Doors
 
-**999: Nine Hours, Nine Persons, Nine Doors** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2474856](https://www.wikidata.org/wiki/Q2474856)).
+**999: Nine Hours, Nine Persons, Nine Doors** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2474856` (Wikidata : [Q2474856](https://www.wikidata.org/wiki/Q2474856)).
 
 ## Audit de conformite structurelle
 

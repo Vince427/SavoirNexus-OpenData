@@ -13,7 +13,7 @@ wikidata_id: Q54554238
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/829110/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q54554238:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Lego DC Super-Vilains
 
-**Lego DC Super-Vilains** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q54554238](https://www.wikidata.org/wiki/Q54554238)).
+**Lego DC Super-Vilains** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q54554238` (Wikidata : [Q54554238](https://www.wikidata.org/wiki/Q54554238)).
 
 ## Audit de conformite structurelle
 

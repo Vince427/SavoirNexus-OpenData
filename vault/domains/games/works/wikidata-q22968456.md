@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q22968456
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-06-23
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q22968456:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # The Caligula Effect
 
-**The Caligula Effect** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q22968456](https://www.wikidata.org/wiki/Q22968456)).
+**The Caligula Effect** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q22968456` (Wikidata : [Q22968456](https://www.wikidata.org/wiki/Q22968456)).
 
 ## Audit de conformite structurelle
 

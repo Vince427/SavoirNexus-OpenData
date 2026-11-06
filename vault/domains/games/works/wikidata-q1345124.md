@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1345124
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-26
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q1345124:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Professeur Layton et l'Appel du Spectre
 
-**Professeur Layton et l'Appel du Spectre** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1345124](https://www.wikidata.org/wiki/Q1345124)).
+**Professeur Layton et l'Appel du Spectre** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1345124` (Wikidata : [Q1345124](https://www.wikidata.org/wiki/Q1345124)).
 
 ## Audit de conformite structurelle
 

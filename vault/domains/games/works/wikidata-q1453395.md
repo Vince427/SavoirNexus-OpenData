@@ -13,7 +13,7 @@ wikidata_id: Q1453395
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-10-10
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7740/header.jpg"
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q1453395:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # NBA 2K9
 
-**NBA 2K9** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1453395](https://www.wikidata.org/wiki/Q1453395)).
+**NBA 2K9** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1453395` (Wikidata : [Q1453395](https://www.wikidata.org/wiki/Q1453395)).
 
 ## Audit de conformite structurelle
 

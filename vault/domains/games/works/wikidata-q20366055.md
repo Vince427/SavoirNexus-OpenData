@@ -13,7 +13,7 @@ wikidata_id: Q20366055
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/324800/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q20366055:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Shadow Warrior 2
 
-**Shadow Warrior 2** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20366055](https://www.wikidata.org/wiki/Q20366055)).
+**Shadow Warrior 2** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20366055` (Wikidata : [Q20366055](https://www.wikidata.org/wiki/Q20366055)).
 
 ## Audit de conformite structurelle
 

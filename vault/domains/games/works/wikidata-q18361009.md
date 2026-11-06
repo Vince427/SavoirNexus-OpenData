@@ -13,7 +13,7 @@ wikidata_id: Q18361009
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-03-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/261550/header.jpg"
-tags: [jeu, cataloged, action, rpg, strategy]
+tags: [jeu, audited, action, rpg, strategy]
 observations:
   - id: wikidata-q18361009:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Mount and Blade II: Bannerlord
 
-**Mount and Blade II: Bannerlord** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18361009](https://www.wikidata.org/wiki/Q18361009)).
+**Mount and Blade II: Bannerlord** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18361009` (Wikidata : [Q18361009](https://www.wikidata.org/wiki/Q18361009)).
 
 ## Audit de conformite structurelle
 

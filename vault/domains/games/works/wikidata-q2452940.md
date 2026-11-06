@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2452940
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-04-04
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2452940:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Hearts of Iron II: Doomsday
 
-**Hearts of Iron II: Doomsday** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2452940](https://www.wikidata.org/wiki/Q2452940)).
+**Hearts of Iron II: Doomsday** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2452940` (Wikidata : [Q2452940](https://www.wikidata.org/wiki/Q2452940)).
 
 ## Audit de conformite structurelle
 

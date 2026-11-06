@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2502136
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-10-17
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2502136:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -102,7 +102,7 @@ observations:
 
 # Skylanders Giants
 
-**Skylanders Giants** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2502136](https://www.wikidata.org/wiki/Q2502136)).
+**Skylanders Giants** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2502136` (Wikidata : [Q2502136](https://www.wikidata.org/wiki/Q2502136)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q60793934
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-12-10
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/784080/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q60793934:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # MechWarrior 5: Mercenaries
 
-**MechWarrior 5: Mercenaries** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q60793934](https://www.wikidata.org/wiki/Q60793934)).
+**MechWarrior 5: Mercenaries** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q60793934` (Wikidata : [Q60793934](https://www.wikidata.org/wiki/Q60793934)).
 
 ## Audit de conformite structurelle
 

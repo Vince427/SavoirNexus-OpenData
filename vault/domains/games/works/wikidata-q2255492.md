@@ -13,7 +13,7 @@ wikidata_id: Q2255492
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-08-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242550/header.jpg"
-tags: [jeu, cataloged, adventure, platformer]
+tags: [jeu, audited, adventure, platformer]
 observations:
   - id: wikidata-q2255492:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Rayman Legends
 
-**Rayman Legends** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2255492](https://www.wikidata.org/wiki/Q2255492)).
+**Rayman Legends** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2255492` (Wikidata : [Q2255492](https://www.wikidata.org/wiki/Q2255492)).
 
 ## Audit de conformite structurelle
 

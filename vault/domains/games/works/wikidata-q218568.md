@@ -13,7 +13,7 @@ wikidata_id: Q218568
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-09-06
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/221640/header.jpg"
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q218568:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Super Hexagon
 
-**Super Hexagon** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q218568](https://www.wikidata.org/wiki/Q218568)).
+**Super Hexagon** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q218568` (Wikidata : [Q218568](https://www.wikidata.org/wiki/Q218568)).
 
 ## Audit de conformite structurelle
 

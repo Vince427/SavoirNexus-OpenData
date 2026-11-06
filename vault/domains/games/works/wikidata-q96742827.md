@@ -13,7 +13,7 @@ wikidata_id: Q96742827
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-05-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1062160/header.jpg"
-tags: [jeu, cataloged, puzzle, simulation]
+tags: [jeu, audited, puzzle, simulation]
 observations:
   - id: wikidata-q96742827:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Poly Bridge 2
 
-**Poly Bridge 2** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q96742827](https://www.wikidata.org/wiki/Q96742827)).
+**Poly Bridge 2** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q96742827` (Wikidata : [Q96742827](https://www.wikidata.org/wiki/Q96742827)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q528128
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-02-22
-tags: [jeu, cataloged, action, shooter]
+tags: [jeu, audited, action, shooter]
 observations:
   - id: wikidata-q528128:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Killzone 3
 
-**Killzone 3** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q528128](https://www.wikidata.org/wiki/Q528128)).
+**Killzone 3** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q528128` (Wikidata : [Q528128](https://www.wikidata.org/wiki/Q528128)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q935083
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-10-05
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q935083:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ben 10 Ultimate Alien: Cosmic Destruction
 
-**Ben 10 Ultimate Alien: Cosmic Destruction** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q935083](https://www.wikidata.org/wiki/Q935083)).
+**Ben 10 Ultimate Alien: Cosmic Destruction** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q935083` (Wikidata : [Q935083](https://www.wikidata.org/wiki/Q935083)).
 
 ## Audit de conformite structurelle
 

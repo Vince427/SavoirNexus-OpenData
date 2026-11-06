@@ -13,7 +13,7 @@ wikidata_id: Q640567
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-08-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/204360/header.jpg"
-tags: [jeu, cataloged, fighting, hack-and-slash]
+tags: [jeu, audited, fighting, hack-and-slash]
 observations:
   - id: wikidata-q640567:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Castle Crashers
 
-**Castle Crashers** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q640567](https://www.wikidata.org/wiki/Q640567)).
+**Castle Crashers** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q640567` (Wikidata : [Q640567](https://www.wikidata.org/wiki/Q640567)).
 
 ## Audit de conformite structurelle
 

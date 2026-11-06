@@ -13,7 +13,7 @@ wikidata_id: Q1781767
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-06-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/34830/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1781767:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Sniper: Ghost Warrior
 
-**Sniper: Ghost Warrior** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1781767](https://www.wikidata.org/wiki/Q1781767)).
+**Sniper: Ghost Warrior** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1781767` (Wikidata : [Q1781767](https://www.wikidata.org/wiki/Q1781767)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1210068
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-04-21
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q1210068:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # RapeLay
 
-**RapeLay** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1210068](https://www.wikidata.org/wiki/Q1210068)).
+**RapeLay** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1210068` (Wikidata : [Q1210068](https://www.wikidata.org/wiki/Q1210068)).
 
 ## Audit de conformite structurelle
 

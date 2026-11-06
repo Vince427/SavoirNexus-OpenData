@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1318537
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-06-24
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1318537:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Uta no Prince-sama
 
-**Uta no Prince-sama** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1318537](https://www.wikidata.org/wiki/Q1318537)).
+**Uta no Prince-sama** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1318537` (Wikidata : [Q1318537](https://www.wikidata.org/wiki/Q1318537)).
 
 ## Audit de conformite structurelle
 

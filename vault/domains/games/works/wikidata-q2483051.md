@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2483051
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-07-25
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2483051:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Phoenix Wright: Ace Attorney - Dual Destinies
 
-**Phoenix Wright: Ace Attorney - Dual Destinies** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2483051](https://www.wikidata.org/wiki/Q2483051)).
+**Phoenix Wright: Ace Attorney - Dual Destinies** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2483051` (Wikidata : [Q2483051](https://www.wikidata.org/wiki/Q2483051)).
 
 ## Audit de conformite structurelle
 

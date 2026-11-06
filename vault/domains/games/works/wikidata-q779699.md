@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q779699
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-03-20
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q779699:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -102,7 +102,7 @@ observations:
 
 # Ninja Gaiden 3
 
-**Ninja Gaiden 3** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q779699](https://www.wikidata.org/wiki/Q779699)).
+**Ninja Gaiden 3** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q779699` (Wikidata : [Q779699](https://www.wikidata.org/wiki/Q779699)).
 
 ## Audit de conformite structurelle
 

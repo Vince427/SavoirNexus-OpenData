@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q593572
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-12-28
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q593572:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Formula One Championship Edition
 
-**Formula One Championship Edition** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q593572](https://www.wikidata.org/wiki/Q593572)).
+**Formula One Championship Edition** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q593572` (Wikidata : [Q593572](https://www.wikidata.org/wiki/Q593572)).
 
 ## Audit de conformite structurelle
 

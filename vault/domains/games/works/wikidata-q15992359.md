@@ -13,7 +13,7 @@ wikidata_id: Q15992359
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-11-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/298110/header.jpg"
-tags: [jeu, cataloged, action, adventure, shooter]
+tags: [jeu, audited, action, adventure, shooter]
 observations:
   - id: wikidata-q15992359:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Far Cry 4
 
-**Far Cry 4** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15992359](https://www.wikidata.org/wiki/Q15992359)).
+**Far Cry 4** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15992359` (Wikidata : [Q15992359](https://www.wikidata.org/wiki/Q15992359)).
 
 ## Audit de conformite structurelle
 

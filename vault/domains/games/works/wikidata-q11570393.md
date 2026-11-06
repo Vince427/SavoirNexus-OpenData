@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q11570393
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-02-23
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q11570393:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Harvest Moon 3D: A New Beginning
 
-**Harvest Moon 3D: A New Beginning** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q11570393](https://www.wikidata.org/wiki/Q11570393)).
+**Harvest Moon 3D: A New Beginning** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q11570393` (Wikidata : [Q11570393](https://www.wikidata.org/wiki/Q11570393)).
 
 ## Audit de conformite structurelle
 

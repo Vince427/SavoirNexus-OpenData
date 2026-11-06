@@ -13,7 +13,7 @@ wikidata_id: Q96217480
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2021-06-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1895880/header.jpg"
-tags: [jeu, cataloged, action, adventure, platformer, shooter]
+tags: [jeu, audited, action, adventure, platformer, shooter]
 observations:
   - id: wikidata-q96217480:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Ratchet and Clank: Rift Apart
 
-**Ratchet and Clank: Rift Apart** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q96217480](https://www.wikidata.org/wiki/Q96217480)).
+**Ratchet and Clank: Rift Apart** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q96217480` (Wikidata : [Q96217480](https://www.wikidata.org/wiki/Q96217480)).
 
 ## Audit de conformite structurelle
 

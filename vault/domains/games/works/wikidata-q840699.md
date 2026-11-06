@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q840699
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-06
-tags: [jeu, cataloged, horror]
+tags: [jeu, audited, horror]
 observations:
   - id: wikidata-q840699:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Silent Hill: Origins
 
-**Silent Hill: Origins** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q840699](https://www.wikidata.org/wiki/Q840699)).
+**Silent Hill: Origins** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q840699` (Wikidata : [Q840699](https://www.wikidata.org/wiki/Q840699)).
 
 ## Audit de conformite structurelle
 

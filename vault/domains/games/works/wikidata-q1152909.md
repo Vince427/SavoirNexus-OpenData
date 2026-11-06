@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1152909
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-17
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1152909:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Resident Evil: The Darkside Chronicles
 
-**Resident Evil: The Darkside Chronicles** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1152909](https://www.wikidata.org/wiki/Q1152909)).
+**Resident Evil: The Darkside Chronicles** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1152909` (Wikidata : [Q1152909](https://www.wikidata.org/wiki/Q1152909)).
 
 ## Audit de conformite structurelle
 

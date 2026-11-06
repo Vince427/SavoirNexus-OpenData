@@ -13,7 +13,7 @@ wikidata_id: Q917272
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-05-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/20920/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q917272:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Witcher 2: Assassins of Kings
 
-**The Witcher 2: Assassins of Kings** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q917272](https://www.wikidata.org/wiki/Q917272)).
+**The Witcher 2: Assassins of Kings** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q917272` (Wikidata : [Q917272](https://www.wikidata.org/wiki/Q917272)).
 
 ## Audit de conformite structurelle
 

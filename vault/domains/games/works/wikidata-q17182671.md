@@ -13,7 +13,7 @@ wikidata_id: Q17182671
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-07-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/248310/header.jpg"
-tags: [jeu, cataloged, action, platformer]
+tags: [jeu, audited, action, platformer]
 observations:
   - id: wikidata-q17182671:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Freedom Planet
 
-**Freedom Planet** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17182671](https://www.wikidata.org/wiki/Q17182671)).
+**Freedom Planet** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17182671` (Wikidata : [Q17182671](https://www.wikidata.org/wiki/Q17182671)).
 
 ## Audit de conformite structurelle
 

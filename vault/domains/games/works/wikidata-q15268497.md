@@ -13,7 +13,7 @@ wikidata_id: Q15268497
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-04-02
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/272510/header.jpg"
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q15268497:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Naruto Shippūden : Ultimate Ninja Storm Revolution
 
-**Naruto Shippūden : Ultimate Ninja Storm Revolution** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15268497](https://www.wikidata.org/wiki/Q15268497)).
+**Naruto Shippūden : Ultimate Ninja Storm Revolution** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15268497` (Wikidata : [Q15268497](https://www.wikidata.org/wiki/Q15268497)).
 
 ## Audit de conformite structurelle
 

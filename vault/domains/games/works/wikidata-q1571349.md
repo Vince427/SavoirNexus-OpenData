@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1571349
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-11-13
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q1571349:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -102,7 +102,7 @@ observations:
 
 # Ben 10: Omniverse
 
-**Ben 10: Omniverse** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1571349](https://www.wikidata.org/wiki/Q1571349)).
+**Ben 10: Omniverse** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1571349` (Wikidata : [Q1571349](https://www.wikidata.org/wiki/Q1571349)).
 
 ## Audit de conformite structurelle
 

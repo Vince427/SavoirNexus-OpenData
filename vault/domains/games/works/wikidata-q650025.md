@@ -13,7 +13,7 @@ wikidata_id: Q650025
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-02-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/49540/header.jpg"
-tags: [jeu, cataloged, horror, shooter]
+tags: [jeu, audited, horror, shooter]
 observations:
   - id: wikidata-q650025:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Aliens : Colonial Marines
 
-**Aliens : Colonial Marines** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q650025](https://www.wikidata.org/wiki/Q650025)).
+**Aliens : Colonial Marines** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q650025` (Wikidata : [Q650025](https://www.wikidata.org/wiki/Q650025)).
 
 ## Audit de conformite structurelle
 

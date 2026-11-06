@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q626993
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-09-05
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q626993:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Rhythm Hunter: HarmoKnight
 
-**Rhythm Hunter: HarmoKnight** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q626993](https://www.wikidata.org/wiki/Q626993)).
+**Rhythm Hunter: HarmoKnight** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q626993` (Wikidata : [Q626993](https://www.wikidata.org/wiki/Q626993)).
 
 ## Audit de conformite structurelle
 

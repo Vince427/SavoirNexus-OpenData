@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q60761273
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-07-19
-tags: [jeu, cataloged, action, hack-and-slash, rpg]
+tags: [jeu, audited, action, hack-and-slash, rpg]
 observations:
   - id: wikidata-q60761273:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -101,7 +101,7 @@ observations:
 
 # Marvel Ultimate Alliance 3: The Black Order
 
-**Marvel Ultimate Alliance 3: The Black Order** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q60761273](https://www.wikidata.org/wiki/Q60761273)).
+**Marvel Ultimate Alliance 3: The Black Order** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q60761273` (Wikidata : [Q60761273](https://www.wikidata.org/wiki/Q60761273)).
 
 ## Audit de conformite structurelle
 

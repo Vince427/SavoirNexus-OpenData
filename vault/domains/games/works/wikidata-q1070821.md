@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1070821
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-10-31
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1070821:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -102,7 +102,7 @@ observations:
 
 # 007: Quantum of Solace
 
-**007: Quantum of Solace** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1070821](https://www.wikidata.org/wiki/Q1070821)).
+**007: Quantum of Solace** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1070821` (Wikidata : [Q1070821](https://www.wikidata.org/wiki/Q1070821)).
 
 ## Audit de conformite structurelle
 

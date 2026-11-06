@@ -13,7 +13,7 @@ wikidata_id: Q55315
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-02-16
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32470/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q55315:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Star Wars: Empire at War
 
-**Star Wars: Empire at War** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q55315](https://www.wikidata.org/wiki/Q55315)).
+**Star Wars: Empire at War** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q55315` (Wikidata : [Q55315](https://www.wikidata.org/wiki/Q55315)).
 
 ## Audit de conformite structurelle
 

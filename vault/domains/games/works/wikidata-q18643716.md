@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q18643716
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-03-24
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q18643716:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -102,7 +102,7 @@ observations:
 
 # Lego Ninjago: Shadow of Ronin
 
-**Lego Ninjago: Shadow of Ronin** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18643716](https://www.wikidata.org/wiki/Q18643716)).
+**Lego Ninjago: Shadow of Ronin** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18643716` (Wikidata : [Q18643716](https://www.wikidata.org/wiki/Q18643716)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q6332857
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-07-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/211820/header.jpg"
-tags: [jeu, cataloged, action, adventure, platformer, rpg, sandbox]
+tags: [jeu, audited, action, adventure, platformer, rpg, sandbox]
 observations:
   - id: wikidata-q6332857:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Starbound
 
-**Starbound** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q6332857](https://www.wikidata.org/wiki/Q6332857)).
+**Starbound** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q6332857` (Wikidata : [Q6332857](https://www.wikidata.org/wiki/Q6332857)).
 
 ## Audit de conformite structurelle
 

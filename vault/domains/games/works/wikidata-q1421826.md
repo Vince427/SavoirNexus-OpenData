@@ -13,7 +13,7 @@ wikidata_id: Q1421826
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-10-19
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/460810/header.jpg"
-tags: [jeu, cataloged, action, shooter]
+tags: [jeu, audited, action, shooter]
 observations:
   - id: wikidata-q1421826:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Vanquish
 
-**Vanquish** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1421826](https://www.wikidata.org/wiki/Q1421826)).
+**Vanquish** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1421826` (Wikidata : [Q1421826](https://www.wikidata.org/wiki/Q1421826)).
 
 ## Audit de conformite structurelle
 

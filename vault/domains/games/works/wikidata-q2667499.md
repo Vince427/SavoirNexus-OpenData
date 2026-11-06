@@ -13,7 +13,7 @@ wikidata_id: Q2667499
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-09-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/205650/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2667499:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Le Testament de Sherlock Holmes
 
-**Le Testament de Sherlock Holmes** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2667499](https://www.wikidata.org/wiki/Q2667499)).
+**Le Testament de Sherlock Holmes** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2667499` (Wikidata : [Q2667499](https://www.wikidata.org/wiki/Q2667499)).
 
 ## Audit de conformite structurelle
 

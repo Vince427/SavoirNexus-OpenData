@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q19601604
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-08-04
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q19601604:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Etrian Odyssey V
 
-**Etrian Odyssey V** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q19601604](https://www.wikidata.org/wiki/Q19601604)).
+**Etrian Odyssey V** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q19601604` (Wikidata : [Q19601604](https://www.wikidata.org/wiki/Q19601604)).
 
 ## Audit de conformite structurelle
 

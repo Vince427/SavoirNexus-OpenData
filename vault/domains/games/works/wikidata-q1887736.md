@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1887736
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-03-19
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1887736:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Cave du Temps
 
-**Cave du Temps** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1887736](https://www.wikidata.org/wiki/Q1887736)).
+**Cave du Temps** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1887736` (Wikidata : [Q1887736](https://www.wikidata.org/wiki/Q1887736)).
 
 ## Audit de conformite structurelle
 

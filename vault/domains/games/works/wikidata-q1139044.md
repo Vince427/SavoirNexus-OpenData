@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1139044
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-30
-tags: [jeu, cataloged, action, adventure, platformer]
+tags: [jeu, audited, action, adventure, platformer]
 observations:
   - id: wikidata-q1139044:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Les Simpson, le jeu
 
-**Les Simpson, le jeu** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1139044](https://www.wikidata.org/wiki/Q1139044)).
+**Les Simpson, le jeu** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1139044` (Wikidata : [Q1139044](https://www.wikidata.org/wiki/Q1139044)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1753454
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2024-12-05
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1753454:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -102,7 +102,7 @@ observations:
 
 # The Thing
 
-**The Thing** est une oeuvre sortie initialement en 2024, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1753454](https://www.wikidata.org/wiki/Q1753454)).
+**The Thing** est une oeuvre sortie initialement en 2024, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1753454` (Wikidata : [Q1753454](https://www.wikidata.org/wiki/Q1753454)).
 
 ## Audit de conformite structurelle
 

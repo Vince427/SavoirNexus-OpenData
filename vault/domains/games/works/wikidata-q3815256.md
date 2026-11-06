@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3815256
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-09-04
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q3815256:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Killzone Mercenary
 
-**Killzone Mercenary** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3815256](https://www.wikidata.org/wiki/Q3815256)).
+**Killzone Mercenary** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3815256` (Wikidata : [Q3815256](https://www.wikidata.org/wiki/Q3815256)).
 
 ## Audit de conformite structurelle
 

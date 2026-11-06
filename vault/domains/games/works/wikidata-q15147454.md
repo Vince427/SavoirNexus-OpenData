@@ -13,7 +13,7 @@ wikidata_id: Q15147454
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-07-03
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/333980/header.jpg"
-tags: [jeu, cataloged, action, adventure, fighting]
+tags: [jeu, audited, action, adventure, fighting]
 observations:
   - id: wikidata-q15147454:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Akiba's Trip: Undead and Undressed
 
-**Akiba's Trip: Undead and Undressed** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15147454](https://www.wikidata.org/wiki/Q15147454)).
+**Akiba's Trip: Undead and Undressed** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15147454` (Wikidata : [Q15147454](https://www.wikidata.org/wiki/Q15147454)).
 
 ## Audit de conformite structurelle
 

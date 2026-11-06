@@ -13,7 +13,7 @@ wikidata_id: Q1467431
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4280940/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1467431:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Warhammer: Mark of Chaos
 
-**Warhammer: Mark of Chaos** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1467431](https://www.wikidata.org/wiki/Q1467431)).
+**Warhammer: Mark of Chaos** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1467431` (Wikidata : [Q1467431](https://www.wikidata.org/wiki/Q1467431)).
 
 ## Audit de conformite structurelle
 

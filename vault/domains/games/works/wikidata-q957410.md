@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q957410
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-11-29
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q957410:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Professor Layton vs. Ace Attorney
 
-**Professor Layton vs. Ace Attorney** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q957410](https://www.wikidata.org/wiki/Q957410)).
+**Professor Layton vs. Ace Attorney** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q957410` (Wikidata : [Q957410](https://www.wikidata.org/wiki/Q957410)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1089882
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-03-03
-tags: [jeu, cataloged, action, adventure, platformer, puzzle]
+tags: [jeu, audited, action, adventure, platformer, puzzle]
 observations:
   - id: wikidata-q1089882:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mari0
 
-**Mari0** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1089882](https://www.wikidata.org/wiki/Q1089882)).
+**Mari0** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1089882` (Wikidata : [Q1089882](https://www.wikidata.org/wiki/Q1089882)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2408233
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-04-15
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q2408233:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # OutRun Online Arcade
 
-**OutRun Online Arcade** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2408233](https://www.wikidata.org/wiki/Q2408233)).
+**OutRun Online Arcade** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2408233` (Wikidata : [Q2408233](https://www.wikidata.org/wiki/Q2408233)).
 
 ## Audit de conformite structurelle
 

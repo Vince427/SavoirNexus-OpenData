@@ -13,7 +13,7 @@ wikidata_id: Q7794906
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-07-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/220780/header.jpg"
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q7794906:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Thomas Was Alone
 
-**Thomas Was Alone** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q7794906](https://www.wikidata.org/wiki/Q7794906)).
+**Thomas Was Alone** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q7794906` (Wikidata : [Q7794906](https://www.wikidata.org/wiki/Q7794906)).
 
 ## Audit de conformite structurelle
 

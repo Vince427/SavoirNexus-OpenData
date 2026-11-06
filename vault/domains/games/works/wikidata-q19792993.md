@@ -13,7 +13,7 @@ wikidata_id: Q19792993
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-09-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/393380/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q19792993:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Squad
 
-**Squad** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q19792993](https://www.wikidata.org/wiki/Q19792993)).
+**Squad** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q19792993` (Wikidata : [Q19792993](https://www.wikidata.org/wiki/Q19792993)).
 
 ## Audit de conformite structurelle
 

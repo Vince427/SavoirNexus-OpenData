@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q484877
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-12-10
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q484877:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Lone Wolves
 
-**Lone Wolves** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q484877](https://www.wikidata.org/wiki/Q484877)).
+**Lone Wolves** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q484877` (Wikidata : [Q484877](https://www.wikidata.org/wiki/Q484877)).
 
 ## Audit de conformite structurelle
 

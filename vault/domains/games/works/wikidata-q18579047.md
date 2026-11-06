@@ -13,7 +13,7 @@ wikidata_id: Q18579047
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-02-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/325610/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q18579047:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Total War: Attila
 
-**Total War: Attila** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18579047](https://www.wikidata.org/wiki/Q18579047)).
+**Total War: Attila** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18579047` (Wikidata : [Q18579047](https://www.wikidata.org/wiki/Q18579047)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q254851
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-06-25
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q254851:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -102,7 +102,7 @@ observations:
 
 # Harry Potter et l'Ordre du Phénix
 
-**Harry Potter et l'Ordre du Phénix** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q254851](https://www.wikidata.org/wiki/Q254851)).
+**Harry Potter et l'Ordre du Phénix** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q254851` (Wikidata : [Q254851](https://www.wikidata.org/wiki/Q254851)).
 
 ## Audit de conformite structurelle
 

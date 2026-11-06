@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q50179179
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-07-16
-tags: [jeu, cataloged, rpg, strategy]
+tags: [jeu, audited, rpg, strategy]
 observations:
   - id: wikidata-q50179179:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Yo-kai Watch 3
 
-**Yo-kai Watch 3** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q50179179](https://www.wikidata.org/wiki/Q50179179)).
+**Yo-kai Watch 3** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q50179179` (Wikidata : [Q50179179](https://www.wikidata.org/wiki/Q50179179)).
 
 ## Audit de conformite structurelle
 

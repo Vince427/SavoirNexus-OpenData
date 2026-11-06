@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q5305045
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-07-25
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q5305045:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dragon's Crown
 
-**Dragon's Crown** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5305045](https://www.wikidata.org/wiki/Q5305045)).
+**Dragon's Crown** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5305045` (Wikidata : [Q5305045](https://www.wikidata.org/wiki/Q5305045)).
 
 ## Audit de conformite structurelle
 

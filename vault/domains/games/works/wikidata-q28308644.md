@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q28308644
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-03-03
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q28308644:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -101,7 +101,7 @@ observations:
 
 # 1-2-Switch
 
-**1-2-Switch** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28308644](https://www.wikidata.org/wiki/Q28308644)).
+**1-2-Switch** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28308644` (Wikidata : [Q28308644](https://www.wikidata.org/wiki/Q28308644)).
 
 ## Audit de conformite structurelle
 

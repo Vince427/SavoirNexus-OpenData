@@ -13,7 +13,7 @@ wikidata_id: Q18639864
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-04-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242860/header.jpg"
-tags: [jeu, cataloged, action, shooter]
+tags: [jeu, audited, action, shooter]
 observations:
   - id: wikidata-q18639864:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Verdun
 
-**Verdun** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18639864](https://www.wikidata.org/wiki/Q18639864)).
+**Verdun** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18639864` (Wikidata : [Q18639864](https://www.wikidata.org/wiki/Q18639864)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2619376
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-08-04
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q2619376:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Kirby: Mass Attack
 
-**Kirby: Mass Attack** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2619376](https://www.wikidata.org/wiki/Q2619376)).
+**Kirby: Mass Attack** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2619376` (Wikidata : [Q2619376](https://www.wikidata.org/wiki/Q2619376)).
 
 ## Audit de conformite structurelle
 

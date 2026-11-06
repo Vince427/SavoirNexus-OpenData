@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1139244
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-03-20
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1139244:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Metroid Prime Hunters
 
-**Metroid Prime Hunters** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1139244](https://www.wikidata.org/wiki/Q1139244)).
+**Metroid Prime Hunters** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1139244` (Wikidata : [Q1139244](https://www.wikidata.org/wiki/Q1139244)).
 
 ## Audit de conformite structurelle
 

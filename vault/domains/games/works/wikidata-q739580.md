@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q739580
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-17
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q739580:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Assassin's Creed: Bloodlines
 
-**Assassin's Creed: Bloodlines** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q739580](https://www.wikidata.org/wiki/Q739580)).
+**Assassin's Creed: Bloodlines** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q739580` (Wikidata : [Q739580](https://www.wikidata.org/wiki/Q739580)).
 
 ## Audit de conformite structurelle
 

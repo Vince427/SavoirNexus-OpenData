@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q2557356
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-06-03
-tags: [jeu, cataloged, action, adventure, hack-and-slash]
+tags: [jeu, audited, action, adventure, hack-and-slash]
 observations:
   - id: wikidata-q2557356:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -101,7 +101,7 @@ observations:
 
 # Ninja Gaiden II
 
-**Ninja Gaiden II** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2557356](https://www.wikidata.org/wiki/Q2557356)).
+**Ninja Gaiden II** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2557356` (Wikidata : [Q2557356](https://www.wikidata.org/wiki/Q2557356)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q83524
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-11-20
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q83524:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -102,7 +102,7 @@ observations:
 
 # Family Guy: Back to the Multiverse
 
-**Family Guy: Back to the Multiverse** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q83524](https://www.wikidata.org/wiki/Q83524)).
+**Family Guy: Back to the Multiverse** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q83524` (Wikidata : [Q83524](https://www.wikidata.org/wiki/Q83524)).
 
 ## Audit de conformite structurelle
 

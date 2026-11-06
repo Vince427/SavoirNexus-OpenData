@@ -13,7 +13,7 @@ wikidata_id: Q1812427
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-04-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/207170/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q1812427:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Legend of Grimrock
 
-**Legend of Grimrock** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1812427](https://www.wikidata.org/wiki/Q1812427)).
+**Legend of Grimrock** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1812427` (Wikidata : [Q1812427](https://www.wikidata.org/wiki/Q1812427)).
 
 ## Audit de conformite structurelle
 

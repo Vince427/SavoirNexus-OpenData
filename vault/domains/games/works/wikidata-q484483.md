@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q484483
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-10-15
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q484483:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Hoshizora e Kakaru Hashi
 
-**Hoshizora e Kakaru Hashi** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q484483](https://www.wikidata.org/wiki/Q484483)).
+**Hoshizora e Kakaru Hashi** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q484483` (Wikidata : [Q484483](https://www.wikidata.org/wiki/Q484483)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2482546
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-11-16
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q2482546:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -102,7 +102,7 @@ observations:
 
 # Pac-Man Party
 
-**Pac-Man Party** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2482546](https://www.wikidata.org/wiki/Q2482546)).
+**Pac-Man Party** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2482546` (Wikidata : [Q2482546](https://www.wikidata.org/wiki/Q2482546)).
 
 ## Audit de conformite structurelle
 

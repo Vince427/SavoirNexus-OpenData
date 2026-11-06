@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1071062
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-04-10
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q1071062:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # The King of Fighters XII
 
-**The King of Fighters XII** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1071062](https://www.wikidata.org/wiki/Q1071062)).
+**The King of Fighters XII** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1071062` (Wikidata : [Q1071062](https://www.wikidata.org/wiki/Q1071062)).
 
 ## Audit de conformite structurelle
 

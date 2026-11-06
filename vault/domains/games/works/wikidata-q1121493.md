@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1121493
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-07-23
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q1121493:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dragon Ball: Revenge of King Piccolo
 
-**Dragon Ball: Revenge of King Piccolo** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1121493](https://www.wikidata.org/wiki/Q1121493)).
+**Dragon Ball: Revenge of King Piccolo** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1121493` (Wikidata : [Q1121493](https://www.wikidata.org/wiki/Q1121493)).
 
 ## Audit de conformite structurelle
 

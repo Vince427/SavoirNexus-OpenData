@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q19789277
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-09-27
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q19789277:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -102,7 +102,7 @@ observations:
 
 # Lego Dimensions
 
-**Lego Dimensions** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q19789277](https://www.wikidata.org/wiki/Q19789277)).
+**Lego Dimensions** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q19789277` (Wikidata : [Q19789277](https://www.wikidata.org/wiki/Q19789277)).
 
 ## Audit de conformite structurelle
 

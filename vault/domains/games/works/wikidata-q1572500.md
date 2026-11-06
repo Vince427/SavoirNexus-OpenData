@@ -13,7 +13,7 @@ wikidata_id: Q1572500
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-10-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40980/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1572500:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Stronghold Legends
 
-**Stronghold Legends** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1572500](https://www.wikidata.org/wiki/Q1572500)).
+**Stronghold Legends** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1572500` (Wikidata : [Q1572500](https://www.wikidata.org/wiki/Q1572500)).
 
 ## Audit de conformite structurelle
 

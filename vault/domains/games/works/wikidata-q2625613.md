@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2625613
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-05-14
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2625613:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -102,7 +102,7 @@ observations:
 
 # Shrek the Third
 
-**Shrek the Third** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2625613](https://www.wikidata.org/wiki/Q2625613)).
+**Shrek the Third** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2625613` (Wikidata : [Q2625613](https://www.wikidata.org/wiki/Q2625613)).
 
 ## Audit de conformite structurelle
 

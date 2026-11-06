@@ -13,7 +13,7 @@ wikidata_id: Q27067490
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-10-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/502820/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q27067490:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Batman : Arkham VR
 
-**Batman : Arkham VR** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q27067490](https://www.wikidata.org/wiki/Q27067490)).
+**Batman : Arkham VR** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q27067490` (Wikidata : [Q27067490](https://www.wikidata.org/wiki/Q27067490)).
 
 ## Audit de conformite structurelle
 

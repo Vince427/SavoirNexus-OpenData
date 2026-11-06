@@ -13,7 +13,7 @@ wikidata_id: Q21039907
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-09-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/390520/header.jpg"
-tags: [jeu, cataloged, action, adventure, platformer]
+tags: [jeu, audited, action, adventure, platformer]
 observations:
   - id: wikidata-q21039907:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # PewDiePie: Legend of the Brofist
 
-**PewDiePie: Legend of the Brofist** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q21039907](https://www.wikidata.org/wiki/Q21039907)).
+**PewDiePie: Legend of the Brofist** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q21039907` (Wikidata : [Q21039907](https://www.wikidata.org/wiki/Q21039907)).
 
 ## Audit de conformite structurelle
 

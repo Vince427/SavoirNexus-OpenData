@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q17157196
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-03-12
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q17157196:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario Party 10
 
-**Mario Party 10** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17157196](https://www.wikidata.org/wiki/Q17157196)).
+**Mario Party 10** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17157196` (Wikidata : [Q17157196](https://www.wikidata.org/wiki/Q17157196)).
 
 ## Audit de conformite structurelle
 

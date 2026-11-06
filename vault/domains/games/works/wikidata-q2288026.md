@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q2288026
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-02-09
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q2288026:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -101,7 +101,7 @@ observations:
 
 # Forbidden Siren 2
 
-**Forbidden Siren 2** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2288026](https://www.wikidata.org/wiki/Q2288026)).
+**Forbidden Siren 2** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2288026` (Wikidata : [Q2288026](https://www.wikidata.org/wiki/Q2288026)).
 
 ## Audit de conformite structurelle
 

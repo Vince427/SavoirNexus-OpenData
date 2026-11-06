@@ -13,7 +13,7 @@ wikidata_id: Q16982737
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-06-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/255220/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q16982737:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # GRID Autosport
 
-**GRID Autosport** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16982737](https://www.wikidata.org/wiki/Q16982737)).
+**GRID Autosport** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16982737` (Wikidata : [Q16982737](https://www.wikidata.org/wiki/Q16982737)).
 
 ## Audit de conformite structurelle
 

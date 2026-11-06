@@ -13,7 +13,7 @@ wikidata_id: Q17513672
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-03-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/261570/header.jpg"
-tags: [jeu, cataloged, action, adventure, platformer]
+tags: [jeu, audited, action, adventure, platformer]
 observations:
   - id: wikidata-q17513672:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Ori and the Blind Forest
 
-**Ori and the Blind Forest** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17513672](https://www.wikidata.org/wiki/Q17513672)).
+**Ori and the Blind Forest** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17513672` (Wikidata : [Q17513672](https://www.wikidata.org/wiki/Q17513672)).
 
 ## Audit de conformite structurelle
 

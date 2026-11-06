@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3331137
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-09-28
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q3331137:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -102,7 +102,7 @@ observations:
 
 # MySims SkyHeroes
 
-**MySims SkyHeroes** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3331137](https://www.wikidata.org/wiki/Q3331137)).
+**MySims SkyHeroes** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3331137` (Wikidata : [Q3331137](https://www.wikidata.org/wiki/Q3331137)).
 
 ## Audit de conformite structurelle
 

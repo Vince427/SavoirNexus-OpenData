@@ -13,7 +13,7 @@ wikidata_id: Q22129090
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-12-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/303310/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q22129090:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # The House in Fata Morgana
 
-**The House in Fata Morgana** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q22129090](https://www.wikidata.org/wiki/Q22129090)).
+**The House in Fata Morgana** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q22129090` (Wikidata : [Q22129090](https://www.wikidata.org/wiki/Q22129090)).
 
 ## Audit de conformite structurelle
 

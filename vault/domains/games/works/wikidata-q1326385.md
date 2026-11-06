@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1326385
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-04-26
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q1326385:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Cérébrale Académie Wii
 
-**Cérébrale Académie Wii** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1326385](https://www.wikidata.org/wiki/Q1326385)).
+**Cérébrale Académie Wii** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1326385` (Wikidata : [Q1326385](https://www.wikidata.org/wiki/Q1326385)).
 
 ## Audit de conformite structurelle
 

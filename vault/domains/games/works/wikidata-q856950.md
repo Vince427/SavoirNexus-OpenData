@@ -13,7 +13,7 @@ wikidata_id: Q856950
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-16
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40700/header.jpg"
-tags: [jeu, cataloged, adventure, puzzle]
+tags: [jeu, audited, adventure, puzzle]
 observations:
   - id: wikidata-q856950:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Machinarium
 
-**Machinarium** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q856950](https://www.wikidata.org/wiki/Q856950)).
+**Machinarium** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q856950` (Wikidata : [Q856950](https://www.wikidata.org/wiki/Q856950)).
 
 ## Audit de conformite structurelle
 

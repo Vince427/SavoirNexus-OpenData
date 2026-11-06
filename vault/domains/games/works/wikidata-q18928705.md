@@ -13,7 +13,7 @@ wikidata_id: Q18928705
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-05-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292500/header.jpg"
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q18928705:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Kero Blaster
 
-**Kero Blaster** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18928705](https://www.wikidata.org/wiki/Q18928705)).
+**Kero Blaster** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18928705` (Wikidata : [Q18928705](https://www.wikidata.org/wiki/Q18928705)).
 
 ## Audit de conformite structurelle
 

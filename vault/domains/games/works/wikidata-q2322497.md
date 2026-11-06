@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2322497
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-02-22
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2322497:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Fire Emblem: Radiant Dawn
 
-**Fire Emblem: Radiant Dawn** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2322497](https://www.wikidata.org/wiki/Q2322497)).
+**Fire Emblem: Radiant Dawn** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2322497` (Wikidata : [Q2322497](https://www.wikidata.org/wiki/Q2322497)).
 
 ## Audit de conformite structurelle
 

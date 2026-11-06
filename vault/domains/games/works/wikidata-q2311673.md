@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2311673
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-03-01
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q2311673:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -102,7 +102,7 @@ observations:
 
 # Mega Man 10
 
-**Mega Man 10** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2311673](https://www.wikidata.org/wiki/Q2311673)).
+**Mega Man 10** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2311673` (Wikidata : [Q2311673](https://www.wikidata.org/wiki/Q2311673)).
 
 ## Audit de conformite structurelle
 

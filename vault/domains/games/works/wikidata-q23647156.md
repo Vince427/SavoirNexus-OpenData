@@ -13,7 +13,7 @@ wikidata_id: Q23647156
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-05-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/338400/header.jpg"
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q23647156:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Teenage Mutant Ninja Turtles : Des mutants à Manhattan
 
-**Teenage Mutant Ninja Turtles : Des mutants à Manhattan** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q23647156](https://www.wikidata.org/wiki/Q23647156)).
+**Teenage Mutant Ninja Turtles : Des mutants à Manhattan** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q23647156` (Wikidata : [Q23647156](https://www.wikidata.org/wiki/Q23647156)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1195476
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-02-15
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q1195476:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Professeur Layton et l'Étrange Village
 
-**Professeur Layton et l'Étrange Village** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1195476](https://www.wikidata.org/wiki/Q1195476)).
+**Professeur Layton et l'Étrange Village** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1195476` (Wikidata : [Q1195476](https://www.wikidata.org/wiki/Q1195476)).
 
 ## Audit de conformite structurelle
 

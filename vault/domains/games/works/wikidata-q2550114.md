@@ -13,7 +13,7 @@ wikidata_id: Q2550114
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-02-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3480/header.jpg"
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q2550114:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Peggle
 
-**Peggle** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2550114](https://www.wikidata.org/wiki/Q2550114)).
+**Peggle** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2550114` (Wikidata : [Q2550114](https://www.wikidata.org/wiki/Q2550114)).
 
 ## Audit de conformite structurelle
 

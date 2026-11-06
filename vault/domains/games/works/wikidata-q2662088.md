@@ -13,7 +13,7 @@ wikidata_id: Q2662088
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-04-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/99890/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q2662088:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Darkspore
 
-**Darkspore** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2662088](https://www.wikidata.org/wiki/Q2662088)).
+**Darkspore** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2662088` (Wikidata : [Q2662088](https://www.wikidata.org/wiki/Q2662088)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2298261
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-03-20
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2298261:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Luigi's Mansion 2
 
-**Luigi's Mansion 2** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2298261](https://www.wikidata.org/wiki/Q2298261)).
+**Luigi's Mansion 2** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2298261` (Wikidata : [Q2298261](https://www.wikidata.org/wiki/Q2298261)).
 
 ## Audit de conformite structurelle
 

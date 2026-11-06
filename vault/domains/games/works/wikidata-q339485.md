@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q339485
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-07-12
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q339485:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dragon Quest Swords : La Reine masquée et la Tour des miroirs
 
-**Dragon Quest Swords : La Reine masquée et la Tour des miroirs** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q339485](https://www.wikidata.org/wiki/Q339485)).
+**Dragon Quest Swords : La Reine masquée et la Tour des miroirs** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q339485` (Wikidata : [Q339485](https://www.wikidata.org/wiki/Q339485)).
 
 ## Audit de conformite structurelle
 

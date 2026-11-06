@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2446576
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-13
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q2446576:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Sonic Rivals 2
 
-**Sonic Rivals 2** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2446576](https://www.wikidata.org/wiki/Q2446576)).
+**Sonic Rivals 2** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2446576` (Wikidata : [Q2446576](https://www.wikidata.org/wiki/Q2446576)).
 
 ## Audit de conformite structurelle
 

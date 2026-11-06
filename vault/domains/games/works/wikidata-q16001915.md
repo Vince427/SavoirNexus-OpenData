@@ -13,7 +13,7 @@ wikidata_id: Q16001915
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-11-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/243560/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q16001915:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Adventure Time : Explore le donjon et pose pas de question !
 
-**Adventure Time : Explore le donjon et pose pas de question !** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16001915](https://www.wikidata.org/wiki/Q16001915)).
+**Adventure Time : Explore le donjon et pose pas de question !** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16001915` (Wikidata : [Q16001915](https://www.wikidata.org/wiki/Q16001915)).
 
 ## Audit de conformite structurelle
 

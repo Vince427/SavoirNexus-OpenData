@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2753202
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-06-27
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2753202:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Summer Games II
 
-**Summer Games II** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2753202](https://www.wikidata.org/wiki/Q2753202)).
+**Summer Games II** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2753202` (Wikidata : [Q2753202](https://www.wikidata.org/wiki/Q2753202)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1003194
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-06-20
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1003194:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Code Lyoko : X.A.N.A. Destruction finale
 
-**Code Lyoko : X.A.N.A. Destruction finale** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1003194](https://www.wikidata.org/wiki/Q1003194)).
+**Code Lyoko : X.A.N.A. Destruction finale** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1003194` (Wikidata : [Q1003194](https://www.wikidata.org/wiki/Q1003194)).
 
 ## Audit de conformite structurelle
 

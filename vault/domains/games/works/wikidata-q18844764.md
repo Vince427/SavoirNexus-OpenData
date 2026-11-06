@@ -13,7 +13,7 @@ wikidata_id: Q18844764
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-03-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/282210/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q18844764:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Sid Meier's Starships
 
-**Sid Meier's Starships** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18844764](https://www.wikidata.org/wiki/Q18844764)).
+**Sid Meier's Starships** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18844764` (Wikidata : [Q18844764](https://www.wikidata.org/wiki/Q18844764)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q20679959
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-01-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2436570/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q20679959:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Dragon Quest Builders
 
-**Dragon Quest Builders** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20679959](https://www.wikidata.org/wiki/Q20679959)).
+**Dragon Quest Builders** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20679959` (Wikidata : [Q20679959](https://www.wikidata.org/wiki/Q20679959)).
 
 ## Audit de conformite structurelle
 

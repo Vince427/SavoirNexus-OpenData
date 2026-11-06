@@ -13,7 +13,7 @@ wikidata_id: Q1299620
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-04
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/495140/header.jpg"
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q1299620:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Naruto: Ultimate Ninja Storm
 
-**Naruto: Ultimate Ninja Storm** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1299620](https://www.wikidata.org/wiki/Q1299620)).
+**Naruto: Ultimate Ninja Storm** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1299620` (Wikidata : [Q1299620](https://www.wikidata.org/wiki/Q1299620)).
 
 ## Audit de conformite structurelle
 

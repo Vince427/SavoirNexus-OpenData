@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1997449
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-07-25
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q1997449:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mission Président : Geo-Political Simulator
 
-**Mission Président : Geo-Political Simulator** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1997449](https://www.wikidata.org/wiki/Q1997449)).
+**Mission Président : Geo-Political Simulator** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1997449` (Wikidata : [Q1997449](https://www.wikidata.org/wiki/Q1997449)).
 
 ## Audit de conformite structurelle
 

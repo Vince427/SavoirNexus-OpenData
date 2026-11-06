@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2296575
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-08-14
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2296575:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -102,7 +102,7 @@ observations:
 
 # Madden NFL 08
 
-**Madden NFL 08** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2296575](https://www.wikidata.org/wiki/Q2296575)).
+**Madden NFL 08** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2296575` (Wikidata : [Q2296575](https://www.wikidata.org/wiki/Q2296575)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q25221870
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-02-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/502280/header.jpg"
-tags: [jeu, cataloged, action, hack-and-slash, rpg]
+tags: [jeu, audited, action, hack-and-slash, rpg]
 observations:
   - id: wikidata-q25221870:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Berserk and the Band of the Hawk
 
-**Berserk and the Band of the Hawk** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q25221870](https://www.wikidata.org/wiki/Q25221870)).
+**Berserk and the Band of the Hawk** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q25221870` (Wikidata : [Q25221870](https://www.wikidata.org/wiki/Q25221870)).
 
 ## Audit de conformite structurelle
 

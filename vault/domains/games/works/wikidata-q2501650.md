@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2501650
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-01-31
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q2501650:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # SoulCalibur V
 
-**SoulCalibur V** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2501650](https://www.wikidata.org/wiki/Q2501650)).
+**SoulCalibur V** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2501650` (Wikidata : [Q2501650](https://www.wikidata.org/wiki/Q2501650)).
 
 ## Audit de conformite structurelle
 

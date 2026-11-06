@@ -13,7 +13,7 @@ wikidata_id: Q732768
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-05-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40320/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q732768:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Rush for Berlin
 
-**Rush for Berlin** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q732768](https://www.wikidata.org/wiki/Q732768)).
+**Rush for Berlin** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q732768` (Wikidata : [Q732768](https://www.wikidata.org/wiki/Q732768)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q5959117
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-05-18
-tags: [jeu, cataloged, adventure, simulation]
+tags: [jeu, audited, adventure, simulation]
 observations:
   - id: wikidata-q5959117:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Trauma Team
 
-**Trauma Team** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5959117](https://www.wikidata.org/wiki/Q5959117)).
+**Trauma Team** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5959117` (Wikidata : [Q5959117](https://www.wikidata.org/wiki/Q5959117)).
 
 ## Audit de conformite structurelle
 

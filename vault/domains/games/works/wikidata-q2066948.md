@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2066948
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-10-11
-tags: [jeu, cataloged, party, sports]
+tags: [jeu, audited, party, sports]
 observations:
   - id: wikidata-q2066948:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Go Vacation
 
-**Go Vacation** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2066948](https://www.wikidata.org/wiki/Q2066948)).
+**Go Vacation** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2066948` (Wikidata : [Q2066948](https://www.wikidata.org/wiki/Q2066948)).
 
 ## Audit de conformite structurelle
 

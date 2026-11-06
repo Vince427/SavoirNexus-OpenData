@@ -13,7 +13,7 @@ wikidata_id: Q893423
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8980/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q893423:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Borderlands
 
-**Borderlands** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q893423](https://www.wikidata.org/wiki/Q893423)).
+**Borderlands** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q893423` (Wikidata : [Q893423](https://www.wikidata.org/wiki/Q893423)).
 
 ## Audit de conformite structurelle
 

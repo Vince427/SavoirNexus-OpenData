@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2035941
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-02-13
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q2035941:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ratchet and Clank : La taille, ça compte
 
-**Ratchet and Clank : La taille, ça compte** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2035941](https://www.wikidata.org/wiki/Q2035941)).
+**Ratchet and Clank : La taille, ça compte** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2035941` (Wikidata : [Q2035941](https://www.wikidata.org/wiki/Q2035941)).
 
 ## Audit de conformite structurelle
 

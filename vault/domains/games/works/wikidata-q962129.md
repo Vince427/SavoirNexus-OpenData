@@ -13,7 +13,7 @@ wikidata_id: Q962129
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-06-10
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/57900/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q962129:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Duke Nukem Forever
 
-**Duke Nukem Forever** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q962129](https://www.wikidata.org/wiki/Q962129)).
+**Duke Nukem Forever** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q962129` (Wikidata : [Q962129](https://www.wikidata.org/wiki/Q962129)).
 
 ## Audit de conformite structurelle
 

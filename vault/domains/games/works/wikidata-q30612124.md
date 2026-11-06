@@ -13,7 +13,7 @@ wikidata_id: Q30612124
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-04-03
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/609490/header.jpg"
-tags: [jeu, cataloged, action, adventure, puzzle]
+tags: [jeu, audited, action, adventure, puzzle]
 observations:
   - id: wikidata-q30612124:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Minit
 
-**Minit** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q30612124](https://www.wikidata.org/wiki/Q30612124)).
+**Minit** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q30612124` (Wikidata : [Q30612124](https://www.wikidata.org/wiki/Q30612124)).
 
 ## Audit de conformite structurelle
 

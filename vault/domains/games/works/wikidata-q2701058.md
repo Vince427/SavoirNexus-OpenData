@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2701058
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-09-22
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q2701058:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Jetez-vous à l'eau !
 
-**Jetez-vous à l'eau !** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2701058](https://www.wikidata.org/wiki/Q2701058)).
+**Jetez-vous à l'eau !** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2701058` (Wikidata : [Q2701058](https://www.wikidata.org/wiki/Q2701058)).
 
 ## Audit de conformite structurelle
 

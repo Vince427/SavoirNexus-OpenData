@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q18782224
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-12-18
-tags: [jeu, cataloged, action, adventure, fighting]
+tags: [jeu, audited, action, adventure, fighting]
 observations:
   - id: wikidata-q18782224:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Godzilla
 
-**Godzilla** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18782224](https://www.wikidata.org/wiki/Q18782224)).
+**Godzilla** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18782224` (Wikidata : [Q18782224](https://www.wikidata.org/wiki/Q18782224)).
 
 ## Audit de conformite structurelle
 

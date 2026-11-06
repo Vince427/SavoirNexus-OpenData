@@ -13,7 +13,7 @@ wikidata_id: Q1340662
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-02-16
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10680/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1340662:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Aliens vs. Predator
 
-**Aliens vs. Predator** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1340662](https://www.wikidata.org/wiki/Q1340662)).
+**Aliens vs. Predator** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1340662` (Wikidata : [Q1340662](https://www.wikidata.org/wiki/Q1340662)).
 
 ## Audit de conformite structurelle
 

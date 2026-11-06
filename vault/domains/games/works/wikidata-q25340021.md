@@ -13,7 +13,7 @@ wikidata_id: Q25340021
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-08-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/514900/header.jpg"
-tags: [jeu, cataloged, horror]
+tags: [jeu, audited, horror]
 observations:
   - id: wikidata-q25340021:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Observer
 
-**Observer** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q25340021](https://www.wikidata.org/wiki/Q25340021)).
+**Observer** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q25340021` (Wikidata : [Q25340021](https://www.wikidata.org/wiki/Q25340021)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q301555
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-05-15
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q301555:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # New Super Mario Bros.
 
-**New Super Mario Bros.** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q301555](https://www.wikidata.org/wiki/Q301555)).
+**New Super Mario Bros.** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q301555` (Wikidata : [Q301555](https://www.wikidata.org/wiki/Q301555)).
 
 ## Audit de conformite structurelle
 

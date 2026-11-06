@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q14565599
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-19
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q14565599:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Trauma Center: Second Opinion
 
-**Trauma Center: Second Opinion** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q14565599](https://www.wikidata.org/wiki/Q14565599)).
+**Trauma Center: Second Opinion** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q14565599` (Wikidata : [Q14565599](https://www.wikidata.org/wiki/Q14565599)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q1030478
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-03-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/220050/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1030478:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # The Walking Dead: Survival Instinct
 
-**The Walking Dead: Survival Instinct** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1030478](https://www.wikidata.org/wiki/Q1030478)).
+**The Walking Dead: Survival Instinct** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1030478` (Wikidata : [Q1030478](https://www.wikidata.org/wiki/Q1030478)).
 
 ## Audit de conformite structurelle
 

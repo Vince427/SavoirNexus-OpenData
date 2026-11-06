@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q47208788
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-06-22
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q47208788:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -101,7 +101,7 @@ observations:
 
 # Mario Tennis Aces
 
-**Mario Tennis Aces** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q47208788](https://www.wikidata.org/wiki/Q47208788)).
+**Mario Tennis Aces** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q47208788` (Wikidata : [Q47208788](https://www.wikidata.org/wiki/Q47208788)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q680785
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-03-18
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q680785:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Worms : L'Odyssée spatiale
 
-**Worms : L'Odyssée spatiale** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q680785](https://www.wikidata.org/wiki/Q680785)).
+**Worms : L'Odyssée spatiale** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q680785` (Wikidata : [Q680785](https://www.wikidata.org/wiki/Q680785)).
 
 ## Audit de conformite structurelle
 

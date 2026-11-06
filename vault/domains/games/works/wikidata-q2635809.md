@@ -13,7 +13,7 @@ wikidata_id: Q2635809
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-04-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/37000/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2635809:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Void
 
-**The Void** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2635809](https://www.wikidata.org/wiki/Q2635809)).
+**The Void** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2635809` (Wikidata : [Q2635809](https://www.wikidata.org/wiki/Q2635809)).
 
 ## Audit de conformite structurelle
 

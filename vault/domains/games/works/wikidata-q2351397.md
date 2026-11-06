@@ -13,7 +13,7 @@ wikidata_id: Q2351397
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-06-03
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/228300/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2351397:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Remember Me
 
-**Remember Me** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2351397](https://www.wikidata.org/wiki/Q2351397)).
+**Remember Me** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2351397` (Wikidata : [Q2351397](https://www.wikidata.org/wiki/Q2351397)).
 
 ## Audit de conformite structurelle
 

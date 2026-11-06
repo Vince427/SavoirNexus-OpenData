@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q558621
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-07-28
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q558621:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # New Super Mario Bros. 2
 
-**New Super Mario Bros. 2** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q558621](https://www.wikidata.org/wiki/Q558621)).
+**New Super Mario Bros. 2** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q558621` (Wikidata : [Q558621](https://www.wikidata.org/wiki/Q558621)).
 
 ## Audit de conformite structurelle
 

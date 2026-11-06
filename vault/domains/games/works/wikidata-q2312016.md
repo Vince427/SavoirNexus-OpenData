@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2312016
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-10-17
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q2312016:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Héros de la Ligue des justiciers
 
-**Héros de la Ligue des justiciers** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2312016](https://www.wikidata.org/wiki/Q2312016)).
+**Héros de la Ligue des justiciers** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2312016` (Wikidata : [Q2312016](https://www.wikidata.org/wiki/Q2312016)).
 
 ## Audit de conformite structurelle
 

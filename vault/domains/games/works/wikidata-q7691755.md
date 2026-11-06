@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q7691755
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-11-20
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q7691755:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Tearaway
 
-**Tearaway** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q7691755](https://www.wikidata.org/wiki/Q7691755)).
+**Tearaway** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q7691755` (Wikidata : [Q7691755](https://www.wikidata.org/wiki/Q7691755)).
 
 ## Audit de conformite structurelle
 

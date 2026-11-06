@@ -13,7 +13,7 @@ wikidata_id: Q1583764
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-02-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/203810/header.jpg"
-tags: [jeu, cataloged, adventure, simulation]
+tags: [jeu, audited, adventure, simulation]
 observations:
   - id: wikidata-q1583764:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Dear Esther
 
-**Dear Esther** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1583764](https://www.wikidata.org/wiki/Q1583764)).
+**Dear Esther** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1583764` (Wikidata : [Q1583764](https://www.wikidata.org/wiki/Q1583764)).
 
 ## Audit de conformite structurelle
 

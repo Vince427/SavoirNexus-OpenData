@@ -13,7 +13,7 @@ wikidata_id: Q12145459
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-02-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242920/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q12145459:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Banished
 
-**Banished** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q12145459](https://www.wikidata.org/wiki/Q12145459)).
+**Banished** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q12145459` (Wikidata : [Q12145459](https://www.wikidata.org/wiki/Q12145459)).
 
 ## Audit de conformite structurelle
 

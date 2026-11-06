@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q2633663
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-18
-tags: [jeu, cataloged, action, adventure, fighting]
+tags: [jeu, audited, action, adventure, fighting]
 observations:
   - id: wikidata-q2633663:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -101,7 +101,7 @@ observations:
 
 # Naruto: The Broken Bond
 
-**Naruto: The Broken Bond** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2633663](https://www.wikidata.org/wiki/Q2633663)).
+**Naruto: The Broken Bond** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2633663` (Wikidata : [Q2633663](https://www.wikidata.org/wiki/Q2633663)).
 
 ## Audit de conformite structurelle
 

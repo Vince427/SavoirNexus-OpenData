@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q15621213
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-04-15
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q15621213:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Coupe du Monde de la FIFA : Brésil 2014
 
-**Coupe du Monde de la FIFA : Brésil 2014** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15621213](https://www.wikidata.org/wiki/Q15621213)).
+**Coupe du Monde de la FIFA : Brésil 2014** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15621213` (Wikidata : [Q15621213](https://www.wikidata.org/wiki/Q15621213)).
 
 ## Audit de conformite structurelle
 

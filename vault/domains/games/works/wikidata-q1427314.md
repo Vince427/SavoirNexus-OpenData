@@ -13,7 +13,7 @@ wikidata_id: Q1427314
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-07-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12360/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q1427314:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # FlatOut: Ultimate Carnage
 
-**FlatOut: Ultimate Carnage** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1427314](https://www.wikidata.org/wiki/Q1427314)).
+**FlatOut: Ultimate Carnage** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1427314` (Wikidata : [Q1427314](https://www.wikidata.org/wiki/Q1427314)).
 
 ## Audit de conformite structurelle
 

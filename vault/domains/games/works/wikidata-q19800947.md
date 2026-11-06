@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q19800947
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-03-31
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q19800947:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Star Ocean 5: Integrity and Faithlessness
 
-**Star Ocean 5: Integrity and Faithlessness** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q19800947](https://www.wikidata.org/wiki/Q19800947)).
+**Star Ocean 5: Integrity and Faithlessness** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q19800947` (Wikidata : [Q19800947](https://www.wikidata.org/wiki/Q19800947)).
 
 ## Audit de conformite structurelle
 

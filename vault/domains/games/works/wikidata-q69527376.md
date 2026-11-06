@@ -13,7 +13,7 @@ wikidata_id: Q69527376
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-08-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1099410/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q69527376:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Total War Saga : Troy
 
-**Total War Saga : Troy** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q69527376](https://www.wikidata.org/wiki/Q69527376)).
+**Total War Saga : Troy** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q69527376` (Wikidata : [Q69527376](https://www.wikidata.org/wiki/Q69527376)).
 
 ## Audit de conformite structurelle
 

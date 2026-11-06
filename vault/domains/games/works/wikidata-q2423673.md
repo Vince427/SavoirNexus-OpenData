@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2423673
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-19
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2423673:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Skate It
 
-**Skate It** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2423673](https://www.wikidata.org/wiki/Q2423673)).
+**Skate It** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2423673` (Wikidata : [Q2423673](https://www.wikidata.org/wiki/Q2423673)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q777904
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-09-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21730/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q777904:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Les Experts : Morts programmées
 
-**Les Experts : Morts programmées** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q777904](https://www.wikidata.org/wiki/Q777904)).
+**Les Experts : Morts programmées** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q777904` (Wikidata : [Q777904](https://www.wikidata.org/wiki/Q777904)).
 
 ## Audit de conformite structurelle
 

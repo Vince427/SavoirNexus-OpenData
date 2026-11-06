@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1155922
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-09-25
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q1155922:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Race Driver: Create and Race
 
-**Race Driver: Create and Race** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1155922](https://www.wikidata.org/wiki/Q1155922)).
+**Race Driver: Create and Race** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1155922` (Wikidata : [Q1155922](https://www.wikidata.org/wiki/Q1155922)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1151532
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-08-13
-tags: [jeu, cataloged, hack-and-slash, platformer]
+tags: [jeu, audited, hack-and-slash, platformer]
 observations:
   - id: wikidata-q1151532:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ultimate Ghosts 'n Goblins
 
-**Ultimate Ghosts 'n Goblins** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1151532](https://www.wikidata.org/wiki/Q1151532)).
+**Ultimate Ghosts 'n Goblins** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1151532` (Wikidata : [Q1151532](https://www.wikidata.org/wiki/Q1151532)).
 
 ## Audit de conformite structurelle
 

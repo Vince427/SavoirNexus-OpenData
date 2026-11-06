@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2005935
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-04-29
-tags: [jeu, cataloged, action, adventure, shooter]
+tags: [jeu, audited, action, adventure, shooter]
 observations:
   - id: wikidata-q2005935:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Metal Gear Solid: Peace Walker
 
-**Metal Gear Solid: Peace Walker** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2005935](https://www.wikidata.org/wiki/Q2005935)).
+**Metal Gear Solid: Peace Walker** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2005935` (Wikidata : [Q2005935](https://www.wikidata.org/wiki/Q2005935)).
 
 ## Audit de conformite structurelle
 

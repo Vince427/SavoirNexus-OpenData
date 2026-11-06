@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2559001
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-02-24
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2559001:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # 50 Cent: Blood on the Sand
 
-**50 Cent: Blood on the Sand** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2559001](https://www.wikidata.org/wiki/Q2559001)).
+**50 Cent: Blood on the Sand** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2559001` (Wikidata : [Q2559001](https://www.wikidata.org/wiki/Q2559001)).
 
 ## Audit de conformite structurelle
 

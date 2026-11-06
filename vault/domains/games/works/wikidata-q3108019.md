@@ -13,7 +13,7 @@ wikidata_id: Q3108019
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-04-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/323610/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q3108019:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Emergency 4
 
-**Emergency 4** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3108019](https://www.wikidata.org/wiki/Q3108019)).
+**Emergency 4** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3108019` (Wikidata : [Q3108019](https://www.wikidata.org/wiki/Q3108019)).
 
 ## Audit de conformite structurelle
 

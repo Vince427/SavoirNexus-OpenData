@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2421213
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-12-05
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2421213:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # PokéPark Wii : La Grande Aventure de Pikachu
 
-**PokéPark Wii : La Grande Aventure de Pikachu** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2421213](https://www.wikidata.org/wiki/Q2421213)).
+**PokéPark Wii : La Grande Aventure de Pikachu** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2421213` (Wikidata : [Q2421213](https://www.wikidata.org/wiki/Q2421213)).
 
 ## Audit de conformite structurelle
 

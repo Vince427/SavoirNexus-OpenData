@@ -13,7 +13,7 @@ wikidata_id: Q17375345
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-10-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/281690/header.jpg"
-tags: [jeu, cataloged, action, fighting]
+tags: [jeu, audited, action, fighting]
 observations:
   - id: wikidata-q17375345:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # La Légende de Korra
 
-**La Légende de Korra** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17375345](https://www.wikidata.org/wiki/Q17375345)).
+**La Légende de Korra** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17375345` (Wikidata : [Q17375345](https://www.wikidata.org/wiki/Q17375345)).
 
 ## Audit de conformite structurelle
 

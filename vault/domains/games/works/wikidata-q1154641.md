@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1154641
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-01-01
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1154641:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mashiroiro Symphony
 
-**Mashiroiro Symphony** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1154641](https://www.wikidata.org/wiki/Q1154641)).
+**Mashiroiro Symphony** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1154641` (Wikidata : [Q1154641](https://www.wikidata.org/wiki/Q1154641)).
 
 ## Audit de conformite structurelle
 

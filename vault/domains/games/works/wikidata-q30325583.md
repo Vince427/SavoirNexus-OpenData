@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q30325583
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-08-09
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q30325583:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -101,7 +101,7 @@ observations:
 
 # Sonic Runners Adventure
 
-**Sonic Runners Adventure** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q30325583](https://www.wikidata.org/wiki/Q30325583)).
+**Sonic Runners Adventure** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q30325583` (Wikidata : [Q30325583](https://www.wikidata.org/wiki/Q30325583)).
 
 ## Audit de conformite structurelle
 

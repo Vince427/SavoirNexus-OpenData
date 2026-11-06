@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q111683
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-06-29
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q111683:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # Chromehounds
 
-**Chromehounds** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q111683](https://www.wikidata.org/wiki/Q111683)).
+**Chromehounds** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q111683` (Wikidata : [Q111683](https://www.wikidata.org/wiki/Q111683)).
 
 ## Audit de conformite structurelle
 

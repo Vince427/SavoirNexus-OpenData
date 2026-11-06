@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q285449
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-12-22
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q285449:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ef: A Fairy Tale of the Two
 
-**Ef: A Fairy Tale of the Two** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q285449](https://www.wikidata.org/wiki/Q285449)).
+**Ef: A Fairy Tale of the Two** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q285449` (Wikidata : [Q285449](https://www.wikidata.org/wiki/Q285449)).
 
 ## Audit de conformite structurelle
 

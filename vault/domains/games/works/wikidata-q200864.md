@@ -13,7 +13,7 @@ wikidata_id: Q200864
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15100/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q200864:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Assassin's Creed
 
-**Assassin's Creed** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q200864](https://www.wikidata.org/wiki/Q200864)).
+**Assassin's Creed** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q200864` (Wikidata : [Q200864](https://www.wikidata.org/wiki/Q200864)).
 
 ## Audit de conformite structurelle
 

@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q81650917
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-03-06
-tags: [jeu, cataloged, roguelike]
+tags: [jeu, audited, roguelike]
 observations:
   - id: wikidata-q81650917:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -101,7 +101,7 @@ observations:
 
 # Pokémon Donjon Mystère : Équipe de secours DX
 
-**Pokémon Donjon Mystère : Équipe de secours DX** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q81650917](https://www.wikidata.org/wiki/Q81650917)).
+**Pokémon Donjon Mystère : Équipe de secours DX** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q81650917` (Wikidata : [Q81650917](https://www.wikidata.org/wiki/Q81650917)).
 
 ## Audit de conformite structurelle
 

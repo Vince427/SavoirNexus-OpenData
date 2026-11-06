@@ -13,7 +13,7 @@ wikidata_id: Q30646288
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-07-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/654880/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q30646288:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Dream Daddy: A Dad Dating Simulator
 
-**Dream Daddy: A Dad Dating Simulator** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q30646288](https://www.wikidata.org/wiki/Q30646288)).
+**Dream Daddy: A Dad Dating Simulator** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q30646288` (Wikidata : [Q30646288](https://www.wikidata.org/wiki/Q30646288)).
 
 ## Audit de conformite structurelle
 

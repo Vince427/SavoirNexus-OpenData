@@ -13,7 +13,7 @@ wikidata_id: Q286737
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-03-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/27000/header.jpg"
-tags: [jeu, cataloged, horror]
+tags: [jeu, audited, horror]
 observations:
   - id: wikidata-q286737:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Path
 
-**The Path** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q286737](https://www.wikidata.org/wiki/Q286737)).
+**The Path** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q286737` (Wikidata : [Q286737](https://www.wikidata.org/wiki/Q286737)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q20730405
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-01-01
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q20730405:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario et Sonic aux Jeux olympiques de Rio 2016
 
-**Mario et Sonic aux Jeux olympiques de Rio 2016** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20730405](https://www.wikidata.org/wiki/Q20730405)).
+**Mario et Sonic aux Jeux olympiques de Rio 2016** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20730405` (Wikidata : [Q20730405](https://www.wikidata.org/wiki/Q20730405)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q55078485
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-06-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/557340/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q55078485:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # My Friend Pedro
 
-**My Friend Pedro** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q55078485](https://www.wikidata.org/wiki/Q55078485)).
+**My Friend Pedro** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q55078485` (Wikidata : [Q55078485](https://www.wikidata.org/wiki/Q55078485)).
 
 ## Audit de conformite structurelle
 

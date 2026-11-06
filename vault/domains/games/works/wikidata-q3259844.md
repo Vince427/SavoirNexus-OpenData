@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3259844
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-03-15
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q3259844:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Lost in Blue 2
 
-**Lost in Blue 2** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3259844](https://www.wikidata.org/wiki/Q3259844)).
+**Lost in Blue 2** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3259844` (Wikidata : [Q3259844](https://www.wikidata.org/wiki/Q3259844)).
 
 ## Audit de conformite structurelle
 

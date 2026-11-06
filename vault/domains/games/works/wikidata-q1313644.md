@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q1313644
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-02-02
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q1313644:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # Tourist Trophy
 
-**Tourist Trophy** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1313644](https://www.wikidata.org/wiki/Q1313644)).
+**Tourist Trophy** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1313644` (Wikidata : [Q1313644](https://www.wikidata.org/wiki/Q1313644)).
 
 ## Audit de conformite structurelle
 

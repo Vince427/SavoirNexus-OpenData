@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1158842
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-01-01
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q1158842:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # NBA 2K8
 
-**NBA 2K8** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1158842](https://www.wikidata.org/wiki/Q1158842)).
+**NBA 2K8** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1158842` (Wikidata : [Q1158842](https://www.wikidata.org/wiki/Q1158842)).
 
 ## Audit de conformite structurelle
 

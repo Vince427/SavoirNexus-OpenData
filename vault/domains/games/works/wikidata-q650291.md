@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q650291
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-05-29
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q650291:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Resistance: Burning Skies
 
-**Resistance: Burning Skies** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q650291](https://www.wikidata.org/wiki/Q650291)).
+**Resistance: Burning Skies** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q650291` (Wikidata : [Q650291](https://www.wikidata.org/wiki/Q650291)).
 
 ## Audit de conformite structurelle
 

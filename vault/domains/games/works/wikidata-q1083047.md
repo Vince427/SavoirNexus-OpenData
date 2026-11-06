@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1083047
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-11-23
-tags: [jeu, cataloged, action, adventure, puzzle]
+tags: [jeu, audited, action, adventure, puzzle]
 observations:
   - id: wikidata-q1083047:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Majin and the Forsaken Kingdom
 
-**Majin and the Forsaken Kingdom** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1083047](https://www.wikidata.org/wiki/Q1083047)).
+**Majin and the Forsaken Kingdom** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1083047` (Wikidata : [Q1083047](https://www.wikidata.org/wiki/Q1083047)).
 
 ## Audit de conformite structurelle
 

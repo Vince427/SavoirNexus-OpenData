@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2473100
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-11-14
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q2473100:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario vs. Donkey Kong : Pagaille à Mini-Land !
 
-**Mario vs. Donkey Kong : Pagaille à Mini-Land !** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2473100](https://www.wikidata.org/wiki/Q2473100)).
+**Mario vs. Donkey Kong : Pagaille à Mini-Land !** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2473100` (Wikidata : [Q2473100](https://www.wikidata.org/wiki/Q2473100)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q1440394
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-09
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6080/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1440394:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Thrillville : Le Parc en folie
 
-**Thrillville : Le Parc en folie** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1440394](https://www.wikidata.org/wiki/Q1440394)).
+**Thrillville : Le Parc en folie** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1440394` (Wikidata : [Q1440394](https://www.wikidata.org/wiki/Q1440394)).
 
 ## Audit de conformite structurelle
 

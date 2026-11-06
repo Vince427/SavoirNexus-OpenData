@@ -13,7 +13,7 @@ wikidata_id: Q54577668
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-05-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/752590/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q54577668:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # A Plague Tale: Innocence
 
-**A Plague Tale: Innocence** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q54577668](https://www.wikidata.org/wiki/Q54577668)).
+**A Plague Tale: Innocence** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q54577668` (Wikidata : [Q54577668](https://www.wikidata.org/wiki/Q54577668)).
 
 ## Audit de conformite structurelle
 

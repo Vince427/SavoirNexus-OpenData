@@ -13,7 +13,7 @@ wikidata_id: Q18054654
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-02-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/410850/header.jpg"
-tags: [jeu, cataloged, action, hack-and-slash, rpg]
+tags: [jeu, audited, action, hack-and-slash, rpg]
 observations:
   - id: wikidata-q18054654:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Dragon Quest Heroes : Le Crépuscule de l’Arbre du Monde
 
-**Dragon Quest Heroes : Le Crépuscule de l’Arbre du Monde** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18054654](https://www.wikidata.org/wiki/Q18054654)).
+**Dragon Quest Heroes : Le Crépuscule de l’Arbre du Monde** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18054654` (Wikidata : [Q18054654](https://www.wikidata.org/wiki/Q18054654)).
 
 ## Audit de conformite structurelle
 

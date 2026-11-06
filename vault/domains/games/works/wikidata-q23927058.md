@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q23927058
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-01-01
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q23927058:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -102,7 +102,7 @@ observations:
 
 # Severed
 
-**Severed** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q23927058](https://www.wikidata.org/wiki/Q23927058)).
+**Severed** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q23927058` (Wikidata : [Q23927058](https://www.wikidata.org/wiki/Q23927058)).
 
 ## Audit de conformite structurelle
 

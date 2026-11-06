@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q373945
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-01-19
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q373945:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # LostMagic
 
-**LostMagic** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q373945](https://www.wikidata.org/wiki/Q373945)).
+**LostMagic** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q373945` (Wikidata : [Q373945](https://www.wikidata.org/wiki/Q373945)).
 
 ## Audit de conformite structurelle
 

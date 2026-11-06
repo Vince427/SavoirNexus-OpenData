@@ -13,7 +13,7 @@ wikidata_id: Q54893516
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-08-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/866800/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q54893516:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # The Walking Dead: The Final Season
 
-**The Walking Dead: The Final Season** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q54893516](https://www.wikidata.org/wiki/Q54893516)).
+**The Walking Dead: The Final Season** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q54893516` (Wikidata : [Q54893516](https://www.wikidata.org/wiki/Q54893516)).
 
 ## Audit de conformite structurelle
 

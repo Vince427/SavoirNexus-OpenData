@@ -13,7 +13,7 @@ wikidata_id: Q302839
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-02-09
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8850/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q302839:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # BioShock 2
 
-**BioShock 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q302839](https://www.wikidata.org/wiki/Q302839)).
+**BioShock 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q302839` (Wikidata : [Q302839](https://www.wikidata.org/wiki/Q302839)).
 
 ## Audit de conformite structurelle
 

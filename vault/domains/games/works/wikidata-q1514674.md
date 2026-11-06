@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1514674
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-10-20
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q1514674:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Midnight Club: Los Angeles
 
-**Midnight Club: Los Angeles** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1514674](https://www.wikidata.org/wiki/Q1514674)).
+**Midnight Club: Los Angeles** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1514674` (Wikidata : [Q1514674](https://www.wikidata.org/wiki/Q1514674)).
 
 ## Audit de conformite structurelle
 

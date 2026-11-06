@@ -13,7 +13,7 @@ wikidata_id: Q54893842
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-02-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/816020/header.jpg"
-tags: [jeu, cataloged, fighting, rpg]
+tags: [jeu, audited, fighting, rpg]
 observations:
   - id: wikidata-q54893842:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Jump Force
 
-**Jump Force** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q54893842](https://www.wikidata.org/wiki/Q54893842)).
+**Jump Force** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q54893842` (Wikidata : [Q54893842](https://www.wikidata.org/wiki/Q54893842)).
 
 ## Audit de conformite structurelle
 

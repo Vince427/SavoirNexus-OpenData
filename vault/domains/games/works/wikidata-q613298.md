@@ -13,7 +13,7 @@ wikidata_id: Q613298
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-06-06
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/331160/header.jpg"
-tags: [jeu, cataloged, adventure, racing]
+tags: [jeu, audited, adventure, racing]
 observations:
   - id: wikidata-q613298:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Cars : Quatre Roues
 
-**Cars : Quatre Roues** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q613298](https://www.wikidata.org/wiki/Q613298)).
+**Cars : Quatre Roues** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q613298` (Wikidata : [Q613298](https://www.wikidata.org/wiki/Q613298)).
 
 ## Audit de conformite structurelle
 

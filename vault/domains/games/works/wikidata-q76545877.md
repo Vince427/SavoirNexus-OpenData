@@ -13,7 +13,7 @@ wikidata_id: Q76545877
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/991560/header.jpg"
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q76545877:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # One-Punch Man: A Hero Nobody Knows
 
-**One-Punch Man: A Hero Nobody Knows** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q76545877](https://www.wikidata.org/wiki/Q76545877)).
+**One-Punch Man: A Hero Nobody Knows** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q76545877` (Wikidata : [Q76545877](https://www.wikidata.org/wiki/Q76545877)).
 
 ## Audit de conformite structurelle
 

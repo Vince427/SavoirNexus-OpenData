@@ -13,7 +13,7 @@ wikidata_id: Q55381938
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-11-09
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1003590/header.jpg"
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q55381938:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Tetris Effect
 
-**Tetris Effect** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q55381938](https://www.wikidata.org/wiki/Q55381938)).
+**Tetris Effect** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q55381938` (Wikidata : [Q55381938](https://www.wikidata.org/wiki/Q55381938)).
 
 ## Audit de conformite structurelle
 

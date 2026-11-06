@@ -13,7 +13,7 @@ wikidata_id: Q486233
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-11-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/115300/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q486233:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Call of Duty: Modern Warfare 3
 
-**Call of Duty: Modern Warfare 3** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q486233](https://www.wikidata.org/wiki/Q486233)).
+**Call of Duty: Modern Warfare 3** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q486233` (Wikidata : [Q486233](https://www.wikidata.org/wiki/Q486233)).
 
 ## Audit de conformite structurelle
 

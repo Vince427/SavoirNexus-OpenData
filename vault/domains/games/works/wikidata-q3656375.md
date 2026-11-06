@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3656375
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-09-23
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q3656375:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Tinker
 
-**Tinker** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3656375](https://www.wikidata.org/wiki/Q3656375)).
+**Tinker** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3656375` (Wikidata : [Q3656375](https://www.wikidata.org/wiki/Q3656375)).
 
 ## Audit de conformite structurelle
 

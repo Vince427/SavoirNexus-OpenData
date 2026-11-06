@@ -13,7 +13,7 @@ wikidata_id: Q74109258
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-02-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1382330/header.jpg"
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q74109258:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Persona 5 Strikers
 
-**Persona 5 Strikers** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q74109258](https://www.wikidata.org/wiki/Q74109258)).
+**Persona 5 Strikers** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q74109258` (Wikidata : [Q74109258](https://www.wikidata.org/wiki/Q74109258)).
 
 ## Audit de conformite structurelle
 

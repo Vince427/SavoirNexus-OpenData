@@ -13,7 +13,7 @@ wikidata_id: Q56218638
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-04-16
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/699130/header.jpg"
-tags: [jeu, cataloged, action, horror, shooter, survival]
+tags: [jeu, audited, action, horror, shooter, survival]
 observations:
   - id: wikidata-q56218638:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # World War Z
 
-**World War Z** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q56218638](https://www.wikidata.org/wiki/Q56218638)).
+**World War Z** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q56218638` (Wikidata : [Q56218638](https://www.wikidata.org/wiki/Q56218638)).
 
 ## Audit de conformite structurelle
 

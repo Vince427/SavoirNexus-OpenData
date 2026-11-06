@@ -13,7 +13,7 @@ wikidata_id: Q42266657
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/581660/header.jpg"
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q42266657:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Super Meat Boy Forever
 
-**Super Meat Boy Forever** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q42266657](https://www.wikidata.org/wiki/Q42266657)).
+**Super Meat Boy Forever** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q42266657` (Wikidata : [Q42266657](https://www.wikidata.org/wiki/Q42266657)).
 
 ## Audit de conformite structurelle
 

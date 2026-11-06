@@ -13,7 +13,7 @@ wikidata_id: Q1548088
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-03-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/31100/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1548088:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -103,7 +103,7 @@ observations:
 
 # Les Grandes Aventures de Wallace et Gromit
 
-**Les Grandes Aventures de Wallace et Gromit** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1548088](https://www.wikidata.org/wiki/Q1548088)).
+**Les Grandes Aventures de Wallace et Gromit** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1548088` (Wikidata : [Q1548088](https://www.wikidata.org/wiki/Q1548088)).
 
 ## Audit de conformite structurelle
 

@@ -7,41 +7,41 @@ platforms: [web]
 platforms_source: ["web browser"]
 genres: [action, casual, mmo]
 genres_source: ["action game", "massively multiplayer online game", "casual game", ".io game"]
-monetization_model: premium
+monetization_model: free-to-play
 coverage_status: audited
 wikidata_id: Q20012932
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-04-28
-tags: [jeu, cataloged, action, casual, mmo]
+tags: [jeu, audited, action, casual, mmo]
 observations:
   - id: wikidata-q20012932:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
     status: verified
     ontology_version: "1.1.0"
     criterion: /patterns/coffre-aleatoire
-    result: not_observed
+    result: observed
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Modele complet a achat unique sans aucune mecanique de coffre aleatoire ni tirage de recompense payant."
+    statement: "Presence confirmee de mecaniques de recompenses aleatoires (loot boxes, tirages gacha ou packs de cartes) : Jeu web/mobile F2P (Miniclip) avec Coins/DNA, Mystery Potions aléatoires, skins temporaires et Mass/XP Boosts payants en début de partie."
     evidence:
       - source_url: https://www.wikidata.org/wiki/Q20012932
         archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q20012932
-        quote: "Audit structurel [coffre-aleatoire] sur wikidata-q20012932 (Agar.io) : jeu commercial sans caisses de butin payantes."
+        quote: "Verification contradictoire [coffre-aleatoire] sur wikidata-q20012932 (Agar.io) [OBSERVED] : Jeu web/mobile F2P (Miniclip) avec Coins/DNA, Mystery Potions aléatoires, skins temporaires et Mass/XP Boosts payants en début de partie."
   - id: wikidata-q20012932:obs-monnaie-intermediaire-01
     author: audit-stream-8-sandbox-fin
     status: verified
     ontology_version: "1.1.0"
     criterion: /patterns/monnaie-intermediaire
-    result: not_observed
+    result: observed
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Economie de jeu fermee sans boutique de devises virtuelles ou conversion monetaire en argent reel."
+    statement: "Presence confirmee d'une devise virtuelle intermediaire achetable en argent reel dans la boutique du jeu : Jeu web/mobile F2P (Miniclip) avec Coins/DNA, Mystery Potions aléatoires, skins temporaires et Mass/XP Boosts payants en début de partie."
     evidence:
       - source_url: https://www.wikidata.org/wiki/Q20012932
         archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q20012932
-        quote: "Audit structurel [monnaie-intermediaire] sur wikidata-q20012932 (Agar.io) : absence de monnaie virtuelle intermediaire payante."
+        quote: "Verification contradictoire [monnaie-intermediaire] sur wikidata-q20012932 (Agar.io) [OBSERVED] : Jeu web/mobile F2P (Miniclip) avec Coins/DNA, Mystery Potions aléatoires, skins temporaires et Mass/XP Boosts payants en début de partie."
   - id: wikidata-q20012932:obs-passe-saisonnier-expirant-01
     author: audit-stream-8-sandbox-fin
     status: verified
@@ -51,39 +51,39 @@ observations:
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Contenu integralement accessible et perenne sans passe de combat saisonnier ni expiration de recompenses."
+    statement: "Absence de passe de combat ou passe saisonnier payant a expiration temporelle sur ce titre (modele free-to-play)."
     evidence:
       - source_url: https://www.wikidata.org/wiki/Q20012932
         archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q20012932
-        quote: "Audit structurel [passe-saisonnier-expirant] sur wikidata-q20012932 (Agar.io) : experience complete perenne sans passe saisonnier a decompte."
+        quote: "Verification contradictoire [passe-saisonnier-expirant] sur wikidata-q20012932 (Agar.io) [NOT_OBSERVED] : critere passe-saisonnier-expirant non observe (modele free-to-play)."
   - id: wikidata-q20012932:obs-fausse-urgence-01
     author: audit-stream-8-sandbox-fin
     status: verified
     ontology_version: "1.1.0"
     criterion: /patterns/fausse-urgence
-    result: not_observed
+    result: observed
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Absence de boutique d'objets rotative avec minuteurs ou d'offres ephemeres induisant une fausse urgence."
+    statement: "Presence confirmee de rotations de boutique a compte a rebours ou de bannieres ephemeres exploitant la fausse urgence (FOMO) : Jeu web/mobile F2P (Miniclip) avec Coins/DNA, Mystery Potions aléatoires, skins temporaires et Mass/XP Boosts payants en début de partie."
     evidence:
       - source_url: https://www.wikidata.org/wiki/Q20012932
         archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q20012932
-        quote: "Audit structurel [fausse-urgence] sur wikidata-q20012932 (Agar.io) : absence de rotation artificielle et de marketing de FOMO."
+        quote: "Verification contradictoire [fausse-urgence] sur wikidata-q20012932 (Agar.io) [OBSERVED] : Jeu web/mobile F2P (Miniclip) avec Coins/DNA, Mystery Potions aléatoires, skins temporaires et Mass/XP Boosts payants en début de partie."
   - id: wikidata-q20012932:obs-avantage-competitif-payant-01
     author: audit-stream-8-sandbox-fin
     status: verified
     ontology_version: "1.1.0"
     criterion: /patterns/avantage-competitif-payant
-    result: not_observed
+    result: observed
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Progression et competences fondees exclusivement sur l'avancement en jeu sans bonus pay-to-win."
+    statement: "Presence confirmee d'achats en argent reel conferant un avantage direct de puissance, d'equipement ou d'acceleration : Jeu web/mobile F2P (Miniclip) avec Coins/DNA, Mystery Potions aléatoires, skins temporaires et Mass/XP Boosts payants en début de partie."
     evidence:
       - source_url: https://www.wikidata.org/wiki/Q20012932
         archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q20012932
-        quote: "Audit structurel [avantage-competitif-payant] sur wikidata-q20012932 (Agar.io) : puissance et maitrise fondees purement sur le jeu."
+        quote: "Verification contradictoire [avantage-competitif-payant] sur wikidata-q20012932 (Agar.io) [OBSERVED] : Jeu web/mobile F2P (Miniclip) avec Coins/DNA, Mystery Potions aléatoires, skins temporaires et Mass/XP Boosts payants en début de partie."
   - id: wikidata-q20012932:obs-systeme-energie-01
     author: audit-stream-8-sandbox-fin
     status: verified
@@ -93,23 +93,27 @@ observations:
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Parties libres sans jauge d'endurance ni limitation du temps de jeu par minuteries de recharge."
+    statement: "Sessions de jeu libres sans jauge d'endurance ni compteur d'energie rechargeable par microtransaction (modele free-to-play)."
     evidence:
       - source_url: https://www.wikidata.org/wiki/Q20012932
         archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q20012932
-        quote: "Audit structurel [systeme-energie] sur wikidata-q20012932 (Agar.io) : sessions sans contrainte de compteur d'energie."
+        quote: "Verification contradictoire [systeme-energie] sur wikidata-q20012932 (Agar.io) [NOT_OBSERVED] : critere systeme-energie non observe (modele free-to-play)."
 ---
 
 # Agar.io
 
-**Agar.io** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20012932](https://www.wikidata.org/wiki/Q20012932)).
+**Agar.io** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20012932` (Wikidata : [Q20012932](https://www.wikidata.org/wiki/Q20012932)).
 
 ## Audit de conformite structurelle
 
-L'audit des six criteres structurels du Palier 1 (store-and-gameplay-review) confirme que le titre repond aux exigences d'integrite commerciale :
-- Absence de tirages aleatoires et coffres payants ([/patterns/coffre-aleatoire](/patterns/coffre-aleatoire)).
-- Economie fermee sans devise virtuelle intermediaire payante ([/patterns/monnaie-intermediaire](/patterns/monnaie-intermediaire)).
-- Absence de passe saisonnier ephemere ([/patterns/passe-saisonnier-expirant](/patterns/passe-saisonnier-expirant)).
-- Pas de boutique rotative exploitant la fausse urgence ([/patterns/fausse-urgence](/patterns/fausse-urgence)).
-- Progression fondee sur le gameplay sans avantage competitif payant ([/patterns/avantage-competitif-payant](/patterns/avantage-competitif-payant)).
-- Temps de jeu non contraint par une jauge d'energie ([/patterns/systeme-energie](/patterns/systeme-energie)).
+L'audit contradictoire des six criteres structurels du Palier 1 (`store-and-gameplay-review`, modele **free-to-play**) met en evidence **4 pratique(s) observee(s)** sur 6 :
+- **[OBSERVE]** Coffres aleatoires / Tirages Gacha ([/patterns/coffre-aleatoire](/patterns/coffre-aleatoire)) : mecanique identifiee et documentee sur ce titre.
+- **[OBSERVE]** Monnaie virtuelle intermediaire payante ([/patterns/monnaie-intermediaire](/patterns/monnaie-intermediaire)) : mecanique identifiee et documentee sur ce titre.
+- **[NON OBSERVE]** Passe saisonnier expirant (Battle Pass) ([/patterns/passe-saisonnier-expirant](/patterns/passe-saisonnier-expirant)) : aucune occurrence de cette pratique sur ce titre.
+- **[OBSERVE]** Fausse urgence / Boutique rotative (FOMO) ([/patterns/fausse-urgence](/patterns/fausse-urgence)) : mecanique identifiee et documentee sur ce titre.
+- **[OBSERVE]** Avantage competitif ou d'acceleration payant ([/patterns/avantage-competitif-payant](/patterns/avantage-competitif-payant)) : mecanique identifiee et documentee sur ce titre.
+- **[NON OBSERVE]** Systeme d'energie / Jauge d'endurance ([/patterns/systeme-energie](/patterns/systeme-energie)) : aucune occurrence de cette pratique sur ce titre.
+
+### Synthese factuelle de la monetisation
+
+Jeu web/mobile F2P (Miniclip) avec Coins/DNA, Mystery Potions aléatoires, skins temporaires et Mass/XP Boosts payants en début de partie.

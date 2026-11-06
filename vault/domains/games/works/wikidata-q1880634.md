@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1880634
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-11-08
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1880634:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Metal Gear Solid: HD Collection
 
-**Metal Gear Solid: HD Collection** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1880634](https://www.wikidata.org/wiki/Q1880634)).
+**Metal Gear Solid: HD Collection** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1880634` (Wikidata : [Q1880634](https://www.wikidata.org/wiki/Q1880634)).
 
 ## Audit de conformite structurelle
 

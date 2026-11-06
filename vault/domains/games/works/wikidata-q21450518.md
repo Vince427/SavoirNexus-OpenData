@@ -13,7 +13,7 @@ wikidata_id: Q21450518
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/421170/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q21450518:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Indivisible
 
-**Indivisible** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q21450518](https://www.wikidata.org/wiki/Q21450518)).
+**Indivisible** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q21450518` (Wikidata : [Q21450518](https://www.wikidata.org/wiki/Q21450518)).
 
 ## Audit de conformite structurelle
 

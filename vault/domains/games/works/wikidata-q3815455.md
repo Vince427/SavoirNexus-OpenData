@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3815455
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-03-14
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q3815455:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Kingdom Hearts HD 1.5 ReMIX
 
-**Kingdom Hearts HD 1.5 ReMIX** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3815455](https://www.wikidata.org/wiki/Q3815455)).
+**Kingdom Hearts HD 1.5 ReMIX** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3815455` (Wikidata : [Q3815455](https://www.wikidata.org/wiki/Q3815455)).
 
 ## Audit de conformite structurelle
 

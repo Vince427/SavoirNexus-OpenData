@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3234480
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-20
-tags: [jeu, cataloged, adventure, simulation]
+tags: [jeu, audited, adventure, simulation]
 observations:
   - id: wikidata-q3234480:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Trauma Center: New Blood
 
-**Trauma Center: New Blood** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3234480](https://www.wikidata.org/wiki/Q3234480)).
+**Trauma Center: New Blood** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3234480` (Wikidata : [Q3234480](https://www.wikidata.org/wiki/Q3234480)).
 
 ## Audit de conformite structurelle
 

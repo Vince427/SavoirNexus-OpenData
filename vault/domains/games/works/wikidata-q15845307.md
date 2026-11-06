@@ -13,7 +13,7 @@ wikidata_id: Q15845307
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-06-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/311240/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q15845307:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Zero Time Dilemma
 
-**Zero Time Dilemma** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15845307](https://www.wikidata.org/wiki/Q15845307)).
+**Zero Time Dilemma** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15845307` (Wikidata : [Q15845307](https://www.wikidata.org/wiki/Q15845307)).
 
 ## Audit de conformite structurelle
 

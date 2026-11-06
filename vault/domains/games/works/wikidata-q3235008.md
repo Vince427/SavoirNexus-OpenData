@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3235008
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-06-15
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q3235008:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Les Quatre Fantastiques et le Surfer d'argent
 
-**Les Quatre Fantastiques et le Surfer d'argent** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3235008](https://www.wikidata.org/wiki/Q3235008)).
+**Les Quatre Fantastiques et le Surfer d'argent** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3235008` (Wikidata : [Q3235008](https://www.wikidata.org/wiki/Q3235008)).
 
 ## Audit de conformite structurelle
 

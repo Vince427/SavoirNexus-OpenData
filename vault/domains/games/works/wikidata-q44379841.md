@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q44379841
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2021-11-11
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q44379841:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -101,7 +101,7 @@ observations:
 
 # Shin Megami Tensei V
 
-**Shin Megami Tensei V** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q44379841](https://www.wikidata.org/wiki/Q44379841)).
+**Shin Megami Tensei V** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q44379841` (Wikidata : [Q44379841](https://www.wikidata.org/wiki/Q44379841)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q380918
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-11-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/202970/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q380918:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Call of Duty: Black Ops II
 
-**Call of Duty: Black Ops II** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q380918](https://www.wikidata.org/wiki/Q380918)).
+**Call of Duty: Black Ops II** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q380918` (Wikidata : [Q380918](https://www.wikidata.org/wiki/Q380918)).
 
 ## Audit de conformite structurelle
 

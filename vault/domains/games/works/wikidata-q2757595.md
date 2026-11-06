@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2757595
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-10-26
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2757595:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -102,7 +102,7 @@ observations:
 
 # Tony Hawk: Shred
 
-**Tony Hawk: Shred** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2757595](https://www.wikidata.org/wiki/Q2757595)).
+**Tony Hawk: Shred** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2757595` (Wikidata : [Q2757595](https://www.wikidata.org/wiki/Q2757595)).
 
 ## Audit de conformite structurelle
 

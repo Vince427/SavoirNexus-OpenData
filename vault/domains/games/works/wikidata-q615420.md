@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q615420
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-05-25
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q615420:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Kimi ga Aruji de Shitsuji ga Ore de
 
-**Kimi ga Aruji de Shitsuji ga Ore de** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q615420](https://www.wikidata.org/wiki/Q615420)).
+**Kimi ga Aruji de Shitsuji ga Ore de** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q615420` (Wikidata : [Q615420](https://www.wikidata.org/wiki/Q615420)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q655031
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-22
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q655031:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Superman Returns
 
-**Superman Returns** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q655031](https://www.wikidata.org/wiki/Q655031)).
+**Superman Returns** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q655031` (Wikidata : [Q655031](https://www.wikidata.org/wiki/Q655031)).
 
 ## Audit de conformite structurelle
 

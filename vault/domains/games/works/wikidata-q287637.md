@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q287637
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-26
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q287637:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # The Witcher
 
-**The Witcher** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q287637](https://www.wikidata.org/wiki/Q287637)).
+**The Witcher** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q287637` (Wikidata : [Q287637](https://www.wikidata.org/wiki/Q287637)).
 
 ## Audit de conformite structurelle
 

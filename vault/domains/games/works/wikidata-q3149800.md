@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3149800
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-12-13
-tags: [jeu, cataloged, rpg, sports]
+tags: [jeu, audited, rpg, sports]
 observations:
   - id: wikidata-q3149800:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Inazuma Eleven GO 2: Chrono Stone
 
-**Inazuma Eleven GO 2: Chrono Stone** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3149800](https://www.wikidata.org/wiki/Q3149800)).
+**Inazuma Eleven GO 2: Chrono Stone** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3149800` (Wikidata : [Q3149800](https://www.wikidata.org/wiki/Q3149800)).
 
 ## Audit de conformite structurelle
 

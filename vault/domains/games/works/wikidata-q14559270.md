@@ -13,7 +13,7 @@ wikidata_id: Q14559270
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-08-06
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/243950/header.jpg"
-tags: [jeu, cataloged, rpg, shooter]
+tags: [jeu, audited, rpg, shooter]
 observations:
   - id: wikidata-q14559270:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Divinity: Dragon Commander
 
-**Divinity: Dragon Commander** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q14559270](https://www.wikidata.org/wiki/Q14559270)).
+**Divinity: Dragon Commander** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q14559270` (Wikidata : [Q14559270](https://www.wikidata.org/wiki/Q14559270)).
 
 ## Audit de conformite structurelle
 

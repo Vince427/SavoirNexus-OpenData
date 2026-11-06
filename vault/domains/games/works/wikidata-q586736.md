@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q586736
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-04-19
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q586736:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Coupe du monde de la FIFA : Afrique du Sud 2010
 
-**Coupe du monde de la FIFA : Afrique du Sud 2010** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q586736](https://www.wikidata.org/wiki/Q586736)).
+**Coupe du monde de la FIFA : Afrique du Sud 2010** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q586736` (Wikidata : [Q586736](https://www.wikidata.org/wiki/Q586736)).
 
 ## Audit de conformite structurelle
 

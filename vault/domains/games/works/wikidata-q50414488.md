@@ -13,7 +13,7 @@ wikidata_id: Q50414488
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-03-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/711660/header.jpg"
-tags: [jeu, cataloged, adventure, puzzle]
+tags: [jeu, audited, adventure, puzzle]
 observations:
   - id: wikidata-q50414488:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Chuchel
 
-**Chuchel** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q50414488](https://www.wikidata.org/wiki/Q50414488)).
+**Chuchel** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q50414488` (Wikidata : [Q50414488](https://www.wikidata.org/wiki/Q50414488)).
 
 ## Audit de conformite structurelle
 

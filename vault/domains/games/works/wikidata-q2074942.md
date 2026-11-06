@@ -13,7 +13,7 @@ wikidata_id: Q2074942
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-05-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/72200/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2074942:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Universe Sandbox
 
-**Universe Sandbox** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2074942](https://www.wikidata.org/wiki/Q2074942)).
+**Universe Sandbox** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2074942` (Wikidata : [Q2074942](https://www.wikidata.org/wiki/Q2074942)).
 
 ## Audit de conformite structurelle
 

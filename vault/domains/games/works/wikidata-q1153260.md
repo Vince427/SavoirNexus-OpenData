@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1153260
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-14
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1153260:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Bionicle Heroes
 
-**Bionicle Heroes** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1153260](https://www.wikidata.org/wiki/Q1153260)).
+**Bionicle Heroes** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1153260` (Wikidata : [Q1153260](https://www.wikidata.org/wiki/Q1153260)).
 
 ## Audit de conformite structurelle
 

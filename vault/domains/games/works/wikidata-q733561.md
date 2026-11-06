@@ -13,7 +13,7 @@ wikidata_id: Q733561
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-02-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/99810/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q733561:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Bulletstorm
 
-**Bulletstorm** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q733561](https://www.wikidata.org/wiki/Q733561)).
+**Bulletstorm** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q733561` (Wikidata : [Q733561](https://www.wikidata.org/wiki/Q733561)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q21775834
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-03-09
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242680/header.jpg"
-tags: [jeu, cataloged, action, roguelike, shooter]
+tags: [jeu, audited, action, roguelike, shooter]
 observations:
   - id: wikidata-q21775834:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Nuclear Throne
 
-**Nuclear Throne** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q21775834](https://www.wikidata.org/wiki/Q21775834)).
+**Nuclear Throne** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q21775834` (Wikidata : [Q21775834](https://www.wikidata.org/wiki/Q21775834)).
 
 ## Audit de conformite structurelle
 

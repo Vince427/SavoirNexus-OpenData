@@ -13,7 +13,7 @@ wikidata_id: Q20030150
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-02-05
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/268500/header.jpg"
-tags: [jeu, cataloged, rpg, strategy]
+tags: [jeu, audited, rpg, strategy]
 observations:
   - id: wikidata-q20030150:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # XCOM 2
 
-**XCOM 2** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20030150](https://www.wikidata.org/wiki/Q20030150)).
+**XCOM 2** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20030150` (Wikidata : [Q20030150](https://www.wikidata.org/wiki/Q20030150)).
 
 ## Audit de conformite structurelle
 

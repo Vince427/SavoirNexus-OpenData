@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q2713853
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-30
-tags: [jeu, cataloged, fighting, rpg]
+tags: [jeu, audited, fighting, rpg]
 observations:
   - id: wikidata-q2713853:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -101,7 +101,7 @@ observations:
 
 # Naruto: Rise of a Ninja
 
-**Naruto: Rise of a Ninja** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2713853](https://www.wikidata.org/wiki/Q2713853)).
+**Naruto: Rise of a Ninja** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2713853` (Wikidata : [Q2713853](https://www.wikidata.org/wiki/Q2713853)).
 
 ## Audit de conformite structurelle
 

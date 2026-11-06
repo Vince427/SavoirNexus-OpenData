@@ -13,7 +13,7 @@ wikidata_id: Q86497383
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2023-03-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1593030/header.jpg"
-tags: [jeu, cataloged, simulation, strategy]
+tags: [jeu, audited, simulation, strategy]
 observations:
   - id: wikidata-q86497383:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Terra Nil
 
-**Terra Nil** est une oeuvre sortie initialement en 2023, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q86497383](https://www.wikidata.org/wiki/Q86497383)).
+**Terra Nil** est une oeuvre sortie initialement en 2023, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q86497383` (Wikidata : [Q86497383](https://www.wikidata.org/wiki/Q86497383)).
 
 ## Audit de conformite structurelle
 

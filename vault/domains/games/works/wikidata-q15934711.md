@@ -13,7 +13,7 @@ wikidata_id: Q15934711
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/253230/header.jpg"
-tags: [jeu, cataloged, action, adventure, platformer]
+tags: [jeu, audited, action, adventure, platformer]
 observations:
   - id: wikidata-q15934711:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # A Hat in Time
 
-**A Hat in Time** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15934711](https://www.wikidata.org/wiki/Q15934711)).
+**A Hat in Time** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15934711` (Wikidata : [Q15934711](https://www.wikidata.org/wiki/Q15934711)).
 
 ## Audit de conformite structurelle
 

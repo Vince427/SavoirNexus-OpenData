@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q1199051
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-02-24
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1199051:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -101,7 +101,7 @@ observations:
 
 # Metal Slug 6
 
-**Metal Slug 6** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1199051](https://www.wikidata.org/wiki/Q1199051)).
+**Metal Slug 6** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1199051` (Wikidata : [Q1199051](https://www.wikidata.org/wiki/Q1199051)).
 
 ## Audit de conformite structurelle
 

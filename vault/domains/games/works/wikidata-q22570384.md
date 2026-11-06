@@ -13,7 +13,7 @@ wikidata_id: Q22570384
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-06-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/438640/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q22570384:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Lego Star Wars : Le Réveil de la Force
 
-**Lego Star Wars : Le Réveil de la Force** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q22570384](https://www.wikidata.org/wiki/Q22570384)).
+**Lego Star Wars : Le Réveil de la Force** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q22570384` (Wikidata : [Q22570384](https://www.wikidata.org/wiki/Q22570384)).
 
 ## Audit de conformite structurelle
 

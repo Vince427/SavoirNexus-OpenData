@@ -13,7 +13,7 @@ wikidata_id: Q83544584
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1163550/header.jpg"
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q83544584:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Captain Tsubasa: Rise of New Champions
 
-**Captain Tsubasa: Rise of New Champions** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q83544584](https://www.wikidata.org/wiki/Q83544584)).
+**Captain Tsubasa: Rise of New Champions** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q83544584` (Wikidata : [Q83544584](https://www.wikidata.org/wiki/Q83544584)).
 
 ## Audit de conformite structurelle
 

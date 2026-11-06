@@ -13,7 +13,7 @@ wikidata_id: Q1070466
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-09-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10000/header.jpg"
-tags: [jeu, cataloged, action, shooter, strategy]
+tags: [jeu, audited, action, shooter, strategy]
 observations:
   - id: wikidata-q1070466:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Enemy Territory: Quake Wars
 
-**Enemy Territory: Quake Wars** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1070466](https://www.wikidata.org/wiki/Q1070466)).
+**Enemy Territory: Quake Wars** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1070466` (Wikidata : [Q1070466](https://www.wikidata.org/wiki/Q1070466)).
 
 ## Audit de conformite structurelle
 

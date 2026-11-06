@@ -13,7 +13,7 @@ wikidata_id: Q2498693
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-05-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/301980/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2498693:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Pirates des Caraïbes : Jusqu'au bout du monde
 
-**Pirates des Caraïbes : Jusqu'au bout du monde** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2498693](https://www.wikidata.org/wiki/Q2498693)).
+**Pirates des Caraïbes : Jusqu'au bout du monde** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2498693` (Wikidata : [Q2498693](https://www.wikidata.org/wiki/Q2498693)).
 
 ## Audit de conformite structurelle
 

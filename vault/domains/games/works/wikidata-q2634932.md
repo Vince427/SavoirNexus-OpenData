@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2634932
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-11
-tags: [jeu, cataloged, hack-and-slash]
+tags: [jeu, audited, hack-and-slash]
 observations:
   - id: wikidata-q2634932:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dynasty Warriors 6
 
-**Dynasty Warriors 6** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2634932](https://www.wikidata.org/wiki/Q2634932)).
+**Dynasty Warriors 6** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2634932` (Wikidata : [Q2634932](https://www.wikidata.org/wiki/Q2634932)).
 
 ## Audit de conformite structurelle
 

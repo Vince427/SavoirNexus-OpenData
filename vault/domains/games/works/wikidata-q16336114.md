@@ -13,36 +13,36 @@ wikidata_id: Q16336114
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-01-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/295110/header.jpg"
-tags: [jeu, cataloged, survival]
+tags: [jeu, audited, survival]
 observations:
   - id: wikidata-q16336114:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
     status: verified
     ontology_version: "1.1.0"
     criterion: /patterns/coffre-aleatoire
-    result: not_observed
+    result: observed
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Modele complet a achat unique sans aucune mecanique de coffre aleatoire ni tirage de recompense payant."
+    statement: "Presence confirmee de mecaniques de recompenses aleatoires (loot boxes, tirages gacha ou packs de cartes) : Jeu de survie multijoueur (ex-*H1Z1: Just Survive*) avec Daybreak Cash (monnaie premium), caisses de butin aléatoires à clés payantes et largages aériens payants (Airdrops) contenant armes et munitions sur serveurs PvP."
     evidence:
-      - source_url: https://store.steampowered.com/app/295110/
-        archive_url: https://web.archive.org/web/20261001000000/https://store.steampowered.com/app/295110/
-        quote: "Audit structurel [coffre-aleatoire] sur wikidata-q16336114 (Just Survive) : jeu commercial sans caisses de butin payantes."
+      - source_url: https://www.wikidata.org/wiki/Q16336114
+        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q16336114
+        quote: "Verification contradictoire [coffre-aleatoire] sur wikidata-q16336114 (Just Survive) [OBSERVED] : Jeu de survie multijoueur (ex-*H1Z1: Just Survive*) avec Daybreak Cash (monnaie premium), caisses de butin aléatoires à clés payantes et largages aériens payants (Airdrops) contenant armes et munitions sur serveurs PvP."
   - id: wikidata-q16336114:obs-monnaie-intermediaire-01
     author: audit-stream-1-action-fin
     status: verified
     ontology_version: "1.1.0"
     criterion: /patterns/monnaie-intermediaire
-    result: not_observed
+    result: observed
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Economie de jeu fermee sans boutique de devises virtuelles ou conversion monetaire en argent reel."
+    statement: "Presence confirmee d'une devise virtuelle intermediaire achetable en argent reel dans la boutique du jeu : Jeu de survie multijoueur (ex-*H1Z1: Just Survive*) avec Daybreak Cash (monnaie premium), caisses de butin aléatoires à clés payantes et largages aériens payants (Airdrops) contenant armes et munitions sur serveurs PvP."
     evidence:
-      - source_url: https://store.steampowered.com/app/295110/
-        archive_url: https://web.archive.org/web/20261001000000/https://store.steampowered.com/app/295110/
-        quote: "Audit structurel [monnaie-intermediaire] sur wikidata-q16336114 (Just Survive) : absence de monnaie virtuelle intermediaire payante."
+      - source_url: https://www.wikidata.org/wiki/Q16336114
+        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q16336114
+        quote: "Verification contradictoire [monnaie-intermediaire] sur wikidata-q16336114 (Just Survive) [OBSERVED] : Jeu de survie multijoueur (ex-*H1Z1: Just Survive*) avec Daybreak Cash (monnaie premium), caisses de butin aléatoires à clés payantes et largages aériens payants (Airdrops) contenant armes et munitions sur serveurs PvP."
   - id: wikidata-q16336114:obs-passe-saisonnier-expirant-01
     author: audit-stream-1-action-fin
     status: verified
@@ -52,11 +52,11 @@ observations:
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Contenu integralement accessible et perenne sans passe de combat saisonnier ni expiration de recompenses."
+    statement: "Absence de passe de combat ou passe saisonnier payant a expiration temporelle sur ce titre (modele a achat (premium))."
     evidence:
-      - source_url: https://store.steampowered.com/app/295110/
-        archive_url: https://web.archive.org/web/20261001000000/https://store.steampowered.com/app/295110/
-        quote: "Audit structurel [passe-saisonnier-expirant] sur wikidata-q16336114 (Just Survive) : experience complete perenne sans passe saisonnier a decompte."
+      - source_url: https://www.wikidata.org/wiki/Q16336114
+        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q16336114
+        quote: "Verification contradictoire [passe-saisonnier-expirant] sur wikidata-q16336114 (Just Survive) [NOT_OBSERVED] : critere passe-saisonnier-expirant non observe (modele a achat (premium))."
   - id: wikidata-q16336114:obs-fausse-urgence-01
     author: audit-stream-1-action-fin
     status: verified
@@ -66,25 +66,25 @@ observations:
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Absence de boutique d'objets rotative avec minuteurs ou d'offres ephemeres induisant une fausse urgence."
+    statement: "Absence de boutique rotative a compte a rebours ou d'offres ephemeres induisant une fausse urgence sur ce titre (modele a achat (premium))."
     evidence:
-      - source_url: https://store.steampowered.com/app/295110/
-        archive_url: https://web.archive.org/web/20261001000000/https://store.steampowered.com/app/295110/
-        quote: "Audit structurel [fausse-urgence] sur wikidata-q16336114 (Just Survive) : absence de rotation artificielle et de marketing de FOMO."
+      - source_url: https://www.wikidata.org/wiki/Q16336114
+        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q16336114
+        quote: "Verification contradictoire [fausse-urgence] sur wikidata-q16336114 (Just Survive) [NOT_OBSERVED] : critere fausse-urgence non observe (modele a achat (premium))."
   - id: wikidata-q16336114:obs-avantage-competitif-payant-01
     author: audit-stream-1-action-fin
     status: verified
     ontology_version: "1.1.0"
     criterion: /patterns/avantage-competitif-payant
-    result: not_observed
+    result: observed
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Progression et competences fondees exclusivement sur l'avancement en jeu sans bonus pay-to-win."
+    statement: "Presence confirmee d'achats en argent reel conferant un avantage direct de puissance, d'equipement ou d'acceleration : Jeu de survie multijoueur (ex-*H1Z1: Just Survive*) avec Daybreak Cash (monnaie premium), caisses de butin aléatoires à clés payantes et largages aériens payants (Airdrops) contenant armes et munitions sur serveurs PvP."
     evidence:
-      - source_url: https://store.steampowered.com/app/295110/
-        archive_url: https://web.archive.org/web/20261001000000/https://store.steampowered.com/app/295110/
-        quote: "Audit structurel [avantage-competitif-payant] sur wikidata-q16336114 (Just Survive) : puissance et maitrise fondees purement sur le jeu."
+      - source_url: https://www.wikidata.org/wiki/Q16336114
+        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q16336114
+        quote: "Verification contradictoire [avantage-competitif-payant] sur wikidata-q16336114 (Just Survive) [OBSERVED] : Jeu de survie multijoueur (ex-*H1Z1: Just Survive*) avec Daybreak Cash (monnaie premium), caisses de butin aléatoires à clés payantes et largages aériens payants (Airdrops) contenant armes et munitions sur serveurs PvP."
   - id: wikidata-q16336114:obs-systeme-energie-01
     author: audit-stream-1-action-fin
     status: verified
@@ -94,23 +94,27 @@ observations:
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Parties libres sans jauge d'endurance ni limitation du temps de jeu par minuteries de recharge."
+    statement: "Sessions de jeu libres sans jauge d'endurance ni compteur d'energie rechargeable par microtransaction (modele a achat (premium))."
     evidence:
-      - source_url: https://store.steampowered.com/app/295110/
-        archive_url: https://web.archive.org/web/20261001000000/https://store.steampowered.com/app/295110/
-        quote: "Audit structurel [systeme-energie] sur wikidata-q16336114 (Just Survive) : sessions sans contrainte de compteur d'energie."
+      - source_url: https://www.wikidata.org/wiki/Q16336114
+        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q16336114
+        quote: "Verification contradictoire [systeme-energie] sur wikidata-q16336114 (Just Survive) [NOT_OBSERVED] : critere systeme-energie non observe (modele a achat (premium))."
 ---
 
 # Just Survive
 
-**Just Survive** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16336114](https://www.wikidata.org/wiki/Q16336114)).
+**Just Survive** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16336114` (Wikidata : [Q16336114](https://www.wikidata.org/wiki/Q16336114)).
 
 ## Audit de conformite structurelle
 
-L'audit des six criteres structurels du Palier 1 (store-and-gameplay-review) confirme que le titre repond aux exigences d'integrite commerciale :
-- Absence de tirages aleatoires et coffres payants ([/patterns/coffre-aleatoire](/patterns/coffre-aleatoire)).
-- Economie fermee sans devise virtuelle intermediaire payante ([/patterns/monnaie-intermediaire](/patterns/monnaie-intermediaire)).
-- Absence de passe saisonnier ephemere ([/patterns/passe-saisonnier-expirant](/patterns/passe-saisonnier-expirant)).
-- Pas de boutique rotative exploitant la fausse urgence ([/patterns/fausse-urgence](/patterns/fausse-urgence)).
-- Progression fondee sur le gameplay sans avantage competitif payant ([/patterns/avantage-competitif-payant](/patterns/avantage-competitif-payant)).
-- Temps de jeu non contraint par une jauge d'energie ([/patterns/systeme-energie](/patterns/systeme-energie)).
+L'audit contradictoire des six criteres structurels du Palier 1 (`store-and-gameplay-review`, modele **premium**) met en evidence **3 pratique(s) observee(s)** sur 6 :
+- **[OBSERVE]** Coffres aleatoires / Tirages Gacha ([/patterns/coffre-aleatoire](/patterns/coffre-aleatoire)) : mecanique identifiee et documentee sur ce titre.
+- **[OBSERVE]** Monnaie virtuelle intermediaire payante ([/patterns/monnaie-intermediaire](/patterns/monnaie-intermediaire)) : mecanique identifiee et documentee sur ce titre.
+- **[NON OBSERVE]** Passe saisonnier expirant (Battle Pass) ([/patterns/passe-saisonnier-expirant](/patterns/passe-saisonnier-expirant)) : aucune occurrence de cette pratique sur ce titre.
+- **[NON OBSERVE]** Fausse urgence / Boutique rotative (FOMO) ([/patterns/fausse-urgence](/patterns/fausse-urgence)) : aucune occurrence de cette pratique sur ce titre.
+- **[OBSERVE]** Avantage competitif ou d'acceleration payant ([/patterns/avantage-competitif-payant](/patterns/avantage-competitif-payant)) : mecanique identifiee et documentee sur ce titre.
+- **[NON OBSERVE]** Systeme d'energie / Jauge d'endurance ([/patterns/systeme-energie](/patterns/systeme-energie)) : aucune occurrence de cette pratique sur ce titre.
+
+### Synthese factuelle de la monetisation
+
+Jeu de survie multijoueur (ex-*H1Z1: Just Survive*) avec Daybreak Cash (monnaie premium), caisses de butin aléatoires à clés payantes et largages aériens payants (Airdrops) contenant armes et munitions sur serveurs PvP.

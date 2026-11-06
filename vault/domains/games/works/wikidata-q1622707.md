@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1622707
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-02-26
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1622707:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Professeur Layton et le Masque des miracles
 
-**Professeur Layton et le Masque des miracles** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1622707](https://www.wikidata.org/wiki/Q1622707)).
+**Professeur Layton et le Masque des miracles** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1622707` (Wikidata : [Q1622707](https://www.wikidata.org/wiki/Q1622707)).
 
 ## Audit de conformite structurelle
 

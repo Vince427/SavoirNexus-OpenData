@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q2760303
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-11-04
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q2760303:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -101,7 +101,7 @@ observations:
 
 # Kinect Joy Ride
 
-**Kinect Joy Ride** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2760303](https://www.wikidata.org/wiki/Q2760303)).
+**Kinect Joy Ride** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2760303` (Wikidata : [Q2760303](https://www.wikidata.org/wiki/Q2760303)).
 
 ## Audit de conformite structurelle
 

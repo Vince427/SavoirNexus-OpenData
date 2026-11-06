@@ -13,7 +13,7 @@ wikidata_id: Q1982922
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-19
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15080/header.jpg"
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q1982922:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Rayman contre les lapins crétins
 
-**Rayman contre les lapins crétins** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1982922](https://www.wikidata.org/wiki/Q1982922)).
+**Rayman contre les lapins crétins** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1982922` (Wikidata : [Q1982922](https://www.wikidata.org/wiki/Q1982922)).
 
 ## Audit de conformite structurelle
 

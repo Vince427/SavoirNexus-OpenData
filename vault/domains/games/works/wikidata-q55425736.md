@@ -13,7 +13,7 @@ wikidata_id: Q55425736
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-01-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/503940/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q55425736:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Railway Empire
 
-**Railway Empire** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q55425736](https://www.wikidata.org/wiki/Q55425736)).
+**Railway Empire** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q55425736` (Wikidata : [Q55425736](https://www.wikidata.org/wiki/Q55425736)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3038757
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-06-24
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q3038757:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dragon Quest Wars
 
-**Dragon Quest Wars** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3038757](https://www.wikidata.org/wiki/Q3038757)).
+**Dragon Quest Wars** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3038757` (Wikidata : [Q3038757](https://www.wikidata.org/wiki/Q3038757)).
 
 ## Audit de conformite structurelle
 

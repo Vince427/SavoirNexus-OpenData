@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q773771
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-03-19
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q773771:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Armored Core: For Answer
 
-**Armored Core: For Answer** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q773771](https://www.wikidata.org/wiki/Q773771)).
+**Armored Core: For Answer** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q773771` (Wikidata : [Q773771](https://www.wikidata.org/wiki/Q773771)).
 
 ## Audit de conformite structurelle
 

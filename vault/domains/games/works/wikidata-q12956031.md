@@ -13,7 +13,7 @@ wikidata_id: Q12956031
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-05-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201810/header.jpg"
-tags: [jeu, cataloged, action, adventure, shooter]
+tags: [jeu, audited, action, adventure, shooter]
 observations:
   - id: wikidata-q12956031:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Wolfenstein: The New Order
 
-**Wolfenstein: The New Order** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q12956031](https://www.wikidata.org/wiki/Q12956031)).
+**Wolfenstein: The New Order** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q12956031` (Wikidata : [Q12956031](https://www.wikidata.org/wiki/Q12956031)).
 
 ## Audit de conformite structurelle
 

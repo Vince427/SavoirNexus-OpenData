@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q1138424
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-02-20
-tags: [jeu, cataloged, action, adventure, shooter]
+tags: [jeu, audited, action, adventure, shooter]
 observations:
   - id: wikidata-q1138424:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # Crackdown
 
-**Crackdown** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1138424](https://www.wikidata.org/wiki/Q1138424)).
+**Crackdown** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1138424` (Wikidata : [Q1138424](https://www.wikidata.org/wiki/Q1138424)).
 
 ## Audit de conformite structurelle
 

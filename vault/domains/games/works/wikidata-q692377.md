@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q692377
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-11-23
-tags: [jeu, cataloged, fighting, hack-and-slash, horror, survival]
+tags: [jeu, audited, fighting, hack-and-slash, horror, survival]
 observations:
   - id: wikidata-q692377:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Splatterhouse
 
-**Splatterhouse** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q692377](https://www.wikidata.org/wiki/Q692377)).
+**Splatterhouse** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q692377` (Wikidata : [Q692377](https://www.wikidata.org/wiki/Q692377)).
 
 ## Audit de conformite structurelle
 

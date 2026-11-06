@@ -13,7 +13,7 @@ wikidata_id: Q19402993
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286570/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q19402993:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # F1 2015
 
-**F1 2015** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q19402993](https://www.wikidata.org/wiki/Q19402993)).
+**F1 2015** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q19402993` (Wikidata : [Q19402993](https://www.wikidata.org/wiki/Q19402993)).
 
 ## Audit de conformite structurelle
 

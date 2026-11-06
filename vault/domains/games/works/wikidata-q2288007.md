@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2288007
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-07-13
-tags: [jeu, cataloged, horror]
+tags: [jeu, audited, horror]
 observations:
   - id: wikidata-q2288007:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Siren: Blood Curse
 
-**Siren: Blood Curse** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2288007](https://www.wikidata.org/wiki/Q2288007)).
+**Siren: Blood Curse** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2288007` (Wikidata : [Q2288007](https://www.wikidata.org/wiki/Q2288007)).
 
 ## Audit de conformite structurelle
 

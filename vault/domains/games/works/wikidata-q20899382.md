@@ -13,7 +13,7 @@ wikidata_id: Q20899382
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-08-02
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/384190/header.jpg"
-tags: [jeu, cataloged, adventure, simulation]
+tags: [jeu, audited, adventure, simulation]
 observations:
   - id: wikidata-q20899382:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Abzû
 
-**Abzû** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20899382](https://www.wikidata.org/wiki/Q20899382)).
+**Abzû** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20899382` (Wikidata : [Q20899382](https://www.wikidata.org/wiki/Q20899382)).
 
 ## Audit de conformite structurelle
 

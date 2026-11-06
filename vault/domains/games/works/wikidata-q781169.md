@@ -13,7 +13,7 @@ wikidata_id: Q781169
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-08-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/213120/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q781169:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Transformers : La Chute de Cybertron
 
-**Transformers : La Chute de Cybertron** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q781169](https://www.wikidata.org/wiki/Q781169)).
+**Transformers : La Chute de Cybertron** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q781169` (Wikidata : [Q781169](https://www.wikidata.org/wiki/Q781169)).
 
 ## Audit de conformite structurelle
 

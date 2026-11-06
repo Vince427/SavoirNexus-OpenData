@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q3570925
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-07-06
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q3570925:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -101,7 +101,7 @@ observations:
 
 # Xenosaga Episode III: Also sprach Zarathustra
 
-**Xenosaga Episode III: Also sprach Zarathustra** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3570925](https://www.wikidata.org/wiki/Q3570925)).
+**Xenosaga Episode III: Also sprach Zarathustra** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3570925` (Wikidata : [Q3570925](https://www.wikidata.org/wiki/Q3570925)).
 
 ## Audit de conformite structurelle
 

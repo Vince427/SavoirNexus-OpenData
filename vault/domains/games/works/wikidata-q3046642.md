@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3046642
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-02-26
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q3046642:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Eat Lead: The Return of Matt Hazard
 
-**Eat Lead: The Return of Matt Hazard** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3046642](https://www.wikidata.org/wiki/Q3046642)).
+**Eat Lead: The Return of Matt Hazard** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3046642` (Wikidata : [Q3046642](https://www.wikidata.org/wiki/Q3046642)).
 
 ## Audit de conformite structurelle
 

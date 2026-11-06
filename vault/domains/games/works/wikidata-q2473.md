@@ -13,7 +13,7 @@ wikidata_id: Q2473
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15370/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q2473:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -103,7 +103,7 @@ observations:
 
 # Heroes of Might and Magic V: Tribes of the East
 
-**Heroes of Might and Magic V: Tribes of the East** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2473](https://www.wikidata.org/wiki/Q2473)).
+**Heroes of Might and Magic V: Tribes of the East** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2473` (Wikidata : [Q2473](https://www.wikidata.org/wiki/Q2473)).
 
 ## Audit de conformite structurelle
 

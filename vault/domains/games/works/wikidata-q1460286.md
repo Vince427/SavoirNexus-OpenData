@@ -13,7 +13,7 @@ wikidata_id: Q1460286
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-02-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/744050/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1460286:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Space Invaders Extreme
 
-**Space Invaders Extreme** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1460286](https://www.wikidata.org/wiki/Q1460286)).
+**Space Invaders Extreme** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1460286` (Wikidata : [Q1460286](https://www.wikidata.org/wiki/Q1460286)).
 
 ## Audit de conformite structurelle
 

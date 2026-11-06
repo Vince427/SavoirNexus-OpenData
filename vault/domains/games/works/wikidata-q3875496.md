@@ -13,7 +13,7 @@ wikidata_id: Q3875496
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-03-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/205840/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q3875496:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Yesterday
 
-**Yesterday** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3875496](https://www.wikidata.org/wiki/Q3875496)).
+**Yesterday** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3875496` (Wikidata : [Q3875496](https://www.wikidata.org/wiki/Q3875496)).
 
 ## Audit de conformite structurelle
 

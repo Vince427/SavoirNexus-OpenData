@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q933535
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-12-14
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q933535:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # Wild Arms 5
 
-**Wild Arms 5** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q933535](https://www.wikidata.org/wiki/Q933535)).
+**Wild Arms 5** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q933535` (Wikidata : [Q933535](https://www.wikidata.org/wiki/Q933535)).
 
 ## Audit de conformite structurelle
 

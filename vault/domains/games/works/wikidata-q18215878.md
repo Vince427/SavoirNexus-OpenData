@@ -13,7 +13,7 @@ wikidata_id: Q18215878
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-11-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332800/header.jpg"
-tags: [jeu, cataloged, adventure, horror, survival]
+tags: [jeu, audited, adventure, horror, survival]
 observations:
   - id: wikidata-q18215878:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Five Nights at Freddy's 2
 
-**Five Nights at Freddy's 2** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18215878](https://www.wikidata.org/wiki/Q18215878)).
+**Five Nights at Freddy's 2** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18215878` (Wikidata : [Q18215878](https://www.wikidata.org/wiki/Q18215878)).
 
 ## Audit de conformite structurelle
 

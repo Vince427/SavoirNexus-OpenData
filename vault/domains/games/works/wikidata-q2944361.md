@@ -13,7 +13,7 @@ wikidata_id: Q2944361
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-11-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1369760/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2944361:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Ninja Gaiden 3: Razor's Edge
 
-**Ninja Gaiden 3: Razor's Edge** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2944361](https://www.wikidata.org/wiki/Q2944361)).
+**Ninja Gaiden 3: Razor's Edge** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2944361` (Wikidata : [Q2944361](https://www.wikidata.org/wiki/Q2944361)).
 
 ## Audit de conformite structurelle
 

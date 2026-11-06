@@ -13,7 +13,7 @@ wikidata_id: Q911998
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-05-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/377670/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q911998:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # G Senjō no Maō
 
-**G Senjō no Maō** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q911998](https://www.wikidata.org/wiki/Q911998)).
+**G Senjō no Maō** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q911998` (Wikidata : [Q911998](https://www.wikidata.org/wiki/Q911998)).
 
 ## Audit de conformite structurelle
 

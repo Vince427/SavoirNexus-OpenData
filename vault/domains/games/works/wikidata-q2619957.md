@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2619957
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-06-11
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2619957:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Infinite Space
 
-**Infinite Space** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2619957](https://www.wikidata.org/wiki/Q2619957)).
+**Infinite Space** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2619957` (Wikidata : [Q2619957](https://www.wikidata.org/wiki/Q2619957)).
 
 ## Audit de conformite structurelle
 

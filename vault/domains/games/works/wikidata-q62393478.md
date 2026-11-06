@@ -13,7 +13,7 @@ wikidata_id: Q62393478
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-05-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/629820/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q62393478:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Maneater
 
-**Maneater** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q62393478](https://www.wikidata.org/wiki/Q62393478)).
+**Maneater** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q62393478` (Wikidata : [Q62393478](https://www.wikidata.org/wiki/Q62393478)).
 
 ## Audit de conformite structurelle
 

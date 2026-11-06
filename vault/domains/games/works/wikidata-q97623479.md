@@ -13,7 +13,7 @@ wikidata_id: Q97623479
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2021-03-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1341050/header.jpg"
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q97623479:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Balan Wonderworld
 
-**Balan Wonderworld** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q97623479](https://www.wikidata.org/wiki/Q97623479)).
+**Balan Wonderworld** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q97623479` (Wikidata : [Q97623479](https://www.wikidata.org/wiki/Q97623479)).
 
 ## Audit de conformite structurelle
 

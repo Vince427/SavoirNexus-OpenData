@@ -13,7 +13,7 @@ wikidata_id: Q16683155
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-04-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/251060/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q16683155:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Wargame: Red Dragon
 
-**Wargame: Red Dragon** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16683155](https://www.wikidata.org/wiki/Q16683155)).
+**Wargame: Red Dragon** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16683155` (Wikidata : [Q16683155](https://www.wikidata.org/wiki/Q16683155)).
 
 ## Audit de conformite structurelle
 

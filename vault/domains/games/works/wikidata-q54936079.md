@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q54936079
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-10-05
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q54936079:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -101,7 +101,7 @@ observations:
 
 # Super Mario Party
 
-**Super Mario Party** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q54936079](https://www.wikidata.org/wiki/Q54936079)).
+**Super Mario Party** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q54936079` (Wikidata : [Q54936079](https://www.wikidata.org/wiki/Q54936079)).
 
 ## Audit de conformite structurelle
 

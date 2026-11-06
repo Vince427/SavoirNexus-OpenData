@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q585939
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-11-21
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q585939:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Donkey Kong Country Returns
 
-**Donkey Kong Country Returns** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q585939](https://www.wikidata.org/wiki/Q585939)).
+**Donkey Kong Country Returns** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q585939` (Wikidata : [Q585939](https://www.wikidata.org/wiki/Q585939)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q16267865
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-10-06
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/330820/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q16267865:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # 2064: Read Only Memories
 
-**2064: Read Only Memories** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16267865](https://www.wikidata.org/wiki/Q16267865)).
+**2064: Read Only Memories** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16267865` (Wikidata : [Q16267865](https://www.wikidata.org/wiki/Q16267865)).
 
 ## Audit de conformite structurelle
 

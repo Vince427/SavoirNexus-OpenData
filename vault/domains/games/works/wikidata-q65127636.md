@@ -13,7 +13,7 @@ wikidata_id: Q65127636
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1003890/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q65127636:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Blacksad: Under the Skin
 
-**Blacksad: Under the Skin** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q65127636](https://www.wikidata.org/wiki/Q65127636)).
+**Blacksad: Under the Skin** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q65127636` (Wikidata : [Q65127636](https://www.wikidata.org/wiki/Q65127636)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q17378799
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-03-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/389730/header.jpg"
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q17378799:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Tekken 7
 
-**Tekken 7** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17378799](https://www.wikidata.org/wiki/Q17378799)).
+**Tekken 7** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17378799` (Wikidata : [Q17378799](https://www.wikidata.org/wiki/Q17378799)).
 
 ## Audit de conformite structurelle
 

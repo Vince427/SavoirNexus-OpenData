@@ -13,7 +13,7 @@ wikidata_id: Q17167727
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2023-04-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/934700/header.jpg"
-tags: [jeu, cataloged, action, horror, rpg, survival]
+tags: [jeu, audited, action, horror, rpg, survival]
 observations:
   - id: wikidata-q17167727:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Dead Island 2
 
-**Dead Island 2** est une oeuvre sortie initialement en 2023, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17167727](https://www.wikidata.org/wiki/Q17167727)).
+**Dead Island 2** est une oeuvre sortie initialement en 2023, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17167727` (Wikidata : [Q17167727](https://www.wikidata.org/wiki/Q17167727)).
 
 ## Audit de conformite structurelle
 

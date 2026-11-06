@@ -13,7 +13,7 @@ wikidata_id: Q758900
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-02-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12900/header.jpg"
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q758900:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Audiosurf
 
-**Audiosurf** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q758900](https://www.wikidata.org/wiki/Q758900)).
+**Audiosurf** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q758900` (Wikidata : [Q758900](https://www.wikidata.org/wiki/Q758900)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2089087
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-03-14
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q2089087:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Daxter
 
-**Daxter** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2089087](https://www.wikidata.org/wiki/Q2089087)).
+**Daxter** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2089087` (Wikidata : [Q2089087](https://www.wikidata.org/wiki/Q2089087)).
 
 ## Audit de conformite structurelle
 

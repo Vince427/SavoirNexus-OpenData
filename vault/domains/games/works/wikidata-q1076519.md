@@ -13,7 +13,7 @@ wikidata_id: Q1076519
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-09-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21970/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1076519:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # R.U.S.E.
 
-**R.U.S.E.** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1076519](https://www.wikidata.org/wiki/Q1076519)).
+**R.U.S.E.** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1076519` (Wikidata : [Q1076519](https://www.wikidata.org/wiki/Q1076519)).
 
 ## Audit de conformite structurelle
 

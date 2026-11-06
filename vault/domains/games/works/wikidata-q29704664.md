@@ -13,7 +13,7 @@ wikidata_id: Q29704664
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-11-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/606280/header.jpg"
-tags: [jeu, cataloged, action, adventure, hack-and-slash, rpg]
+tags: [jeu, audited, action, adventure, hack-and-slash, rpg]
 observations:
   - id: wikidata-q29704664:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Darksiders III
 
-**Darksiders III** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q29704664](https://www.wikidata.org/wiki/Q29704664)).
+**Darksiders III** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q29704664` (Wikidata : [Q29704664](https://www.wikidata.org/wiki/Q29704664)).
 
 ## Audit de conformite structurelle
 

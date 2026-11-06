@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q997548
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-03-13
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q997548:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # 12Riven
 
-**12Riven** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q997548](https://www.wikidata.org/wiki/Q997548)).
+**12Riven** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q997548` (Wikidata : [Q997548](https://www.wikidata.org/wiki/Q997548)).
 
 ## Audit de conformite structurelle
 

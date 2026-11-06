@@ -13,7 +13,7 @@ wikidata_id: Q5319170
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-02-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/278080/header.jpg"
-tags: [jeu, cataloged, hack-and-slash]
+tags: [jeu, audited, hack-and-slash]
 observations:
   - id: wikidata-q5319170:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Dynasty Warriors 8
 
-**Dynasty Warriors 8** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5319170](https://www.wikidata.org/wiki/Q5319170)).
+**Dynasty Warriors 8** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5319170` (Wikidata : [Q5319170](https://www.wikidata.org/wiki/Q5319170)).
 
 ## Audit de conformite structurelle
 

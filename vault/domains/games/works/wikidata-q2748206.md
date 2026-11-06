@@ -13,7 +13,7 @@ wikidata_id: Q2748206
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-06-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10520/header.jpg"
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2748206:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Pékin 2008
 
-**Pékin 2008** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2748206](https://www.wikidata.org/wiki/Q2748206)).
+**Pékin 2008** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2748206` (Wikidata : [Q2748206](https://www.wikidata.org/wiki/Q2748206)).
 
 ## Audit de conformite structurelle
 

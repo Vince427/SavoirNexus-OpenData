@@ -13,7 +13,7 @@ wikidata_id: Q4658471
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-10-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/105000/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q4658471:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # A New Beginning
 
-**A New Beginning** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4658471](https://www.wikidata.org/wiki/Q4658471)).
+**A New Beginning** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4658471` (Wikidata : [Q4658471](https://www.wikidata.org/wiki/Q4658471)).
 
 ## Audit de conformite structurelle
 

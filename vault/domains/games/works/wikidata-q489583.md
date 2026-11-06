@@ -13,7 +13,7 @@ wikidata_id: Q489583
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-04-02
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/18700/header.jpg"
-tags: [jeu, cataloged, platformer, puzzle]
+tags: [jeu, audited, platformer, puzzle]
 observations:
   - id: wikidata-q489583:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # And Yet It Moves
 
-**And Yet It Moves** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q489583](https://www.wikidata.org/wiki/Q489583)).
+**And Yet It Moves** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q489583` (Wikidata : [Q489583](https://www.wikidata.org/wiki/Q489583)).
 
 ## Audit de conformite structurelle
 

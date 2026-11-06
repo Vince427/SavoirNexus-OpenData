@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q13063856
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-11-13
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q13063856:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario Party : Island Tour
 
-**Mario Party : Island Tour** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q13063856](https://www.wikidata.org/wiki/Q13063856)).
+**Mario Party : Island Tour** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q13063856` (Wikidata : [Q13063856](https://www.wikidata.org/wiki/Q13063856)).
 
 ## Audit de conformite structurelle
 

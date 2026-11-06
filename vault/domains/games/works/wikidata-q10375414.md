@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q10375414
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-03-14
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q10375414:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Sword Art Online: Infinity Moment
 
-**Sword Art Online: Infinity Moment** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q10375414](https://www.wikidata.org/wiki/Q10375414)).
+**Sword Art Online: Infinity Moment** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q10375414` (Wikidata : [Q10375414](https://www.wikidata.org/wiki/Q10375414)).
 
 ## Audit de conformite structurelle
 

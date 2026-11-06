@@ -13,7 +13,7 @@ wikidata_id: Q1114167
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-03-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8190/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1114167:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Just Cause 2
 
-**Just Cause 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1114167](https://www.wikidata.org/wiki/Q1114167)).
+**Just Cause 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1114167` (Wikidata : [Q1114167](https://www.wikidata.org/wiki/Q1114167)).
 
 ## Audit de conformite structurelle
 

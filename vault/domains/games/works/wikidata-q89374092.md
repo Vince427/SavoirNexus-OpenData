@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q89374092
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-03-26
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q89374092:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -101,7 +101,7 @@ observations:
 
 # Good Job
 
-**Good Job** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q89374092](https://www.wikidata.org/wiki/Q89374092)).
+**Good Job** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q89374092` (Wikidata : [Q89374092](https://www.wikidata.org/wiki/Q89374092)).
 
 ## Audit de conformite structurelle
 

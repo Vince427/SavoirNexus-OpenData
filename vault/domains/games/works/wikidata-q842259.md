@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q842259
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-09-27
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q842259:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -102,7 +102,7 @@ observations:
 
 # FIFA 08
 
-**FIFA 08** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q842259](https://www.wikidata.org/wiki/Q842259)).
+**FIFA 08** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q842259` (Wikidata : [Q842259](https://www.wikidata.org/wiki/Q842259)).
 
 ## Audit de conformite structurelle
 

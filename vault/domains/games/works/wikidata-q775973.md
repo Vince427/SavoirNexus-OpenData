@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q775973
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-01-01
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q775973:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -101,7 +101,7 @@ observations:
 
 # Crash Bandicoot Nitro Kart 2
 
-**Crash Bandicoot Nitro Kart 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q775973](https://www.wikidata.org/wiki/Q775973)).
+**Crash Bandicoot Nitro Kart 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q775973` (Wikidata : [Q775973](https://www.wikidata.org/wiki/Q775973)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q6423001
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-09-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/57620/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q6423001:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Patrician IV
 
-**Patrician IV** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q6423001](https://www.wikidata.org/wiki/Q6423001)).
+**Patrician IV** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q6423001` (Wikidata : [Q6423001](https://www.wikidata.org/wiki/Q6423001)).
 
 ## Audit de conformite structurelle
 

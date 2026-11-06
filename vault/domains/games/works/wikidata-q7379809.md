@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q7379809
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-27
-tags: [jeu, cataloged, rpg, simulation]
+tags: [jeu, audited, rpg, simulation]
 observations:
   - id: wikidata-q7379809:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Rune Factory Frontier
 
-**Rune Factory Frontier** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q7379809](https://www.wikidata.org/wiki/Q7379809)).
+**Rune Factory Frontier** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q7379809` (Wikidata : [Q7379809](https://www.wikidata.org/wiki/Q7379809)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q2940422
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332260/header.jpg"
-tags: [jeu, cataloged, adventure, racing]
+tags: [jeu, audited, adventure, racing]
 observations:
   - id: wikidata-q2940422:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Cars : La Coupe internationale de Martin
 
-**Cars : La Coupe internationale de Martin** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2940422](https://www.wikidata.org/wiki/Q2940422)).
+**Cars : La Coupe internationale de Martin** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2940422` (Wikidata : [Q2940422](https://www.wikidata.org/wiki/Q2940422)).
 
 ## Audit de conformite structurelle
 

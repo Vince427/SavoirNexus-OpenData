@@ -13,7 +13,7 @@ wikidata_id: Q98708492
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-12-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1259790/header.jpg"
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q98708492:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Puyo Puyo Tetris 2
 
-**Puyo Puyo Tetris 2** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q98708492](https://www.wikidata.org/wiki/Q98708492)).
+**Puyo Puyo Tetris 2** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q98708492` (Wikidata : [Q98708492](https://www.wikidata.org/wiki/Q98708492)).
 
 ## Audit de conformite structurelle
 

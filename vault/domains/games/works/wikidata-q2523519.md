@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2523519
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-11-20
-tags: [jeu, cataloged, action, fighting, platformer]
+tags: [jeu, audited, action, fighting, platformer]
 observations:
   - id: wikidata-q2523519:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # PlayStation All-Stars Battle Royale
 
-**PlayStation All-Stars Battle Royale** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2523519](https://www.wikidata.org/wiki/Q2523519)).
+**PlayStation All-Stars Battle Royale** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2523519` (Wikidata : [Q2523519](https://www.wikidata.org/wiki/Q2523519)).
 
 ## Audit de conformite structurelle
 

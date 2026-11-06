@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1053024
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-13
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1053024:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Resident Evil: The Umbrella Chronicles
 
-**Resident Evil: The Umbrella Chronicles** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1053024](https://www.wikidata.org/wiki/Q1053024)).
+**Resident Evil: The Umbrella Chronicles** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1053024` (Wikidata : [Q1053024](https://www.wikidata.org/wiki/Q1053024)).
 
 ## Audit de conformite structurelle
 

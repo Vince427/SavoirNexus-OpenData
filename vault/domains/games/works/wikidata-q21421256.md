@@ -13,7 +13,7 @@ wikidata_id: Q21421256
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/438740/header.jpg"
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q21421256:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Friday the 13th, le jeu
 
-**Friday the 13th, le jeu** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q21421256](https://www.wikidata.org/wiki/Q21421256)).
+**Friday the 13th, le jeu** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q21421256` (Wikidata : [Q21421256](https://www.wikidata.org/wiki/Q21421256)).
 
 ## Audit de conformite structurelle
 

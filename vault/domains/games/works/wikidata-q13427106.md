@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q13427106
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-05-29
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q13427106:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario Kart 8
 
-**Mario Kart 8** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q13427106](https://www.wikidata.org/wiki/Q13427106)).
+**Mario Kart 8** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q13427106` (Wikidata : [Q13427106](https://www.wikidata.org/wiki/Q13427106)).
 
 ## Audit de conformite structurelle
 

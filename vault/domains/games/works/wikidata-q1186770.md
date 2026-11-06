@@ -13,7 +13,7 @@ wikidata_id: Q1186770
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-09-03
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15520/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q1186770:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -103,7 +103,7 @@ observations:
 
 # AaaaaAAaaaAAAaaAAAAaAAAAA!!! - A Reckless Disregard for Gravity
 
-**AaaaaAAaaaAAAaaAAAAaAAAAA!!! - A Reckless Disregard for Gravity** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1186770](https://www.wikidata.org/wiki/Q1186770)).
+**AaaaaAAaaaAAAaaAAAAaAAAAA!!! - A Reckless Disregard for Gravity** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1186770` (Wikidata : [Q1186770](https://www.wikidata.org/wiki/Q1186770)).
 
 ## Audit de conformite structurelle
 

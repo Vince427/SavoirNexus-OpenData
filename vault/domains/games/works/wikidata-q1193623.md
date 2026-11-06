@@ -13,7 +13,7 @@ wikidata_id: Q1193623
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-02-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15290/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1193623:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Lost : Les Disparus, le jeu vidéo
 
-**Lost : Les Disparus, le jeu vidéo** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1193623](https://www.wikidata.org/wiki/Q1193623)).
+**Lost : Les Disparus, le jeu vidéo** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1193623` (Wikidata : [Q1193623](https://www.wikidata.org/wiki/Q1193623)).
 
 ## Audit de conformite structurelle
 

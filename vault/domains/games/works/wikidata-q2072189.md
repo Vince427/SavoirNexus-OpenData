@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q2072189
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-10-01
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q2072189:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -101,7 +101,7 @@ observations:
 
 # Sonic Free Riders
 
-**Sonic Free Riders** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2072189](https://www.wikidata.org/wiki/Q2072189)).
+**Sonic Free Riders** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2072189` (Wikidata : [Q2072189](https://www.wikidata.org/wiki/Q2072189)).
 
 ## Audit de conformite structurelle
 

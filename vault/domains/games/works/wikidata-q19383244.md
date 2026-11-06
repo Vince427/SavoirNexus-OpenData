@@ -13,7 +13,7 @@ wikidata_id: Q19383244
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-02-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/481510/header.jpg"
-tags: [jeu, cataloged, adventure, simulation]
+tags: [jeu, audited, adventure, simulation]
 observations:
   - id: wikidata-q19383244:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Night in the Woods
 
-**Night in the Woods** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q19383244](https://www.wikidata.org/wiki/Q19383244)).
+**Night in the Woods** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q19383244` (Wikidata : [Q19383244](https://www.wikidata.org/wiki/Q19383244)).
 
 ## Audit de conformite structurelle
 

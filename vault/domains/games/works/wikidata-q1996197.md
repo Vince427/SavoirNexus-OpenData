@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1996197
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-03-02
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1996197:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Le Seigneur des anneaux : La Bataille pour la Terre du Milieu II
 
-**Le Seigneur des anneaux : La Bataille pour la Terre du Milieu II** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1996197](https://www.wikidata.org/wiki/Q1996197)).
+**Le Seigneur des anneaux : La Bataille pour la Terre du Milieu II** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1996197` (Wikidata : [Q1996197](https://www.wikidata.org/wiki/Q1996197)).
 
 ## Audit de conformite structurelle
 

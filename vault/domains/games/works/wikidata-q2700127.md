@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2700127
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-05-26
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q2700127:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Pandora's Tower
 
-**Pandora's Tower** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2700127](https://www.wikidata.org/wiki/Q2700127)).
+**Pandora's Tower** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2700127` (Wikidata : [Q2700127](https://www.wikidata.org/wiki/Q2700127)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q19962722
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-01-01
-tags: [jeu, cataloged, roguelike]
+tags: [jeu, audited, roguelike]
 observations:
   - id: wikidata-q19962722:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Pokémon Méga Donjon Mystère
 
-**Pokémon Méga Donjon Mystère** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q19962722](https://www.wikidata.org/wiki/Q19962722)).
+**Pokémon Méga Donjon Mystère** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q19962722` (Wikidata : [Q19962722](https://www.wikidata.org/wiki/Q19962722)).
 
 ## Audit de conformite structurelle
 

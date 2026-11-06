@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q984024
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-07-08
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q984024:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # Fable 2
 
-**Fable 2** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q984024](https://www.wikidata.org/wiki/Q984024)).
+**Fable 2** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q984024` (Wikidata : [Q984024](https://www.wikidata.org/wiki/Q984024)).
 
 ## Audit de conformite structurelle
 

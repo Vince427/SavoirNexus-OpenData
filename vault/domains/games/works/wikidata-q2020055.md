@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q2020055
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-08-29
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2020055:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # Saints Row
 
-**Saints Row** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2020055](https://www.wikidata.org/wiki/Q2020055)).
+**Saints Row** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2020055` (Wikidata : [Q2020055](https://www.wikidata.org/wiki/Q2020055)).
 
 ## Audit de conformite structurelle
 

@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q57450502
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-10-02
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q57450502:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -101,7 +101,7 @@ observations:
 
 # Astro Bot Rescue Mission
 
-**Astro Bot Rescue Mission** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q57450502](https://www.wikidata.org/wiki/Q57450502)).
+**Astro Bot Rescue Mission** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q57450502` (Wikidata : [Q57450502](https://www.wikidata.org/wiki/Q57450502)).
 
 ## Audit de conformite structurelle
 

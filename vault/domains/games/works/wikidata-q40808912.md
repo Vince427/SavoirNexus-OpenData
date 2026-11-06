@@ -13,7 +13,7 @@ wikidata_id: Q40808912
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/714370/header.jpg"
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q40808912:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Left Alive
 
-**Left Alive** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q40808912](https://www.wikidata.org/wiki/Q40808912)).
+**Left Alive** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q40808912` (Wikidata : [Q40808912](https://www.wikidata.org/wiki/Q40808912)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1188554
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-02-14
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1188554:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Age of Empires: The Age of Kings
 
-**Age of Empires: The Age of Kings** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1188554](https://www.wikidata.org/wiki/Q1188554)).
+**Age of Empires: The Age of Kings** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1188554` (Wikidata : [Q1188554](https://www.wikidata.org/wiki/Q1188554)).
 
 ## Audit de conformite structurelle
 

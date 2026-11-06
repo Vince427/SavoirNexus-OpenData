@@ -13,7 +13,7 @@ wikidata_id: Q56120553
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-08-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/792100/header.jpg"
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q56120553:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # 7 Billion Humans
 
-**7 Billion Humans** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q56120553](https://www.wikidata.org/wiki/Q56120553)).
+**7 Billion Humans** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q56120553` (Wikidata : [Q56120553](https://www.wikidata.org/wiki/Q56120553)).
 
 ## Audit de conformite structurelle
 

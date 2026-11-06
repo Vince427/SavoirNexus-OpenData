@@ -13,7 +13,7 @@ wikidata_id: Q973159
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-08-02
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/105400/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q973159:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Fable 3
 
-**Fable 3** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q973159](https://www.wikidata.org/wiki/Q973159)).
+**Fable 3** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q973159` (Wikidata : [Q973159](https://www.wikidata.org/wiki/Q973159)).
 
 ## Audit de conformite structurelle
 

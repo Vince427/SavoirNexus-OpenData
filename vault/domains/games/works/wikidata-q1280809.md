@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1280809
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-03-19
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q1280809:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # echochrome
 
-**echochrome** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1280809](https://www.wikidata.org/wiki/Q1280809)).
+**echochrome** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1280809` (Wikidata : [Q1280809](https://www.wikidata.org/wiki/Q1280809)).
 
 ## Audit de conformite structurelle
 

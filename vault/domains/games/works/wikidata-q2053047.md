@@ -13,7 +13,7 @@ wikidata_id: Q2053047
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-09-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/98400/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2053047:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Hard Reset
 
-**Hard Reset** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2053047](https://www.wikidata.org/wiki/Q2053047)).
+**Hard Reset** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2053047` (Wikidata : [Q2053047](https://www.wikidata.org/wiki/Q2053047)).
 
 ## Audit de conformite structurelle
 

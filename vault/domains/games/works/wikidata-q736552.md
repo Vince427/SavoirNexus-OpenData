@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q736552
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-10-25
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q736552:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dragon Ball Z: Ultimate Tenkaichi
 
-**Dragon Ball Z: Ultimate Tenkaichi** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q736552](https://www.wikidata.org/wiki/Q736552)).
+**Dragon Ball Z: Ultimate Tenkaichi** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q736552` (Wikidata : [Q736552](https://www.wikidata.org/wiki/Q736552)).
 
 ## Audit de conformite structurelle
 

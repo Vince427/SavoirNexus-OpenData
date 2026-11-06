@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q21170302
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-11-17
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q21170302:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ni no kuni : La Vengeance de la sorcière céleste
 
-**Ni no kuni : La Vengeance de la sorcière céleste** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q21170302](https://www.wikidata.org/wiki/Q21170302)).
+**Ni no kuni : La Vengeance de la sorcière céleste** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q21170302` (Wikidata : [Q21170302](https://www.wikidata.org/wiki/Q21170302)).
 
 ## Audit de conformite structurelle
 

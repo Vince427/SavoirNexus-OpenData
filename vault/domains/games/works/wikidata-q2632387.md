@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2632387
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-09-24
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2632387:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dead Space: Extraction
 
-**Dead Space: Extraction** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2632387](https://www.wikidata.org/wiki/Q2632387)).
+**Dead Space: Extraction** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2632387` (Wikidata : [Q2632387](https://www.wikidata.org/wiki/Q2632387)).
 
 ## Audit de conformite structurelle
 

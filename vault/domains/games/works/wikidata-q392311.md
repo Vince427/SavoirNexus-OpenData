@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q392311
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-06
-tags: [jeu, cataloged, action, adventure, horror, survival]
+tags: [jeu, audited, action, adventure, horror, survival]
 observations:
   - id: wikidata-q392311:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Saw
 
-**Saw** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q392311](https://www.wikidata.org/wiki/Q392311)).
+**Saw** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q392311` (Wikidata : [Q392311](https://www.wikidata.org/wiki/Q392311)).
 
 ## Audit de conformite structurelle
 

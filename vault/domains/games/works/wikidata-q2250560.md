@@ -13,7 +13,7 @@ wikidata_id: Q2250560
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-03-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8170/header.jpg"
-tags: [jeu, cataloged, action, strategy]
+tags: [jeu, audited, action, strategy]
 observations:
   - id: wikidata-q2250560:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Battlestations: Pacific
 
-**Battlestations: Pacific** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2250560](https://www.wikidata.org/wiki/Q2250560)).
+**Battlestations: Pacific** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2250560` (Wikidata : [Q2250560](https://www.wikidata.org/wiki/Q2250560)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q262897
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-04-26
-tags: [jeu, cataloged, action, adventure, fighting]
+tags: [jeu, audited, action, adventure, fighting]
 observations:
   - id: wikidata-q262897:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # One Piece: Unlimited Adventure
 
-**One Piece: Unlimited Adventure** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q262897](https://www.wikidata.org/wiki/Q262897)).
+**One Piece: Unlimited Adventure** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q262897` (Wikidata : [Q262897](https://www.wikidata.org/wiki/Q262897)).
 
 ## Audit de conformite structurelle
 

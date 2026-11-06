@@ -13,7 +13,7 @@ wikidata_id: Q3532690
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-03-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201271/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q3532690:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -103,7 +103,7 @@ observations:
 
 # Total War: Shogun 2 - La Fin des samouraïs
 
-**Total War: Shogun 2 - La Fin des samouraïs** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3532690](https://www.wikidata.org/wiki/Q3532690)).
+**Total War: Shogun 2 - La Fin des samouraïs** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3532690` (Wikidata : [Q3532690](https://www.wikidata.org/wiki/Q3532690)).
 
 ## Audit de conformite structurelle
 

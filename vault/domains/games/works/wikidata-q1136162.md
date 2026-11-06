@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1136162
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-09-09
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q1136162:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # TNA Impact!
 
-**TNA Impact!** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1136162](https://www.wikidata.org/wiki/Q1136162)).
+**TNA Impact!** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1136162` (Wikidata : [Q1136162](https://www.wikidata.org/wiki/Q1136162)).
 
 ## Audit de conformite structurelle
 

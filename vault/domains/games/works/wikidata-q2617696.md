@@ -13,7 +13,7 @@ wikidata_id: Q2617696
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-03-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/209830/header.jpg"
-tags: [jeu, cataloged, horror]
+tags: [jeu, audited, horror]
 observations:
   - id: wikidata-q2617696:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Lone Survivor
 
-**Lone Survivor** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2617696](https://www.wikidata.org/wiki/Q2617696)).
+**Lone Survivor** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2617696` (Wikidata : [Q2617696](https://www.wikidata.org/wiki/Q2617696)).
 
 ## Audit de conformite structurelle
 

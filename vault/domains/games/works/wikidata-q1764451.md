@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1764451
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-26
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q1764451:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -102,7 +102,7 @@ observations:
 
 # Pro Evolution Soccer 2008
 
-**Pro Evolution Soccer 2008** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1764451](https://www.wikidata.org/wiki/Q1764451)).
+**Pro Evolution Soccer 2008** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1764451` (Wikidata : [Q1764451](https://www.wikidata.org/wiki/Q1764451)).
 
 ## Audit de conformite structurelle
 

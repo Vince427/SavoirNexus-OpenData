@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q284928
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-04-14
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q284928:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # flOw
 
-**flOw** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q284928](https://www.wikidata.org/wiki/Q284928)).
+**flOw** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q284928` (Wikidata : [Q284928](https://www.wikidata.org/wiki/Q284928)).
 
 ## Audit de conformite structurelle
 

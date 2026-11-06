@@ -13,7 +13,7 @@ wikidata_id: Q15725907
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-01-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/94400/header.jpg"
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q15725907:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Nidhogg
 
-**Nidhogg** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15725907](https://www.wikidata.org/wiki/Q15725907)).
+**Nidhogg** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15725907` (Wikidata : [Q15725907](https://www.wikidata.org/wiki/Q15725907)).
 
 ## Audit de conformite structurelle
 

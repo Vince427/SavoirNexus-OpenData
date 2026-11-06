@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q18636518
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-03-12
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q18636518:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Digimon Story: Cyber Sleuth
 
-**Digimon Story: Cyber Sleuth** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18636518](https://www.wikidata.org/wiki/Q18636518)).
+**Digimon Story: Cyber Sleuth** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18636518` (Wikidata : [Q18636518](https://www.wikidata.org/wiki/Q18636518)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q538821
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-02-19
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1282690/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q538821:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Crysis 3
 
-**Crysis 3** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q538821](https://www.wikidata.org/wiki/Q538821)).
+**Crysis 3** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q538821` (Wikidata : [Q538821](https://www.wikidata.org/wiki/Q538821)).
 
 ## Audit de conformite structurelle
 

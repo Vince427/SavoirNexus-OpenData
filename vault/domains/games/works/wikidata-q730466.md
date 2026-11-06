@@ -13,7 +13,7 @@ wikidata_id: Q730466
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-09-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1580790/header.jpg"
-tags: [jeu, cataloged, action, adventure, hack-and-slash]
+tags: [jeu, audited, action, adventure, hack-and-slash]
 observations:
   - id: wikidata-q730466:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Ninja Gaiden Sigma 2
 
-**Ninja Gaiden Sigma 2** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q730466](https://www.wikidata.org/wiki/Q730466)).
+**Ninja Gaiden Sigma 2** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q730466` (Wikidata : [Q730466](https://www.wikidata.org/wiki/Q730466)).
 
 ## Audit de conformite structurelle
 

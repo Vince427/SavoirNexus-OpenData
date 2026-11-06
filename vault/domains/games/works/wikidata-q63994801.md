@@ -13,7 +13,7 @@ wikidata_id: Q63994801
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-11-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1492680/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q63994801:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # The Pathless
 
-**The Pathless** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q63994801](https://www.wikidata.org/wiki/Q63994801)).
+**The Pathless** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q63994801` (Wikidata : [Q63994801](https://www.wikidata.org/wiki/Q63994801)).
 
 ## Audit de conformite structurelle
 

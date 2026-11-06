@@ -13,7 +13,7 @@ wikidata_id: Q766612
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-04-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/23420/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q766612:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Europa Universalis : Rome
 
-**Europa Universalis : Rome** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q766612](https://www.wikidata.org/wiki/Q766612)).
+**Europa Universalis : Rome** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q766612` (Wikidata : [Q766612](https://www.wikidata.org/wiki/Q766612)).
 
 ## Audit de conformite structurelle
 

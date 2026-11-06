@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1370646
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-08
-tags: [jeu, cataloged, board-game]
+tags: [jeu, audited, board-game]
 observations:
   - id: wikidata-q1370646:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Chess Titans
 
-**Chess Titans** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1370646](https://www.wikidata.org/wiki/Q1370646)).
+**Chess Titans** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1370646` (Wikidata : [Q1370646](https://www.wikidata.org/wiki/Q1370646)).
 
 ## Audit de conformite structurelle
 

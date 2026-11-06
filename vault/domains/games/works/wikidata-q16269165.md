@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q16269165
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-04-18
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q16269165:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Tomodachi Life
 
-**Tomodachi Life** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16269165](https://www.wikidata.org/wiki/Q16269165)).
+**Tomodachi Life** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16269165` (Wikidata : [Q16269165](https://www.wikidata.org/wiki/Q16269165)).
 
 ## Audit de conformite structurelle
 

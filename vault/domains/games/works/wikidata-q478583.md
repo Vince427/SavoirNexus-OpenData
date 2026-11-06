@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q478583
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-06-26
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q478583:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -102,7 +102,7 @@ observations:
 
 # Londres 2012
 
-**Londres 2012** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q478583](https://www.wikidata.org/wiki/Q478583)).
+**Londres 2012** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q478583` (Wikidata : [Q478583](https://www.wikidata.org/wiki/Q478583)).
 
 ## Audit de conformite structurelle
 

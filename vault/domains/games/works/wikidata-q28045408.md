@@ -13,7 +13,7 @@ wikidata_id: Q28045408
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-08-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/474750/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q28045408:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Reigns
 
-**Reigns** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28045408](https://www.wikidata.org/wiki/Q28045408)).
+**Reigns** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28045408` (Wikidata : [Q28045408](https://www.wikidata.org/wiki/Q28045408)).
 
 ## Audit de conformite structurelle
 

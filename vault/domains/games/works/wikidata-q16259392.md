@@ -13,7 +13,7 @@ wikidata_id: Q16259392
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-03-09
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/251290/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q16259392:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Legend of Heroes: Trails in the Sky Second Chapter
 
-**The Legend of Heroes: Trails in the Sky Second Chapter** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16259392](https://www.wikidata.org/wiki/Q16259392)).
+**The Legend of Heroes: Trails in the Sky Second Chapter** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16259392` (Wikidata : [Q16259392](https://www.wikidata.org/wiki/Q16259392)).
 
 ## Audit de conformite structurelle
 

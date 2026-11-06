@@ -13,7 +13,7 @@ wikidata_id: Q56027827
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2022-07-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/871980/header.jpg"
-tags: [jeu, cataloged, adventure, rpg, survival]
+tags: [jeu, audited, adventure, rpg, survival]
 observations:
   - id: wikidata-q56027827:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Digimon Survive
 
-**Digimon Survive** est une oeuvre sortie initialement en 2022, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q56027827](https://www.wikidata.org/wiki/Q56027827)).
+**Digimon Survive** est une oeuvre sortie initialement en 2022, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q56027827` (Wikidata : [Q56027827](https://www.wikidata.org/wiki/Q56027827)).
 
 ## Audit de conformite structurelle
 

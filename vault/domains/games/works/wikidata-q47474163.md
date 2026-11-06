@@ -13,7 +13,7 @@ wikidata_id: Q47474163
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2025-06-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/513710/header.jpg"
-tags: [jeu, cataloged, survival]
+tags: [jeu, audited, survival]
 observations:
   - id: wikidata-q47474163:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # SCUM
 
-**SCUM** est une oeuvre sortie initialement en 2025, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q47474163](https://www.wikidata.org/wiki/Q47474163)).
+**SCUM** est une oeuvre sortie initialement en 2025, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q47474163` (Wikidata : [Q47474163](https://www.wikidata.org/wiki/Q47474163)).
 
 ## Audit de conformite structurelle
 

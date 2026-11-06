@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q96357198
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2021-04-30
-tags: [jeu, cataloged, shooter, simulation]
+tags: [jeu, audited, shooter, simulation]
 observations:
   - id: wikidata-q96357198:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -101,7 +101,7 @@ observations:
 
 # New Pokémon Snap
 
-**New Pokémon Snap** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q96357198](https://www.wikidata.org/wiki/Q96357198)).
+**New Pokémon Snap** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q96357198` (Wikidata : [Q96357198](https://www.wikidata.org/wiki/Q96357198)).
 
 ## Audit de conformite structurelle
 

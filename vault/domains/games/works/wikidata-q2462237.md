@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2462237
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-03-23
-tags: [jeu, cataloged, action, hack-and-slash]
+tags: [jeu, audited, action, hack-and-slash]
 observations:
   - id: wikidata-q2462237:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dynasty Warriors Vol. 2
 
-**Dynasty Warriors Vol. 2** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2462237](https://www.wikidata.org/wiki/Q2462237)).
+**Dynasty Warriors Vol. 2** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2462237` (Wikidata : [Q2462237](https://www.wikidata.org/wiki/Q2462237)).
 
 ## Audit de conformite structurelle
 

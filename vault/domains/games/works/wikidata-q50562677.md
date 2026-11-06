@@ -13,7 +13,7 @@ wikidata_id: Q50562677
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-09-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/750920/header.jpg"
-tags: [jeu, cataloged, action, adventure, platformer, rpg]
+tags: [jeu, audited, action, adventure, platformer, rpg]
 observations:
   - id: wikidata-q50562677:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Shadow of the Tomb Raider
 
-**Shadow of the Tomb Raider** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q50562677](https://www.wikidata.org/wiki/Q50562677)).
+**Shadow of the Tomb Raider** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q50562677` (Wikidata : [Q50562677](https://www.wikidata.org/wiki/Q50562677)).
 
 ## Audit de conformite structurelle
 

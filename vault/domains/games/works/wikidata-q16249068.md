@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q16249068
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-08-01
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q16249068:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Disney Magical World
 
-**Disney Magical World** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16249068](https://www.wikidata.org/wiki/Q16249068)).
+**Disney Magical World** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16249068` (Wikidata : [Q16249068](https://www.wikidata.org/wiki/Q16249068)).
 
 ## Audit de conformite structurelle
 

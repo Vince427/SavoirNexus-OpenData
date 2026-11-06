@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1060037
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-05-25
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q1060037:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario Strikers Charged Football
 
-**Mario Strikers Charged Football** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1060037](https://www.wikidata.org/wiki/Q1060037)).
+**Mario Strikers Charged Football** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1060037` (Wikidata : [Q1060037](https://www.wikidata.org/wiki/Q1060037)).
 
 ## Audit de conformite structurelle
 

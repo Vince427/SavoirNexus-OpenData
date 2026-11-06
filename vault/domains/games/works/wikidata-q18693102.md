@@ -13,7 +13,7 @@ wikidata_id: Q18693102
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-03-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/300060/header.jpg"
-tags: [jeu, cataloged, adventure, shooter, simulation]
+tags: [jeu, audited, adventure, shooter, simulation]
 observations:
   - id: wikidata-q18693102:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Adrift
 
-**Adrift** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18693102](https://www.wikidata.org/wiki/Q18693102)).
+**Adrift** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18693102` (Wikidata : [Q18693102](https://www.wikidata.org/wiki/Q18693102)).
 
 ## Audit de conformite structurelle
 

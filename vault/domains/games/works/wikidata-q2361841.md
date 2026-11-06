@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2361841
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-14
-tags: [jeu, cataloged, action, adventure, hack-and-slash]
+tags: [jeu, audited, action, adventure, hack-and-slash]
 observations:
   - id: wikidata-q2361841:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -102,7 +102,7 @@ observations:
 
 # Eragon
 
-**Eragon** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2361841](https://www.wikidata.org/wiki/Q2361841)).
+**Eragon** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2361841` (Wikidata : [Q2361841](https://www.wikidata.org/wiki/Q2361841)).
 
 ## Audit de conformite structurelle
 

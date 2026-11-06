@@ -13,7 +13,7 @@ wikidata_id: Q65040590
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-10-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1142390/header.jpg"
-tags: [jeu, cataloged, adventure, horror, survival]
+tags: [jeu, audited, adventure, horror, survival]
 observations:
   - id: wikidata-q65040590:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Remothered: Broken Porcelain
 
-**Remothered: Broken Porcelain** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q65040590](https://www.wikidata.org/wiki/Q65040590)).
+**Remothered: Broken Porcelain** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q65040590` (Wikidata : [Q65040590](https://www.wikidata.org/wiki/Q65040590)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q615883
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-05-10
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22350/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q615883:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Brink
 
-**Brink** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q615883](https://www.wikidata.org/wiki/Q615883)).
+**Brink** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q615883` (Wikidata : [Q615883](https://www.wikidata.org/wiki/Q615883)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q4189928
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-08-05
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q4189928:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Teenage Mutant Ninja Turtles: Turtles in Time Re-Shelled
 
-**Teenage Mutant Ninja Turtles: Turtles in Time Re-Shelled** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4189928](https://www.wikidata.org/wiki/Q4189928)).
+**Teenage Mutant Ninja Turtles: Turtles in Time Re-Shelled** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4189928` (Wikidata : [Q4189928](https://www.wikidata.org/wiki/Q4189928)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q19749315
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-01-01
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q19749315:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Animal Crossing: Happy Home Designer
 
-**Animal Crossing: Happy Home Designer** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q19749315](https://www.wikidata.org/wiki/Q19749315)).
+**Animal Crossing: Happy Home Designer** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q19749315` (Wikidata : [Q19749315](https://www.wikidata.org/wiki/Q19749315)).
 
 ## Audit de conformite structurelle
 

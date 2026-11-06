@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2436570
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-01-08
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2436570:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Army of Two : Le 40e Jour
 
-**Army of Two : Le 40e Jour** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2436570](https://www.wikidata.org/wiki/Q2436570)).
+**Army of Two : Le 40e Jour** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2436570` (Wikidata : [Q2436570](https://www.wikidata.org/wiki/Q2436570)).
 
 ## Audit de conformite structurelle
 

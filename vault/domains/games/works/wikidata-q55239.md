@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q55239
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-09-11
-tags: [jeu, cataloged, action, adventure, platformer]
+tags: [jeu, audited, action, adventure, platformer]
 observations:
   - id: wikidata-q55239:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -102,7 +102,7 @@ observations:
 
 # Lego Star Wars II : La Trilogie originale
 
-**Lego Star Wars II : La Trilogie originale** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q55239](https://www.wikidata.org/wiki/Q55239)).
+**Lego Star Wars II : La Trilogie originale** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q55239` (Wikidata : [Q55239](https://www.wikidata.org/wiki/Q55239)).
 
 ## Audit de conformite structurelle
 

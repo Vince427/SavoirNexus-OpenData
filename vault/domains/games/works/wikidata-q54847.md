@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q54847
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-11
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q54847:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Star Wars: The Clone Wars - Duels au sabre laser
 
-**Star Wars: The Clone Wars - Duels au sabre laser** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q54847](https://www.wikidata.org/wiki/Q54847)).
+**Star Wars: The Clone Wars - Duels au sabre laser** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q54847` (Wikidata : [Q54847](https://www.wikidata.org/wiki/Q54847)).
 
 ## Audit de conformite structurelle
 

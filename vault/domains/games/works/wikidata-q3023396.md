@@ -13,7 +13,7 @@ wikidata_id: Q3023396
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-07-31
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/105800/header.jpg"
-tags: [jeu, cataloged, platformer, puzzle]
+tags: [jeu, audited, platformer, puzzle]
 observations:
   - id: wikidata-q3023396:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # PixelJunk Eden
 
-**PixelJunk Eden** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3023396](https://www.wikidata.org/wiki/Q3023396)).
+**PixelJunk Eden** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3023396` (Wikidata : [Q3023396](https://www.wikidata.org/wiki/Q3023396)).
 
 ## Audit de conformite structurelle
 

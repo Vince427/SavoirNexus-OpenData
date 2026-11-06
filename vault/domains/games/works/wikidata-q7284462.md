@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q7284462
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-10-01
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q7284462:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Rain
 
-**Rain** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q7284462](https://www.wikidata.org/wiki/Q7284462)).
+**Rain** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q7284462` (Wikidata : [Q7284462](https://www.wikidata.org/wiki/Q7284462)).
 
 ## Audit de conformite structurelle
 

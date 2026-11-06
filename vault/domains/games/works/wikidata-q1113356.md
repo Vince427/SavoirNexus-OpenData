@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1113356
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-06-23
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1113356:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Atelier Meruru: The Apprentice of Arland
 
-**Atelier Meruru: The Apprentice of Arland** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1113356](https://www.wikidata.org/wiki/Q1113356)).
+**Atelier Meruru: The Apprentice of Arland** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1113356` (Wikidata : [Q1113356](https://www.wikidata.org/wiki/Q1113356)).
 
 ## Audit de conformite structurelle
 

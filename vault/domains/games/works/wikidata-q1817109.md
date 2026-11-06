@@ -13,7 +13,7 @@ wikidata_id: Q1817109
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-09-04
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/338140/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1817109:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Venetica
 
-**Venetica** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1817109](https://www.wikidata.org/wiki/Q1817109)).
+**Venetica** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1817109` (Wikidata : [Q1817109](https://www.wikidata.org/wiki/Q1817109)).
 
 ## Audit de conformite structurelle
 

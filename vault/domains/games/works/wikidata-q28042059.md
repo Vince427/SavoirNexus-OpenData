@@ -13,7 +13,7 @@ wikidata_id: Q28042059
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-03-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/691690/header.jpg"
-tags: [jeu, cataloged, adventure, strategy]
+tags: [jeu, audited, adventure, strategy]
 observations:
   - id: wikidata-q28042059:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Ash of Gods : Redemption
 
-**Ash of Gods : Redemption** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28042059](https://www.wikidata.org/wiki/Q28042059)).
+**Ash of Gods : Redemption** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28042059` (Wikidata : [Q28042059](https://www.wikidata.org/wiki/Q28042059)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q38904048
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-09-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/614570/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q38904048:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Dishonored : La Mort de l'Outsider
 
-**Dishonored : La Mort de l'Outsider** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q38904048](https://www.wikidata.org/wiki/Q38904048)).
+**Dishonored : La Mort de l'Outsider** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q38904048` (Wikidata : [Q38904048](https://www.wikidata.org/wiki/Q38904048)).
 
 ## Audit de conformite structurelle
 

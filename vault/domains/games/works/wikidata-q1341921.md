@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1341921
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-03-04
-tags: [jeu, cataloged, action, hack-and-slash]
+tags: [jeu, audited, action, hack-and-slash]
 observations:
   - id: wikidata-q1341921:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # God of War: Chains of Olympus
 
-**God of War: Chains of Olympus** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1341921](https://www.wikidata.org/wiki/Q1341921)).
+**God of War: Chains of Olympus** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1341921` (Wikidata : [Q1341921](https://www.wikidata.org/wiki/Q1341921)).
 
 ## Audit de conformite structurelle
 

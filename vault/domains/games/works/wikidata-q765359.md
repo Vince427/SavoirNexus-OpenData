@@ -13,7 +13,7 @@ wikidata_id: Q765359
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-04-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11190/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q765359:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Sherlock Holmes contre Jack l'Éventreur
 
-**Sherlock Holmes contre Jack l'Éventreur** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q765359](https://www.wikidata.org/wiki/Q765359)).
+**Sherlock Holmes contre Jack l'Éventreur** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q765359` (Wikidata : [Q765359](https://www.wikidata.org/wiki/Q765359)).
 
 ## Audit de conformite structurelle
 

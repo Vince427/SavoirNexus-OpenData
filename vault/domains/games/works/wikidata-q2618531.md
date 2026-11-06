@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2618531
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-03-26
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2618531:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -102,7 +102,7 @@ observations:
 
 # Prison Break: The Conspiracy
 
-**Prison Break: The Conspiracy** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2618531](https://www.wikidata.org/wiki/Q2618531)).
+**Prison Break: The Conspiracy** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2618531` (Wikidata : [Q2618531](https://www.wikidata.org/wiki/Q2618531)).
 
 ## Audit de conformite structurelle
 

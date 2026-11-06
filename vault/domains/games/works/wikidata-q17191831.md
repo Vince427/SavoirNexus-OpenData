@@ -13,7 +13,7 @@ wikidata_id: Q17191831
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-08-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/388800/header.jpg"
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q17191831:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Azure Striker Gunvolt
 
-**Azure Striker Gunvolt** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17191831](https://www.wikidata.org/wiki/Q17191831)).
+**Azure Striker Gunvolt** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17191831` (Wikidata : [Q17191831](https://www.wikidata.org/wiki/Q17191831)).
 
 ## Audit de conformite structurelle
 

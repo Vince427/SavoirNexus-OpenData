@@ -13,7 +13,7 @@ wikidata_id: Q790423
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46410/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q790423:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Avencast: Rise of the Mage
 
-**Avencast: Rise of the Mage** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q790423](https://www.wikidata.org/wiki/Q790423)).
+**Avencast: Rise of the Mage** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q790423` (Wikidata : [Q790423](https://www.wikidata.org/wiki/Q790423)).
 
 ## Audit de conformite structurelle
 

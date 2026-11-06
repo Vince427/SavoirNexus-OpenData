@@ -13,7 +13,7 @@ wikidata_id: Q17007953
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-11-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/313690/header.jpg"
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q17007953:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Lego Batman 3 : Au-delà de Gotham
 
-**Lego Batman 3 : Au-delà de Gotham** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17007953](https://www.wikidata.org/wiki/Q17007953)).
+**Lego Batman 3 : Au-delà de Gotham** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17007953` (Wikidata : [Q17007953](https://www.wikidata.org/wiki/Q17007953)).
 
 ## Audit de conformite structurelle
 

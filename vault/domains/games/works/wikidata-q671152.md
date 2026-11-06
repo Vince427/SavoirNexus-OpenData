@@ -13,7 +13,7 @@ wikidata_id: Q671152
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-03-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/108800/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q671152:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Crysis 2
 
-**Crysis 2** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q671152](https://www.wikidata.org/wiki/Q671152)).
+**Crysis 2** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q671152` (Wikidata : [Q671152](https://www.wikidata.org/wiki/Q671152)).
 
 ## Audit de conformite structurelle
 

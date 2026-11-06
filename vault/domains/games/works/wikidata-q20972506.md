@@ -13,7 +13,7 @@ wikidata_id: Q20972506
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/567640/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q20972506:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Danganronpa V3 : Killing Harmony
 
-**Danganronpa V3 : Killing Harmony** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20972506](https://www.wikidata.org/wiki/Q20972506)).
+**Danganronpa V3 : Killing Harmony** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20972506` (Wikidata : [Q20972506](https://www.wikidata.org/wiki/Q20972506)).
 
 ## Audit de conformite structurelle
 

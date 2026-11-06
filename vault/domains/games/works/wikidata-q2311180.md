@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2311180
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-07-30
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q2311180:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Fat Princess
 
-**Fat Princess** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2311180](https://www.wikidata.org/wiki/Q2311180)).
+**Fat Princess** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2311180` (Wikidata : [Q2311180](https://www.wikidata.org/wiki/Q2311180)).
 
 ## Audit de conformite structurelle
 

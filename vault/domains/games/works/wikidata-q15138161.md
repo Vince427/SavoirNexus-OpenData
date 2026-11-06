@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q15138161
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-10-30
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q15138161:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Wii Sports Club
 
-**Wii Sports Club** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15138161](https://www.wikidata.org/wiki/Q15138161)).
+**Wii Sports Club** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15138161` (Wikidata : [Q15138161](https://www.wikidata.org/wiki/Q15138161)).
 
 ## Audit de conformite structurelle
 

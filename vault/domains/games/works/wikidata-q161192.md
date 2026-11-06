@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q161192
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-10-16
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q161192:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -102,7 +102,7 @@ observations:
 
 # 007 Legends
 
-**007 Legends** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q161192](https://www.wikidata.org/wiki/Q161192)).
+**007 Legends** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q161192` (Wikidata : [Q161192](https://www.wikidata.org/wiki/Q161192)).
 
 ## Audit de conformite structurelle
 

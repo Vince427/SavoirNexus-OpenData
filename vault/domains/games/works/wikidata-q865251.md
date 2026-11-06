@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q865251
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-07
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q865251:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Brothers in Arms: D-Day
 
-**Brothers in Arms: D-Day** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q865251](https://www.wikidata.org/wiki/Q865251)).
+**Brothers in Arms: D-Day** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q865251` (Wikidata : [Q865251](https://www.wikidata.org/wiki/Q865251)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q746351
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-10-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/17480/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q746351:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Command and Conquer : Alerte rouge 3
 
-**Command and Conquer : Alerte rouge 3** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q746351](https://www.wikidata.org/wiki/Q746351)).
+**Command and Conquer : Alerte rouge 3** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q746351` (Wikidata : [Q746351](https://www.wikidata.org/wiki/Q746351)).
 
 ## Audit de conformite structurelle
 

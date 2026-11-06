@@ -13,7 +13,7 @@ wikidata_id: Q67895324
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-09-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/714120/header.jpg"
-tags: [jeu, cataloged, adventure, casual, horror]
+tags: [jeu, audited, adventure, casual, horror]
 observations:
   - id: wikidata-q67895324:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Little Misfortune
 
-**Little Misfortune** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q67895324](https://www.wikidata.org/wiki/Q67895324)).
+**Little Misfortune** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q67895324` (Wikidata : [Q67895324](https://www.wikidata.org/wiki/Q67895324)).
 
 ## Audit de conformite structurelle
 

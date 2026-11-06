@@ -13,7 +13,7 @@ wikidata_id: Q17600332
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-06-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/275060/header.jpg"
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q17600332:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Alone in the Dark: Illumination
 
-**Alone in the Dark: Illumination** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17600332](https://www.wikidata.org/wiki/Q17600332)).
+**Alone in the Dark: Illumination** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17600332` (Wikidata : [Q17600332](https://www.wikidata.org/wiki/Q17600332)).
 
 ## Audit de conformite structurelle
 

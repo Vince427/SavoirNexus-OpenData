@@ -13,7 +13,7 @@ wikidata_id: Q2552029
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/447780/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2552029:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # LostWinds
 
-**LostWinds** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2552029](https://www.wikidata.org/wiki/Q2552029)).
+**LostWinds** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2552029` (Wikidata : [Q2552029](https://www.wikidata.org/wiki/Q2552029)).
 
 ## Audit de conformite structurelle
 

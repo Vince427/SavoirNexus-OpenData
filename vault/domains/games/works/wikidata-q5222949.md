@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q5222949
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-02-04
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q5222949:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Gods Eater Burst
 
-**Gods Eater Burst** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5222949](https://www.wikidata.org/wiki/Q5222949)).
+**Gods Eater Burst** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5222949` (Wikidata : [Q5222949](https://www.wikidata.org/wiki/Q5222949)).
 
 ## Audit de conformite structurelle
 

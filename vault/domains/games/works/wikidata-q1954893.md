@@ -13,7 +13,7 @@ wikidata_id: Q1954893
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-10-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/218640/header.jpg"
-tags: [jeu, cataloged, adventure, horror]
+tags: [jeu, audited, adventure, horror]
 observations:
   - id: wikidata-q1954893:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Lucius
 
-**Lucius** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1954893](https://www.wikidata.org/wiki/Q1954893)).
+**Lucius** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1954893` (Wikidata : [Q1954893](https://www.wikidata.org/wiki/Q1954893)).
 
 ## Audit de conformite structurelle
 

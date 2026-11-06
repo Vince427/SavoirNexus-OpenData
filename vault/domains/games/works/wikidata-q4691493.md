@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q4691493
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-12
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q4691493:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Agatha Christie: The ABC Murders
 
-**Agatha Christie: The ABC Murders** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4691493](https://www.wikidata.org/wiki/Q4691493)).
+**Agatha Christie: The ABC Murders** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4691493` (Wikidata : [Q4691493](https://www.wikidata.org/wiki/Q4691493)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2450773
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-03-29
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2450773:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Top Spin 2
 
-**Top Spin 2** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2450773](https://www.wikidata.org/wiki/Q2450773)).
+**Top Spin 2** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2450773` (Wikidata : [Q2450773](https://www.wikidata.org/wiki/Q2450773)).
 
 ## Audit de conformite structurelle
 

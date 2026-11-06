@@ -13,7 +13,7 @@ wikidata_id: Q15041081
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-03-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/348470/header.jpg"
-tags: [jeu, cataloged, hack-and-slash]
+tags: [jeu, audited, hack-and-slash]
 observations:
   - id: wikidata-q15041081:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Samurai Warriors 4
 
-**Samurai Warriors 4** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15041081](https://www.wikidata.org/wiki/Q15041081)).
+**Samurai Warriors 4** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15041081` (Wikidata : [Q15041081](https://www.wikidata.org/wiki/Q15041081)).
 
 ## Audit de conformite structurelle
 

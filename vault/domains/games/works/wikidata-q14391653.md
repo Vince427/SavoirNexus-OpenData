@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q14391653
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-06-17
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q14391653:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -101,7 +101,7 @@ observations:
 
 # EA Sports UFC
 
-**EA Sports UFC** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q14391653](https://www.wikidata.org/wiki/Q14391653)).
+**EA Sports UFC** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q14391653` (Wikidata : [Q14391653](https://www.wikidata.org/wiki/Q14391653)).
 
 ## Audit de conformite structurelle
 

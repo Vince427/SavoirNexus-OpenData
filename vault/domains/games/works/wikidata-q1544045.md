@@ -13,7 +13,7 @@ wikidata_id: Q1544045
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-10-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/260570/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1544045:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Gray Matter
 
-**Gray Matter** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1544045](https://www.wikidata.org/wiki/Q1544045)).
+**Gray Matter** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1544045` (Wikidata : [Q1544045](https://www.wikidata.org/wiki/Q1544045)).
 
 ## Audit de conformite structurelle
 

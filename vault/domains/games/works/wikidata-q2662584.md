@@ -13,7 +13,7 @@ wikidata_id: Q2662584
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/41210/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q2662584:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Eufloria
 
-**Eufloria** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2662584](https://www.wikidata.org/wiki/Q2662584)).
+**Eufloria** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2662584` (Wikidata : [Q2662584](https://www.wikidata.org/wiki/Q2662584)).
 
 ## Audit de conformite structurelle
 

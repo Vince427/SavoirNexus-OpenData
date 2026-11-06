@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q17183048
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-01-01
-tags: [jeu, cataloged, platformer, shooter]
+tags: [jeu, audited, platformer, shooter]
 observations:
   - id: wikidata-q17183048:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -101,7 +101,7 @@ observations:
 
 # Ratchet and Clank
 
-**Ratchet and Clank** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17183048](https://www.wikidata.org/wiki/Q17183048)).
+**Ratchet and Clank** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17183048` (Wikidata : [Q17183048](https://www.wikidata.org/wiki/Q17183048)).
 
 ## Audit de conformite structurelle
 

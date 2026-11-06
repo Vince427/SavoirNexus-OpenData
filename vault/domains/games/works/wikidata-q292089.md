@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q292089
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-11-08
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q292089:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ilomilo
 
-**Ilomilo** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q292089](https://www.wikidata.org/wiki/Q292089)).
+**Ilomilo** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q292089` (Wikidata : [Q292089](https://www.wikidata.org/wiki/Q292089)).
 
 ## Audit de conformite structurelle
 

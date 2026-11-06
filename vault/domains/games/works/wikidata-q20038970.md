@@ -13,7 +13,7 @@ wikidata_id: Q20038970
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-03-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/502800/header.jpg"
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q20038970:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Senran Kagura : Estival Versus
 
-**Senran Kagura : Estival Versus** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20038970](https://www.wikidata.org/wiki/Q20038970)).
+**Senran Kagura : Estival Versus** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20038970` (Wikidata : [Q20038970](https://www.wikidata.org/wiki/Q20038970)).
 
 ## Audit de conformite structurelle
 

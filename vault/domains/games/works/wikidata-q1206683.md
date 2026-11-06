@@ -13,7 +13,7 @@ wikidata_id: Q1206683
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-07-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/222940/header.jpg"
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q1206683:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # The King of Fighters XIII
 
-**The King of Fighters XIII** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1206683](https://www.wikidata.org/wiki/Q1206683)).
+**The King of Fighters XIII** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1206683` (Wikidata : [Q1206683](https://www.wikidata.org/wiki/Q1206683)).
 
 ## Audit de conformite structurelle
 

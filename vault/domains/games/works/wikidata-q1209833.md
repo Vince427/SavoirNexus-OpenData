@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1209833
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-07-01
-tags: [jeu, cataloged, rpg, sports]
+tags: [jeu, audited, rpg, sports]
 observations:
   - id: wikidata-q1209833:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Inazuma Eleven 3
 
-**Inazuma Eleven 3** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1209833](https://www.wikidata.org/wiki/Q1209833)).
+**Inazuma Eleven 3** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1209833` (Wikidata : [Q1209833](https://www.wikidata.org/wiki/Q1209833)).
 
 ## Audit de conformite structurelle
 

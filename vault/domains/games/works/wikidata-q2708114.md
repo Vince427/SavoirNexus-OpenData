@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2708114
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-11-02
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2708114:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -102,7 +102,7 @@ observations:
 
 # GoldenEye 007
 
-**GoldenEye 007** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2708114](https://www.wikidata.org/wiki/Q2708114)).
+**GoldenEye 007** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2708114` (Wikidata : [Q2708114](https://www.wikidata.org/wiki/Q2708114)).
 
 ## Audit de conformite structurelle
 

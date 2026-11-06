@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q4596628
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-06-03
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q4596628:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -102,7 +102,7 @@ observations:
 
 # Kung Fu Panda
 
-**Kung Fu Panda** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4596628](https://www.wikidata.org/wiki/Q4596628)).
+**Kung Fu Panda** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4596628` (Wikidata : [Q4596628](https://www.wikidata.org/wiki/Q4596628)).
 
 ## Audit de conformite structurelle
 

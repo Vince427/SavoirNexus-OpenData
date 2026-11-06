@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2729858
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-05-20
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2729858:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario Tennis Open
 
-**Mario Tennis Open** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2729858](https://www.wikidata.org/wiki/Q2729858)).
+**Mario Tennis Open** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2729858` (Wikidata : [Q2729858](https://www.wikidata.org/wiki/Q2729858)).
 
 ## Audit de conformite structurelle
 

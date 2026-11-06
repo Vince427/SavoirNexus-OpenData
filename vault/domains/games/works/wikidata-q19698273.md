@@ -13,7 +13,7 @@ wikidata_id: Q19698273
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-03-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/345660/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q19698273:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Ride
 
-**Ride** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q19698273](https://www.wikidata.org/wiki/Q19698273)).
+**Ride** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q19698273` (Wikidata : [Q19698273](https://www.wikidata.org/wiki/Q19698273)).
 
 ## Audit de conformite structurelle
 

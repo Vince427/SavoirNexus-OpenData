@@ -13,7 +13,7 @@ wikidata_id: Q3047547
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/38740/header.jpg"
-tags: [jeu, cataloged, platformer, puzzle]
+tags: [jeu, audited, platformer, puzzle]
 observations:
   - id: wikidata-q3047547:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Edge
 
-**Edge** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3047547](https://www.wikidata.org/wiki/Q3047547)).
+**Edge** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3047547` (Wikidata : [Q3047547](https://www.wikidata.org/wiki/Q3047547)).
 
 ## Audit de conformite structurelle
 

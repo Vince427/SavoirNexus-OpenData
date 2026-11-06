@@ -13,7 +13,7 @@ wikidata_id: Q62078612
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-10-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/971620/header.jpg"
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q62078612:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Puyo Puyo Champions
 
-**Puyo Puyo Champions** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q62078612](https://www.wikidata.org/wiki/Q62078612)).
+**Puyo Puyo Champions** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q62078612` (Wikidata : [Q62078612](https://www.wikidata.org/wiki/Q62078612)).
 
 ## Audit de conformite structurelle
 

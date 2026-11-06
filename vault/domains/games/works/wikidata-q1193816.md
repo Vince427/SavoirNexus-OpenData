@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1193816
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-29
-tags: [jeu, cataloged, adventure, puzzle]
+tags: [jeu, audited, adventure, puzzle]
 observations:
   - id: wikidata-q1193816:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Professeur Layton et la Boîte de Pandore
 
-**Professeur Layton et la Boîte de Pandore** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1193816](https://www.wikidata.org/wiki/Q1193816)).
+**Professeur Layton et la Boîte de Pandore** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1193816` (Wikidata : [Q1193816](https://www.wikidata.org/wiki/Q1193816)).
 
 ## Audit de conformite structurelle
 

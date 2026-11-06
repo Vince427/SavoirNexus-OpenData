@@ -13,7 +13,7 @@ wikidata_id: Q66914100
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-11-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1049410/header.jpg"
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q66914100:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Superliminal
 
-**Superliminal** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q66914100](https://www.wikidata.org/wiki/Q66914100)).
+**Superliminal** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q66914100` (Wikidata : [Q66914100](https://www.wikidata.org/wiki/Q66914100)).
 
 ## Audit de conformite structurelle
 

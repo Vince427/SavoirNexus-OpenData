@@ -13,7 +13,7 @@ wikidata_id: Q68982718
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-01-16
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/872410/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q68982718:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Romance of the Three Kingdoms XIV
 
-**Romance of the Three Kingdoms XIV** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q68982718](https://www.wikidata.org/wiki/Q68982718)).
+**Romance of the Three Kingdoms XIV** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q68982718` (Wikidata : [Q68982718](https://www.wikidata.org/wiki/Q68982718)).
 
 ## Audit de conformite structurelle
 

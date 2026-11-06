@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2079919
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-02-11
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2079919:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario et Luigi : Voyage au centre de Bowser
 
-**Mario et Luigi : Voyage au centre de Bowser** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2079919](https://www.wikidata.org/wiki/Q2079919)).
+**Mario et Luigi : Voyage au centre de Bowser** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2079919` (Wikidata : [Q2079919](https://www.wikidata.org/wiki/Q2079919)).
 
 ## Audit de conformite structurelle
 

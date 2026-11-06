@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3029784
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-09-25
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q3029784:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Disaster: Day of Crisis
 
-**Disaster: Day of Crisis** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3029784](https://www.wikidata.org/wiki/Q3029784)).
+**Disaster: Day of Crisis** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3029784` (Wikidata : [Q3029784](https://www.wikidata.org/wiki/Q3029784)).
 
 ## Audit de conformite structurelle
 

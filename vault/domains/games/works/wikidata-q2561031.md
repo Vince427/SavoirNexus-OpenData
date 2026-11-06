@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2561031
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-01-01
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q2561031:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Castlevania: The Dracula X Chronicles
 
-**Castlevania: The Dracula X Chronicles** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2561031](https://www.wikidata.org/wiki/Q2561031)).
+**Castlevania: The Dracula X Chronicles** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2561031` (Wikidata : [Q2561031](https://www.wikidata.org/wiki/Q2561031)).
 
 ## Audit de conformite structurelle
 

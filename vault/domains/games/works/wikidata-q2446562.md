@@ -13,7 +13,7 @@ wikidata_id: Q2446562
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-04-09
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/20540/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q2446562:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Company of Heroes: Tales of Valor
 
-**Company of Heroes: Tales of Valor** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2446562](https://www.wikidata.org/wiki/Q2446562)).
+**Company of Heroes: Tales of Valor** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2446562` (Wikidata : [Q2446562](https://www.wikidata.org/wiki/Q2446562)).
 
 ## Audit de conformite structurelle
 

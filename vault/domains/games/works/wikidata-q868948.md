@@ -13,7 +13,7 @@ wikidata_id: Q868948
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-02-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1535610/header.jpg"
-tags: [jeu, cataloged, rpg, strategy]
+tags: [jeu, audited, rpg, strategy]
 observations:
   - id: wikidata-q868948:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Soul Nomad & the World Eaters
 
-**Soul Nomad & the World Eaters** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q868948](https://www.wikidata.org/wiki/Q868948)).
+**Soul Nomad & the World Eaters** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q868948` (Wikidata : [Q868948](https://www.wikidata.org/wiki/Q868948)).
 
 ## Audit de conformite structurelle
 

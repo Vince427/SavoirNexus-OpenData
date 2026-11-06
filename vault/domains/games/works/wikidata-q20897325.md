@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q20897325
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-01-01
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q20897325:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Phoenix Wright: Ace Attorney - Spirit of Justice
 
-**Phoenix Wright: Ace Attorney - Spirit of Justice** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20897325](https://www.wikidata.org/wiki/Q20897325)).
+**Phoenix Wright: Ace Attorney - Spirit of Justice** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20897325` (Wikidata : [Q20897325](https://www.wikidata.org/wiki/Q20897325)).
 
 ## Audit de conformite structurelle
 

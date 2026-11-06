@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2362543
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-05-17
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2362543:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Détective Conan : Enquête à Mirapolis
 
-**Détective Conan : Enquête à Mirapolis** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2362543](https://www.wikidata.org/wiki/Q2362543)).
+**Détective Conan : Enquête à Mirapolis** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2362543` (Wikidata : [Q2362543](https://www.wikidata.org/wiki/Q2362543)).
 
 ## Audit de conformite structurelle
 

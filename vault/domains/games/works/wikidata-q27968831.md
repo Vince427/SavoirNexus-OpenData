@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q27968831
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-10-13
-tags: [jeu, cataloged, horror, shooter, survival]
+tags: [jeu, audited, horror, shooter, survival]
 observations:
   - id: wikidata-q27968831:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -101,7 +101,7 @@ observations:
 
 # Until Dawn: Rush of Blood
 
-**Until Dawn: Rush of Blood** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q27968831](https://www.wikidata.org/wiki/Q27968831)).
+**Until Dawn: Rush of Blood** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q27968831` (Wikidata : [Q27968831](https://www.wikidata.org/wiki/Q27968831)).
 
 ## Audit de conformite structurelle
 

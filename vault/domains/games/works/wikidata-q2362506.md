@@ -13,7 +13,7 @@ wikidata_id: Q2362506
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-08-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/208500/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q2362506:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # F1 2012
 
-**F1 2012** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2362506](https://www.wikidata.org/wiki/Q2362506)).
+**F1 2012** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2362506` (Wikidata : [Q2362506](https://www.wikidata.org/wiki/Q2362506)).
 
 ## Audit de conformite structurelle
 

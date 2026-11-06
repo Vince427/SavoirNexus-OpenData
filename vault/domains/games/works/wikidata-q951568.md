@@ -13,7 +13,7 @@ wikidata_id: Q951568
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-01-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1420300/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q951568:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # No More Heroes: Desperate Struggle
 
-**No More Heroes: Desperate Struggle** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q951568](https://www.wikidata.org/wiki/Q951568)).
+**No More Heroes: Desperate Struggle** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q951568` (Wikidata : [Q951568](https://www.wikidata.org/wiki/Q951568)).
 
 ## Audit de conformite structurelle
 

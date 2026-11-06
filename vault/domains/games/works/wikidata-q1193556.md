@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1193556
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-13
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q1193556:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Yoshi's Island DS
 
-**Yoshi's Island DS** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1193556](https://www.wikidata.org/wiki/Q1193556)).
+**Yoshi's Island DS** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1193556` (Wikidata : [Q1193556](https://www.wikidata.org/wiki/Q1193556)).
 
 ## Audit de conformite structurelle
 

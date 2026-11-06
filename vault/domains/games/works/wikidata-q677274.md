@@ -13,7 +13,7 @@ wikidata_id: Q677274
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-03-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/638230/header.jpg"
-tags: [jeu, cataloged, action, adventure, simulation]
+tags: [jeu, audited, action, adventure, simulation]
 observations:
   - id: wikidata-q677274:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Journey
 
-**Journey** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q677274](https://www.wikidata.org/wiki/Q677274)).
+**Journey** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q677274` (Wikidata : [Q677274](https://www.wikidata.org/wiki/Q677274)).
 
 ## Audit de conformite structurelle
 

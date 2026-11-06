@@ -13,7 +13,7 @@ wikidata_id: Q96312725
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-10-02
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222730/header.jpg"
-tags: [jeu, cataloged, action, simulation]
+tags: [jeu, audited, action, simulation]
 observations:
   - id: wikidata-q96312725:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Star Wars : Squadrons
 
-**Star Wars : Squadrons** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q96312725](https://www.wikidata.org/wiki/Q96312725)).
+**Star Wars : Squadrons** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q96312725` (Wikidata : [Q96312725](https://www.wikidata.org/wiki/Q96312725)).
 
 ## Audit de conformite structurelle
 

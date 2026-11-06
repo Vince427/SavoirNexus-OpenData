@@ -13,7 +13,7 @@ wikidata_id: Q16259000
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-11-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/339200/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q16259000:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Oceanhorn : Monster of Uncharted Seas
 
-**Oceanhorn : Monster of Uncharted Seas** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16259000](https://www.wikidata.org/wiki/Q16259000)).
+**Oceanhorn : Monster of Uncharted Seas** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16259000` (Wikidata : [Q16259000](https://www.wikidata.org/wiki/Q16259000)).
 
 ## Audit de conformite structurelle
 

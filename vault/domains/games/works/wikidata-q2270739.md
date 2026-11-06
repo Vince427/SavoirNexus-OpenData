@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q2270739
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-02-22
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2270739:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -101,7 +101,7 @@ observations:
 
 # Trigger Heart Exelica
 
-**Trigger Heart Exelica** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2270739](https://www.wikidata.org/wiki/Q2270739)).
+**Trigger Heart Exelica** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2270739` (Wikidata : [Q2270739](https://www.wikidata.org/wiki/Q2270739)).
 
 ## Audit de conformite structurelle
 

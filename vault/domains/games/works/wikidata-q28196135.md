@@ -13,7 +13,7 @@ wikidata_id: Q28196135
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-07-05
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1225590/header.jpg"
-tags: [jeu, cataloged, adventure, puzzle]
+tags: [jeu, audited, adventure, puzzle]
 observations:
   - id: wikidata-q28196135:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Sea of Solitude
 
-**Sea of Solitude** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28196135](https://www.wikidata.org/wiki/Q28196135)).
+**Sea of Solitude** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28196135` (Wikidata : [Q28196135](https://www.wikidata.org/wiki/Q28196135)).
 
 ## Audit de conformite structurelle
 

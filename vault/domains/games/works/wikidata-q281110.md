@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q281110
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-01-09
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q281110:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Kingdom Hearts: Birth by Sleep
 
-**Kingdom Hearts: Birth by Sleep** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q281110](https://www.wikidata.org/wiki/Q281110)).
+**Kingdom Hearts: Birth by Sleep** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q281110` (Wikidata : [Q281110](https://www.wikidata.org/wiki/Q281110)).
 
 ## Audit de conformite structurelle
 

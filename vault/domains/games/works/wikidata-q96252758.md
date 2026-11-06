@@ -13,7 +13,7 @@ wikidata_id: Q96252758
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2022-09-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1061910/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q96252758:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Metal: Hellsinger
 
-**Metal: Hellsinger** est une oeuvre sortie initialement en 2022, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q96252758](https://www.wikidata.org/wiki/Q96252758)).
+**Metal: Hellsinger** est une oeuvre sortie initialement en 2022, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q96252758` (Wikidata : [Q96252758](https://www.wikidata.org/wiki/Q96252758)).
 
 ## Audit de conformite structurelle
 

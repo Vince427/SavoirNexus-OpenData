@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q5998711
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-05-02
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q5998711:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario Golf: World Tour
 
-**Mario Golf: World Tour** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5998711](https://www.wikidata.org/wiki/Q5998711)).
+**Mario Golf: World Tour** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5998711` (Wikidata : [Q5998711](https://www.wikidata.org/wiki/Q5998711)).
 
 ## Audit de conformite structurelle
 

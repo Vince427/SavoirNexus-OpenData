@@ -13,7 +13,7 @@ wikidata_id: Q2914021
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-05-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/952150/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2914021:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Norn 9
 
-**Norn 9** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2914021](https://www.wikidata.org/wiki/Q2914021)).
+**Norn 9** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2914021` (Wikidata : [Q2914021](https://www.wikidata.org/wiki/Q2914021)).
 
 ## Audit de conformite structurelle
 

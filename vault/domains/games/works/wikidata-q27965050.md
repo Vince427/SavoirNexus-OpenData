@@ -13,7 +13,7 @@ wikidata_id: Q27965050
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-12-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/536220/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q27965050:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Walking Dead: A New Frontier
 
-**The Walking Dead: A New Frontier** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q27965050](https://www.wikidata.org/wiki/Q27965050)).
+**The Walking Dead: A New Frontier** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q27965050` (Wikidata : [Q27965050](https://www.wikidata.org/wiki/Q27965050)).
 
 ## Audit de conformite structurelle
 

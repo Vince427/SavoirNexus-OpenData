@@ -13,7 +13,7 @@ wikidata_id: Q96216496
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2021-01-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1659040/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q96216496:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Hitman 3
 
-**Hitman 3** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q96216496](https://www.wikidata.org/wiki/Q96216496)).
+**Hitman 3** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q96216496` (Wikidata : [Q96216496](https://www.wikidata.org/wiki/Q96216496)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q385952
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-06-02
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q385952:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # DualPenSports
 
-**DualPenSports** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q385952](https://www.wikidata.org/wiki/Q385952)).
+**DualPenSports** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q385952` (Wikidata : [Q385952](https://www.wikidata.org/wiki/Q385952)).
 
 ## Audit de conformite structurelle
 

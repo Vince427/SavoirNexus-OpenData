@@ -13,7 +13,7 @@ wikidata_id: Q98558038
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2022-10-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1496790/header.jpg"
-tags: [jeu, cataloged, action, adventure, fighting, rpg]
+tags: [jeu, audited, action, adventure, fighting, rpg]
 observations:
   - id: wikidata-q98558038:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Gotham Knights
 
-**Gotham Knights** est une oeuvre sortie initialement en 2022, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q98558038](https://www.wikidata.org/wiki/Q98558038)).
+**Gotham Knights** est une oeuvre sortie initialement en 2022, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q98558038` (Wikidata : [Q98558038](https://www.wikidata.org/wiki/Q98558038)).
 
 ## Audit de conformite structurelle
 

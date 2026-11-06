@@ -13,7 +13,7 @@ wikidata_id: Q63386191
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-04-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/751780/header.jpg"
-tags: [jeu, cataloged, action, adventure, simulation]
+tags: [jeu, audited, action, adventure, simulation]
 observations:
   - id: wikidata-q63386191:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Forager
 
-**Forager** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q63386191](https://www.wikidata.org/wiki/Q63386191)).
+**Forager** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q63386191` (Wikidata : [Q63386191](https://www.wikidata.org/wiki/Q63386191)).
 
 ## Audit de conformite structurelle
 

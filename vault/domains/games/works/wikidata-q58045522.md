@@ -13,7 +13,7 @@ wikidata_id: Q58045522
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-10-31
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q58045522:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Deltarune
 
-**Deltarune** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q58045522](https://www.wikidata.org/wiki/Q58045522)).
+**Deltarune** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q58045522` (Wikidata : [Q58045522](https://www.wikidata.org/wiki/Q58045522)).
 
 ## Audit de conformite structurelle
 

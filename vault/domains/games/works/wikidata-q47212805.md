@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q47212805
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-06-05
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q47212805:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Off
 
-**Off** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q47212805](https://www.wikidata.org/wiki/Q47212805)).
+**Off** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q47212805` (Wikidata : [Q47212805](https://www.wikidata.org/wiki/Q47212805)).
 
 ## Audit de conformite structurelle
 

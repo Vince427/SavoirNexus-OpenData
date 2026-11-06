@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q15380959
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-12-31
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q15380959:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dr. Luigi
 
-**Dr. Luigi** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15380959](https://www.wikidata.org/wiki/Q15380959)).
+**Dr. Luigi** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15380959` (Wikidata : [Q15380959](https://www.wikidata.org/wiki/Q15380959)).
 
 ## Audit de conformite structurelle
 

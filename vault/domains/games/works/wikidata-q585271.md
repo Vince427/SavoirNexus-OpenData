@@ -13,7 +13,7 @@ wikidata_id: Q585271
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-09-05
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3020/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q585271:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Call of Juarez
 
-**Call of Juarez** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q585271](https://www.wikidata.org/wiki/Q585271)).
+**Call of Juarez** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q585271` (Wikidata : [Q585271](https://www.wikidata.org/wiki/Q585271)).
 
 ## Audit de conformite structurelle
 

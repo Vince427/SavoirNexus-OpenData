@@ -13,7 +13,7 @@ wikidata_id: Q864600
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-03-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/715580/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q864600:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Hoshizora no Memoria
 
-**Hoshizora no Memoria** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q864600](https://www.wikidata.org/wiki/Q864600)).
+**Hoshizora no Memoria** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q864600` (Wikidata : [Q864600](https://www.wikidata.org/wiki/Q864600)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1880712
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-11
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1880712:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # WorldShift
 
-**WorldShift** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1880712](https://www.wikidata.org/wiki/Q1880712)).
+**WorldShift** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1880712` (Wikidata : [Q1880712](https://www.wikidata.org/wiki/Q1880712)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q11704395
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-09-25
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q11704395:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Billy et Mandy, aventuriers de l'au-delà
 
-**Billy et Mandy, aventuriers de l'au-delà** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q11704395](https://www.wikidata.org/wiki/Q11704395)).
+**Billy et Mandy, aventuriers de l'au-delà** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q11704395` (Wikidata : [Q11704395](https://www.wikidata.org/wiki/Q11704395)).
 
 ## Audit de conformite structurelle
 

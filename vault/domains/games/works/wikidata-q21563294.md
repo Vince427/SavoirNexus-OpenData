@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q21563294
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-10-01
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q21563294:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -101,7 +101,7 @@ observations:
 
 # Gran Turismo Sport
 
-**Gran Turismo Sport** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q21563294](https://www.wikidata.org/wiki/Q21563294)).
+**Gran Turismo Sport** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q21563294` (Wikidata : [Q21563294](https://www.wikidata.org/wiki/Q21563294)).
 
 ## Audit de conformite structurelle
 

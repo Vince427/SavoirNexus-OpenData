@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2702457
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-04-29
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2702457:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dragon Ball Z: Attack of the Saiyans
 
-**Dragon Ball Z: Attack of the Saiyans** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2702457](https://www.wikidata.org/wiki/Q2702457)).
+**Dragon Ball Z: Attack of the Saiyans** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2702457` (Wikidata : [Q2702457](https://www.wikidata.org/wiki/Q2702457)).
 
 ## Audit de conformite structurelle
 

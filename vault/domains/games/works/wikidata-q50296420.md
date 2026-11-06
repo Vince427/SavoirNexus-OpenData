@@ -13,7 +13,7 @@ wikidata_id: Q50296420
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-05-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/805550/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q50296420:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Assetto Corsa Competizione
 
-**Assetto Corsa Competizione** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q50296420](https://www.wikidata.org/wiki/Q50296420)).
+**Assetto Corsa Competizione** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q50296420` (Wikidata : [Q50296420](https://www.wikidata.org/wiki/Q50296420)).
 
 ## Audit de conformite structurelle
 

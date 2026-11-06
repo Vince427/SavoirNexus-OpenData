@@ -13,7 +13,7 @@ wikidata_id: Q22019750
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-06-05
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/427290/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q22019750:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Vampyr
 
-**Vampyr** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q22019750](https://www.wikidata.org/wiki/Q22019750)).
+**Vampyr** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q22019750` (Wikidata : [Q22019750](https://www.wikidata.org/wiki/Q22019750)).
 
 ## Audit de conformite structurelle
 

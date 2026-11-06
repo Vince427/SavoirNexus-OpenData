@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2734941
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-06-08
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2734941:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Brothers in Arms DS
 
-**Brothers in Arms DS** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2734941](https://www.wikidata.org/wiki/Q2734941)).
+**Brothers in Arms DS** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2734941` (Wikidata : [Q2734941](https://www.wikidata.org/wiki/Q2734941)).
 
 ## Audit de conformite structurelle
 

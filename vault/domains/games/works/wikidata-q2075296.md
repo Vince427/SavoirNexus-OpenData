@@ -13,7 +13,7 @@ wikidata_id: Q2075296
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-04-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/115320/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2075296:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Prototype 2
 
-**Prototype 2** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2075296](https://www.wikidata.org/wiki/Q2075296)).
+**Prototype 2** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2075296` (Wikidata : [Q2075296](https://www.wikidata.org/wiki/Q2075296)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3959542
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-05-23
-tags: [jeu, cataloged, rpg, strategy]
+tags: [jeu, audited, rpg, strategy]
 observations:
   - id: wikidata-q3959542:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Shin Megami Tensei IV
 
-**Shin Megami Tensei IV** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3959542](https://www.wikidata.org/wiki/Q3959542)).
+**Shin Megami Tensei IV** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3959542` (Wikidata : [Q3959542](https://www.wikidata.org/wiki/Q3959542)).
 
 ## Audit de conformite structurelle
 

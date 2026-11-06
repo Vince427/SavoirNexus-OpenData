@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2539777
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-03-13
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q2539777:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Spectrobes
 
-**Spectrobes** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2539777](https://www.wikidata.org/wiki/Q2539777)).
+**Spectrobes** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2539777` (Wikidata : [Q2539777](https://www.wikidata.org/wiki/Q2539777)).
 
 ## Audit de conformite structurelle
 

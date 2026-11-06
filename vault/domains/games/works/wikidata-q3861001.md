@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3861001
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-09-14
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q3861001:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Monster Hunter 4
 
-**Monster Hunter 4** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3861001](https://www.wikidata.org/wiki/Q3861001)).
+**Monster Hunter 4** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3861001` (Wikidata : [Q3861001](https://www.wikidata.org/wiki/Q3861001)).
 
 ## Audit de conformite structurelle
 

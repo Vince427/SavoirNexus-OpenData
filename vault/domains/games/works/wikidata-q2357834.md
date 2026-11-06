@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2357834
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-01-31
-tags: [jeu, cataloged, action, shooter]
+tags: [jeu, audited, action, shooter]
 observations:
   - id: wikidata-q2357834:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # NeverDead
 
-**NeverDead** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2357834](https://www.wikidata.org/wiki/Q2357834)).
+**NeverDead** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2357834` (Wikidata : [Q2357834](https://www.wikidata.org/wiki/Q2357834)).
 
 ## Audit de conformite structurelle
 

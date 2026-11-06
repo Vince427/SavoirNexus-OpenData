@@ -13,7 +13,7 @@ wikidata_id: Q7023416
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-02-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/485510/header.jpg"
-tags: [jeu, cataloged, action, adventure, rpg]
+tags: [jeu, audited, action, adventure, rpg]
 observations:
   - id: wikidata-q7023416:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Ni-Oh
 
-**Ni-Oh** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q7023416](https://www.wikidata.org/wiki/Q7023416)).
+**Ni-Oh** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q7023416` (Wikidata : [Q7023416](https://www.wikidata.org/wiki/Q7023416)).
 
 ## Audit de conformite structurelle
 

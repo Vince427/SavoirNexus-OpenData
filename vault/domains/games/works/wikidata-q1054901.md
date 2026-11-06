@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1054901
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-09-30
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1054901:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ōkamiden
 
-**Ōkamiden** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1054901](https://www.wikidata.org/wiki/Q1054901)).
+**Ōkamiden** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1054901` (Wikidata : [Q1054901](https://www.wikidata.org/wiki/Q1054901)).
 
 ## Audit de conformite structurelle
 

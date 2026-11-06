@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2940654
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-28
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q2940654:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Cartoon Network Racing
 
-**Cartoon Network Racing** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2940654](https://www.wikidata.org/wiki/Q2940654)).
+**Cartoon Network Racing** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2940654` (Wikidata : [Q2940654](https://www.wikidata.org/wiki/Q2940654)).
 
 ## Audit de conformite structurelle
 

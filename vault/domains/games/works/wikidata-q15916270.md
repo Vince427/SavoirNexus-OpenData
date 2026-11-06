@@ -13,7 +13,7 @@ wikidata_id: Q15916270
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-06-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/228380/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q15916270:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Wreckfest
 
-**Wreckfest** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15916270](https://www.wikidata.org/wiki/Q15916270)).
+**Wreckfest** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15916270` (Wikidata : [Q15916270](https://www.wikidata.org/wiki/Q15916270)).
 
 ## Audit de conformite structurelle
 

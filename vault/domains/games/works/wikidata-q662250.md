@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q662250
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-21
-tags: [jeu, cataloged, platformer, puzzle]
+tags: [jeu, audited, platformer, puzzle]
 observations:
   - id: wikidata-q662250:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # LocoRoco 2
 
-**LocoRoco 2** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q662250](https://www.wikidata.org/wiki/Q662250)).
+**LocoRoco 2** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q662250` (Wikidata : [Q662250](https://www.wikidata.org/wiki/Q662250)).
 
 ## Audit de conformite structurelle
 

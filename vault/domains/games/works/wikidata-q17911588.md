@@ -13,7 +13,7 @@ wikidata_id: Q17911588
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-01-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/301910/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q17911588:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Saints Row: Gat out of Hell
 
-**Saints Row: Gat out of Hell** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17911588](https://www.wikidata.org/wiki/Q17911588)).
+**Saints Row: Gat out of Hell** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17911588` (Wikidata : [Q17911588](https://www.wikidata.org/wiki/Q17911588)).
 
 ## Audit de conformite structurelle
 

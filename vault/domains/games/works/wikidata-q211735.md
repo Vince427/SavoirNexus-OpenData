@@ -13,7 +13,7 @@ wikidata_id: Q211735
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/33230/header.jpg"
-tags: [jeu, cataloged, action, adventure, shooter]
+tags: [jeu, audited, action, adventure, shooter]
 observations:
   - id: wikidata-q211735:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Assassin's Creed 2
 
-**Assassin's Creed 2** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q211735](https://www.wikidata.org/wiki/Q211735)).
+**Assassin's Creed 2** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q211735` (Wikidata : [Q211735](https://www.wikidata.org/wiki/Q211735)).
 
 ## Audit de conformite structurelle
 

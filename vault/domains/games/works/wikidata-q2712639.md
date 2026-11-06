@@ -13,7 +13,7 @@ wikidata_id: Q2712639
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-03-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15220/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2712639:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Blazing Angels: Squadrons of WWII
 
-**Blazing Angels: Squadrons of WWII** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2712639](https://www.wikidata.org/wiki/Q2712639)).
+**Blazing Angels: Squadrons of WWII** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2712639` (Wikidata : [Q2712639](https://www.wikidata.org/wiki/Q2712639)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q7246721
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-09-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/250870/header.jpg"
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q7246721:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Pro Evolution Soccer 2014
 
-**Pro Evolution Soccer 2014** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q7246721](https://www.wikidata.org/wiki/Q7246721)).
+**Pro Evolution Soccer 2014** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q7246721` (Wikidata : [Q7246721](https://www.wikidata.org/wiki/Q7246721)).
 
 ## Audit de conformite structurelle
 

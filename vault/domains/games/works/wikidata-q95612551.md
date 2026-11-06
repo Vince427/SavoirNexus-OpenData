@@ -13,7 +13,7 @@ wikidata_id: Q95612551
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2021-11-16
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1137300/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q95612551:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Sherlock Holmes: Chapter One
 
-**Sherlock Holmes: Chapter One** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q95612551](https://www.wikidata.org/wiki/Q95612551)).
+**Sherlock Holmes: Chapter One** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q95612551` (Wikidata : [Q95612551](https://www.wikidata.org/wiki/Q95612551)).
 
 ## Audit de conformite structurelle
 

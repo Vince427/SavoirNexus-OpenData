@@ -13,7 +13,7 @@ wikidata_id: Q796529
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-11-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/220240/header.jpg"
-tags: [jeu, cataloged, action, adventure, shooter]
+tags: [jeu, audited, action, adventure, shooter]
 observations:
   - id: wikidata-q796529:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Far Cry 3
 
-**Far Cry 3** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q796529](https://www.wikidata.org/wiki/Q796529)).
+**Far Cry 3** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q796529` (Wikidata : [Q796529](https://www.wikidata.org/wiki/Q796529)).
 
 ## Audit de conformite structurelle
 

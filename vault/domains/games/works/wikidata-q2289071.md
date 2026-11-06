@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2289071
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-03-13
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2289071:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Call of Duty : Les Chemins de la victoire
 
-**Call of Duty : Les Chemins de la victoire** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2289071](https://www.wikidata.org/wiki/Q2289071)).
+**Call of Duty : Les Chemins de la victoire** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2289071` (Wikidata : [Q2289071](https://www.wikidata.org/wiki/Q2289071)).
 
 ## Audit de conformite structurelle
 

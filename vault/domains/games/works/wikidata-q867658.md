@@ -13,7 +13,7 @@ wikidata_id: Q867658
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-02-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/73010/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q867658:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Cities in Motion
 
-**Cities in Motion** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q867658](https://www.wikidata.org/wiki/Q867658)).
+**Cities in Motion** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q867658` (Wikidata : [Q867658](https://www.wikidata.org/wiki/Q867658)).
 
 ## Audit de conformite structurelle
 

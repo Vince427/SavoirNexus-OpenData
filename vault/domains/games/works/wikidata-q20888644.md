@@ -13,7 +13,7 @@ wikidata_id: Q20888644
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-10-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/376870/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q20888644:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Minecraft: Story Mode
 
-**Minecraft: Story Mode** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20888644](https://www.wikidata.org/wiki/Q20888644)).
+**Minecraft: Story Mode** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20888644` (Wikidata : [Q20888644](https://www.wikidata.org/wiki/Q20888644)).
 
 ## Audit de conformite structurelle
 

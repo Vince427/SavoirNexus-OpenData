@@ -13,7 +13,7 @@ wikidata_id: Q94628102
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-09-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1030840/header.jpg"
-tags: [jeu, cataloged, action, adventure, shooter]
+tags: [jeu, audited, action, adventure, shooter]
 observations:
   - id: wikidata-q94628102:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Mafia : Definitive Edition
 
-**Mafia : Definitive Edition** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q94628102](https://www.wikidata.org/wiki/Q94628102)).
+**Mafia : Definitive Edition** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q94628102` (Wikidata : [Q94628102](https://www.wikidata.org/wiki/Q94628102)).
 
 ## Audit de conformite structurelle
 

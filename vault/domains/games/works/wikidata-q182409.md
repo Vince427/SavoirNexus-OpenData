@@ -13,7 +13,7 @@ wikidata_id: Q182409
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-08-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/359390/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q182409:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Amnesia
 
-**Amnesia** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q182409](https://www.wikidata.org/wiki/Q182409)).
+**Amnesia** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q182409` (Wikidata : [Q182409](https://www.wikidata.org/wiki/Q182409)).
 
 ## Audit de conformite structurelle
 

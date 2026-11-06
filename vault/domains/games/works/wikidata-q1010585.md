@@ -13,7 +13,7 @@ wikidata_id: Q1010585
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-08-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1460490/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1010585:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Maji de Watashi ni Koi Shinasai!
 
-**Maji de Watashi ni Koi Shinasai!** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1010585](https://www.wikidata.org/wiki/Q1010585)).
+**Maji de Watashi ni Koi Shinasai!** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1010585` (Wikidata : [Q1010585](https://www.wikidata.org/wiki/Q1010585)).
 
 ## Audit de conformite structurelle
 

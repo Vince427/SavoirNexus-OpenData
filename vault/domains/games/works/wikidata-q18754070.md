@@ -13,7 +13,7 @@ wikidata_id: Q18754070
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-08-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/387340/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q18754070:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Hyperdimension Neptunia U
 
-**Hyperdimension Neptunia U** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18754070](https://www.wikidata.org/wiki/Q18754070)).
+**Hyperdimension Neptunia U** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18754070` (Wikidata : [Q18754070](https://www.wikidata.org/wiki/Q18754070)).
 
 ## Audit de conformite structurelle
 

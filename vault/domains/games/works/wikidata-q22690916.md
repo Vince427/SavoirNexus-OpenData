@@ -13,7 +13,7 @@ wikidata_id: Q22690916
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-06-04
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/312530/header.jpg"
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q22690916:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Duck Game
 
-**Duck Game** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q22690916](https://www.wikidata.org/wiki/Q22690916)).
+**Duck Game** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q22690916` (Wikidata : [Q22690916](https://www.wikidata.org/wiki/Q22690916)).
 
 ## Audit de conformite structurelle
 

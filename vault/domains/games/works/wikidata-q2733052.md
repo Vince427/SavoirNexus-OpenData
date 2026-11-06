@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2733052
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-10-07
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2733052:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # NBA Live 09
 
-**NBA Live 09** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2733052](https://www.wikidata.org/wiki/Q2733052)).
+**NBA Live 09** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2733052` (Wikidata : [Q2733052](https://www.wikidata.org/wiki/Q2733052)).
 
 ## Audit de conformite structurelle
 

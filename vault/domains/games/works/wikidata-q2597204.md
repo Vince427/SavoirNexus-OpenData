@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2597204
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-02-23
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2597204:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Disgaea 2: Cursed Memories
 
-**Disgaea 2: Cursed Memories** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2597204](https://www.wikidata.org/wiki/Q2597204)).
+**Disgaea 2: Cursed Memories** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2597204` (Wikidata : [Q2597204](https://www.wikidata.org/wiki/Q2597204)).
 
 ## Audit de conformite structurelle
 

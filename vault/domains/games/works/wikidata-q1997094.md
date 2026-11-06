@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1997094
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-02-26
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q1997094:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Pro Evolution Soccer 2011 3D
 
-**Pro Evolution Soccer 2011 3D** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1997094](https://www.wikidata.org/wiki/Q1997094)).
+**Pro Evolution Soccer 2011 3D** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1997094` (Wikidata : [Q1997094](https://www.wikidata.org/wiki/Q1997094)).
 
 ## Audit de conformite structurelle
 

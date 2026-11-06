@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1087832
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-03-21
-tags: [jeu, cataloged, hack-and-slash]
+tags: [jeu, audited, hack-and-slash]
 observations:
   - id: wikidata-q1087832:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Warriors Orochi
 
-**Warriors Orochi** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1087832](https://www.wikidata.org/wiki/Q1087832)).
+**Warriors Orochi** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1087832` (Wikidata : [Q1087832](https://www.wikidata.org/wiki/Q1087832)).
 
 ## Audit de conformite structurelle
 

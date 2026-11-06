@@ -13,7 +13,7 @@ wikidata_id: Q60558456
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-12-04
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/760060/header.jpg"
-tags: [jeu, cataloged, rpg, strategy]
+tags: [jeu, audited, rpg, strategy]
 observations:
   - id: wikidata-q60558456:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Mutant Year Zero: Road to Eden
 
-**Mutant Year Zero: Road to Eden** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q60558456](https://www.wikidata.org/wiki/Q60558456)).
+**Mutant Year Zero: Road to Eden** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q60558456` (Wikidata : [Q60558456](https://www.wikidata.org/wiki/Q60558456)).
 
 ## Audit de conformite structurelle
 

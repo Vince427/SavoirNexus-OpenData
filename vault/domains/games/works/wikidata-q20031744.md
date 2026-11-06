@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q20031744
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-01-01
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q20031744:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Skylanders: SuperChargers
 
-**Skylanders: SuperChargers** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20031744](https://www.wikidata.org/wiki/Q20031744)).
+**Skylanders: SuperChargers** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20031744` (Wikidata : [Q20031744](https://www.wikidata.org/wiki/Q20031744)).
 
 ## Audit de conformite structurelle
 

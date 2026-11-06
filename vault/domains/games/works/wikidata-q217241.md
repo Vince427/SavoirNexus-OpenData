@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q217241
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-02-28
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q217241:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -101,7 +101,7 @@ observations:
 
 # 24 Heures chrono, le jeu
 
-**24 Heures chrono, le jeu** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q217241](https://www.wikidata.org/wiki/Q217241)).
+**24 Heures chrono, le jeu** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q217241` (Wikidata : [Q217241](https://www.wikidata.org/wiki/Q217241)).
 
 ## Audit de conformite structurelle
 

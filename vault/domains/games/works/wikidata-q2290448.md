@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2290448
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-07-06
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q2290448:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Tekken 5: Dark Resurrection
 
-**Tekken 5: Dark Resurrection** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2290448](https://www.wikidata.org/wiki/Q2290448)).
+**Tekken 5: Dark Resurrection** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2290448` (Wikidata : [Q2290448](https://www.wikidata.org/wiki/Q2290448)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q23647157
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-04-19
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/281640/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q23647157:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Banner Saga 2
 
-**The Banner Saga 2** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q23647157](https://www.wikidata.org/wiki/Q23647157)).
+**The Banner Saga 2** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q23647157` (Wikidata : [Q23647157](https://www.wikidata.org/wiki/Q23647157)).
 
 ## Audit de conformite structurelle
 

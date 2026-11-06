@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q9287527
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-20
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q9287527:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # BlazBlue: Continuum Shift
 
-**BlazBlue: Continuum Shift** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q9287527](https://www.wikidata.org/wiki/Q9287527)).
+**BlazBlue: Continuum Shift** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q9287527` (Wikidata : [Q9287527](https://www.wikidata.org/wiki/Q9287527)).
 
 ## Audit de conformite structurelle
 

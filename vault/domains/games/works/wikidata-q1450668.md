@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1450668
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-05-20
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1450668:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Haze
 
-**Haze** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1450668](https://www.wikidata.org/wiki/Q1450668)).
+**Haze** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1450668` (Wikidata : [Q1450668](https://www.wikidata.org/wiki/Q1450668)).
 
 ## Audit de conformite structurelle
 

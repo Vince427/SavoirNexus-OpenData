@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q924810
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-01-26
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q924810:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Bleach: The Blade of Fate
 
-**Bleach: The Blade of Fate** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q924810](https://www.wikidata.org/wiki/Q924810)).
+**Bleach: The Blade of Fate** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q924810` (Wikidata : [Q924810](https://www.wikidata.org/wiki/Q924810)).
 
 ## Audit de conformite structurelle
 

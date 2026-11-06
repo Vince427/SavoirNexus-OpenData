@@ -13,7 +13,7 @@ wikidata_id: Q756558
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-08-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/20510/header.jpg"
-tags: [jeu, cataloged, rpg, shooter]
+tags: [jeu, audited, rpg, shooter]
 observations:
   - id: wikidata-q756558:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # STALKER: Clear Sky
 
-**STALKER: Clear Sky** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q756558](https://www.wikidata.org/wiki/Q756558)).
+**STALKER: Clear Sky** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q756558` (Wikidata : [Q756558](https://www.wikidata.org/wiki/Q756558)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q265889
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-02-10
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q265889:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -102,7 +102,7 @@ observations:
 
 # The House of the Dead: Overkill
 
-**The House of the Dead: Overkill** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q265889](https://www.wikidata.org/wiki/Q265889)).
+**The House of the Dead: Overkill** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q265889` (Wikidata : [Q265889](https://www.wikidata.org/wiki/Q265889)).
 
 ## Audit de conformite structurelle
 

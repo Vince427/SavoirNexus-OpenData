@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q539431
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-03-24
-tags: [jeu, cataloged, simulation, sports]
+tags: [jeu, audited, simulation, sports]
 observations:
   - id: wikidata-q539431:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -101,7 +101,7 @@ observations:
 
 # Pro Evolution Soccer Management
 
-**Pro Evolution Soccer Management** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q539431](https://www.wikidata.org/wiki/Q539431)).
+**Pro Evolution Soccer Management** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q539431` (Wikidata : [Q539431](https://www.wikidata.org/wiki/Q539431)).
 
 ## Audit de conformite structurelle
 

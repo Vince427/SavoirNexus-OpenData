@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q257816
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-03-22
-tags: [jeu, cataloged, adventure, rpg, simulation, strategy]
+tags: [jeu, audited, adventure, rpg, simulation, strategy]
 observations:
   - id: wikidata-q257816:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Les Sims Medieval
 
-**Les Sims Medieval** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q257816](https://www.wikidata.org/wiki/Q257816)).
+**Les Sims Medieval** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q257816` (Wikidata : [Q257816](https://www.wikidata.org/wiki/Q257816)).
 
 ## Audit de conformite structurelle
 

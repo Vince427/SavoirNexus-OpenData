@@ -13,7 +13,7 @@ wikidata_id: Q56643350
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-08-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/688420/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q56643350:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Bad North
 
-**Bad North** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q56643350](https://www.wikidata.org/wiki/Q56643350)).
+**Bad North** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q56643350` (Wikidata : [Q56643350](https://www.wikidata.org/wiki/Q56643350)).
 
 ## Audit de conformite structurelle
 

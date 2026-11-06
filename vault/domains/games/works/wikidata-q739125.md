@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q739125
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-10-27
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q739125:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -102,7 +102,7 @@ observations:
 
 # Pro Evolution Soccer 6
 
-**Pro Evolution Soccer 6** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q739125](https://www.wikidata.org/wiki/Q739125)).
+**Pro Evolution Soccer 6** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q739125` (Wikidata : [Q739125](https://www.wikidata.org/wiki/Q739125)).
 
 ## Audit de conformite structurelle
 

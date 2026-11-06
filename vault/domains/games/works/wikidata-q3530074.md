@@ -13,7 +13,7 @@ wikidata_id: Q3530074
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/259680/header.jpg"
-tags: [jeu, cataloged, roguelike]
+tags: [jeu, audited, roguelike]
 observations:
   - id: wikidata-q3530074:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # ToME
 
-**ToME** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3530074](https://www.wikidata.org/wiki/Q3530074)).
+**ToME** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3530074` (Wikidata : [Q3530074](https://www.wikidata.org/wiki/Q3530074)).
 
 ## Audit de conformite structurelle
 

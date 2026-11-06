@@ -13,7 +13,7 @@ wikidata_id: Q1180940
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-02-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/247660/header.jpg"
-tags: [jeu, cataloged, horror]
+tags: [jeu, audited, horror]
 observations:
   - id: wikidata-q1180940:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Deadly Premonition
 
-**Deadly Premonition** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1180940](https://www.wikidata.org/wiki/Q1180940)).
+**Deadly Premonition** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1180940` (Wikidata : [Q1180940](https://www.wikidata.org/wiki/Q1180940)).
 
 ## Audit de conformite structurelle
 

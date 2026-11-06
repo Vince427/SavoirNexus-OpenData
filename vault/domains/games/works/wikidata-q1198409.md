@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1198409
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-10-27
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1198409:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # La storia della Arcana Famiglia
 
-**La storia della Arcana Famiglia** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1198409](https://www.wikidata.org/wiki/Q1198409)).
+**La storia della Arcana Famiglia** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1198409` (Wikidata : [Q1198409](https://www.wikidata.org/wiki/Q1198409)).
 
 ## Audit de conformite structurelle
 

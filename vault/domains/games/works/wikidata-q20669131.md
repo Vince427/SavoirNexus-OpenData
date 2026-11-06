@@ -13,7 +13,7 @@ wikidata_id: Q20669131
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-03-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/375900/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q20669131:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # TrackMania Turbo
 
-**TrackMania Turbo** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20669131](https://www.wikidata.org/wiki/Q20669131)).
+**TrackMania Turbo** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20669131` (Wikidata : [Q20669131](https://www.wikidata.org/wiki/Q20669131)).
 
 ## Audit de conformite structurelle
 

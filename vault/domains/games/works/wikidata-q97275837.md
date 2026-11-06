@@ -13,7 +13,7 @@ wikidata_id: Q97275837
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-06-19
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1230140/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q97275837:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Atri : My Dear Moments
 
-**Atri : My Dear Moments** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q97275837](https://www.wikidata.org/wiki/Q97275837)).
+**Atri : My Dear Moments** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q97275837` (Wikidata : [Q97275837](https://www.wikidata.org/wiki/Q97275837)).
 
 ## Audit de conformite structurelle
 

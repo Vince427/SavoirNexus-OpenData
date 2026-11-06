@@ -13,7 +13,7 @@ wikidata_id: Q21083982
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-10-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/488790/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q21083982:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # South Park : L'Annale du Destin
 
-**South Park : L'Annale du Destin** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q21083982](https://www.wikidata.org/wiki/Q21083982)).
+**South Park : L'Annale du Destin** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q21083982` (Wikidata : [Q21083982](https://www.wikidata.org/wiki/Q21083982)).
 
 ## Audit de conformite structurelle
 

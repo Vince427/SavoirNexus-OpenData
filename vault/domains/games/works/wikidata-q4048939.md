@@ -13,7 +13,7 @@ wikidata_id: Q4048939
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-08-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/247950/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q4048939:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Sacred 3
 
-**Sacred 3** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4048939](https://www.wikidata.org/wiki/Q4048939)).
+**Sacred 3** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4048939` (Wikidata : [Q4048939](https://www.wikidata.org/wiki/Q4048939)).
 
 ## Audit de conformite structurelle
 

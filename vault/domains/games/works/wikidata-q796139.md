@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q796139
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-07-14
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q796139:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -102,7 +102,7 @@ observations:
 
 # Captain America : Super Soldat
 
-**Captain America : Super Soldat** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q796139](https://www.wikidata.org/wiki/Q796139)).
+**Captain America : Super Soldat** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q796139` (Wikidata : [Q796139](https://www.wikidata.org/wiki/Q796139)).
 
 ## Audit de conformite structurelle
 

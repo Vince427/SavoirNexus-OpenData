@@ -13,7 +13,7 @@ wikidata_id: Q2664926
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-09-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/35030/header.jpg"
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2664926:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # L'Entraîneur 2010
 
-**L'Entraîneur 2010** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2664926](https://www.wikidata.org/wiki/Q2664926)).
+**L'Entraîneur 2010** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2664926` (Wikidata : [Q2664926](https://www.wikidata.org/wiki/Q2664926)).
 
 ## Audit de conformite structurelle
 

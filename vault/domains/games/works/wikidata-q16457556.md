@@ -13,7 +13,7 @@ wikidata_id: Q16457556
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-03-31
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/257850/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q16457556:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Hyper Light Drifter
 
-**Hyper Light Drifter** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16457556](https://www.wikidata.org/wiki/Q16457556)).
+**Hyper Light Drifter** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16457556` (Wikidata : [Q16457556](https://www.wikidata.org/wiki/Q16457556)).
 
 ## Audit de conformite structurelle
 

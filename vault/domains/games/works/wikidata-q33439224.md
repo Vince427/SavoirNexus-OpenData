@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q33439224
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-07-27
-tags: [jeu, cataloged, action, puzzle]
+tags: [jeu, audited, action, puzzle]
 observations:
   - id: wikidata-q33439224:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Hey! Pikmin
 
-**Hey! Pikmin** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q33439224](https://www.wikidata.org/wiki/Q33439224)).
+**Hey! Pikmin** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q33439224` (Wikidata : [Q33439224](https://www.wikidata.org/wiki/Q33439224)).
 
 ## Audit de conformite structurelle
 

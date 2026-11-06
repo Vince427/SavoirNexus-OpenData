@@ -13,7 +13,7 @@ wikidata_id: Q18857304
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-04-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/363680/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q18857304:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Battlefleet Gothic: Armada
 
-**Battlefleet Gothic: Armada** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18857304](https://www.wikidata.org/wiki/Q18857304)).
+**Battlefleet Gothic: Armada** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18857304` (Wikidata : [Q18857304](https://www.wikidata.org/wiki/Q18857304)).
 
 ## Audit de conformite structurelle
 

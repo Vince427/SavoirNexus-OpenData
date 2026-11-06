@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2093486
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-03-06
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2093486:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Yakuza Kenzan!
 
-**Yakuza Kenzan!** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2093486](https://www.wikidata.org/wiki/Q2093486)).
+**Yakuza Kenzan!** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2093486` (Wikidata : [Q2093486](https://www.wikidata.org/wiki/Q2093486)).
 
 ## Audit de conformite structurelle
 

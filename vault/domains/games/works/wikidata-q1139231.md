@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1139231
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-08-11
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q1139231:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Super Pokémon Rumble
 
-**Super Pokémon Rumble** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1139231](https://www.wikidata.org/wiki/Q1139231)).
+**Super Pokémon Rumble** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1139231` (Wikidata : [Q1139231](https://www.wikidata.org/wiki/Q1139231)).
 
 ## Audit de conformite structurelle
 

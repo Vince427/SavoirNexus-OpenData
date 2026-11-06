@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q2080522
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-09-06
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2080522:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -101,7 +101,7 @@ observations:
 
 # Final Fantasy Dimensions
 
-**Final Fantasy Dimensions** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2080522](https://www.wikidata.org/wiki/Q2080522)).
+**Final Fantasy Dimensions** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2080522` (Wikidata : [Q2080522](https://www.wikidata.org/wiki/Q2080522)).
 
 ## Audit de conformite structurelle
 

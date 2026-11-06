@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q61727129
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-08-30
-tags: [jeu, cataloged, action, adventure, hack-and-slash]
+tags: [jeu, audited, action, adventure, hack-and-slash]
 observations:
   - id: wikidata-q61727129:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -101,7 +101,7 @@ observations:
 
 # Astral Chain
 
-**Astral Chain** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q61727129](https://www.wikidata.org/wiki/Q61727129)).
+**Astral Chain** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q61727129` (Wikidata : [Q61727129](https://www.wikidata.org/wiki/Q61727129)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q2075645
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-03-06
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13510/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2075645:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -103,7 +103,7 @@ observations:
 
 # Tom Clancy's Ghost Recon Advanced Warfighter 2
 
-**Tom Clancy's Ghost Recon Advanced Warfighter 2** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2075645](https://www.wikidata.org/wiki/Q2075645)).
+**Tom Clancy's Ghost Recon Advanced Warfighter 2** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2075645` (Wikidata : [Q2075645](https://www.wikidata.org/wiki/Q2075645)).
 
 ## Audit de conformite structurelle
 

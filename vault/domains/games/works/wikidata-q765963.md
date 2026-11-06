@@ -13,7 +13,7 @@ wikidata_id: Q765963
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-11-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1060210/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q765963:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Disaster Report 4 Plus: Summer Memories
 
-**Disaster Report 4 Plus: Summer Memories** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q765963](https://www.wikidata.org/wiki/Q765963)).
+**Disaster Report 4 Plus: Summer Memories** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q765963` (Wikidata : [Q765963](https://www.wikidata.org/wiki/Q765963)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2002553
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-20
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2002553:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Les Experts : Préméditation
 
-**Les Experts : Préméditation** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2002553](https://www.wikidata.org/wiki/Q2002553)).
+**Les Experts : Préméditation** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2002553` (Wikidata : [Q2002553](https://www.wikidata.org/wiki/Q2002553)).
 
 ## Audit de conformite structurelle
 

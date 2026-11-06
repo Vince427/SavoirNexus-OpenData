@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q648128
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-06-23
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q648128:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Battlefield: Bad Company
 
-**Battlefield: Bad Company** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q648128](https://www.wikidata.org/wiki/Q648128)).
+**Battlefield: Bad Company** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q648128` (Wikidata : [Q648128](https://www.wikidata.org/wiki/Q648128)).
 
 ## Audit de conformite structurelle
 

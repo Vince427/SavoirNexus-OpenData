@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1189155
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-06-03
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1189155:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # La Mémoire dans la peau
 
-**La Mémoire dans la peau** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1189155](https://www.wikidata.org/wiki/Q1189155)).
+**La Mémoire dans la peau** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1189155` (Wikidata : [Q1189155](https://www.wikidata.org/wiki/Q1189155)).
 
 ## Audit de conformite structurelle
 

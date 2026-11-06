@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2287871
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-04-12
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2287871:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Apollo Justice: Ace Attorney
 
-**Apollo Justice: Ace Attorney** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2287871](https://www.wikidata.org/wiki/Q2287871)).
+**Apollo Justice: Ace Attorney** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2287871` (Wikidata : [Q2287871](https://www.wikidata.org/wiki/Q2287871)).
 
 ## Audit de conformite structurelle
 

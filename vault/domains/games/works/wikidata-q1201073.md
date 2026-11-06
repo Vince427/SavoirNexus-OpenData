@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1201073
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-01-01
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1201073:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Da Capo II
 
-**Da Capo II** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1201073](https://www.wikidata.org/wiki/Q1201073)).
+**Da Capo II** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1201073` (Wikidata : [Q1201073](https://www.wikidata.org/wiki/Q1201073)).
 
 ## Audit de conformite structurelle
 

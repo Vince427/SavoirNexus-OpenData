@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1141794
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-03-17
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1141794:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Pokémon Conquest
 
-**Pokémon Conquest** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1141794](https://www.wikidata.org/wiki/Q1141794)).
+**Pokémon Conquest** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1141794` (Wikidata : [Q1141794](https://www.wikidata.org/wiki/Q1141794)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q68888832
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-11-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/954740/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q68888832:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Terminator : Resistance
 
-**Terminator : Resistance** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q68888832](https://www.wikidata.org/wiki/Q68888832)).
+**Terminator : Resistance** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q68888832` (Wikidata : [Q68888832](https://www.wikidata.org/wiki/Q68888832)).
 
 ## Audit de conformite structurelle
 

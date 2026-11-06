@@ -13,7 +13,7 @@ wikidata_id: Q28495809
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-10-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/458770/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q28495809:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # WRC 6
 
-**WRC 6** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28495809](https://www.wikidata.org/wiki/Q28495809)).
+**WRC 6** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28495809` (Wikidata : [Q28495809](https://www.wikidata.org/wiki/Q28495809)).
 
 ## Audit de conformite structurelle
 

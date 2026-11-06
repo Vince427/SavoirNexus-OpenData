@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2539807
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-15
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2539807:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Tony Hawk's Proving Ground
 
-**Tony Hawk's Proving Ground** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2539807](https://www.wikidata.org/wiki/Q2539807)).
+**Tony Hawk's Proving Ground** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2539807` (Wikidata : [Q2539807](https://www.wikidata.org/wiki/Q2539807)).
 
 ## Audit de conformite structurelle
 

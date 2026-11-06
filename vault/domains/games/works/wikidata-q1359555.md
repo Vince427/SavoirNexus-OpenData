@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1359555
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-19
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1359555:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Red Steel
 
-**Red Steel** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1359555](https://www.wikidata.org/wiki/Q1359555)).
+**Red Steel** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1359555` (Wikidata : [Q1359555](https://www.wikidata.org/wiki/Q1359555)).
 
 ## Audit de conformite structurelle
 

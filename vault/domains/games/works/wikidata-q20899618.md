@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q20899618
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-01-01
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q20899618:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -101,7 +101,7 @@ observations:
 
 # Tearaway Unfolded
 
-**Tearaway Unfolded** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20899618](https://www.wikidata.org/wiki/Q20899618)).
+**Tearaway Unfolded** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20899618` (Wikidata : [Q20899618](https://www.wikidata.org/wiki/Q20899618)).
 
 ## Audit de conformite structurelle
 

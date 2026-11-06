@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3274291
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-02-05
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q3274291:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Diddy Kong Racing DS
 
-**Diddy Kong Racing DS** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3274291](https://www.wikidata.org/wiki/Q3274291)).
+**Diddy Kong Racing DS** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3274291` (Wikidata : [Q3274291](https://www.wikidata.org/wiki/Q3274291)).
 
 ## Audit de conformite structurelle
 

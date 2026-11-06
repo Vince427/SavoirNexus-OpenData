@@ -13,7 +13,7 @@ wikidata_id: Q1369354
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-05-02
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10490/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1369354:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Iron Man
 
-**Iron Man** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1369354](https://www.wikidata.org/wiki/Q1369354)).
+**Iron Man** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1369354` (Wikidata : [Q1369354](https://www.wikidata.org/wiki/Q1369354)).
 
 ## Audit de conformite structurelle
 

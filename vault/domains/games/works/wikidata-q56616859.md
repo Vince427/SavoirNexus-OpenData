@@ -13,7 +13,7 @@ wikidata_id: Q56616859
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-04-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/985890/header.jpg"
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q56616859:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Streets of Rage 4
 
-**Streets of Rage 4** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q56616859](https://www.wikidata.org/wiki/Q56616859)).
+**Streets of Rage 4** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q56616859` (Wikidata : [Q56616859](https://www.wikidata.org/wiki/Q56616859)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q1495152
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-08-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/29180/header.jpg"
-tags: [jeu, cataloged, puzzle, simulation]
+tags: [jeu, audited, puzzle, simulation]
 observations:
   - id: wikidata-q1495152:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Osmos
 
-**Osmos** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1495152](https://www.wikidata.org/wiki/Q1495152)).
+**Osmos** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1495152` (Wikidata : [Q1495152](https://www.wikidata.org/wiki/Q1495152)).
 
 ## Audit de conformite structurelle
 

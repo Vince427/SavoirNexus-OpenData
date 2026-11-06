@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1202172
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-12-10
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1202172:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Tales of Graces
 
-**Tales of Graces** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1202172](https://www.wikidata.org/wiki/Q1202172)).
+**Tales of Graces** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1202172` (Wikidata : [Q1202172](https://www.wikidata.org/wiki/Q1202172)).
 
 ## Audit de conformite structurelle
 

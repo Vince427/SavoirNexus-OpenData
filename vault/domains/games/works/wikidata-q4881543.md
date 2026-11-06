@@ -13,7 +13,7 @@ wikidata_id: Q4881543
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-12-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/78000/header.jpg"
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q4881543:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Bejeweled 3
 
-**Bejeweled 3** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4881543](https://www.wikidata.org/wiki/Q4881543)).
+**Bejeweled 3** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4881543` (Wikidata : [Q4881543](https://www.wikidata.org/wiki/Q4881543)).
 
 ## Audit de conformite structurelle
 

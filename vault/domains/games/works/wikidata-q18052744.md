@@ -13,7 +13,7 @@ wikidata_id: Q18052744
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-11-05
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/327410/header.jpg"
-tags: [jeu, cataloged, adventure, rpg]
+tags: [jeu, audited, adventure, rpg]
 observations:
   - id: wikidata-q18052744:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # A Bird Story
 
-**A Bird Story** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18052744](https://www.wikidata.org/wiki/Q18052744)).
+**A Bird Story** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18052744` (Wikidata : [Q18052744](https://www.wikidata.org/wiki/Q18052744)).
 
 ## Audit de conformite structurelle
 

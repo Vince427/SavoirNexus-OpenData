@@ -7,13 +7,13 @@ platforms: [pc, web]
 platforms_source: ["visionOS", "macOS", "web browser", "Microsoft Windows", "Linux"]
 genres: [adventure, rpg]
 genres_source: ["fantasy video game", "cyberpunk video game", "role-playing video game", "interactive fiction", "post-apocalyptic video game", "mystery video game"]
-monetization_model: premium
+monetization_model: free-to-play
 coverage_status: audited
 wikidata_id: Q85738917
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-12-05
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1519310/header.jpg"
-tags: [jeu, cataloged, adventure, rpg]
+tags: [jeu, audited, adventure, rpg]
 observations:
   - id: wikidata-q85738917:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -24,25 +24,25 @@ observations:
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-500-part2-audit.md
-    statement: "Modele complet a achat unique sans aucune mecanique de coffre aleatoire ni tirage de recompense payant."
+    statement: "Aucune mecanique de coffre aleatoire, de tirage gacha ou de pochette surprise payante n'est observee sur ce titre (modele free-to-play)."
     evidence:
-      - source_url: https://store.steampowered.com/app/1519310/
-        archive_url: https://web.archive.org/web/20261001000000/https://store.steampowered.com/app/1519310/
-        quote: "Audit structurel [coffre-aleatoire] sur wikidata-q85738917 (AI Dungeon 2) : jeu commercial sans caisses de butin payantes."
+      - source_url: https://www.wikidata.org/wiki/Q85738917
+        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q85738917
+        quote: "Verification contradictoire [coffre-aleatoire] sur wikidata-q85738917 (AI Dungeon 2) [NOT_OBSERVED] : critere coffre-aleatoire non observe (modele free-to-play)."
   - id: wikidata-q85738917:obs-monnaie-intermediaire-01
     author: audit-stream-4-indie-b2
     status: verified
     ontology_version: "1.1.0"
     criterion: /patterns/monnaie-intermediaire
-    result: not_observed
+    result: observed
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-500-part2-audit.md
-    statement: "Economie de jeu fermee sans boutique de devises virtuelles ou conversion monetaire en argent reel."
+    statement: "Presence confirmee d'une devise virtuelle intermediaire achetable en argent reel dans la boutique du jeu : Jeu d'aventure textuel IA freemium/abonnement : devise payante (**Dragon Scales**) et système de barre d'énergie (**Energy**) limitant le nombre d'actions IA par session pour les joueurs gratuits (avant passage aux paliers d'abonnement)."
     evidence:
-      - source_url: https://store.steampowered.com/app/1519310/
-        archive_url: https://web.archive.org/web/20261001000000/https://store.steampowered.com/app/1519310/
-        quote: "Audit structurel [monnaie-intermediaire] sur wikidata-q85738917 (AI Dungeon 2) : absence de monnaie virtuelle intermediaire payante."
+      - source_url: https://www.wikidata.org/wiki/Q85738917
+        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q85738917
+        quote: "Verification contradictoire [monnaie-intermediaire] sur wikidata-q85738917 (AI Dungeon 2) [OBSERVED] : Jeu d'aventure textuel IA freemium/abonnement : devise payante (**Dragon Scales**) et système de barre d'énergie (**Energy**) limitant le nombre d'actions IA par session pour les joueurs gratuits (avant passage aux paliers d'abonnement)."
   - id: wikidata-q85738917:obs-passe-saisonnier-expirant-01
     author: audit-stream-4-indie-b2
     status: verified
@@ -52,11 +52,11 @@ observations:
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-500-part2-audit.md
-    statement: "Contenu integralement accessible et perenne sans passe de combat saisonnier ni expiration de recompenses."
+    statement: "Absence de passe de combat ou passe saisonnier payant a expiration temporelle sur ce titre (modele free-to-play)."
     evidence:
-      - source_url: https://store.steampowered.com/app/1519310/
-        archive_url: https://web.archive.org/web/20261001000000/https://store.steampowered.com/app/1519310/
-        quote: "Audit structurel [passe-saisonnier-expirant] sur wikidata-q85738917 (AI Dungeon 2) : experience complete perenne sans passe saisonnier a decompte."
+      - source_url: https://www.wikidata.org/wiki/Q85738917
+        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q85738917
+        quote: "Verification contradictoire [passe-saisonnier-expirant] sur wikidata-q85738917 (AI Dungeon 2) [NOT_OBSERVED] : critere passe-saisonnier-expirant non observe (modele free-to-play)."
   - id: wikidata-q85738917:obs-fausse-urgence-01
     author: audit-stream-4-indie-b2
     status: verified
@@ -66,11 +66,11 @@ observations:
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-500-part2-audit.md
-    statement: "Absence de boutique d'objets rotative avec minuteurs ou d'offres ephemeres induisant une fausse urgence."
+    statement: "Absence de boutique rotative a compte a rebours ou d'offres ephemeres induisant une fausse urgence sur ce titre (modele free-to-play)."
     evidence:
-      - source_url: https://store.steampowered.com/app/1519310/
-        archive_url: https://web.archive.org/web/20261001000000/https://store.steampowered.com/app/1519310/
-        quote: "Audit structurel [fausse-urgence] sur wikidata-q85738917 (AI Dungeon 2) : absence de rotation artificielle et de marketing de FOMO."
+      - source_url: https://www.wikidata.org/wiki/Q85738917
+        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q85738917
+        quote: "Verification contradictoire [fausse-urgence] sur wikidata-q85738917 (AI Dungeon 2) [NOT_OBSERVED] : critere fausse-urgence non observe (modele free-to-play)."
   - id: wikidata-q85738917:obs-avantage-competitif-payant-01
     author: audit-stream-4-indie-b2
     status: verified
@@ -80,37 +80,41 @@ observations:
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-500-part2-audit.md
-    statement: "Progression et competences fondees exclusivement sur l'avancement en jeu sans bonus pay-to-win."
+    statement: "Aucun achat en argent reel ne confere d'avantage statistique ou competitif direct sur ce titre (modele free-to-play)."
     evidence:
-      - source_url: https://store.steampowered.com/app/1519310/
-        archive_url: https://web.archive.org/web/20261001000000/https://store.steampowered.com/app/1519310/
-        quote: "Audit structurel [avantage-competitif-payant] sur wikidata-q85738917 (AI Dungeon 2) : puissance et maitrise fondees purement sur le jeu."
+      - source_url: https://www.wikidata.org/wiki/Q85738917
+        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q85738917
+        quote: "Verification contradictoire [avantage-competitif-payant] sur wikidata-q85738917 (AI Dungeon 2) [NOT_OBSERVED] : critere avantage-competitif-payant non observe (modele free-to-play)."
   - id: wikidata-q85738917:obs-systeme-energie-01
     author: audit-stream-4-indie-b2
     status: verified
     ontology_version: "1.1.0"
     criterion: /patterns/systeme-energie
-    result: not_observed
+    result: observed
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-500-part2-audit.md
-    statement: "Parties libres sans jauge d'endurance ni limitation du temps de jeu par minuteries de recharge."
+    statement: "Presence confirmee d'une jauge d'energie, d'endurance ou de minuteurs d'attente limitant les sessions sauf paiement : Jeu d'aventure textuel IA freemium/abonnement : devise payante (**Dragon Scales**) et système de barre d'énergie (**Energy**) limitant le nombre d'actions IA par session pour les joueurs gratuits (avant passage aux paliers d'abonnement)."
     evidence:
-      - source_url: https://store.steampowered.com/app/1519310/
-        archive_url: https://web.archive.org/web/20261001000000/https://store.steampowered.com/app/1519310/
-        quote: "Audit structurel [systeme-energie] sur wikidata-q85738917 (AI Dungeon 2) : sessions sans contrainte de compteur d'energie."
+      - source_url: https://www.wikidata.org/wiki/Q85738917
+        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q85738917
+        quote: "Verification contradictoire [systeme-energie] sur wikidata-q85738917 (AI Dungeon 2) [OBSERVED] : Jeu d'aventure textuel IA freemium/abonnement : devise payante (**Dragon Scales**) et système de barre d'énergie (**Energy**) limitant le nombre d'actions IA par session pour les joueurs gratuits (avant passage aux paliers d'abonnement)."
 ---
 
 # AI Dungeon 2
 
-**AI Dungeon 2** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q85738917](https://www.wikidata.org/wiki/Q85738917)).
+**AI Dungeon 2** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q85738917` (Wikidata : [Q85738917](https://www.wikidata.org/wiki/Q85738917)).
 
 ## Audit de conformite structurelle
 
-L'audit des six criteres structurels du Palier 1 (store-and-gameplay-review) confirme que le titre repond aux exigences d'integrite commerciale :
-- Absence de tirages aleatoires et coffres payants ([/patterns/coffre-aleatoire](/patterns/coffre-aleatoire)).
-- Economie fermee sans devise virtuelle intermediaire payante ([/patterns/monnaie-intermediaire](/patterns/monnaie-intermediaire)).
-- Absence de passe saisonnier ephemere ([/patterns/passe-saisonnier-expirant](/patterns/passe-saisonnier-expirant)).
-- Pas de boutique rotative exploitant la fausse urgence ([/patterns/fausse-urgence](/patterns/fausse-urgence)).
-- Progression fondee sur le gameplay sans avantage competitif payant ([/patterns/avantage-competitif-payant](/patterns/avantage-competitif-payant)).
-- Temps de jeu non contraint par une jauge d'energie ([/patterns/systeme-energie](/patterns/systeme-energie)).
+L'audit contradictoire des six criteres structurels du Palier 1 (`store-and-gameplay-review`, modele **free-to-play**) met en evidence **2 pratique(s) observee(s)** sur 6 :
+- **[NON OBSERVE]** Coffres aleatoires / Tirages Gacha ([/patterns/coffre-aleatoire](/patterns/coffre-aleatoire)) : aucune occurrence de cette pratique sur ce titre.
+- **[OBSERVE]** Monnaie virtuelle intermediaire payante ([/patterns/monnaie-intermediaire](/patterns/monnaie-intermediaire)) : mecanique identifiee et documentee sur ce titre.
+- **[NON OBSERVE]** Passe saisonnier expirant (Battle Pass) ([/patterns/passe-saisonnier-expirant](/patterns/passe-saisonnier-expirant)) : aucune occurrence de cette pratique sur ce titre.
+- **[NON OBSERVE]** Fausse urgence / Boutique rotative (FOMO) ([/patterns/fausse-urgence](/patterns/fausse-urgence)) : aucune occurrence de cette pratique sur ce titre.
+- **[NON OBSERVE]** Avantage competitif ou d'acceleration payant ([/patterns/avantage-competitif-payant](/patterns/avantage-competitif-payant)) : aucune occurrence de cette pratique sur ce titre.
+- **[OBSERVE]** Systeme d'energie / Jauge d'endurance ([/patterns/systeme-energie](/patterns/systeme-energie)) : mecanique identifiee et documentee sur ce titre.
+
+### Synthese factuelle de la monetisation
+
+Jeu d'aventure textuel IA freemium/abonnement : devise payante (**Dragon Scales**) et système de barre d'énergie (**Energy**) limitant le nombre d'actions IA par session pour les joueurs gratuits (avant passage aux paliers d'abonnement).

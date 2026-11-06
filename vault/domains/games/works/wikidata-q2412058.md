@@ -13,7 +13,7 @@ wikidata_id: Q2412058
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-06
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40920/header.jpg"
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2412058:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # NBA 2K10
 
-**NBA 2K10** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2412058](https://www.wikidata.org/wiki/Q2412058)).
+**NBA 2K10** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2412058` (Wikidata : [Q2412058](https://www.wikidata.org/wiki/Q2412058)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2624748
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-09-13
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q2624748:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Fate/tiger colosseum
 
-**Fate/tiger colosseum** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2624748](https://www.wikidata.org/wiki/Q2624748)).
+**Fate/tiger colosseum** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2624748` (Wikidata : [Q2624748](https://www.wikidata.org/wiki/Q2624748)).
 
 ## Audit de conformite structurelle
 

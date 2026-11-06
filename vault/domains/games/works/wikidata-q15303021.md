@@ -13,7 +13,7 @@ wikidata_id: Q15303021
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-01-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/351970/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q15303021:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Tales of Zestiria
 
-**Tales of Zestiria** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15303021](https://www.wikidata.org/wiki/Q15303021)).
+**Tales of Zestiria** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15303021` (Wikidata : [Q15303021](https://www.wikidata.org/wiki/Q15303021)).
 
 ## Audit de conformite structurelle
 

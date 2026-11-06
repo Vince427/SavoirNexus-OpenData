@@ -13,7 +13,7 @@ wikidata_id: Q17512815
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-11-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/295790/header.jpg"
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q17512815:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Never Alone
 
-**Never Alone** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17512815](https://www.wikidata.org/wiki/Q17512815)).
+**Never Alone** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17512815` (Wikidata : [Q17512815](https://www.wikidata.org/wiki/Q17512815)).
 
 ## Audit de conformite structurelle
 

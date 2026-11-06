@@ -13,7 +13,7 @@ wikidata_id: Q61791403
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-09-19
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/785790/header.jpg"
-tags: [jeu, cataloged, casual, sports]
+tags: [jeu, audited, casual, sports]
 observations:
   - id: wikidata-q61791403:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # What the Golf
 
-**What the Golf** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q61791403](https://www.wikidata.org/wiki/Q61791403)).
+**What the Golf** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q61791403` (Wikidata : [Q61791403](https://www.wikidata.org/wiki/Q61791403)).
 
 ## Audit de conformite structurelle
 

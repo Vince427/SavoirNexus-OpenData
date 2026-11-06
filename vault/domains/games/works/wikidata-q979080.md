@@ -13,7 +13,7 @@ wikidata_id: Q979080
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/340990/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q979080:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Volt, star malgré lui
 
-**Volt, star malgré lui** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q979080](https://www.wikidata.org/wiki/Q979080)).
+**Volt, star malgré lui** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q979080` (Wikidata : [Q979080](https://www.wikidata.org/wiki/Q979080)).
 
 ## Audit de conformite structurelle
 

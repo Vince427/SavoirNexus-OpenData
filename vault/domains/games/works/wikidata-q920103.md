@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q920103
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-06-19
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q920103:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Super Mario Stadium Baseball
 
-**Super Mario Stadium Baseball** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q920103](https://www.wikidata.org/wiki/Q920103)).
+**Super Mario Stadium Baseball** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q920103` (Wikidata : [Q920103](https://www.wikidata.org/wiki/Q920103)).
 
 ## Audit de conformite structurelle
 

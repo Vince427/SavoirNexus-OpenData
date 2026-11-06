@@ -13,7 +13,7 @@ wikidata_id: Q2526173
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-04-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40390/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q2526173:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Risen 2
 
-**Risen 2** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2526173](https://www.wikidata.org/wiki/Q2526173)).
+**Risen 2** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2526173` (Wikidata : [Q2526173](https://www.wikidata.org/wiki/Q2526173)).
 
 ## Audit de conformite structurelle
 

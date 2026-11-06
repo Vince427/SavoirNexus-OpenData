@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1323643
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-01-25
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1323643:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Fortune Arterial
 
-**Fortune Arterial** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1323643](https://www.wikidata.org/wiki/Q1323643)).
+**Fortune Arterial** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1323643` (Wikidata : [Q1323643](https://www.wikidata.org/wiki/Q1323643)).
 
 ## Audit de conformite structurelle
 

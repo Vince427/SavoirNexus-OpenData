@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q7775651
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-08-23
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q7775651:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # The Wonderful 101
 
-**The Wonderful 101** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q7775651](https://www.wikidata.org/wiki/Q7775651)).
+**The Wonderful 101** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q7775651` (Wikidata : [Q7775651](https://www.wikidata.org/wiki/Q7775651)).
 
 ## Audit de conformite structurelle
 

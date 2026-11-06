@@ -13,7 +13,7 @@ wikidata_id: Q608746
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-08-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/974090/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q608746:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Gravity Bone
 
-**Gravity Bone** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q608746](https://www.wikidata.org/wiki/Q608746)).
+**Gravity Bone** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q608746` (Wikidata : [Q608746](https://www.wikidata.org/wiki/Q608746)).
 
 ## Audit de conformite structurelle
 

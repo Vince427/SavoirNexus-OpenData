@@ -13,7 +13,7 @@ wikidata_id: Q67198781
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-11-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/973580/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q67198781:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Sniper: Ghost Warrior Contracts
 
-**Sniper: Ghost Warrior Contracts** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q67198781](https://www.wikidata.org/wiki/Q67198781)).
+**Sniper: Ghost Warrior Contracts** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q67198781` (Wikidata : [Q67198781](https://www.wikidata.org/wiki/Q67198781)).
 
 ## Audit de conformite structurelle
 

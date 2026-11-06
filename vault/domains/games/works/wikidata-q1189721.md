@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1189721
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-07-12
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1189721:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -102,7 +102,7 @@ observations:
 
 # Harry Potter et les Reliques de la Mort, partie 2
 
-**Harry Potter et les Reliques de la Mort, partie 2** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1189721](https://www.wikidata.org/wiki/Q1189721)).
+**Harry Potter et les Reliques de la Mort, partie 2** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1189721` (Wikidata : [Q1189721](https://www.wikidata.org/wiki/Q1189721)).
 
 ## Audit de conformite structurelle
 

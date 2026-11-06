@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q54864
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-09
-tags: [jeu, cataloged, shooter, strategy]
+tags: [jeu, audited, shooter, strategy]
 observations:
   - id: wikidata-q54864:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Star Wars: Battlefront - Renegade Squadron
 
-**Star Wars: Battlefront - Renegade Squadron** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q54864](https://www.wikidata.org/wiki/Q54864)).
+**Star Wars: Battlefront - Renegade Squadron** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q54864` (Wikidata : [Q54864](https://www.wikidata.org/wiki/Q54864)).
 
 ## Audit de conformite structurelle
 

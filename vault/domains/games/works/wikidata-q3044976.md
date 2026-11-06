@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q3044976
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-04-20
-tags: [jeu, cataloged, hack-and-slash]
+tags: [jeu, audited, hack-and-slash]
 observations:
   - id: wikidata-q3044976:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -101,7 +101,7 @@ observations:
 
 # Ninety-Nine Nights
 
-**Ninety-Nine Nights** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3044976](https://www.wikidata.org/wiki/Q3044976)).
+**Ninety-Nine Nights** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3044976` (Wikidata : [Q3044976](https://www.wikidata.org/wiki/Q3044976)).
 
 ## Audit de conformite structurelle
 

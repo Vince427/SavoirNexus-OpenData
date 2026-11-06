@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q11955503
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-06-25
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q11955503:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Yoshi's Woolly World
 
-**Yoshi's Woolly World** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q11955503](https://www.wikidata.org/wiki/Q11955503)).
+**Yoshi's Woolly World** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q11955503` (Wikidata : [Q11955503](https://www.wikidata.org/wiki/Q11955503)).
 
 ## Audit de conformite structurelle
 

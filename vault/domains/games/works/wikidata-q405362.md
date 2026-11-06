@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q405362
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-01-30
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q405362:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -102,7 +102,7 @@ observations:
 
 # Oretachi ni Tsubasa wa Nai
 
-**Oretachi ni Tsubasa wa Nai** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q405362](https://www.wikidata.org/wiki/Q405362)).
+**Oretachi ni Tsubasa wa Nai** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q405362` (Wikidata : [Q405362](https://www.wikidata.org/wiki/Q405362)).
 
 ## Audit de conformite structurelle
 

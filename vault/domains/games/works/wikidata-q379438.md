@@ -13,7 +13,7 @@ wikidata_id: Q379438
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-10-05
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/245280/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q379438:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Enslaved : Odyssey to the West
 
-**Enslaved : Odyssey to the West** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q379438](https://www.wikidata.org/wiki/Q379438)).
+**Enslaved : Odyssey to the West** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q379438` (Wikidata : [Q379438](https://www.wikidata.org/wiki/Q379438)).
 
 ## Audit de conformite structurelle
 

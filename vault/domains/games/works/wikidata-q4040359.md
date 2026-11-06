@@ -13,7 +13,7 @@ wikidata_id: Q4040359
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-05-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/214830/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q4040359:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Half-Minute Hero
 
-**Half-Minute Hero** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4040359](https://www.wikidata.org/wiki/Q4040359)).
+**Half-Minute Hero** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4040359` (Wikidata : [Q4040359](https://www.wikidata.org/wiki/Q4040359)).
 
 ## Audit de conformite structurelle
 

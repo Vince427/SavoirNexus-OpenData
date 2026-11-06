@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2276685
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-06-17
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q2276685:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Secret Agent Clank
 
-**Secret Agent Clank** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2276685](https://www.wikidata.org/wiki/Q2276685)).
+**Secret Agent Clank** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2276685` (Wikidata : [Q2276685](https://www.wikidata.org/wiki/Q2276685)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q659767
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-09-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/58550/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q659767:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # A Game of Thrones: Genesis
 
-**A Game of Thrones: Genesis** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q659767](https://www.wikidata.org/wiki/Q659767)).
+**A Game of Thrones: Genesis** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q659767` (Wikidata : [Q659767](https://www.wikidata.org/wiki/Q659767)).
 
 ## Audit de conformite structurelle
 

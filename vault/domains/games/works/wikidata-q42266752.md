@@ -13,7 +13,7 @@ wikidata_id: Q42266752
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-10-06
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/240720/header.jpg"
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q42266752:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Getting Over It with Bennett Foddy
 
-**Getting Over It with Bennett Foddy** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q42266752](https://www.wikidata.org/wiki/Q42266752)).
+**Getting Over It with Bennett Foddy** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q42266752` (Wikidata : [Q42266752](https://www.wikidata.org/wiki/Q42266752)).
 
 ## Audit de conformite structurelle
 

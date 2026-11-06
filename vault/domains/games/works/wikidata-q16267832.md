@@ -13,7 +13,7 @@ wikidata_id: Q16267832
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-11-19
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/248820/header.jpg"
-tags: [jeu, cataloged, roguelike]
+tags: [jeu, audited, roguelike]
 observations:
   - id: wikidata-q16267832:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Risk of Rain
 
-**Risk of Rain** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16267832](https://www.wikidata.org/wiki/Q16267832)).
+**Risk of Rain** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16267832` (Wikidata : [Q16267832](https://www.wikidata.org/wiki/Q16267832)).
 
 ## Audit de conformite structurelle
 

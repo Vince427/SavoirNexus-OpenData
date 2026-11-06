@@ -13,7 +13,7 @@ wikidata_id: Q376672
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7220/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q376672:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Runaway 2: The Dream of the Turtle
 
-**Runaway 2: The Dream of the Turtle** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q376672](https://www.wikidata.org/wiki/Q376672)).
+**Runaway 2: The Dream of the Turtle** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q376672` (Wikidata : [Q376672](https://www.wikidata.org/wiki/Q376672)).
 
 ## Audit de conformite structurelle
 

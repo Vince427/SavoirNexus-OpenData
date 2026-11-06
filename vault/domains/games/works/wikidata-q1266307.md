@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q1266307
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-10
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1266307:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -101,7 +101,7 @@ observations:
 
 # Call of Duty: World at War - Final Fronts
 
-**Call of Duty: World at War - Final Fronts** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1266307](https://www.wikidata.org/wiki/Q1266307)).
+**Call of Duty: World at War - Final Fronts** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1266307` (Wikidata : [Q1266307](https://www.wikidata.org/wiki/Q1266307)).
 
 ## Audit de conformite structurelle
 

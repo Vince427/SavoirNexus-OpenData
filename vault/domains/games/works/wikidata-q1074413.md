@@ -13,7 +13,7 @@ wikidata_id: Q1074413
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-04-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/17710/header.jpg"
-tags: [jeu, cataloged, shooter, strategy]
+tags: [jeu, audited, shooter, strategy]
 observations:
   - id: wikidata-q1074413:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Nuclear Dawn
 
-**Nuclear Dawn** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1074413](https://www.wikidata.org/wiki/Q1074413)).
+**Nuclear Dawn** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1074413` (Wikidata : [Q1074413](https://www.wikidata.org/wiki/Q1074413)).
 
 ## Audit de conformite structurelle
 

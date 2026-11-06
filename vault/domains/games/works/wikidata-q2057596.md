@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q2057596
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-05-19
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2057596:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -101,7 +101,7 @@ observations:
 
 # Urban Chaos : Violence urbaine
 
-**Urban Chaos : Violence urbaine** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2057596](https://www.wikidata.org/wiki/Q2057596)).
+**Urban Chaos : Violence urbaine** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2057596` (Wikidata : [Q2057596](https://www.wikidata.org/wiki/Q2057596)).
 
 ## Audit de conformite structurelle
 

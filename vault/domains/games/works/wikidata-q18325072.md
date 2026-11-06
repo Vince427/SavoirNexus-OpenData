@@ -13,7 +13,7 @@ wikidata_id: Q18325072
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-06-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/341940/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q18325072:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Hatred
 
-**Hatred** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18325072](https://www.wikidata.org/wiki/Q18325072)).
+**Hatred** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18325072` (Wikidata : [Q18325072](https://www.wikidata.org/wiki/Q18325072)).
 
 ## Audit de conformite structurelle
 

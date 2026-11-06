@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q28312454
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-06-16
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q28312454:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -101,7 +101,7 @@ observations:
 
 # Arms
 
-**Arms** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28312454](https://www.wikidata.org/wiki/Q28312454)).
+**Arms** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28312454` (Wikidata : [Q28312454](https://www.wikidata.org/wiki/Q28312454)).
 
 ## Audit de conformite structurelle
 

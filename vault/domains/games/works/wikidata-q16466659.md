@@ -13,7 +13,7 @@ wikidata_id: Q16466659
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-10-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/261640/header.jpg"
-tags: [jeu, cataloged, action, rpg, shooter]
+tags: [jeu, audited, action, rpg, shooter]
 observations:
   - id: wikidata-q16466659:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Borderlands: The Pre-Sequel
 
-**Borderlands: The Pre-Sequel** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16466659](https://www.wikidata.org/wiki/Q16466659)).
+**Borderlands: The Pre-Sequel** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16466659` (Wikidata : [Q16466659](https://www.wikidata.org/wiki/Q16466659)).
 
 ## Audit de conformite structurelle
 

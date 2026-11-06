@@ -13,7 +13,7 @@ wikidata_id: Q20860332
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-10-06
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/348710/header.jpg"
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q20860332:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Saint Seiya: Soldiers' Soul
 
-**Saint Seiya: Soldiers' Soul** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20860332](https://www.wikidata.org/wiki/Q20860332)).
+**Saint Seiya: Soldiers' Soul** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20860332` (Wikidata : [Q20860332](https://www.wikidata.org/wiki/Q20860332)).
 
 ## Audit de conformite structurelle
 

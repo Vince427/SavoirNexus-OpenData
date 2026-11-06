@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q15073096
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-12-19
-tags: [jeu, cataloged, action, hack-and-slash, rpg]
+tags: [jeu, audited, action, hack-and-slash, rpg]
 observations:
   - id: wikidata-q15073096:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Drakengard 3
 
-**Drakengard 3** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15073096](https://www.wikidata.org/wiki/Q15073096)).
+**Drakengard 3** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15073096` (Wikidata : [Q15073096](https://www.wikidata.org/wiki/Q15073096)).
 
 ## Audit de conformite structurelle
 

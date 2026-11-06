@@ -13,7 +13,7 @@ wikidata_id: Q1408367
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-02-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8100/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1408367:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Conflict: Denied Ops
 
-**Conflict: Denied Ops** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1408367](https://www.wikidata.org/wiki/Q1408367)).
+**Conflict: Denied Ops** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1408367` (Wikidata : [Q1408367](https://www.wikidata.org/wiki/Q1408367)).
 
 ## Audit de conformite structurelle
 

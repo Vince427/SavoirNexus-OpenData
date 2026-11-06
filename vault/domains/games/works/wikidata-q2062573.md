@@ -13,7 +13,7 @@ wikidata_id: Q2062573
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-09-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/316160/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2062573:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -103,7 +103,7 @@ observations:
 
 # Les Chevaliers de Baphomet : Les Gardiens du Temple de Salomon
 
-**Les Chevaliers de Baphomet : Les Gardiens du Temple de Salomon** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2062573](https://www.wikidata.org/wiki/Q2062573)).
+**Les Chevaliers de Baphomet : Les Gardiens du Temple de Salomon** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2062573` (Wikidata : [Q2062573](https://www.wikidata.org/wiki/Q2062573)).
 
 ## Audit de conformite structurelle
 

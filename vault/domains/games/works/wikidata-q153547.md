@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q153547
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-06-05
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q153547:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -102,7 +102,7 @@ observations:
 
 # The Incredible Hulk
 
-**The Incredible Hulk** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q153547](https://www.wikidata.org/wiki/Q153547)).
+**The Incredible Hulk** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q153547` (Wikidata : [Q153547](https://www.wikidata.org/wiki/Q153547)).
 
 ## Audit de conformite structurelle
 

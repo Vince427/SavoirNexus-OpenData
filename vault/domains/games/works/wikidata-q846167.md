@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q846167
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-06-12
-tags: [jeu, cataloged, action, adventure, shooter]
+tags: [jeu, audited, action, adventure, shooter]
 observations:
   - id: wikidata-q846167:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Metal Gear Solid 4 : Guns of the Patriots
 
-**Metal Gear Solid 4 : Guns of the Patriots** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q846167](https://www.wikidata.org/wiki/Q846167)).
+**Metal Gear Solid 4 : Guns of the Patriots** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q846167` (Wikidata : [Q846167](https://www.wikidata.org/wiki/Q846167)).
 
 ## Audit de conformite structurelle
 

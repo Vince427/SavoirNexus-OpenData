@@ -13,7 +13,7 @@ wikidata_id: Q59618073
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-09-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/837470/header.jpg"
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q59618073:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Untitled Goose Game
 
-**Untitled Goose Game** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q59618073](https://www.wikidata.org/wiki/Q59618073)).
+**Untitled Goose Game** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q59618073` (Wikidata : [Q59618073](https://www.wikidata.org/wiki/Q59618073)).
 
 ## Audit de conformite structurelle
 

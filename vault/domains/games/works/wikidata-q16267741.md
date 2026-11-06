@@ -13,7 +13,7 @@ wikidata_id: Q16267741
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/260230/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q16267741:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Soldats inconnus : Mémoires de la Grande Guerre
 
-**Soldats inconnus : Mémoires de la Grande Guerre** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16267741](https://www.wikidata.org/wiki/Q16267741)).
+**Soldats inconnus : Mémoires de la Grande Guerre** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16267741` (Wikidata : [Q16267741](https://www.wikidata.org/wiki/Q16267741)).
 
 ## Audit de conformite structurelle
 

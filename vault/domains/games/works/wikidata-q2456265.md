@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2456265
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-03-20
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q2456265:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Pokémon Ranger : Nuit sur Almia
 
-**Pokémon Ranger : Nuit sur Almia** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2456265](https://www.wikidata.org/wiki/Q2456265)).
+**Pokémon Ranger : Nuit sur Almia** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2456265` (Wikidata : [Q2456265](https://www.wikidata.org/wiki/Q2456265)).
 
 ## Audit de conformite structurelle
 

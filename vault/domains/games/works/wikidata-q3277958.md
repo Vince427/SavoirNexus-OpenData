@@ -13,7 +13,7 @@ wikidata_id: Q3277958
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-04-19
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/408640/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q3277958:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Code of Princess
 
-**Code of Princess** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3277958](https://www.wikidata.org/wiki/Q3277958)).
+**Code of Princess** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3277958` (Wikidata : [Q3277958](https://www.wikidata.org/wiki/Q3277958)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q19887828
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-12-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/252530/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q19887828:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # OMSI 2: Le simulateur de bus
 
-**OMSI 2: Le simulateur de bus** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q19887828](https://www.wikidata.org/wiki/Q19887828)).
+**OMSI 2: Le simulateur de bus** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q19887828` (Wikidata : [Q19887828](https://www.wikidata.org/wiki/Q19887828)).
 
 ## Audit de conformite structurelle
 

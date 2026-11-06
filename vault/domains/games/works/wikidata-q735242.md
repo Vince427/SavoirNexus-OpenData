@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q735242
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-11-02
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q735242:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dragon Ball: Raging Blast 2
 
-**Dragon Ball: Raging Blast 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q735242](https://www.wikidata.org/wiki/Q735242)).
+**Dragon Ball: Raging Blast 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q735242` (Wikidata : [Q735242](https://www.wikidata.org/wiki/Q735242)).
 
 ## Audit de conformite structurelle
 

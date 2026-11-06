@@ -13,7 +13,7 @@ wikidata_id: Q19360224
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-01-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/313120/header.jpg"
-tags: [jeu, cataloged, survival]
+tags: [jeu, audited, survival]
 observations:
   - id: wikidata-q19360224:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Stranded Deep
 
-**Stranded Deep** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q19360224](https://www.wikidata.org/wiki/Q19360224)).
+**Stranded Deep** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q19360224` (Wikidata : [Q19360224](https://www.wikidata.org/wiki/Q19360224)).
 
 ## Audit de conformite structurelle
 

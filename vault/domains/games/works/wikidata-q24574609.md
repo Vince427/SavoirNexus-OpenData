@@ -13,7 +13,7 @@ wikidata_id: Q24574609
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-06-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/447530/header.jpg"
-tags: [jeu, cataloged, adventure, simulation]
+tags: [jeu, audited, adventure, simulation]
 observations:
   - id: wikidata-q24574609:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # VA-11 HALL-A
 
-**VA-11 HALL-A** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q24574609](https://www.wikidata.org/wiki/Q24574609)).
+**VA-11 HALL-A** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q24574609` (Wikidata : [Q24574609](https://www.wikidata.org/wiki/Q24574609)).
 
 ## Audit de conformite structurelle
 

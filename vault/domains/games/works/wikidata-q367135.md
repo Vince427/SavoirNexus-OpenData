@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q367135
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-01-26
-tags: [jeu, cataloged, rpg, shooter]
+tags: [jeu, audited, rpg, shooter]
 observations:
   - id: wikidata-q367135:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -101,7 +101,7 @@ observations:
 
 # Dirge of Cerberus: Final Fantasy VII
 
-**Dirge of Cerberus: Final Fantasy VII** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q367135](https://www.wikidata.org/wiki/Q367135)).
+**Dirge of Cerberus: Final Fantasy VII** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q367135` (Wikidata : [Q367135](https://www.wikidata.org/wiki/Q367135)).
 
 ## Audit de conformite structurelle
 

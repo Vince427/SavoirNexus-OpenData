@@ -13,7 +13,7 @@ wikidata_id: Q2723242
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-10-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/543870/header.jpg"
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q2723242:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Naruto Shippūden: Ultimate Ninja Storm 2
 
-**Naruto Shippūden: Ultimate Ninja Storm 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2723242](https://www.wikidata.org/wiki/Q2723242)).
+**Naruto Shippūden: Ultimate Ninja Storm 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2723242` (Wikidata : [Q2723242](https://www.wikidata.org/wiki/Q2723242)).
 
 ## Audit de conformite structurelle
 

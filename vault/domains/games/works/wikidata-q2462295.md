@@ -13,7 +13,7 @@ wikidata_id: Q2462295
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-12-31
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/550340/header.jpg"
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q2462295:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Ōgon Musōkyoku
 
-**Ōgon Musōkyoku** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2462295](https://www.wikidata.org/wiki/Q2462295)).
+**Ōgon Musōkyoku** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2462295` (Wikidata : [Q2462295](https://www.wikidata.org/wiki/Q2462295)).
 
 ## Audit de conformite structurelle
 

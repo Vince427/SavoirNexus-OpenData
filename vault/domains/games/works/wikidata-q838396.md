@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q838396
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-05-01
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q838396:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Orcs & Elves
 
-**Orcs & Elves** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q838396](https://www.wikidata.org/wiki/Q838396)).
+**Orcs & Elves** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q838396` (Wikidata : [Q838396](https://www.wikidata.org/wiki/Q838396)).
 
 ## Audit de conformite structurelle
 

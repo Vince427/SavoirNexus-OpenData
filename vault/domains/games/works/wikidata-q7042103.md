@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q7042103
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-12-15
-tags: [jeu, cataloged, rpg, sports]
+tags: [jeu, audited, rpg, sports]
 observations:
   - id: wikidata-q7042103:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Inazuma Eleven GO
 
-**Inazuma Eleven GO** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q7042103](https://www.wikidata.org/wiki/Q7042103)).
+**Inazuma Eleven GO** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q7042103` (Wikidata : [Q7042103](https://www.wikidata.org/wiki/Q7042103)).
 
 ## Audit de conformite structurelle
 

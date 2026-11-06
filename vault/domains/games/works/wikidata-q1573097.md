@@ -13,7 +13,7 @@ wikidata_id: Q1573097
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-11-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/218680/header.jpg"
-tags: [jeu, cataloged, action, adventure, puzzle]
+tags: [jeu, audited, action, adventure, puzzle]
 observations:
   - id: wikidata-q1573097:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Scribblenauts Unlimited
 
-**Scribblenauts Unlimited** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1573097](https://www.wikidata.org/wiki/Q1573097)).
+**Scribblenauts Unlimited** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1573097` (Wikidata : [Q1573097](https://www.wikidata.org/wiki/Q1573097)).
 
 ## Audit de conformite structurelle
 

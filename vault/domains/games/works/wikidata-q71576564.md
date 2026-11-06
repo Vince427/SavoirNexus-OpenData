@@ -13,7 +13,7 @@ wikidata_id: Q71576564
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2022-04-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/707030/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q71576564:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Postal 4: No Regerts
 
-**Postal 4: No Regerts** est une oeuvre sortie initialement en 2022, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q71576564](https://www.wikidata.org/wiki/Q71576564)).
+**Postal 4: No Regerts** est une oeuvre sortie initialement en 2022, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q71576564` (Wikidata : [Q71576564](https://www.wikidata.org/wiki/Q71576564)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q55713667
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/728880/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q55713667:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Overcooked! 2
 
-**Overcooked! 2** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q55713667](https://www.wikidata.org/wiki/Q55713667)).
+**Overcooked! 2** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q55713667` (Wikidata : [Q55713667](https://www.wikidata.org/wiki/Q55713667)).
 
 ## Audit de conformite structurelle
 

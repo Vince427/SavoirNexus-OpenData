@@ -13,7 +13,7 @@ wikidata_id: Q302120
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-10-19
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/115100/header.jpg"
-tags: [jeu, cataloged, adventure, rpg]
+tags: [jeu, audited, adventure, rpg]
 observations:
   - id: wikidata-q302120:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Costume Quest
 
-**Costume Quest** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q302120](https://www.wikidata.org/wiki/Q302120)).
+**Costume Quest** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q302120` (Wikidata : [Q302120](https://www.wikidata.org/wiki/Q302120)).
 
 ## Audit de conformite structurelle
 

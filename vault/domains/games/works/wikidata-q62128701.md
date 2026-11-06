@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q62128701
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-06-13
-tags: [jeu, cataloged, roguelike]
+tags: [jeu, audited, roguelike]
 observations:
   - id: wikidata-q62128701:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -101,7 +101,7 @@ observations:
 
 # Cadence of Hyrule
 
-**Cadence of Hyrule** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q62128701](https://www.wikidata.org/wiki/Q62128701)).
+**Cadence of Hyrule** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q62128701` (Wikidata : [Q62128701](https://www.wikidata.org/wiki/Q62128701)).
 
 ## Audit de conformite structurelle
 

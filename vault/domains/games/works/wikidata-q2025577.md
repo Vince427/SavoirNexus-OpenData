@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2025577
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-02-25
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2025577:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Destroy All Humans! Big Willy Unleashed
 
-**Destroy All Humans! Big Willy Unleashed** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2025577](https://www.wikidata.org/wiki/Q2025577)).
+**Destroy All Humans! Big Willy Unleashed** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2025577` (Wikidata : [Q2025577](https://www.wikidata.org/wiki/Q2025577)).
 
 ## Audit de conformite structurelle
 

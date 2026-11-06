@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q838707
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-04-10
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q838707:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario Kart Wii
 
-**Mario Kart Wii** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q838707](https://www.wikidata.org/wiki/Q838707)).
+**Mario Kart Wii** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q838707` (Wikidata : [Q838707](https://www.wikidata.org/wiki/Q838707)).
 
 ## Audit de conformite structurelle
 

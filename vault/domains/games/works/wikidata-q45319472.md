@@ -13,7 +13,7 @@ wikidata_id: Q45319472
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-08-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/593280/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q45319472:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Cat Quest
 
-**Cat Quest** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q45319472](https://www.wikidata.org/wiki/Q45319472)).
+**Cat Quest** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q45319472` (Wikidata : [Q45319472](https://www.wikidata.org/wiki/Q45319472)).
 
 ## Audit de conformite structurelle
 

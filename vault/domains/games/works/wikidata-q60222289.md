@@ -13,7 +13,7 @@ wikidata_id: Q60222289
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-11-09
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/704850/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q60222289:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Thief Simulator
 
-**Thief Simulator** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q60222289](https://www.wikidata.org/wiki/Q60222289)).
+**Thief Simulator** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q60222289` (Wikidata : [Q60222289](https://www.wikidata.org/wiki/Q60222289)).
 
 ## Audit de conformite structurelle
 

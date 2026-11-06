@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q98844808
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-10-16
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q98844808:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -101,7 +101,7 @@ observations:
 
 # Mario Kart Live: Home Circuit
 
-**Mario Kart Live: Home Circuit** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q98844808](https://www.wikidata.org/wiki/Q98844808)).
+**Mario Kart Live: Home Circuit** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q98844808` (Wikidata : [Q98844808](https://www.wikidata.org/wiki/Q98844808)).
 
 ## Audit de conformite structurelle
 

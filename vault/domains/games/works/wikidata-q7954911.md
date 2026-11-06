@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q7954911
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-10-08
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q7954911:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -102,7 +102,7 @@ observations:
 
 # WRC: FIA World Rally Championship
 
-**WRC: FIA World Rally Championship** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q7954911](https://www.wikidata.org/wiki/Q7954911)).
+**WRC: FIA World Rally Championship** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q7954911` (Wikidata : [Q7954911](https://www.wikidata.org/wiki/Q7954911)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q860055
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-08-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1100160/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q860055:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Undefined Fantastic Object
 
-**Undefined Fantastic Object** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q860055](https://www.wikidata.org/wiki/Q860055)).
+**Undefined Fantastic Object** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q860055` (Wikidata : [Q860055](https://www.wikidata.org/wiki/Q860055)).
 
 ## Audit de conformite structurelle
 

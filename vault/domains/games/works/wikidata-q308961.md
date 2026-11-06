@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q308961
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-07
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q308961:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -102,7 +102,7 @@ observations:
 
 # Call of Duty 3 : En marche vers Paris
 
-**Call of Duty 3 : En marche vers Paris** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q308961](https://www.wikidata.org/wiki/Q308961)).
+**Call of Duty 3 : En marche vers Paris** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q308961` (Wikidata : [Q308961](https://www.wikidata.org/wiki/Q308961)).
 
 ## Audit de conformite structurelle
 

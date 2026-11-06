@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1982224
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-11
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q1982224:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mobile Suit Gundam: Target in Sight
 
-**Mobile Suit Gundam: Target in Sight** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1982224](https://www.wikidata.org/wiki/Q1982224)).
+**Mobile Suit Gundam: Target in Sight** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1982224` (Wikidata : [Q1982224](https://www.wikidata.org/wiki/Q1982224)).
 
 ## Audit de conformite structurelle
 

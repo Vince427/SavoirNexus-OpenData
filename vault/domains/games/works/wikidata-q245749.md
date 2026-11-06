@@ -13,7 +13,7 @@ wikidata_id: Q245749
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-02-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/67370/header.jpg"
-tags: [jeu, cataloged, horror, shooter]
+tags: [jeu, audited, horror, shooter]
 observations:
   - id: wikidata-q245749:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # The Darkness II
 
-**The Darkness II** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q245749](https://www.wikidata.org/wiki/Q245749)).
+**The Darkness II** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q245749` (Wikidata : [Q245749](https://www.wikidata.org/wiki/Q245749)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q167359
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-06-27
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q167359:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Pirates Des Caraibes: Le Secret Du Coffre Maudi
 
-**Pirates Des Caraibes: Le Secret Du Coffre Maudi** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q167359](https://www.wikidata.org/wiki/Q167359)).
+**Pirates Des Caraibes: Le Secret Du Coffre Maudi** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q167359` (Wikidata : [Q167359](https://www.wikidata.org/wiki/Q167359)).
 
 ## Audit de conformite structurelle
 

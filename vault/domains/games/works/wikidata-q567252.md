@@ -13,7 +13,7 @@ wikidata_id: Q567252
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-10-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7870/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q567252:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Anno 1701
 
-**Anno 1701** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q567252](https://www.wikidata.org/wiki/Q567252)).
+**Anno 1701** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q567252` (Wikidata : [Q567252](https://www.wikidata.org/wiki/Q567252)).
 
 ## Audit de conformite structurelle
 

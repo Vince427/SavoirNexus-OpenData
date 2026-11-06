@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q672049
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-09-14
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q672049:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -102,7 +102,7 @@ observations:
 
 # Tekken Tag Tournament 2
 
-**Tekken Tag Tournament 2** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q672049](https://www.wikidata.org/wiki/Q672049)).
+**Tekken Tag Tournament 2** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q672049` (Wikidata : [Q672049](https://www.wikidata.org/wiki/Q672049)).
 
 ## Audit de conformite structurelle
 

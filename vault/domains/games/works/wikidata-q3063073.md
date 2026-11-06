@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3063073
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-11-22
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q3063073:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -102,7 +102,7 @@ observations:
 
 # Worms: Battle Islands
 
-**Worms: Battle Islands** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3063073](https://www.wikidata.org/wiki/Q3063073)).
+**Worms: Battle Islands** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3063073` (Wikidata : [Q3063073](https://www.wikidata.org/wiki/Q3063073)).
 
 ## Audit de conformite structurelle
 

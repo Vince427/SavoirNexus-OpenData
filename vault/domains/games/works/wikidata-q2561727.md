@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2561727
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-18
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q2561727:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Castlevania Judgment
 
-**Castlevania Judgment** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2561727](https://www.wikidata.org/wiki/Q2561727)).
+**Castlevania Judgment** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2561727` (Wikidata : [Q2561727](https://www.wikidata.org/wiki/Q2561727)).
 
 ## Audit de conformite structurelle
 

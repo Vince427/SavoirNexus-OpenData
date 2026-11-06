@@ -13,7 +13,7 @@ wikidata_id: Q5260692
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-01-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/214340/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q5260692:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Deponia
 
-**Deponia** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5260692](https://www.wikidata.org/wiki/Q5260692)).
+**Deponia** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5260692` (Wikidata : [Q5260692](https://www.wikidata.org/wiki/Q5260692)).
 
 ## Audit de conformite structurelle
 

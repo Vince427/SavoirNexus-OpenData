@@ -13,7 +13,7 @@ wikidata_id: Q87190193
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-10-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/999220/header.jpg"
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q87190193:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Amnesia : Rebirth
 
-**Amnesia : Rebirth** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q87190193](https://www.wikidata.org/wiki/Q87190193)).
+**Amnesia : Rebirth** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q87190193` (Wikidata : [Q87190193](https://www.wikidata.org/wiki/Q87190193)).
 
 ## Audit de conformite structurelle
 

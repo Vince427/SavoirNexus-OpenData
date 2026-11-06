@@ -13,7 +13,7 @@ wikidata_id: Q97479056
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2021-12-16
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/747660/header.jpg"
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q97479056:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Five Nights at Freddy's : Security Breach
 
-**Five Nights at Freddy's : Security Breach** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q97479056](https://www.wikidata.org/wiki/Q97479056)).
+**Five Nights at Freddy's : Security Breach** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q97479056` (Wikidata : [Q97479056](https://www.wikidata.org/wiki/Q97479056)).
 
 ## Audit de conformite structurelle
 

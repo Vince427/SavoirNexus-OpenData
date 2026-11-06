@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q765985
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-03-16
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q765985:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # MotorStorm: Apocalypse
 
-**MotorStorm: Apocalypse** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q765985](https://www.wikidata.org/wiki/Q765985)).
+**MotorStorm: Apocalypse** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q765985` (Wikidata : [Q765985](https://www.wikidata.org/wiki/Q765985)).
 
 ## Audit de conformite structurelle
 

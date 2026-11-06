@@ -13,7 +13,7 @@ wikidata_id: Q897376
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-08-06
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/26800/header.jpg"
-tags: [jeu, cataloged, action, adventure, platformer, puzzle]
+tags: [jeu, audited, action, adventure, platformer, puzzle]
 observations:
   - id: wikidata-q897376:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Braid
 
-**Braid** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q897376](https://www.wikidata.org/wiki/Q897376)).
+**Braid** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q897376` (Wikidata : [Q897376](https://www.wikidata.org/wiki/Q897376)).
 
 ## Audit de conformite structurelle
 

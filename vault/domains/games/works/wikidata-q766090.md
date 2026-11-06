@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q766090
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-12-14
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q766090:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # MotorStorm
 
-**MotorStorm** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q766090](https://www.wikidata.org/wiki/Q766090)).
+**MotorStorm** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q766090` (Wikidata : [Q766090](https://www.wikidata.org/wiki/Q766090)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2354950
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-01
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2354950:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # The Lapins Crétins : La Grosse Aventure
 
-**The Lapins Crétins : La Grosse Aventure** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2354950](https://www.wikidata.org/wiki/Q2354950)).
+**The Lapins Crétins : La Grosse Aventure** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2354950` (Wikidata : [Q2354950](https://www.wikidata.org/wiki/Q2354950)).
 
 ## Audit de conformite structurelle
 

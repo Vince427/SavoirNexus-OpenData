@@ -13,7 +13,7 @@ wikidata_id: Q16743176
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/233150/header.jpg"
-tags: [jeu, cataloged, action, shooter]
+tags: [jeu, audited, action, shooter]
 observations:
   - id: wikidata-q16743176:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Luftrausers
 
-**Luftrausers** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16743176](https://www.wikidata.org/wiki/Q16743176)).
+**Luftrausers** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16743176` (Wikidata : [Q16743176](https://www.wikidata.org/wiki/Q16743176)).
 
 ## Audit de conformite structurelle
 

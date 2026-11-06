@@ -13,7 +13,7 @@ wikidata_id: Q86252643
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2021-02-02
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/680420/header.jpg"
-tags: [jeu, cataloged, rpg, shooter]
+tags: [jeu, audited, rpg, shooter]
 observations:
   - id: wikidata-q86252643:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Outriders
 
-**Outriders** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q86252643](https://www.wikidata.org/wiki/Q86252643)).
+**Outriders** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q86252643` (Wikidata : [Q86252643](https://www.wikidata.org/wiki/Q86252643)).
 
 ## Audit de conformite structurelle
 

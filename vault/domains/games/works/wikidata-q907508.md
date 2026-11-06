@@ -13,7 +13,7 @@ wikidata_id: Q907508
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-04-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/33229/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q907508:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Tom Clancy's Splinter Cell: Conviction
 
-**Tom Clancy's Splinter Cell: Conviction** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q907508](https://www.wikidata.org/wiki/Q907508)).
+**Tom Clancy's Splinter Cell: Conviction** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q907508` (Wikidata : [Q907508](https://www.wikidata.org/wiki/Q907508)).
 
 ## Audit de conformite structurelle
 

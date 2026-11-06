@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q1158777
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-05-10
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1158777:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -101,7 +101,7 @@ observations:
 
 # Final Fantasy Tactics: The War of the Lions
 
-**Final Fantasy Tactics: The War of the Lions** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1158777](https://www.wikidata.org/wiki/Q1158777)).
+**Final Fantasy Tactics: The War of the Lions** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1158777` (Wikidata : [Q1158777](https://www.wikidata.org/wiki/Q1158777)).
 
 ## Audit de conformite structurelle
 

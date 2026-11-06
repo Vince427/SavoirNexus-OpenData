@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2080010
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-02-21
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2080010:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Harvest Moon DS : L'Archipel du soleil
 
-**Harvest Moon DS : L'Archipel du soleil** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2080010](https://www.wikidata.org/wiki/Q2080010)).
+**Harvest Moon DS : L'Archipel du soleil** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2080010` (Wikidata : [Q2080010](https://www.wikidata.org/wiki/Q2080010)).
 
 ## Audit de conformite structurelle
 

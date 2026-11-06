@@ -13,7 +13,7 @@ wikidata_id: Q1185325
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-31
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3909960/header.jpg"
-tags: [jeu, cataloged, horror, shooter, survival]
+tags: [jeu, audited, horror, shooter, survival]
 observations:
   - id: wikidata-q1185325:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Dementium : L'Asile
 
-**Dementium : L'Asile** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1185325](https://www.wikidata.org/wiki/Q1185325)).
+**Dementium : L'Asile** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1185325` (Wikidata : [Q1185325](https://www.wikidata.org/wiki/Q1185325)).
 
 ## Audit de conformite structurelle
 

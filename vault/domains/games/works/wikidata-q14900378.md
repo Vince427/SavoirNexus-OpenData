@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q14900378
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-09-20
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q14900378:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # The Legend of Zelda: The Wind Waker HD
 
-**The Legend of Zelda: The Wind Waker HD** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q14900378](https://www.wikidata.org/wiki/Q14900378)).
+**The Legend of Zelda: The Wind Waker HD** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q14900378` (Wikidata : [Q14900378](https://www.wikidata.org/wiki/Q14900378)).
 
 ## Audit de conformite structurelle
 

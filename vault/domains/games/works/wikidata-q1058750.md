@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1058750
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-07-14
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q1058750:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -102,7 +102,7 @@ observations:
 
 # Puyo Puyo!! 20th Anniversary
 
-**Puyo Puyo!! 20th Anniversary** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1058750](https://www.wikidata.org/wiki/Q1058750)).
+**Puyo Puyo!! 20th Anniversary** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1058750` (Wikidata : [Q1058750](https://www.wikidata.org/wiki/Q1058750)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q55154676
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2021-10-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1466860/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q55154676:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Age of Empires IV
 
-**Age of Empires IV** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q55154676](https://www.wikidata.org/wiki/Q55154676)).
+**Age of Empires IV** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q55154676` (Wikidata : [Q55154676](https://www.wikidata.org/wiki/Q55154676)).
 
 ## Audit de conformite structurelle
 

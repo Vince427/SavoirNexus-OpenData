@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2456691
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-08-21
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q2456691:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ratchet and Clank: Quest for Booty
 
-**Ratchet and Clank: Quest for Booty** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2456691](https://www.wikidata.org/wiki/Q2456691)).
+**Ratchet and Clank: Quest for Booty** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2456691` (Wikidata : [Q2456691](https://www.wikidata.org/wiki/Q2456691)).
 
 ## Audit de conformite structurelle
 

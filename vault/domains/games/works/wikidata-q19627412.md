@@ -13,7 +13,7 @@ wikidata_id: Q19627412
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-08-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/702670/header.jpg"
-tags: [jeu, cataloged, adventure, casual]
+tags: [jeu, audited, adventure, casual]
 observations:
   - id: wikidata-q19627412:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Donut County
 
-**Donut County** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q19627412](https://www.wikidata.org/wiki/Q19627412)).
+**Donut County** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q19627412` (Wikidata : [Q19627412](https://www.wikidata.org/wiki/Q19627412)).
 
 ## Audit de conformite structurelle
 

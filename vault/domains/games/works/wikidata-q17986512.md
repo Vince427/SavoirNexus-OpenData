@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q17986512
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-07-02
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q17986512:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Civilization Revolution 2
 
-**Civilization Revolution 2** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17986512](https://www.wikidata.org/wiki/Q17986512)).
+**Civilization Revolution 2** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17986512` (Wikidata : [Q17986512](https://www.wikidata.org/wiki/Q17986512)).
 
 ## Audit de conformite structurelle
 

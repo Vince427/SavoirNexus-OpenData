@@ -13,7 +13,7 @@ wikidata_id: Q16319370
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-04-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/256290/header.jpg"
-tags: [jeu, cataloged, platformer, rpg]
+tags: [jeu, audited, platformer, rpg]
 observations:
   - id: wikidata-q16319370:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Child of Light
 
-**Child of Light** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16319370](https://www.wikidata.org/wiki/Q16319370)).
+**Child of Light** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16319370` (Wikidata : [Q16319370](https://www.wikidata.org/wiki/Q16319370)).
 
 ## Audit de conformite structurelle
 

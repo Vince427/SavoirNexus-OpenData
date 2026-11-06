@@ -13,7 +13,7 @@ wikidata_id: Q2653011
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-10-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4760480/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2653011:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # You Are EMPTY
 
-**You Are EMPTY** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2653011](https://www.wikidata.org/wiki/Q2653011)).
+**You Are EMPTY** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2653011` (Wikidata : [Q2653011](https://www.wikidata.org/wiki/Q2653011)).
 
 ## Audit de conformite structurelle
 

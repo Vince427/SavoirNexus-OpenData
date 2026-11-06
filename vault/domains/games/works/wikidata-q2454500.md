@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2454500
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-03-03
-tags: [jeu, cataloged, action, adventure, hack-and-slash, platformer]
+tags: [jeu, audited, action, adventure, hack-and-slash, platformer]
 observations:
   - id: wikidata-q2454500:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Sonic et le Chevalier noir
 
-**Sonic et le Chevalier noir** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2454500](https://www.wikidata.org/wiki/Q2454500)).
+**Sonic et le Chevalier noir** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2454500` (Wikidata : [Q2454500](https://www.wikidata.org/wiki/Q2454500)).
 
 ## Audit de conformite structurelle
 

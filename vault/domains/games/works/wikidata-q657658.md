@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q657658
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-10-02
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q657658:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # Les Griffin, le jeu vidéo
 
-**Les Griffin, le jeu vidéo** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q657658](https://www.wikidata.org/wiki/Q657658)).
+**Les Griffin, le jeu vidéo** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q657658` (Wikidata : [Q657658](https://www.wikidata.org/wiki/Q657658)).
 
 ## Audit de conformite structurelle
 

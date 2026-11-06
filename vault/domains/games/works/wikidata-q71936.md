@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q71936
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-19
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q71936:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Wii Sports
 
-**Wii Sports** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q71936](https://www.wikidata.org/wiki/Q71936)).
+**Wii Sports** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q71936` (Wikidata : [Q71936](https://www.wikidata.org/wiki/Q71936)).
 
 ## Audit de conformite structurelle
 

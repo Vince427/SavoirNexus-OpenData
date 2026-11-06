@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2628794
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-06-25
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2628794:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Atelier Rorona: The Alchemist of Arland
 
-**Atelier Rorona: The Alchemist of Arland** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2628794](https://www.wikidata.org/wiki/Q2628794)).
+**Atelier Rorona: The Alchemist of Arland** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2628794` (Wikidata : [Q2628794](https://www.wikidata.org/wiki/Q2628794)).
 
 ## Audit de conformite structurelle
 

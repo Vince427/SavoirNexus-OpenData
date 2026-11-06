@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q19841161
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-11-27
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q19841161:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Code: Realize − Guardian of Rebirth
 
-**Code: Realize − Guardian of Rebirth** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q19841161](https://www.wikidata.org/wiki/Q19841161)).
+**Code: Realize − Guardian of Rebirth** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q19841161` (Wikidata : [Q19841161](https://www.wikidata.org/wiki/Q19841161)).
 
 ## Audit de conformite structurelle
 

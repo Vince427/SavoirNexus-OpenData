@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1547059
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-03
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q1547059:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Jak and Daxter: The Lost Frontier
 
-**Jak and Daxter: The Lost Frontier** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1547059](https://www.wikidata.org/wiki/Q1547059)).
+**Jak and Daxter: The Lost Frontier** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1547059` (Wikidata : [Q1547059](https://www.wikidata.org/wiki/Q1547059)).
 
 ## Audit de conformite structurelle
 

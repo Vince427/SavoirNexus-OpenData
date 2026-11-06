@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1507921
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-03-02
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q1507921:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Actionloop
 
-**Actionloop** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1507921](https://www.wikidata.org/wiki/Q1507921)).
+**Actionloop** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1507921` (Wikidata : [Q1507921](https://www.wikidata.org/wiki/Q1507921)).
 
 ## Audit de conformite structurelle
 

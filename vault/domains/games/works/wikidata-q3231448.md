@@ -13,7 +13,7 @@ wikidata_id: Q3231448
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-09-04
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/262940/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q3231448:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Les Chevaliers de Baphomet : La Malédiction du serpent
 
-**Les Chevaliers de Baphomet : La Malédiction du serpent** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3231448](https://www.wikidata.org/wiki/Q3231448)).
+**Les Chevaliers de Baphomet : La Malédiction du serpent** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3231448` (Wikidata : [Q3231448](https://www.wikidata.org/wiki/Q3231448)).
 
 ## Audit de conformite structurelle
 

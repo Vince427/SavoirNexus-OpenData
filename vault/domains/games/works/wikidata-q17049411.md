@@ -13,7 +13,7 @@ wikidata_id: Q17049411
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-10-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/246900/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q17049411:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Viscera Cleanup Detail
 
-**Viscera Cleanup Detail** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17049411](https://www.wikidata.org/wiki/Q17049411)).
+**Viscera Cleanup Detail** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17049411` (Wikidata : [Q17049411](https://www.wikidata.org/wiki/Q17049411)).
 
 ## Audit de conformite structurelle
 

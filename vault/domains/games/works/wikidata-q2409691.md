@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2409691
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-06-21
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2409691:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mana Khemia: Alchemists of Al-Revis
 
-**Mana Khemia: Alchemists of Al-Revis** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2409691](https://www.wikidata.org/wiki/Q2409691)).
+**Mana Khemia: Alchemists of Al-Revis** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2409691` (Wikidata : [Q2409691](https://www.wikidata.org/wiki/Q2409691)).
 
 ## Audit de conformite structurelle
 

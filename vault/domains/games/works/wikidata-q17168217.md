@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q17168217
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-04-21
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q17168217:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Star Fox Zero
 
-**Star Fox Zero** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17168217](https://www.wikidata.org/wiki/Q17168217)).
+**Star Fox Zero** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17168217` (Wikidata : [Q17168217](https://www.wikidata.org/wiki/Q17168217)).
 
 ## Audit de conformite structurelle
 

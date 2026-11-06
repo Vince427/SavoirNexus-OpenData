@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2319030
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-07-06
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q2319030:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mega Man ZX
 
-**Mega Man ZX** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2319030](https://www.wikidata.org/wiki/Q2319030)).
+**Mega Man ZX** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2319030` (Wikidata : [Q2319030](https://www.wikidata.org/wiki/Q2319030)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q1255599
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-09-04
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/45300/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q1255599:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # IL-2 Sturmovik: Birds of Prey
 
-**IL-2 Sturmovik: Birds of Prey** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1255599](https://www.wikidata.org/wiki/Q1255599)).
+**IL-2 Sturmovik: Birds of Prey** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1255599` (Wikidata : [Q1255599](https://www.wikidata.org/wiki/Q1255599)).
 
 ## Audit de conformite structurelle
 

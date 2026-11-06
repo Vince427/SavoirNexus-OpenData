@@ -13,7 +13,7 @@ wikidata_id: Q22019734
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2021-08-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/607080/header.jpg"
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q22019734:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Psychonauts 2
 
-**Psychonauts 2** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q22019734](https://www.wikidata.org/wiki/Q22019734)).
+**Psychonauts 2** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q22019734` (Wikidata : [Q22019734](https://www.wikidata.org/wiki/Q22019734)).
 
 ## Audit de conformite structurelle
 

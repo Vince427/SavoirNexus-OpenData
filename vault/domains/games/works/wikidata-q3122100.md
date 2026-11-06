@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q3122100
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-04-17
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q3122100:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -101,7 +101,7 @@ observations:
 
 # Samurai Shodown: Edge of Destiny
 
-**Samurai Shodown: Edge of Destiny** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3122100](https://www.wikidata.org/wiki/Q3122100)).
+**Samurai Shodown: Edge of Destiny** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3122100` (Wikidata : [Q3122100](https://www.wikidata.org/wiki/Q3122100)).
 
 ## Audit de conformite structurelle
 

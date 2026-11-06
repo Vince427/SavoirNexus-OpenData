@@ -13,7 +13,7 @@ wikidata_id: Q66439292
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-11-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q66439292:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Need for Speed Heat
 
-**Need for Speed Heat** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q66439292](https://www.wikidata.org/wiki/Q66439292)).
+**Need for Speed Heat** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q66439292` (Wikidata : [Q66439292](https://www.wikidata.org/wiki/Q66439292)).
 
 ## Audit de conformite structurelle
 

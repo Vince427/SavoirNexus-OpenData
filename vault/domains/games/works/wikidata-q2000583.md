@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2000583
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-09-15
-tags: [jeu, cataloged, action, adventure, puzzle]
+tags: [jeu, audited, action, adventure, puzzle]
 observations:
   - id: wikidata-q2000583:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Scribblenauts
 
-**Scribblenauts** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2000583](https://www.wikidata.org/wiki/Q2000583)).
+**Scribblenauts** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2000583` (Wikidata : [Q2000583](https://www.wikidata.org/wiki/Q2000583)).
 
 ## Audit de conformite structurelle
 

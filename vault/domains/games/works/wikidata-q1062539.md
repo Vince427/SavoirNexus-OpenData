@@ -13,7 +13,7 @@ wikidata_id: Q1062539
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-11-06
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/220740/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1062539:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Chaos on Deponia
 
-**Chaos on Deponia** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1062539](https://www.wikidata.org/wiki/Q1062539)).
+**Chaos on Deponia** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1062539` (Wikidata : [Q1062539](https://www.wikidata.org/wiki/Q1062539)).
 
 ## Audit de conformite structurelle
 

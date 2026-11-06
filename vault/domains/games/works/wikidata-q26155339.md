@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q26155339
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-07-20
-tags: [jeu, cataloged, adventure, puzzle]
+tags: [jeu, audited, adventure, puzzle]
 observations:
   - id: wikidata-q26155339:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # L'Aventure Layton : Katrielle et la Conspiration des millionnaires
 
-**L'Aventure Layton : Katrielle et la Conspiration des millionnaires** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q26155339](https://www.wikidata.org/wiki/Q26155339)).
+**L'Aventure Layton : Katrielle et la Conspiration des millionnaires** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q26155339` (Wikidata : [Q26155339](https://www.wikidata.org/wiki/Q26155339)).
 
 ## Audit de conformite structurelle
 

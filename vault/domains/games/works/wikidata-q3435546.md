@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3435546
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-03-22
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q3435546:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # UEFA Champions League 2006–2007
 
-**UEFA Champions League 2006–2007** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3435546](https://www.wikidata.org/wiki/Q3435546)).
+**UEFA Champions League 2006–2007** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3435546` (Wikidata : [Q3435546](https://www.wikidata.org/wiki/Q3435546)).
 
 ## Audit de conformite structurelle
 

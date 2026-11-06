@@ -13,7 +13,7 @@ wikidata_id: Q65160471
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2022-03-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1475810/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q65160471:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Ghostwire: Tokyo
 
-**Ghostwire: Tokyo** est une oeuvre sortie initialement en 2022, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q65160471](https://www.wikidata.org/wiki/Q65160471)).
+**Ghostwire: Tokyo** est une oeuvre sortie initialement en 2022, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q65160471` (Wikidata : [Q65160471](https://www.wikidata.org/wiki/Q65160471)).
 
 ## Audit de conformite structurelle
 

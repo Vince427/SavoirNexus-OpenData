@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q5087859
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-11-15
-tags: [jeu, cataloged, action, shooter]
+tags: [jeu, audited, action, shooter]
 observations:
   - id: wikidata-q5087859:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -101,7 +101,7 @@ observations:
 
 # Killzone: Shadow Fall
 
-**Killzone: Shadow Fall** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5087859](https://www.wikidata.org/wiki/Q5087859)).
+**Killzone: Shadow Fall** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5087859` (Wikidata : [Q5087859](https://www.wikidata.org/wiki/Q5087859)).
 
 ## Audit de conformite structurelle
 

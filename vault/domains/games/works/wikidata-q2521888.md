@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2521888
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-12-25
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2521888:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # White Knight Chronicles
 
-**White Knight Chronicles** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2521888](https://www.wikidata.org/wiki/Q2521888)).
+**White Knight Chronicles** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2521888` (Wikidata : [Q2521888](https://www.wikidata.org/wiki/Q2521888)).
 
 ## Audit de conformite structurelle
 

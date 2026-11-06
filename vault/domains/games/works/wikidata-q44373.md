@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q44373
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-11-18
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q44373:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Nintendo Land
 
-**Nintendo Land** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q44373](https://www.wikidata.org/wiki/Q44373)).
+**Nintendo Land** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q44373` (Wikidata : [Q44373](https://www.wikidata.org/wiki/Q44373)).
 
 ## Audit de conformite structurelle
 

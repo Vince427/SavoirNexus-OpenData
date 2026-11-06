@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1755601
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-04-29
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q1755601:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # WarioWare: D.I.Y.
 
-**WarioWare: D.I.Y.** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1755601](https://www.wikidata.org/wiki/Q1755601)).
+**WarioWare: D.I.Y.** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1755601` (Wikidata : [Q1755601](https://www.wikidata.org/wiki/Q1755601)).
 
 ## Audit de conformite structurelle
 

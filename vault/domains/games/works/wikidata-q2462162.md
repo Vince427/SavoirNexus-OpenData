@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2462162
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-02-26
-tags: [jeu, cataloged, hack-and-slash]
+tags: [jeu, audited, hack-and-slash]
 observations:
   - id: wikidata-q2462162:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dynasty Warriors: Strikeforce
 
-**Dynasty Warriors: Strikeforce** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2462162](https://www.wikidata.org/wiki/Q2462162)).
+**Dynasty Warriors: Strikeforce** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2462162` (Wikidata : [Q2462162](https://www.wikidata.org/wiki/Q2462162)).
 
 ## Audit de conformite structurelle
 

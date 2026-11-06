@@ -13,7 +13,7 @@ wikidata_id: Q16243694
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/250680/header.jpg"
-tags: [jeu, cataloged, action, adventure, roguelike]
+tags: [jeu, audited, action, adventure, roguelike]
 observations:
   - id: wikidata-q16243694:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Below
 
-**Below** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16243694](https://www.wikidata.org/wiki/Q16243694)).
+**Below** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16243694` (Wikidata : [Q16243694](https://www.wikidata.org/wiki/Q16243694)).
 
 ## Audit de conformite structurelle
 

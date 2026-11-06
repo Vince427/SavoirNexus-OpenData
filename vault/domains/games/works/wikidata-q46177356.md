@@ -13,7 +13,7 @@ wikidata_id: Q46177356
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-12-05
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/738060/header.jpg"
-tags: [jeu, cataloged, horror, simulation, survival]
+tags: [jeu, audited, horror, simulation, survival]
 observations:
   - id: wikidata-q46177356:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Freddy Fazbear's Pizzeria Simulator
 
-**Freddy Fazbear's Pizzeria Simulator** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q46177356](https://www.wikidata.org/wiki/Q46177356)).
+**Freddy Fazbear's Pizzeria Simulator** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q46177356` (Wikidata : [Q46177356](https://www.wikidata.org/wiki/Q46177356)).
 
 ## Audit de conformite structurelle
 

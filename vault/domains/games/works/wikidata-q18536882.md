@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q18536882
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-11-11
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q18536882:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Sonic Boom: Shattered Crystal
 
-**Sonic Boom: Shattered Crystal** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18536882](https://www.wikidata.org/wiki/Q18536882)).
+**Sonic Boom: Shattered Crystal** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18536882` (Wikidata : [Q18536882](https://www.wikidata.org/wiki/Q18536882)).
 
 ## Audit de conformite structurelle
 

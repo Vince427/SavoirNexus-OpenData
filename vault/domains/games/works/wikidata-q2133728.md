@@ -13,7 +13,7 @@ wikidata_id: Q2133728
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10480/header.jpg"
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2133728:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Football Manager 2008
 
-**Football Manager 2008** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2133728](https://www.wikidata.org/wiki/Q2133728)).
+**Football Manager 2008** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2133728` (Wikidata : [Q2133728](https://www.wikidata.org/wiki/Q2133728)).
 
 ## Audit de conformite structurelle
 

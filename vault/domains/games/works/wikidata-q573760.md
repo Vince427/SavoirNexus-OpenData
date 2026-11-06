@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q573760
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-11-25
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q573760:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Epic Mickey
 
-**Epic Mickey** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q573760](https://www.wikidata.org/wiki/Q573760)).
+**Epic Mickey** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q573760` (Wikidata : [Q573760](https://www.wikidata.org/wiki/Q573760)).
 
 ## Audit de conformite structurelle
 

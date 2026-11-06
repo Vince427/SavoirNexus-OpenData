@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2391240
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-03-01
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2391240:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Les Experts : Las Vegas - Crimes en série
 
-**Les Experts : Las Vegas - Crimes en série** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2391240](https://www.wikidata.org/wiki/Q2391240)).
+**Les Experts : Las Vegas - Crimes en série** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2391240` (Wikidata : [Q2391240](https://www.wikidata.org/wiki/Q2391240)).
 
 ## Audit de conformite structurelle
 

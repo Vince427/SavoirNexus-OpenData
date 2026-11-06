@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q1191926
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-12-20
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1191926:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -101,7 +101,7 @@ observations:
 
 # Myself ; Yourself
 
-**Myself ; Yourself** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1191926](https://www.wikidata.org/wiki/Q1191926)).
+**Myself ; Yourself** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1191926` (Wikidata : [Q1191926](https://www.wikidata.org/wiki/Q1191926)).
 
 ## Audit de conformite structurelle
 

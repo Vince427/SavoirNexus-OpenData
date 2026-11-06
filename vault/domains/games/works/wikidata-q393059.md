@@ -13,7 +13,7 @@ wikidata_id: Q393059
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-04-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/285160/header.jpg"
-tags: [jeu, cataloged, action, adventure, rpg]
+tags: [jeu, audited, action, adventure, rpg]
 observations:
   - id: wikidata-q393059:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Lego Le Hobbit
 
-**Lego Le Hobbit** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q393059](https://www.wikidata.org/wiki/Q393059)).
+**Lego Le Hobbit** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q393059` (Wikidata : [Q393059](https://www.wikidata.org/wiki/Q393059)).
 
 ## Audit de conformite structurelle
 

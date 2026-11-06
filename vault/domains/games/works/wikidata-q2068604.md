@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2068604
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-06-02
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q2068604:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -102,7 +102,7 @@ observations:
 
 # Cartoon Network : Le Choc des héros
 
-**Cartoon Network : Le Choc des héros** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2068604](https://www.wikidata.org/wiki/Q2068604)).
+**Cartoon Network : Le Choc des héros** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2068604` (Wikidata : [Q2068604](https://www.wikidata.org/wiki/Q2068604)).
 
 ## Audit de conformite structurelle
 

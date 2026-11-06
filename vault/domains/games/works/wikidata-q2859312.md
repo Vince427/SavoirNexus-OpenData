@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q2859312
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-25
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2859312:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -101,7 +101,7 @@ observations:
 
 # Ar tonelico II: Melody of Metafalica
 
-**Ar tonelico II: Melody of Metafalica** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2859312](https://www.wikidata.org/wiki/Q2859312)).
+**Ar tonelico II: Melody of Metafalica** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2859312` (Wikidata : [Q2859312](https://www.wikidata.org/wiki/Q2859312)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3178243
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-02-08
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q3178243:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Luminous Arc
 
-**Luminous Arc** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3178243](https://www.wikidata.org/wiki/Q3178243)).
+**Luminous Arc** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3178243` (Wikidata : [Q3178243](https://www.wikidata.org/wiki/Q3178243)).
 
 ## Audit de conformite structurelle
 

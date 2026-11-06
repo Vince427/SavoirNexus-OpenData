@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q4690228
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-01-27
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q4690228:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Afro Samurai
 
-**Afro Samurai** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4690228](https://www.wikidata.org/wiki/Q4690228)).
+**Afro Samurai** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4690228` (Wikidata : [Q4690228](https://www.wikidata.org/wiki/Q4690228)).
 
 ## Audit de conformite structurelle
 

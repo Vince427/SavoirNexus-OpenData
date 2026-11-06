@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3132524
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-02-26
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q3132524:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ridge Racer 3D
 
-**Ridge Racer 3D** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3132524](https://www.wikidata.org/wiki/Q3132524)).
+**Ridge Racer 3D** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3132524` (Wikidata : [Q3132524](https://www.wikidata.org/wiki/Q3132524)).
 
 ## Audit de conformite structurelle
 

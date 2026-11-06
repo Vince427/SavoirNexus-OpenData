@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2555753
 metadata_provenance: "Wikidata (CC0)"
 first_release: http://www
-tags: [jeu, cataloged, action, adventure, rpg]
+tags: [jeu, audited, action, adventure, rpg]
 observations:
   - id: wikidata-q2555753:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Beyond Good & Evil 2
 
-**Beyond Good & Evil 2** est une oeuvre sortie initialement en 0, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2555753](https://www.wikidata.org/wiki/Q2555753)).
+**Beyond Good & Evil 2** est une oeuvre sortie initialement en 0, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2555753` (Wikidata : [Q2555753](https://www.wikidata.org/wiki/Q2555753)).
 
 ## Audit de conformite structurelle
 

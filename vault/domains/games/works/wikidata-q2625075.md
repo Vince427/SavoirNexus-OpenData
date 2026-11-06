@@ -13,7 +13,7 @@ wikidata_id: Q2625075
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-08-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236850/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q2625075:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Europa Universalis 4
 
-**Europa Universalis 4** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2625075](https://www.wikidata.org/wiki/Q2625075)).
+**Europa Universalis 4** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2625075` (Wikidata : [Q2625075](https://www.wikidata.org/wiki/Q2625075)).
 
 ## Audit de conformite structurelle
 

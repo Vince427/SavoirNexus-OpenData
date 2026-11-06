@@ -13,7 +13,7 @@ wikidata_id: Q75493248
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-08-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1180660/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q75493248:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Tell Me Why
 
-**Tell Me Why** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q75493248](https://www.wikidata.org/wiki/Q75493248)).
+**Tell Me Why** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q75493248` (Wikidata : [Q75493248](https://www.wikidata.org/wiki/Q75493248)).
 
 ## Audit de conformite structurelle
 

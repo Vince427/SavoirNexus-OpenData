@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2661308
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-06-22
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2661308:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Valkyrie Profile 2: Silmeria
 
-**Valkyrie Profile 2: Silmeria** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2661308](https://www.wikidata.org/wiki/Q2661308)).
+**Valkyrie Profile 2: Silmeria** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2661308` (Wikidata : [Q2661308](https://www.wikidata.org/wiki/Q2661308)).
 
 ## Audit de conformite structurelle
 

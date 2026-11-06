@@ -13,7 +13,7 @@ wikidata_id: Q18913274
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-03-02
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/354140/header.jpg"
-tags: [jeu, cataloged, adventure, horror, survival]
+tags: [jeu, audited, adventure, horror, survival]
 observations:
   - id: wikidata-q18913274:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Five Nights at Freddy's 3
 
-**Five Nights at Freddy's 3** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18913274](https://www.wikidata.org/wiki/Q18913274)).
+**Five Nights at Freddy's 3** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18913274` (Wikidata : [Q18913274](https://www.wikidata.org/wiki/Q18913274)).
 
 ## Audit de conformite structurelle
 

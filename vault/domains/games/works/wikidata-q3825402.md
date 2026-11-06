@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3825402
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-05-26
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q3825402:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -102,7 +102,7 @@ observations:
 
 # Là-haut
 
-**Là-haut** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3825402](https://www.wikidata.org/wiki/Q3825402)).
+**Là-haut** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3825402` (Wikidata : [Q3825402](https://www.wikidata.org/wiki/Q3825402)).
 
 ## Audit de conformite structurelle
 

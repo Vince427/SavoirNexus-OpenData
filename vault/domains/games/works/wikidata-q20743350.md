@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q20743350
 metadata_provenance: "Wikidata (CC0)"
 first_release: http://www
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q20743350:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Titanic: Honor and Glory
 
-**Titanic: Honor and Glory** est une oeuvre sortie initialement en 0, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20743350](https://www.wikidata.org/wiki/Q20743350)).
+**Titanic: Honor and Glory** est une oeuvre sortie initialement en 0, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20743350` (Wikidata : [Q20743350](https://www.wikidata.org/wiki/Q20743350)).
 
 ## Audit de conformite structurelle
 

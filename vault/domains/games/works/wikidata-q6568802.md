@@ -13,7 +13,7 @@ wikidata_id: Q6568802
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-02-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/272270/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q6568802:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Torment: Tides of Numenéra
 
-**Torment: Tides of Numenéra** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q6568802](https://www.wikidata.org/wiki/Q6568802)).
+**Torment: Tides of Numenéra** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q6568802` (Wikidata : [Q6568802](https://www.wikidata.org/wiki/Q6568802)).
 
 ## Audit de conformite structurelle
 

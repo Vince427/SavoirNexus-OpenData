@@ -13,7 +13,7 @@ wikidata_id: Q390595
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-12-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292120/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q390595:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Final Fantasy XIII
 
-**Final Fantasy XIII** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q390595](https://www.wikidata.org/wiki/Q390595)).
+**Final Fantasy XIII** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q390595` (Wikidata : [Q390595](https://www.wikidata.org/wiki/Q390595)).
 
 ## Audit de conformite structurelle
 

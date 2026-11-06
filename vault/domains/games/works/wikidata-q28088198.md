@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q28088198
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-08-22
-tags: [jeu, cataloged, action, adventure, shooter]
+tags: [jeu, audited, action, adventure, shooter]
 observations:
   - id: wikidata-q28088198:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -101,7 +101,7 @@ observations:
 
 # Uncharted: The Lost Legacy
 
-**Uncharted: The Lost Legacy** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28088198](https://www.wikidata.org/wiki/Q28088198)).
+**Uncharted: The Lost Legacy** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28088198` (Wikidata : [Q28088198](https://www.wikidata.org/wiki/Q28088198)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q30607823
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-03-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/447820/header.jpg"
-tags: [jeu, cataloged, action, shooter, strategy]
+tags: [jeu, audited, action, shooter, strategy]
 observations:
   - id: wikidata-q30607823:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Day of Infamy
 
-**Day of Infamy** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q30607823](https://www.wikidata.org/wiki/Q30607823)).
+**Day of Infamy** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q30607823` (Wikidata : [Q30607823](https://www.wikidata.org/wiki/Q30607823)).
 
 ## Audit de conformite structurelle
 

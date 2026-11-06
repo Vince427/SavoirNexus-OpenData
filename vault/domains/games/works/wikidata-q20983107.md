@@ -13,7 +13,7 @@ wikidata_id: Q20983107
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-02-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/441830/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q20983107:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # I Am Setsuna
 
-**I Am Setsuna** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20983107](https://www.wikidata.org/wiki/Q20983107)).
+**I Am Setsuna** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20983107` (Wikidata : [Q20983107](https://www.wikidata.org/wiki/Q20983107)).
 
 ## Audit de conformite structurelle
 

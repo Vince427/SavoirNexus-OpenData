@@ -13,7 +13,7 @@ wikidata_id: Q766313
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-02-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7830/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q766313:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Men of War
 
-**Men of War** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q766313](https://www.wikidata.org/wiki/Q766313)).
+**Men of War** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q766313` (Wikidata : [Q766313](https://www.wikidata.org/wiki/Q766313)).
 
 ## Audit de conformite structurelle
 

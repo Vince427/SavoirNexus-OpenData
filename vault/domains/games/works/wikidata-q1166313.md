@@ -13,7 +13,7 @@ wikidata_id: Q1166313
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-01-05
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/50620/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1166313:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Darksiders
 
-**Darksiders** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1166313](https://www.wikidata.org/wiki/Q1166313)).
+**Darksiders** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1166313` (Wikidata : [Q1166313](https://www.wikidata.org/wiki/Q1166313)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1067581
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-07-24
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q1067581:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Wario Land: The Shake Dimension
 
-**Wario Land: The Shake Dimension** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1067581](https://www.wikidata.org/wiki/Q1067581)).
+**Wario Land: The Shake Dimension** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1067581` (Wikidata : [Q1067581](https://www.wikidata.org/wiki/Q1067581)).
 
 ## Audit de conformite structurelle
 

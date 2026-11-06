@@ -13,7 +13,7 @@ wikidata_id: Q2638825
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-02-04
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/34277/header.jpg"
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q2638825:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Shinobi III: Return of the Ninja Master
 
-**Shinobi III: Return of the Ninja Master** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2638825](https://www.wikidata.org/wiki/Q2638825)).
+**Shinobi III: Return of the Ninja Master** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2638825` (Wikidata : [Q2638825](https://www.wikidata.org/wiki/Q2638825)).
 
 ## Audit de conformite structurelle
 

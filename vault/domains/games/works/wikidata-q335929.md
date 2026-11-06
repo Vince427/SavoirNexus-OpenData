@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q335929
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-03-07
-tags: [jeu, cataloged, action, adventure, rpg]
+tags: [jeu, audited, action, adventure, rpg]
 observations:
   - id: wikidata-q335929:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Soul Sacrifice
 
-**Soul Sacrifice** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q335929](https://www.wikidata.org/wiki/Q335929)).
+**Soul Sacrifice** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q335929` (Wikidata : [Q335929](https://www.wikidata.org/wiki/Q335929)).
 
 ## Audit de conformite structurelle
 

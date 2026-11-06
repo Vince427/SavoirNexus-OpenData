@@ -13,7 +13,7 @@ wikidata_id: Q2706689
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-04-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/390310/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2706689:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Little King's Story
 
-**Little King's Story** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2706689](https://www.wikidata.org/wiki/Q2706689)).
+**Little King's Story** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2706689` (Wikidata : [Q2706689](https://www.wikidata.org/wiki/Q2706689)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q31685
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-08
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q31685:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Spore Hero Arena
 
-**Spore Hero Arena** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q31685](https://www.wikidata.org/wiki/Q31685)).
+**Spore Hero Arena** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q31685` (Wikidata : [Q31685](https://www.wikidata.org/wiki/Q31685)).
 
 ## Audit de conformite structurelle
 

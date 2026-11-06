@@ -13,7 +13,7 @@ wikidata_id: Q2337304
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-10-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/433300/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q2337304:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Marvel: Ultimate Alliance
 
-**Marvel: Ultimate Alliance** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2337304](https://www.wikidata.org/wiki/Q2337304)).
+**Marvel: Ultimate Alliance** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2337304` (Wikidata : [Q2337304](https://www.wikidata.org/wiki/Q2337304)).
 
 ## Audit de conformite structurelle
 

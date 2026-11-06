@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2132978
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-09-25
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q2132978:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario vs. Donkey Kong 2 : La Marche des Mini
 
-**Mario vs. Donkey Kong 2 : La Marche des Mini** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2132978](https://www.wikidata.org/wiki/Q2132978)).
+**Mario vs. Donkey Kong 2 : La Marche des Mini** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2132978` (Wikidata : [Q2132978](https://www.wikidata.org/wiki/Q2132978)).
 
 ## Audit de conformite structurelle
 

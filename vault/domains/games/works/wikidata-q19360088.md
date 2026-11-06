@@ -13,7 +13,7 @@ wikidata_id: Q19360088
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-08-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/298630/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q19360088:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # The Escapists
 
-**The Escapists** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q19360088](https://www.wikidata.org/wiki/Q19360088)).
+**The Escapists** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q19360088` (Wikidata : [Q19360088](https://www.wikidata.org/wiki/Q19360088)).
 
 ## Audit de conformite structurelle
 

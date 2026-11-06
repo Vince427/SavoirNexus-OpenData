@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1300159
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-08-31
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1300159:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mercenaries 2 : L'Enfer des favelas
 
-**Mercenaries 2 : L'Enfer des favelas** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1300159](https://www.wikidata.org/wiki/Q1300159)).
+**Mercenaries 2 : L'Enfer des favelas** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1300159` (Wikidata : [Q1300159](https://www.wikidata.org/wiki/Q1300159)).
 
 ## Audit de conformite structurelle
 

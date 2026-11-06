@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q17138
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-11-01
-tags: [jeu, cataloged, action, adventure, platformer, shooter]
+tags: [jeu, audited, action, adventure, platformer, shooter]
 observations:
   - id: wikidata-q17138:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Uncharted 3: L'Illusion de Drake
 
-**Uncharted 3: L'Illusion de Drake** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17138](https://www.wikidata.org/wiki/Q17138)).
+**Uncharted 3: L'Illusion de Drake** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17138` (Wikidata : [Q17138](https://www.wikidata.org/wiki/Q17138)).
 
 ## Audit de conformite structurelle
 

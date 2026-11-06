@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q88867909
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-06-05
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q88867909:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -101,7 +101,7 @@ observations:
 
 # 51 Worldwide Games
 
-**51 Worldwide Games** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q88867909](https://www.wikidata.org/wiki/Q88867909)).
+**51 Worldwide Games** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q88867909` (Wikidata : [Q88867909](https://www.wikidata.org/wiki/Q88867909)).
 
 ## Audit de conformite structurelle
 

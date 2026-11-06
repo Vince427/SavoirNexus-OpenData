@@ -13,7 +13,7 @@ wikidata_id: Q65123089
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-03-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1089090/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q65123089:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # One Piece : Pirate Warriors 4
 
-**One Piece : Pirate Warriors 4** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q65123089](https://www.wikidata.org/wiki/Q65123089)).
+**One Piece : Pirate Warriors 4** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q65123089` (Wikidata : [Q65123089](https://www.wikidata.org/wiki/Q65123089)).
 
 ## Audit de conformite structurelle
 

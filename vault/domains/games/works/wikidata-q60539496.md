@@ -13,7 +13,7 @@ wikidata_id: Q60539496
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-05-06
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1114070/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q60539496:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # My Child : Lebensborn
 
-**My Child : Lebensborn** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q60539496](https://www.wikidata.org/wiki/Q60539496)).
+**My Child : Lebensborn** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q60539496` (Wikidata : [Q60539496](https://www.wikidata.org/wiki/Q60539496)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q914286
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-07-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21660/header.jpg"
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q914286:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Street Fighter IV
 
-**Street Fighter IV** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q914286](https://www.wikidata.org/wiki/Q914286)).
+**Street Fighter IV** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q914286` (Wikidata : [Q914286](https://www.wikidata.org/wiki/Q914286)).
 
 ## Audit de conformite structurelle
 

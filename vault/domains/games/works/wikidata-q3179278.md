@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3179278
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-25
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q3179278:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Super Street Fighter II Turbo HD Remix
 
-**Super Street Fighter II Turbo HD Remix** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3179278](https://www.wikidata.org/wiki/Q3179278)).
+**Super Street Fighter II Turbo HD Remix** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3179278` (Wikidata : [Q3179278](https://www.wikidata.org/wiki/Q3179278)).
 
 ## Audit de conformite structurelle
 

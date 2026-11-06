@@ -13,7 +13,7 @@ wikidata_id: Q48847238
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-12-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/537110/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q48847238:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Angels of Death
 
-**Angels of Death** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q48847238](https://www.wikidata.org/wiki/Q48847238)).
+**Angels of Death** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q48847238` (Wikidata : [Q48847238](https://www.wikidata.org/wiki/Q48847238)).
 
 ## Audit de conformite structurelle
 

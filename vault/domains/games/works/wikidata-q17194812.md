@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q17194812
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-11-18
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q17194812:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Little Big Planet 3
 
-**Little Big Planet 3** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17194812](https://www.wikidata.org/wiki/Q17194812)).
+**Little Big Planet 3** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17194812` (Wikidata : [Q17194812](https://www.wikidata.org/wiki/Q17194812)).
 
 ## Audit de conformite structurelle
 

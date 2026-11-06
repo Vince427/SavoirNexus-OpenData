@@ -13,7 +13,7 @@ wikidata_id: Q16152567
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-04-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/267550/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q16152567:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # The Amazing Spider-Man 2
 
-**The Amazing Spider-Man 2** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16152567](https://www.wikidata.org/wiki/Q16152567)).
+**The Amazing Spider-Man 2** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16152567` (Wikidata : [Q16152567](https://www.wikidata.org/wiki/Q16152567)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q1955277
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-08-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/235600/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1955277:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Tom Clancy's Splinter Cell: Blacklist
 
-**Tom Clancy's Splinter Cell: Blacklist** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1955277](https://www.wikidata.org/wiki/Q1955277)).
+**Tom Clancy's Splinter Cell: Blacklist** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1955277` (Wikidata : [Q1955277](https://www.wikidata.org/wiki/Q1955277)).
 
 ## Audit de conformite structurelle
 

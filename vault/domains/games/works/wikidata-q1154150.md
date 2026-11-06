@@ -13,7 +13,7 @@ wikidata_id: Q1154150
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-04-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/294860/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1154150:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Valkyria Chronicles
 
-**Valkyria Chronicles** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1154150](https://www.wikidata.org/wiki/Q1154150)).
+**Valkyria Chronicles** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1154150` (Wikidata : [Q1154150](https://www.wikidata.org/wiki/Q1154150)).
 
 ## Audit de conformite structurelle
 

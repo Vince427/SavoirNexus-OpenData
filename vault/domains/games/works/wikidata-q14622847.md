@@ -13,7 +13,7 @@ wikidata_id: Q14622847
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-02-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/376300/header.jpg"
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q14622847:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Guilty Gear Xrd
 
-**Guilty Gear Xrd** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q14622847](https://www.wikidata.org/wiki/Q14622847)).
+**Guilty Gear Xrd** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q14622847` (Wikidata : [Q14622847](https://www.wikidata.org/wiki/Q14622847)).
 
 ## Audit de conformite structurelle
 

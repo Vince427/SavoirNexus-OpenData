@@ -13,7 +13,7 @@ wikidata_id: Q25477575
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/324310/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q25477575:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Bus Simulator 16
 
-**Bus Simulator 16** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q25477575](https://www.wikidata.org/wiki/Q25477575)).
+**Bus Simulator 16** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q25477575` (Wikidata : [Q25477575](https://www.wikidata.org/wiki/Q25477575)).
 
 ## Audit de conformite structurelle
 

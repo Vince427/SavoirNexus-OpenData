@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2328445
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-07-20
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q2328445:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Crash Boom Bang!
 
-**Crash Boom Bang!** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2328445](https://www.wikidata.org/wiki/Q2328445)).
+**Crash Boom Bang!** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2328445` (Wikidata : [Q2328445](https://www.wikidata.org/wiki/Q2328445)).
 
 ## Audit de conformite structurelle
 

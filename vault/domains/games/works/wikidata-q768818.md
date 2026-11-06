@@ -13,7 +13,7 @@ wikidata_id: Q768818
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-05-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12790/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q768818:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Damnation
 
-**Damnation** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q768818](https://www.wikidata.org/wiki/Q768818)).
+**Damnation** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q768818` (Wikidata : [Q768818](https://www.wikidata.org/wiki/Q768818)).
 
 ## Audit de conformite structurelle
 

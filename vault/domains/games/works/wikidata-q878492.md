@@ -13,7 +13,7 @@ wikidata_id: Q878492
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-10-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13580/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q878492:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Tom Clancy's Splinter Cell: Double Agent
 
-**Tom Clancy's Splinter Cell: Double Agent** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q878492](https://www.wikidata.org/wiki/Q878492)).
+**Tom Clancy's Splinter Cell: Double Agent** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q878492` (Wikidata : [Q878492](https://www.wikidata.org/wiki/Q878492)).
 
 ## Audit de conformite structurelle
 

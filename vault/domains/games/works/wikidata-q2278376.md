@@ -13,7 +13,7 @@ wikidata_id: Q2278376
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11140/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2278376:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -103,7 +103,7 @@ observations:
 
 # Les Aventures de Sherlock Holmes : La Nuit des sacrifiés
 
-**Les Aventures de Sherlock Holmes : La Nuit des sacrifiés** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2278376](https://www.wikidata.org/wiki/Q2278376)).
+**Les Aventures de Sherlock Holmes : La Nuit des sacrifiés** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2278376` (Wikidata : [Q2278376](https://www.wikidata.org/wiki/Q2278376)).
 
 ## Audit de conformite structurelle
 

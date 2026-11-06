@@ -13,7 +13,7 @@ wikidata_id: Q1139201
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-01-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/26900/header.jpg"
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q1139201:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Crayon Physics
 
-**Crayon Physics** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1139201](https://www.wikidata.org/wiki/Q1139201)).
+**Crayon Physics** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1139201` (Wikidata : [Q1139201](https://www.wikidata.org/wiki/Q1139201)).
 
 ## Audit de conformite structurelle
 

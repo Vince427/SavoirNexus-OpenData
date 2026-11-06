@@ -13,7 +13,7 @@ wikidata_id: Q1148672
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-03-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15120/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1148672:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Tom Clancy's Rainbow Six: Vegas 2
 
-**Tom Clancy's Rainbow Six: Vegas 2** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1148672](https://www.wikidata.org/wiki/Q1148672)).
+**Tom Clancy's Rainbow Six: Vegas 2** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1148672` (Wikidata : [Q1148672](https://www.wikidata.org/wiki/Q1148672)).
 
 ## Audit de conformite structurelle
 

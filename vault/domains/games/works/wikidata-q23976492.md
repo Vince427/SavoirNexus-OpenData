@@ -13,7 +13,7 @@ wikidata_id: Q23976492
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-04-04
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/388320/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q23976492:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # 1979 Revolution: Black Friday
 
-**1979 Revolution: Black Friday** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q23976492](https://www.wikidata.org/wiki/Q23976492)).
+**1979 Revolution: Black Friday** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q23976492` (Wikidata : [Q23976492](https://www.wikidata.org/wiki/Q23976492)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q2412999
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-06-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42650/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2412999:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Transformers : La Guerre pour Cybertron
 
-**Transformers : La Guerre pour Cybertron** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2412999](https://www.wikidata.org/wiki/Q2412999)).
+**Transformers : La Guerre pour Cybertron** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2412999` (Wikidata : [Q2412999](https://www.wikidata.org/wiki/Q2412999)).
 
 ## Audit de conformite structurelle
 

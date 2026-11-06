@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1196435
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-05-06
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q1196435:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Boom Blox
 
-**Boom Blox** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1196435](https://www.wikidata.org/wiki/Q1196435)).
+**Boom Blox** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1196435` (Wikidata : [Q1196435](https://www.wikidata.org/wiki/Q1196435)).
 
 ## Audit de conformite structurelle
 

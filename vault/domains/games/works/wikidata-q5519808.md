@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q5519808
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-03-28
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q5519808:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Game and Wario
 
-**Game and Wario** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5519808](https://www.wikidata.org/wiki/Q5519808)).
+**Game and Wario** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5519808` (Wikidata : [Q5519808](https://www.wikidata.org/wiki/Q5519808)).
 
 ## Audit de conformite structurelle
 

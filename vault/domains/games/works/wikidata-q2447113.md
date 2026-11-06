@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2447113
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-06-05
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q2447113:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dragon Ball Z: Burst Limit
 
-**Dragon Ball Z: Burst Limit** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2447113](https://www.wikidata.org/wiki/Q2447113)).
+**Dragon Ball Z: Burst Limit** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2447113` (Wikidata : [Q2447113](https://www.wikidata.org/wiki/Q2447113)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1138903
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-04-29
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1138903:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -102,7 +102,7 @@ observations:
 
 # Iron Man 2
 
-**Iron Man 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1138903](https://www.wikidata.org/wiki/Q1138903)).
+**Iron Man 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1138903` (Wikidata : [Q1138903](https://www.wikidata.org/wiki/Q1138903)).
 
 ## Audit de conformite structurelle
 

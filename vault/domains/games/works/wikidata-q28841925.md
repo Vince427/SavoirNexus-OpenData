@@ -13,7 +13,7 @@ wikidata_id: Q28841925
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-03-10
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/435100/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q28841925:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # 2Dark
 
-**2Dark** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28841925](https://www.wikidata.org/wiki/Q28841925)).
+**2Dark** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28841925` (Wikidata : [Q28841925](https://www.wikidata.org/wiki/Q28841925)).
 
 ## Audit de conformite structurelle
 

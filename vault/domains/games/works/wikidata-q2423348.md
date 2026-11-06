@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2423348
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-06-09
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2423348:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Yakuza: Dead Souls
 
-**Yakuza: Dead Souls** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2423348](https://www.wikidata.org/wiki/Q2423348)).
+**Yakuza: Dead Souls** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2423348` (Wikidata : [Q2423348](https://www.wikidata.org/wiki/Q2423348)).
 
 ## Audit de conformite structurelle
 

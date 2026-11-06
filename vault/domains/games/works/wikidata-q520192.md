@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q520192
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-11-29
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q520192:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Golden Sun : Obscure Aurore
 
-**Golden Sun : Obscure Aurore** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q520192](https://www.wikidata.org/wiki/Q520192)).
+**Golden Sun : Obscure Aurore** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q520192` (Wikidata : [Q520192](https://www.wikidata.org/wiki/Q520192)).
 
 ## Audit de conformite structurelle
 

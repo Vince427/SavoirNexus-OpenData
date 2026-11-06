@@ -13,7 +13,7 @@ wikidata_id: Q23303477
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-01-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/431240/header.jpg"
-tags: [jeu, cataloged, casual, sports]
+tags: [jeu, audited, casual, sports]
 observations:
   - id: wikidata-q23303477:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Golf With Your Friends
 
-**Golf With Your Friends** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q23303477](https://www.wikidata.org/wiki/Q23303477)).
+**Golf With Your Friends** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q23303477` (Wikidata : [Q23303477](https://www.wikidata.org/wiki/Q23303477)).
 
 ## Audit de conformite structurelle
 

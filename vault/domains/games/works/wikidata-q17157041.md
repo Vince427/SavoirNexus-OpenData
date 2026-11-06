@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q17157041
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-11-13
-tags: [jeu, cataloged, action, puzzle]
+tags: [jeu, audited, action, puzzle]
 observations:
   - id: wikidata-q17157041:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Captain Toad: Treasure Tracker
 
-**Captain Toad: Treasure Tracker** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17157041](https://www.wikidata.org/wiki/Q17157041)).
+**Captain Toad: Treasure Tracker** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17157041` (Wikidata : [Q17157041](https://www.wikidata.org/wiki/Q17157041)).
 
 ## Audit de conformite structurelle
 

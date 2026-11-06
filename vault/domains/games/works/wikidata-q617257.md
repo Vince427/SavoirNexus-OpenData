@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q617257
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-10-23
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q617257:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -101,7 +101,7 @@ observations:
 
 # Shin Megami Tensei: Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon
 
-**Shin Megami Tensei: Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q617257](https://www.wikidata.org/wiki/Q617257)).
+**Shin Megami Tensei: Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q617257` (Wikidata : [Q617257](https://www.wikidata.org/wiki/Q617257)).
 
 ## Audit de conformite structurelle
 

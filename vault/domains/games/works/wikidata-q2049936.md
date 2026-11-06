@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2049936
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-22
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q2049936:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Lunar Knights
 
-**Lunar Knights** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2049936](https://www.wikidata.org/wiki/Q2049936)).
+**Lunar Knights** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2049936` (Wikidata : [Q2049936](https://www.wikidata.org/wiki/Q2049936)).
 
 ## Audit de conformite structurelle
 

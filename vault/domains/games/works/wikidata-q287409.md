@@ -13,7 +13,7 @@ wikidata_id: Q287409
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-07-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/532320/header.jpg"
-tags: [jeu, cataloged, action, adventure, platformer, puzzle]
+tags: [jeu, audited, action, adventure, platformer, puzzle]
 observations:
   - id: wikidata-q287409:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # De Blob
 
-**De Blob** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q287409](https://www.wikidata.org/wiki/Q287409)).
+**De Blob** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q287409` (Wikidata : [Q287409](https://www.wikidata.org/wiki/Q287409)).
 
 ## Audit de conformite structurelle
 

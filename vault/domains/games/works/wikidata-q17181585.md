@@ -13,7 +13,7 @@ wikidata_id: Q17181585
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-12-09
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289690/header.jpg"
-tags: [jeu, cataloged, action, adventure, platformer]
+tags: [jeu, audited, action, adventure, platformer]
 observations:
   - id: wikidata-q17181585:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Lara Croft and the Temple of Osiris
 
-**Lara Croft and the Temple of Osiris** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17181585](https://www.wikidata.org/wiki/Q17181585)).
+**Lara Croft and the Temple of Osiris** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17181585` (Wikidata : [Q17181585](https://www.wikidata.org/wiki/Q17181585)).
 
 ## Audit de conformite structurelle
 

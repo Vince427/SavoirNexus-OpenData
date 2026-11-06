@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q20078382
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-01-01
-tags: [jeu, cataloged, action, adventure, platformer]
+tags: [jeu, audited, action, adventure, platformer]
 observations:
   - id: wikidata-q20078382:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Sonic Boom: Fire & Ice
 
-**Sonic Boom: Fire & Ice** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20078382](https://www.wikidata.org/wiki/Q20078382)).
+**Sonic Boom: Fire & Ice** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20078382` (Wikidata : [Q20078382](https://www.wikidata.org/wiki/Q20078382)).
 
 ## Audit de conformite structurelle
 

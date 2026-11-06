@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2066591
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-01-13
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2066591:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # German Truck Simulator
 
-**German Truck Simulator** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2066591](https://www.wikidata.org/wiki/Q2066591)).
+**German Truck Simulator** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2066591` (Wikidata : [Q2066591](https://www.wikidata.org/wiki/Q2066591)).
 
 ## Audit de conformite structurelle
 

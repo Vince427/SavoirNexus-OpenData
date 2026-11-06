@@ -13,7 +13,7 @@ wikidata_id: Q65269040
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-07-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2399220/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q65269040:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Nukitashi
 
-**Nukitashi** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q65269040](https://www.wikidata.org/wiki/Q65269040)).
+**Nukitashi** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q65269040` (Wikidata : [Q65269040](https://www.wikidata.org/wiki/Q65269040)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q23008476
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-03-04
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q23008476:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # The Legend of Zelda: Twilight Princess HD
 
-**The Legend of Zelda: Twilight Princess HD** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q23008476](https://www.wikidata.org/wiki/Q23008476)).
+**The Legend of Zelda: Twilight Princess HD** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q23008476` (Wikidata : [Q23008476](https://www.wikidata.org/wiki/Q23008476)).
 
 ## Audit de conformite structurelle
 

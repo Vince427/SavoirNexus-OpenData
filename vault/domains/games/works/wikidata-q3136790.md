@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3136790
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-23
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q3136790:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Power Rangers: Super Legends
 
-**Power Rangers: Super Legends** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3136790](https://www.wikidata.org/wiki/Q3136790)).
+**Power Rangers: Super Legends** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3136790` (Wikidata : [Q3136790](https://www.wikidata.org/wiki/Q3136790)).
 
 ## Audit de conformite structurelle
 

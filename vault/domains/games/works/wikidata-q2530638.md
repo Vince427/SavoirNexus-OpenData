@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2530638
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-04-03
-tags: [jeu, cataloged, hack-and-slash]
+tags: [jeu, audited, hack-and-slash]
 observations:
   - id: wikidata-q2530638:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Warriors Orochi 2
 
-**Warriors Orochi 2** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2530638](https://www.wikidata.org/wiki/Q2530638)).
+**Warriors Orochi 2** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2530638` (Wikidata : [Q2530638](https://www.wikidata.org/wiki/Q2530638)).
 
 ## Audit de conformite structurelle
 

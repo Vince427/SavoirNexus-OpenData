@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q646696
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-05-11
-tags: [jeu, cataloged, action, adventure, simulation, strategy]
+tags: [jeu, audited, action, adventure, simulation, strategy]
 observations:
   - id: wikidata-q646696:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Star Trek: Legacy
 
-**Star Trek: Legacy** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q646696](https://www.wikidata.org/wiki/Q646696)).
+**Star Trek: Legacy** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q646696` (Wikidata : [Q646696](https://www.wikidata.org/wiki/Q646696)).
 
 ## Audit de conformite structurelle
 

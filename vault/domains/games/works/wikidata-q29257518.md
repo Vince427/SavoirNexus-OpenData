@@ -13,7 +13,7 @@ wikidata_id: Q29257518
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-05-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/378540/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q29257518:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Surge
 
-**The Surge** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q29257518](https://www.wikidata.org/wiki/Q29257518)).
+**The Surge** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q29257518` (Wikidata : [Q29257518](https://www.wikidata.org/wiki/Q29257518)).
 
 ## Audit de conformite structurelle
 

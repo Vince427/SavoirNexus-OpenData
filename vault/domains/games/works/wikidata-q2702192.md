@@ -13,7 +13,7 @@ wikidata_id: Q2702192
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-10-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/316260/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2702192:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Disney Universe
 
-**Disney Universe** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2702192](https://www.wikidata.org/wiki/Q2702192)).
+**Disney Universe** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2702192` (Wikidata : [Q2702192](https://www.wikidata.org/wiki/Q2702192)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q925979
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-03-11
-tags: [jeu, cataloged, horror]
+tags: [jeu, audited, horror]
 observations:
   - id: wikidata-q925979:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Condemned 2: Bloodshot
 
-**Condemned 2: Bloodshot** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q925979](https://www.wikidata.org/wiki/Q925979)).
+**Condemned 2: Bloodshot** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q925979` (Wikidata : [Q925979](https://www.wikidata.org/wiki/Q925979)).
 
 ## Audit de conformite structurelle
 

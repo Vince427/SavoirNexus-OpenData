@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q4305839
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-12-19
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q4305839:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Silent Hill: The Escape
 
-**Silent Hill: The Escape** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4305839](https://www.wikidata.org/wiki/Q4305839)).
+**Silent Hill: The Escape** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4305839` (Wikidata : [Q4305839](https://www.wikidata.org/wiki/Q4305839)).
 
 ## Audit de conformite structurelle
 

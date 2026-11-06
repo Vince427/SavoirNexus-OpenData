@@ -13,7 +13,7 @@ wikidata_id: Q51844095
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-02-05
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1102130/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q51844095:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Florence
 
-**Florence** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q51844095](https://www.wikidata.org/wiki/Q51844095)).
+**Florence** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q51844095` (Wikidata : [Q51844095](https://www.wikidata.org/wiki/Q51844095)).
 
 ## Audit de conformite structurelle
 

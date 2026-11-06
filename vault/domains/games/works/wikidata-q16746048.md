@@ -13,7 +13,7 @@ wikidata_id: Q16746048
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-04-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/638650/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q16746048:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Sword Art Online: Hollow Fragment
 
-**Sword Art Online: Hollow Fragment** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16746048](https://www.wikidata.org/wiki/Q16746048)).
+**Sword Art Online: Hollow Fragment** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16746048` (Wikidata : [Q16746048](https://www.wikidata.org/wiki/Q16746048)).
 
 ## Audit de conformite structurelle
 

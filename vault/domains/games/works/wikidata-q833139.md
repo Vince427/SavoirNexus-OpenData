@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q833139
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-09-13
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q833139:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Crisis Core: Final Fantasy VII
 
-**Crisis Core: Final Fantasy VII** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q833139](https://www.wikidata.org/wiki/Q833139)).
+**Crisis Core: Final Fantasy VII** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q833139` (Wikidata : [Q833139](https://www.wikidata.org/wiki/Q833139)).
 
 ## Audit de conformite structurelle
 

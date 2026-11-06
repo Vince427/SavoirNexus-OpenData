@@ -13,7 +13,7 @@ wikidata_id: Q472645
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-10-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/39690/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q472645:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Arcania
 
-**Arcania** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q472645](https://www.wikidata.org/wiki/Q472645)).
+**Arcania** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q472645` (Wikidata : [Q472645](https://www.wikidata.org/wiki/Q472645)).
 
 ## Audit de conformite structurelle
 

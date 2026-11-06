@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1403142
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-02
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1403142:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Syphon Filter: Logan's Shadow
 
-**Syphon Filter: Logan's Shadow** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1403142](https://www.wikidata.org/wiki/Q1403142)).
+**Syphon Filter: Logan's Shadow** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1403142` (Wikidata : [Q1403142](https://www.wikidata.org/wiki/Q1403142)).
 
 ## Audit de conformite structurelle
 

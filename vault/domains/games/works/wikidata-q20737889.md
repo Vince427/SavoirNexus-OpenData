@@ -13,7 +13,7 @@ wikidata_id: Q20737889
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-10-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/360430/header.jpg"
-tags: [jeu, cataloged, action, adventure, shooter]
+tags: [jeu, audited, action, adventure, shooter]
 observations:
   - id: wikidata-q20737889:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Mafia III
 
-**Mafia III** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20737889](https://www.wikidata.org/wiki/Q20737889)).
+**Mafia III** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20737889` (Wikidata : [Q20737889](https://www.wikidata.org/wiki/Q20737889)).
 
 ## Audit de conformite structurelle
 

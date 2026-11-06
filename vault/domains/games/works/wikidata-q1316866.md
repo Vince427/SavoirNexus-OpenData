@@ -13,7 +13,7 @@ wikidata_id: Q1316866
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/23490/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q1316866:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Tropico 3
 
-**Tropico 3** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1316866](https://www.wikidata.org/wiki/Q1316866)).
+**Tropico 3** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1316866` (Wikidata : [Q1316866](https://www.wikidata.org/wiki/Q1316866)).
 
 ## Audit de conformite structurelle
 

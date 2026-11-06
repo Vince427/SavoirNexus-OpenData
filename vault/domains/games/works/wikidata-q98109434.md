@@ -13,7 +13,7 @@ wikidata_id: Q98109434
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-07-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1349230/header.jpg"
-tags: [jeu, cataloged, board-game]
+tags: [jeu, audited, board-game]
 observations:
   - id: wikidata-q98109434:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # 5D Chess With Multiverse Time Travel
 
-**5D Chess With Multiverse Time Travel** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q98109434](https://www.wikidata.org/wiki/Q98109434)).
+**5D Chess With Multiverse Time Travel** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q98109434` (Wikidata : [Q98109434](https://www.wikidata.org/wiki/Q98109434)).
 
 ## Audit de conformite structurelle
 

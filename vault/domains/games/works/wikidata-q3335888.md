@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3335888
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-10-28
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q3335888:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Solatorobo: Red the Hunter
 
-**Solatorobo: Red the Hunter** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3335888](https://www.wikidata.org/wiki/Q3335888)).
+**Solatorobo: Red the Hunter** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3335888` (Wikidata : [Q3335888](https://www.wikidata.org/wiki/Q3335888)).
 
 ## Audit de conformite structurelle
 

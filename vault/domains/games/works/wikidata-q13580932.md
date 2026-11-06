@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q13580932
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-01-23
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q13580932:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dragon Ball Z: Battle of Z
 
-**Dragon Ball Z: Battle of Z** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q13580932](https://www.wikidata.org/wiki/Q13580932)).
+**Dragon Ball Z: Battle of Z** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q13580932` (Wikidata : [Q13580932](https://www.wikidata.org/wiki/Q13580932)).
 
 ## Audit de conformite structurelle
 

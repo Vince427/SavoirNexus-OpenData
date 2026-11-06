@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1301959
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-06-08
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1301959:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Anno 1701: Dawn of Discovery
 
-**Anno 1701: Dawn of Discovery** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1301959](https://www.wikidata.org/wiki/Q1301959)).
+**Anno 1701: Dawn of Discovery** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1301959` (Wikidata : [Q1301959](https://www.wikidata.org/wiki/Q1301959)).
 
 ## Audit de conformite structurelle
 

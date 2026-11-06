@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q632633
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-12-20
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q632633:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -102,7 +102,7 @@ observations:
 
 # Fist of the North Star: Ken's Rage 2
 
-**Fist of the North Star: Ken's Rage 2** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q632633](https://www.wikidata.org/wiki/Q632633)).
+**Fist of the North Star: Ken's Rage 2** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q632633` (Wikidata : [Q632633](https://www.wikidata.org/wiki/Q632633)).
 
 ## Audit de conformite structurelle
 

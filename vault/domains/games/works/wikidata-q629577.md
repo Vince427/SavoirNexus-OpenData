@@ -13,7 +13,7 @@ wikidata_id: Q629577
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-10-31
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2760/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q629577:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Neverwinter Nights 2
 
-**Neverwinter Nights 2** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q629577](https://www.wikidata.org/wiki/Q629577)).
+**Neverwinter Nights 2** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q629577` (Wikidata : [Q629577](https://www.wikidata.org/wiki/Q629577)).
 
 ## Audit de conformite structurelle
 

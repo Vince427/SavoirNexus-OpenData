@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2369137
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-12-17
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2369137:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Everybody's Golf 6
 
-**Everybody's Golf 6** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2369137](https://www.wikidata.org/wiki/Q2369137)).
+**Everybody's Golf 6** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2369137` (Wikidata : [Q2369137](https://www.wikidata.org/wiki/Q2369137)).
 
 ## Audit de conformite structurelle
 

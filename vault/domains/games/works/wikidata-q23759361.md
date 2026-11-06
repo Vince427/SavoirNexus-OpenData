@@ -13,7 +13,7 @@ wikidata_id: Q23759361
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-03-31
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/228880/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q23759361:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Ashes of the Singularity
 
-**Ashes of the Singularity** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q23759361](https://www.wikidata.org/wiki/Q23759361)).
+**Ashes of the Singularity** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q23759361` (Wikidata : [Q23759361](https://www.wikidata.org/wiki/Q23759361)).
 
 ## Audit de conformite structurelle
 

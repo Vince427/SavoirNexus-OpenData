@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2601847
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-10-10
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2601847:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -102,7 +102,7 @@ observations:
 
 # Avatar, le dernier maître de l'air
 
-**Avatar, le dernier maître de l'air** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2601847](https://www.wikidata.org/wiki/Q2601847)).
+**Avatar, le dernier maître de l'air** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2601847` (Wikidata : [Q2601847](https://www.wikidata.org/wiki/Q2601847)).
 
 ## Audit de conformite structurelle
 

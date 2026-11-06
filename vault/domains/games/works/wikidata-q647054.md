@@ -13,7 +13,7 @@ wikidata_id: Q647054
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-10-09
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/204630/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q647054:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Retro City Rampage
 
-**Retro City Rampage** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q647054](https://www.wikidata.org/wiki/Q647054)).
+**Retro City Rampage** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q647054` (Wikidata : [Q647054](https://www.wikidata.org/wiki/Q647054)).
 
 ## Audit de conformite structurelle
 

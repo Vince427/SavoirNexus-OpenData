@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q4668202
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-01-11
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q4668202:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -101,7 +101,7 @@ observations:
 
 # Abobo's Big Adventure
 
-**Abobo's Big Adventure** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4668202](https://www.wikidata.org/wiki/Q4668202)).
+**Abobo's Big Adventure** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4668202` (Wikidata : [Q4668202](https://www.wikidata.org/wiki/Q4668202)).
 
 ## Audit de conformite structurelle
 

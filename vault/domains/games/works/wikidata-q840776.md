@@ -13,7 +13,7 @@ wikidata_id: Q840776
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-04
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21800/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q840776:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Tom Clancy's EndWar
 
-**Tom Clancy's EndWar** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q840776](https://www.wikidata.org/wiki/Q840776)).
+**Tom Clancy's EndWar** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q840776` (Wikidata : [Q840776](https://www.wikidata.org/wiki/Q840776)).
 
 ## Audit de conformite structurelle
 

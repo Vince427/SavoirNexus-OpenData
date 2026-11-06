@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2539345
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-12-14
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q2539345:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # WipEout Pulse
 
-**WipEout Pulse** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2539345](https://www.wikidata.org/wiki/Q2539345)).
+**WipEout Pulse** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2539345` (Wikidata : [Q2539345](https://www.wikidata.org/wiki/Q2539345)).
 
 ## Audit de conformite structurelle
 

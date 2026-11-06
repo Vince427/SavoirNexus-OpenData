@@ -13,7 +13,7 @@ wikidata_id: Q2319086
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6820/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2319086:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Commandos: Strike Force
 
-**Commandos: Strike Force** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2319086](https://www.wikidata.org/wiki/Q2319086)).
+**Commandos: Strike Force** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2319086` (Wikidata : [Q2319086](https://www.wikidata.org/wiki/Q2319086)).
 
 ## Audit de conformite structurelle
 

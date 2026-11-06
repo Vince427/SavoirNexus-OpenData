@@ -13,7 +13,7 @@ wikidata_id: Q7623793
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-01-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/209540/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q7623793:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Strike Suit Zero
 
-**Strike Suit Zero** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q7623793](https://www.wikidata.org/wiki/Q7623793)).
+**Strike Suit Zero** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q7623793` (Wikidata : [Q7623793](https://www.wikidata.org/wiki/Q7623793)).
 
 ## Audit de conformite structurelle
 

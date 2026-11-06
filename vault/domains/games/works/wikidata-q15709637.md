@@ -13,7 +13,7 @@ wikidata_id: Q15709637
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-09-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/241930/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q15709637:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # La Terre du Milieu : L'Ombre du Mordor
 
-**La Terre du Milieu : L'Ombre du Mordor** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15709637](https://www.wikidata.org/wiki/Q15709637)).
+**La Terre du Milieu : L'Ombre du Mordor** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15709637` (Wikidata : [Q15709637](https://www.wikidata.org/wiki/Q15709637)).
 
 ## Audit de conformite structurelle
 

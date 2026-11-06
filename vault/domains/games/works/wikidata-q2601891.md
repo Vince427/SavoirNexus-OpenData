@@ -13,7 +13,7 @@ wikidata_id: Q2601891
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-06
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/298930/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2601891:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -103,7 +103,7 @@ observations:
 
 # Darkness Within : À la poursuite de Loath Nolder
 
-**Darkness Within : À la poursuite de Loath Nolder** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2601891](https://www.wikidata.org/wiki/Q2601891)).
+**Darkness Within : À la poursuite de Loath Nolder** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2601891` (Wikidata : [Q2601891](https://www.wikidata.org/wiki/Q2601891)).
 
 ## Audit de conformite structurelle
 

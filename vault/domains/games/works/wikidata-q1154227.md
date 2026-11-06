@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1154227
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-09-13
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1154227:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Pokémon Platine
 
-**Pokémon Platine** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1154227](https://www.wikidata.org/wiki/Q1154227)).
+**Pokémon Platine** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1154227` (Wikidata : [Q1154227](https://www.wikidata.org/wiki/Q1154227)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q1002698
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-03-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/628070/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1002698:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Romance of the Three Kingdoms XI
 
-**Romance of the Three Kingdoms XI** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1002698](https://www.wikidata.org/wiki/Q1002698)).
+**Romance of the Three Kingdoms XI** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1002698` (Wikidata : [Q1002698](https://www.wikidata.org/wiki/Q1002698)).
 
 ## Audit de conformite structurelle
 

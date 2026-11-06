@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q2629197
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-03-23
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2629197:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -101,7 +101,7 @@ observations:
 
 # Ace Combat: The Belkan War
 
-**Ace Combat: The Belkan War** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2629197](https://www.wikidata.org/wiki/Q2629197)).
+**Ace Combat: The Belkan War** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2629197` (Wikidata : [Q2629197](https://www.wikidata.org/wiki/Q2629197)).
 
 ## Audit de conformite structurelle
 

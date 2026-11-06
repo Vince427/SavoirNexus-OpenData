@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1191232
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-03-01
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1191232:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # One Piece: Pirate Warriors
 
-**One Piece: Pirate Warriors** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1191232](https://www.wikidata.org/wiki/Q1191232)).
+**One Piece: Pirate Warriors** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1191232` (Wikidata : [Q1191232](https://www.wikidata.org/wiki/Q1191232)).
 
 ## Audit de conformite structurelle
 

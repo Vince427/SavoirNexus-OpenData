@@ -13,7 +13,7 @@ wikidata_id: Q55099390
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-07-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367450/header.jpg"
-tags: [jeu, cataloged, puzzle, simulation]
+tags: [jeu, audited, puzzle, simulation]
 observations:
   - id: wikidata-q55099390:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Poly Bridge
 
-**Poly Bridge** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q55099390](https://www.wikidata.org/wiki/Q55099390)).
+**Poly Bridge** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q55099390` (Wikidata : [Q55099390](https://www.wikidata.org/wiki/Q55099390)).
 
 ## Audit de conformite structurelle
 

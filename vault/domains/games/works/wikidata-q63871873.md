@@ -13,7 +13,7 @@ wikidata_id: Q63871873
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-12-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/541570/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q63871873:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Sally Face
 
-**Sally Face** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q63871873](https://www.wikidata.org/wiki/Q63871873)).
+**Sally Face** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q63871873` (Wikidata : [Q63871873](https://www.wikidata.org/wiki/Q63871873)).
 
 ## Audit de conformite structurelle
 

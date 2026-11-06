@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q195764
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-10-11
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q195764:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Project X Zone
 
-**Project X Zone** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q195764](https://www.wikidata.org/wiki/Q195764)).
+**Project X Zone** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q195764` (Wikidata : [Q195764](https://www.wikidata.org/wiki/Q195764)).
 
 ## Audit de conformite structurelle
 

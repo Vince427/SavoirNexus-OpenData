@@ -13,7 +13,7 @@ wikidata_id: Q76916723
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-09-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1206560/header.jpg"
-tags: [jeu, cataloged, sandbox, simulation]
+tags: [jeu, audited, sandbox, simulation]
 observations:
   - id: wikidata-q76916723:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # WorldBox
 
-**WorldBox** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q76916723](https://www.wikidata.org/wiki/Q76916723)).
+**WorldBox** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q76916723` (Wikidata : [Q76916723](https://www.wikidata.org/wiki/Q76916723)).
 
 ## Audit de conformite structurelle
 

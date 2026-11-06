@@ -13,7 +13,7 @@ wikidata_id: Q1825218
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-02-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/966330/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1825218:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Flower
 
-**Flower** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1825218](https://www.wikidata.org/wiki/Q1825218)).
+**Flower** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1825218` (Wikidata : [Q1825218](https://www.wikidata.org/wiki/Q1825218)).
 
 ## Audit de conformite structurelle
 

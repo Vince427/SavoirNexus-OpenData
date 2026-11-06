@@ -13,7 +13,7 @@ wikidata_id: Q1185322
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-05-04
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/217100/header.jpg"
-tags: [jeu, cataloged, horror, shooter, survival]
+tags: [jeu, audited, horror, shooter, survival]
 observations:
   - id: wikidata-q1185322:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Dementium II
 
-**Dementium II** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1185322](https://www.wikidata.org/wiki/Q1185322)).
+**Dementium II** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1185322` (Wikidata : [Q1185322](https://www.wikidata.org/wiki/Q1185322)).
 
 ## Audit de conformite structurelle
 

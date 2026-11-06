@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q845162
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-11-03
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q845162:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Radiant Historia
 
-**Radiant Historia** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q845162](https://www.wikidata.org/wiki/Q845162)).
+**Radiant Historia** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q845162` (Wikidata : [Q845162](https://www.wikidata.org/wiki/Q845162)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2709973
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-10-18
-tags: [jeu, cataloged, action, adventure, platformer]
+tags: [jeu, audited, action, adventure, platformer]
 observations:
   - id: wikidata-q2709973:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ratchet and Clank: All 4 One
 
-**Ratchet and Clank: All 4 One** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2709973](https://www.wikidata.org/wiki/Q2709973)).
+**Ratchet and Clank: All 4 One** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2709973` (Wikidata : [Q2709973](https://www.wikidata.org/wiki/Q2709973)).
 
 ## Audit de conformite structurelle
 

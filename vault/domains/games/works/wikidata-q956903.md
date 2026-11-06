@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q956903
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-01-12
-tags: [jeu, cataloged, horror]
+tags: [jeu, audited, horror]
 observations:
   - id: wikidata-q956903:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Spirit Camera : Le Mémoire maudit
 
-**Spirit Camera : Le Mémoire maudit** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q956903](https://www.wikidata.org/wiki/Q956903)).
+**Spirit Camera : Le Mémoire maudit** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q956903` (Wikidata : [Q956903](https://www.wikidata.org/wiki/Q956903)).
 
 ## Audit de conformite structurelle
 

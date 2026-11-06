@@ -13,7 +13,7 @@ wikidata_id: Q7832860
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-09-05
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/304730/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q7832860:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Train Fever
 
-**Train Fever** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q7832860](https://www.wikidata.org/wiki/Q7832860)).
+**Train Fever** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q7832860` (Wikidata : [Q7832860](https://www.wikidata.org/wiki/Q7832860)).
 
 ## Audit de conformite structurelle
 

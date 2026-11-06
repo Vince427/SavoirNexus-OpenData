@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q20128243
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-12-03
-tags: [jeu, cataloged, rpg, strategy]
+tags: [jeu, audited, rpg, strategy]
 observations:
   - id: wikidata-q20128243:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario & Luigi: Paper Jam Bros.
 
-**Mario & Luigi: Paper Jam Bros.** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20128243](https://www.wikidata.org/wiki/Q20128243)).
+**Mario & Luigi: Paper Jam Bros.** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20128243` (Wikidata : [Q20128243](https://www.wikidata.org/wiki/Q20128243)).
 
 ## Audit de conformite structurelle
 

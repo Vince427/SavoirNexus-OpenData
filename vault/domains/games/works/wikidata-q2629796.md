@@ -13,7 +13,7 @@ wikidata_id: Q2629796
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-06-19
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1967430/header.jpg"
-tags: [jeu, cataloged, adventure, puzzle]
+tags: [jeu, audited, adventure, puzzle]
 observations:
   - id: wikidata-q2629796:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Ghost Trick : Détective fantôme
 
-**Ghost Trick : Détective fantôme** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2629796](https://www.wikidata.org/wiki/Q2629796)).
+**Ghost Trick : Détective fantôme** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2629796` (Wikidata : [Q2629796](https://www.wikidata.org/wiki/Q2629796)).
 
 ## Audit de conformite structurelle
 

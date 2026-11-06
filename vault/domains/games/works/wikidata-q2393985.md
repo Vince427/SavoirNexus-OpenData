@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2393985
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-06-08
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q2393985:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario vs. Donkey Kong : Le Retour des Mini !
 
-**Mario vs. Donkey Kong : Le Retour des Mini !** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2393985](https://www.wikidata.org/wiki/Q2393985)).
+**Mario vs. Donkey Kong : Le Retour des Mini !** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2393985` (Wikidata : [Q2393985](https://www.wikidata.org/wiki/Q2393985)).
 
 ## Audit de conformite structurelle
 

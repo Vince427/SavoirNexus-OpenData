@@ -13,7 +13,7 @@ wikidata_id: Q67482292
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-03-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1325200/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q67482292:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Nioh 2
 
-**Nioh 2** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q67482292](https://www.wikidata.org/wiki/Q67482292)).
+**Nioh 2** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q67482292` (Wikidata : [Q67482292](https://www.wikidata.org/wiki/Q67482292)).
 
 ## Audit de conformite structurelle
 

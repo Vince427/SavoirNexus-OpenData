@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3197316
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-01-11
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q3197316:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Kirby 3DS
 
-**Kirby 3DS** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3197316](https://www.wikidata.org/wiki/Q3197316)).
+**Kirby 3DS** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3197316` (Wikidata : [Q3197316](https://www.wikidata.org/wiki/Q3197316)).
 
 ## Audit de conformite structurelle
 

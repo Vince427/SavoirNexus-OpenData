@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1138986
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-02-23
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q1138986:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Crashday
 
-**Crashday** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1138986](https://www.wikidata.org/wiki/Q1138986)).
+**Crashday** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1138986` (Wikidata : [Q1138986](https://www.wikidata.org/wiki/Q1138986)).
 
 ## Audit de conformite structurelle
 

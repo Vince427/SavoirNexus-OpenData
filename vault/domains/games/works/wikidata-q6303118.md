@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q6303118
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-10-13
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q6303118:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -102,7 +102,7 @@ observations:
 
 # Skylanders: Swap Force
 
-**Skylanders: Swap Force** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q6303118](https://www.wikidata.org/wiki/Q6303118)).
+**Skylanders: Swap Force** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q6303118` (Wikidata : [Q6303118](https://www.wikidata.org/wiki/Q6303118)).
 
 ## Audit de conformite structurelle
 

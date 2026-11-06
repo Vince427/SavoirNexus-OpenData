@@ -13,7 +13,7 @@ wikidata_id: Q54497313
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-05-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/785260/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q54497313:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Team Sonic Racing
 
-**Team Sonic Racing** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q54497313](https://www.wikidata.org/wiki/Q54497313)).
+**Team Sonic Racing** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q54497313` (Wikidata : [Q54497313](https://www.wikidata.org/wiki/Q54497313)).
 
 ## Audit de conformite structurelle
 

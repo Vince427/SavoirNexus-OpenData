@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2267855
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-04-22
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q2267855:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Armadillo Run
 
-**Armadillo Run** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2267855](https://www.wikidata.org/wiki/Q2267855)).
+**Armadillo Run** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2267855` (Wikidata : [Q2267855](https://www.wikidata.org/wiki/Q2267855)).
 
 ## Audit de conformite structurelle
 

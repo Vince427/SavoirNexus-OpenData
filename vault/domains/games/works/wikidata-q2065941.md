@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2065941
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-09-10
-tags: [jeu, cataloged, action, adventure, platformer]
+tags: [jeu, audited, action, adventure, platformer]
 observations:
   - id: wikidata-q2065941:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Drawn to Life
 
-**Drawn to Life** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2065941](https://www.wikidata.org/wiki/Q2065941)).
+**Drawn to Life** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2065941` (Wikidata : [Q2065941](https://www.wikidata.org/wiki/Q2065941)).
 
 ## Audit de conformite structurelle
 

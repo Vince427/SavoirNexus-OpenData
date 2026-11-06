@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2588748
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-03-08
-tags: [jeu, cataloged, rpg, strategy]
+tags: [jeu, audited, rpg, strategy]
 observations:
   - id: wikidata-q2588748:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Heroes of Mana
 
-**Heroes of Mana** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2588748](https://www.wikidata.org/wiki/Q2588748)).
+**Heroes of Mana** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2588748` (Wikidata : [Q2588748](https://www.wikidata.org/wiki/Q2588748)).
 
 ## Audit de conformite structurelle
 

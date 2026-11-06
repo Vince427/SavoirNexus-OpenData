@@ -13,7 +13,7 @@ wikidata_id: Q515254
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-06-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/260130/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q515254:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Agarest: Generations of War Zero
 
-**Agarest: Generations of War Zero** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q515254](https://www.wikidata.org/wiki/Q515254)).
+**Agarest: Generations of War Zero** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q515254` (Wikidata : [Q515254](https://www.wikidata.org/wiki/Q515254)).
 
 ## Audit de conformite structurelle
 

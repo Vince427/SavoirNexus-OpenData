@@ -13,7 +13,7 @@ wikidata_id: Q16564568
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-02-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1901370/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q16564568:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -103,7 +103,7 @@ observations:
 
 # Ib
 
-**Ib** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16564568](https://www.wikidata.org/wiki/Q16564568)).
+**Ib** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16564568` (Wikidata : [Q16564568](https://www.wikidata.org/wiki/Q16564568)).
 
 ## Audit de conformite structurelle
 

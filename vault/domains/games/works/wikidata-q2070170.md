@@ -13,7 +13,7 @@ wikidata_id: Q2070170
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-07-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/319170/header.jpg"
-tags: [jeu, cataloged, action, platformer]
+tags: [jeu, audited, action, platformer]
 observations:
   - id: wikidata-q2070170:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # G-Force
 
-**G-Force** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2070170](https://www.wikidata.org/wiki/Q2070170)).
+**G-Force** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2070170` (Wikidata : [Q2070170](https://www.wikidata.org/wiki/Q2070170)).
 
 ## Audit de conformite structurelle
 

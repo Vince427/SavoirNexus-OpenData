@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q3111147
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-01-26
-tags: [jeu, cataloged, action, adventure, hack-and-slash]
+tags: [jeu, audited, action, adventure, hack-and-slash]
 observations:
   - id: wikidata-q3111147:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -101,7 +101,7 @@ observations:
 
 # Onimusha: Dawn of Dreams
 
-**Onimusha: Dawn of Dreams** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3111147](https://www.wikidata.org/wiki/Q3111147)).
+**Onimusha: Dawn of Dreams** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3111147` (Wikidata : [Q3111147](https://www.wikidata.org/wiki/Q3111147)).
 
 ## Audit de conformite structurelle
 

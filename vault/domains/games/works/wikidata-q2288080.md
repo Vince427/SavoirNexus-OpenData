@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2288080
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-30
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2288080:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ben 10: Protector of Earth
 
-**Ben 10: Protector of Earth** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2288080](https://www.wikidata.org/wiki/Q2288080)).
+**Ben 10: Protector of Earth** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2288080` (Wikidata : [Q2288080](https://www.wikidata.org/wiki/Q2288080)).
 
 ## Audit de conformite structurelle
 

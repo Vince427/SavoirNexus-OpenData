@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3310450
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-01-10
-tags: [jeu, cataloged, action, platformer]
+tags: [jeu, audited, action, platformer]
 observations:
   - id: wikidata-q3310450:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mega Man X Collection
 
-**Mega Man X Collection** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3310450](https://www.wikidata.org/wiki/Q3310450)).
+**Mega Man X Collection** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3310450` (Wikidata : [Q3310450](https://www.wikidata.org/wiki/Q3310450)).
 
 ## Audit de conformite structurelle
 

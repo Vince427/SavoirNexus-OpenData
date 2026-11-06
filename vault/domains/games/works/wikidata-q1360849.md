@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1360849
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-09
-tags: [jeu, cataloged, rpg, sports]
+tags: [jeu, audited, rpg, sports]
 observations:
   - id: wikidata-q1360849:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Inazuma Eleven 2
 
-**Inazuma Eleven 2** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1360849](https://www.wikidata.org/wiki/Q1360849)).
+**Inazuma Eleven 2** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1360849` (Wikidata : [Q1360849](https://www.wikidata.org/wiki/Q1360849)).
 
 ## Audit de conformite structurelle
 

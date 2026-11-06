@@ -13,7 +13,7 @@ wikidata_id: Q21427923
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-10-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/402020/header.jpg"
-tags: [jeu, cataloged, adventure, simulation]
+tags: [jeu, audited, adventure, simulation]
 observations:
   - id: wikidata-q21427923:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Park
 
-**The Park** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q21427923](https://www.wikidata.org/wiki/Q21427923)).
+**The Park** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q21427923` (Wikidata : [Q21427923](https://www.wikidata.org/wiki/Q21427923)).
 
 ## Audit de conformite structurelle
 

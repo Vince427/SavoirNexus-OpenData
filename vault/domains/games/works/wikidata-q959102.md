@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q959102
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-02
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q959102:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Kirby : Les souris attaquent
 
-**Kirby : Les souris attaquent** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q959102](https://www.wikidata.org/wiki/Q959102)).
+**Kirby : Les souris attaquent** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q959102` (Wikidata : [Q959102](https://www.wikidata.org/wiki/Q959102)).
 
 ## Audit de conformite structurelle
 

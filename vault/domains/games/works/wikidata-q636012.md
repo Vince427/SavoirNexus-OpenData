@@ -13,7 +13,7 @@ wikidata_id: Q636012
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-01-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/25800/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q636012:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Europa Universalis 3
 
-**Europa Universalis 3** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q636012](https://www.wikidata.org/wiki/Q636012)).
+**Europa Universalis 3** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q636012` (Wikidata : [Q636012](https://www.wikidata.org/wiki/Q636012)).
 
 ## Audit de conformite structurelle
 

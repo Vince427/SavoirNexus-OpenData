@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2581094
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-03
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2581094:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # FIFA Manager 07
 
-**FIFA Manager 07** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2581094](https://www.wikidata.org/wiki/Q2581094)).
+**FIFA Manager 07** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2581094` (Wikidata : [Q2581094](https://www.wikidata.org/wiki/Q2581094)).
 
 ## Audit de conformite structurelle
 

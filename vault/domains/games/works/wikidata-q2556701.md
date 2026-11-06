@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2556701
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-02-08
-tags: [jeu, cataloged, action, adventure, platformer]
+tags: [jeu, audited, action, adventure, platformer]
 observations:
   - id: wikidata-q2556701:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Chibi-Robo!
 
-**Chibi-Robo!** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2556701](https://www.wikidata.org/wiki/Q2556701)).
+**Chibi-Robo!** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2556701` (Wikidata : [Q2556701](https://www.wikidata.org/wiki/Q2556701)).
 
 ## Audit de conformite structurelle
 

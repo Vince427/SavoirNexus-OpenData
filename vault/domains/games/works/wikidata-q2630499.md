@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2630499
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-12-13
-tags: [jeu, cataloged, action, platformer]
+tags: [jeu, audited, action, platformer]
 observations:
   - id: wikidata-q2630499:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Nights: Journey of Dreams
 
-**Nights: Journey of Dreams** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2630499](https://www.wikidata.org/wiki/Q2630499)).
+**Nights: Journey of Dreams** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2630499` (Wikidata : [Q2630499](https://www.wikidata.org/wiki/Q2630499)).
 
 ## Audit de conformite structurelle
 

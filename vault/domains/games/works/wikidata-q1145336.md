@@ -13,7 +13,7 @@ wikidata_id: Q1145336
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-08-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/427190/header.jpg"
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q1145336:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Dead Rising
 
-**Dead Rising** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1145336](https://www.wikidata.org/wiki/Q1145336)).
+**Dead Rising** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1145336` (Wikidata : [Q1145336](https://www.wikidata.org/wiki/Q1145336)).
 
 ## Audit de conformite structurelle
 

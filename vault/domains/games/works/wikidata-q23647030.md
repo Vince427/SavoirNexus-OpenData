@@ -13,7 +13,7 @@ wikidata_id: Q23647030
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-08-02
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/498240/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q23647030:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Batman: A Telltale Games Series
 
-**Batman: A Telltale Games Series** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q23647030](https://www.wikidata.org/wiki/Q23647030)).
+**Batman: A Telltale Games Series** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q23647030` (Wikidata : [Q23647030](https://www.wikidata.org/wiki/Q23647030)).
 
 ## Audit de conformite structurelle
 

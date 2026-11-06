@@ -13,7 +13,7 @@ wikidata_id: Q28308496
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-01-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/555220/header.jpg"
-tags: [jeu, cataloged, adventure, horror, puzzle, survival]
+tags: [jeu, audited, adventure, horror, puzzle, survival]
 observations:
   - id: wikidata-q28308496:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Detention
 
-**Detention** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28308496](https://www.wikidata.org/wiki/Q28308496)).
+**Detention** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28308496` (Wikidata : [Q28308496](https://www.wikidata.org/wiki/Q28308496)).
 
 ## Audit de conformite structurelle
 

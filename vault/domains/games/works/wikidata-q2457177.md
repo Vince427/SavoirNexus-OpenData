@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2457177
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-09-07
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2457177:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Gangs of London
 
-**Gangs of London** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2457177](https://www.wikidata.org/wiki/Q2457177)).
+**Gangs of London** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2457177` (Wikidata : [Q2457177](https://www.wikidata.org/wiki/Q2457177)).
 
 ## Audit de conformite structurelle
 

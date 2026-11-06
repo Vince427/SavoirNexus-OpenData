@@ -13,7 +13,7 @@ wikidata_id: Q774920
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-09-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15230/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q774920:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -103,7 +103,7 @@ observations:
 
 # Blazing Angels 2: Secret Missions of WWII
 
-**Blazing Angels 2: Secret Missions of WWII** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q774920](https://www.wikidata.org/wiki/Q774920)).
+**Blazing Angels 2: Secret Missions of WWII** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q774920` (Wikidata : [Q774920](https://www.wikidata.org/wiki/Q774920)).
 
 ## Audit de conformite structurelle
 

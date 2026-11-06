@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q518578
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-12-05
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q518578:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -101,7 +101,7 @@ observations:
 
 # Kingdom Under Fire: Circle of Doom
 
-**Kingdom Under Fire: Circle of Doom** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q518578](https://www.wikidata.org/wiki/Q518578)).
+**Kingdom Under Fire: Circle of Doom** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q518578` (Wikidata : [Q518578](https://www.wikidata.org/wiki/Q518578)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q1538087
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-09-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6880/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1538087:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Just Cause
 
-**Just Cause** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1538087](https://www.wikidata.org/wiki/Q1538087)).
+**Just Cause** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1538087` (Wikidata : [Q1538087](https://www.wikidata.org/wiki/Q1538087)).
 
 ## Audit de conformite structurelle
 

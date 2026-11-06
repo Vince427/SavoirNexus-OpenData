@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2741554
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-06-20
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2741554:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Time Crisis 4
 
-**Time Crisis 4** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2741554](https://www.wikidata.org/wiki/Q2741554)).
+**Time Crisis 4** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2741554` (Wikidata : [Q2741554](https://www.wikidata.org/wiki/Q2741554)).
 
 ## Audit de conformite structurelle
 

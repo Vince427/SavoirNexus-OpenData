@@ -13,7 +13,7 @@ wikidata_id: Q3046517
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-07-31
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/25930/header.jpg"
-tags: [jeu, cataloged, simulation, strategy]
+tags: [jeu, audited, simulation, strategy]
 observations:
   - id: wikidata-q3046517:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # East India Company
 
-**East India Company** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3046517](https://www.wikidata.org/wiki/Q3046517)).
+**East India Company** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3046517` (Wikidata : [Q3046517](https://www.wikidata.org/wiki/Q3046517)).
 
 ## Audit de conformite structurelle
 

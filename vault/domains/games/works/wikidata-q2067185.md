@@ -13,7 +13,7 @@ wikidata_id: Q2067185
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-04-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/91200/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q2067185:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Anomaly: Warzone Earth
 
-**Anomaly: Warzone Earth** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2067185](https://www.wikidata.org/wiki/Q2067185)).
+**Anomaly: Warzone Earth** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2067185` (Wikidata : [Q2067185](https://www.wikidata.org/wiki/Q2067185)).
 
 ## Audit de conformite structurelle
 

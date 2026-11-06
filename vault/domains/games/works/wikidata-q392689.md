@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q392689
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-10-19
-tags: [jeu, cataloged, action, adventure, horror, survival]
+tags: [jeu, audited, action, adventure, horror, survival]
 observations:
   - id: wikidata-q392689:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Saw II: Flesh and Blood
 
-**Saw II: Flesh and Blood** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q392689](https://www.wikidata.org/wiki/Q392689)).
+**Saw II: Flesh and Blood** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q392689` (Wikidata : [Q392689](https://www.wikidata.org/wiki/Q392689)).
 
 ## Audit de conformite structurelle
 

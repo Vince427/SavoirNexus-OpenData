@@ -13,7 +13,7 @@ wikidata_id: Q4045749
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-01-31
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/208520/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q4045749:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Omerta: City of Gangsters
 
-**Omerta: City of Gangsters** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4045749](https://www.wikidata.org/wiki/Q4045749)).
+**Omerta: City of Gangsters** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4045749` (Wikidata : [Q4045749](https://www.wikidata.org/wiki/Q4045749)).
 
 ## Audit de conformite structurelle
 

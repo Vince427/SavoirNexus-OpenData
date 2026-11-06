@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2274510
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-02-27
-tags: [jeu, cataloged, hack-and-slash]
+tags: [jeu, audited, hack-and-slash]
 observations:
   - id: wikidata-q2274510:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # 300: March to Glory
 
-**300: March to Glory** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2274510](https://www.wikidata.org/wiki/Q2274510)).
+**300: March to Glory** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2274510` (Wikidata : [Q2274510](https://www.wikidata.org/wiki/Q2274510)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q2575966
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-10-31
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4920/header.jpg"
-tags: [jeu, cataloged, shooter, strategy]
+tags: [jeu, audited, shooter, strategy]
 observations:
   - id: wikidata-q2575966:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Natural Selection 2
 
-**Natural Selection 2** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2575966](https://www.wikidata.org/wiki/Q2575966)).
+**Natural Selection 2** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2575966` (Wikidata : [Q2575966](https://www.wikidata.org/wiki/Q2575966)).
 
 ## Audit de conformite structurelle
 

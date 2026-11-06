@@ -13,7 +13,7 @@ wikidata_id: Q35236980
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/675260/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q35236980:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Batman: The Enemy Within
 
-**Batman: The Enemy Within** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q35236980](https://www.wikidata.org/wiki/Q35236980)).
+**Batman: The Enemy Within** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q35236980` (Wikidata : [Q35236980](https://www.wikidata.org/wiki/Q35236980)).
 
 ## Audit de conformite structurelle
 

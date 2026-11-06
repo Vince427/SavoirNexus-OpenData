@@ -13,7 +13,7 @@ wikidata_id: Q2055688
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-10-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/45770/header.jpg"
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q2055688:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Dead Rising 2 : Off the Record
 
-**Dead Rising 2 : Off the Record** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2055688](https://www.wikidata.org/wiki/Q2055688)).
+**Dead Rising 2 : Off the Record** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2055688` (Wikidata : [Q2055688](https://www.wikidata.org/wiki/Q2055688)).
 
 ## Audit de conformite structurelle
 

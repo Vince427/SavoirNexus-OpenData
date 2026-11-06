@@ -13,7 +13,7 @@ wikidata_id: Q2367309
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-02-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/260190/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2367309:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -103,7 +103,7 @@ observations:
 
 # Marc Eckō's Getting Up: Contents Under Pressure
 
-**Marc Eckō's Getting Up: Contents Under Pressure** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2367309](https://www.wikidata.org/wiki/Q2367309)).
+**Marc Eckō's Getting Up: Contents Under Pressure** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2367309` (Wikidata : [Q2367309](https://www.wikidata.org/wiki/Q2367309)).
 
 ## Audit de conformite structurelle
 

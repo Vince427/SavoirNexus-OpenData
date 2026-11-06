@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q945187
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-01-15
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q945187:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Shin Megami Tensei: Devil Survivor
 
-**Shin Megami Tensei: Devil Survivor** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q945187](https://www.wikidata.org/wiki/Q945187)).
+**Shin Megami Tensei: Devil Survivor** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q945187` (Wikidata : [Q945187](https://www.wikidata.org/wiki/Q945187)).
 
 ## Audit de conformite structurelle
 

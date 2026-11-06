@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1370609
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-10-24
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q1370609:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Kirby's Adventure Wii
 
-**Kirby's Adventure Wii** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1370609](https://www.wikidata.org/wiki/Q1370609)).
+**Kirby's Adventure Wii** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1370609` (Wikidata : [Q1370609](https://www.wikidata.org/wiki/Q1370609)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2087627
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-01
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2087627:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Valkyrie Profile: Covenant of the Plume
 
-**Valkyrie Profile: Covenant of the Plume** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2087627](https://www.wikidata.org/wiki/Q2087627)).
+**Valkyrie Profile: Covenant of the Plume** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2087627` (Wikidata : [Q2087627](https://www.wikidata.org/wiki/Q2087627)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q580794
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/225260/header.jpg"
-tags: [jeu, cataloged, action, adventure, strategy]
+tags: [jeu, audited, action, adventure, strategy]
 observations:
   - id: wikidata-q580794:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Brütal Legend
 
-**Brütal Legend** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q580794](https://www.wikidata.org/wiki/Q580794)).
+**Brütal Legend** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q580794` (Wikidata : [Q580794](https://www.wikidata.org/wiki/Q580794)).
 
 ## Audit de conformite structurelle
 

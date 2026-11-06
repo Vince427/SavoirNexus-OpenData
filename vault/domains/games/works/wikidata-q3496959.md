@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3496959
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-09-29
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q3496959:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Star Fox 2
 
-**Star Fox 2** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3496959](https://www.wikidata.org/wiki/Q3496959)).
+**Star Fox 2** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3496959` (Wikidata : [Q3496959](https://www.wikidata.org/wiki/Q3496959)).
 
 ## Audit de conformite structurelle
 

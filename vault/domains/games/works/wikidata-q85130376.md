@@ -13,7 +13,7 @@ wikidata_id: Q85130376
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2023-09-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1272080/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q85130376:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Payday 3
 
-**Payday 3** est une oeuvre sortie initialement en 2023, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q85130376](https://www.wikidata.org/wiki/Q85130376)).
+**Payday 3** est une oeuvre sortie initialement en 2023, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q85130376` (Wikidata : [Q85130376](https://www.wikidata.org/wiki/Q85130376)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2756548
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-11-27
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q2756548:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ratchet and Clank: Q-Force
 
-**Ratchet and Clank: Q-Force** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2756548](https://www.wikidata.org/wiki/Q2756548)).
+**Ratchet and Clank: Q-Force** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2756548` (Wikidata : [Q2756548](https://www.wikidata.org/wiki/Q2756548)).
 
 ## Audit de conformite structurelle
 

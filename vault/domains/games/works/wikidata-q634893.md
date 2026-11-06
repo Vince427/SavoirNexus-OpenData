@@ -13,7 +13,7 @@ wikidata_id: Q634893
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-03-16
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/47700/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q634893:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -103,7 +103,7 @@ observations:
 
 # Command and Conquer 4 : Le Crépuscule du Tiberium
 
-**Command and Conquer 4 : Le Crépuscule du Tiberium** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q634893](https://www.wikidata.org/wiki/Q634893)).
+**Command and Conquer 4 : Le Crépuscule du Tiberium** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q634893` (Wikidata : [Q634893](https://www.wikidata.org/wiki/Q634893)).
 
 ## Audit de conformite structurelle
 

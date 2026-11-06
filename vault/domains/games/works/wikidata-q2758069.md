@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2758069
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-01-25
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2758069:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Harvest Moon GB
 
-**Harvest Moon GB** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2758069](https://www.wikidata.org/wiki/Q2758069)).
+**Harvest Moon GB** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2758069` (Wikidata : [Q2758069](https://www.wikidata.org/wiki/Q2758069)).
 
 ## Audit de conformite structurelle
 

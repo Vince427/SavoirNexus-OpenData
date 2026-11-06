@@ -13,7 +13,7 @@ wikidata_id: Q16746773
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-11-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1602010/header.jpg"
-tags: [jeu, cataloged, adventure, fighting]
+tags: [jeu, audited, adventure, fighting]
 observations:
   - id: wikidata-q16746773:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Persona 4 Arena Ultimax
 
-**Persona 4 Arena Ultimax** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16746773](https://www.wikidata.org/wiki/Q16746773)).
+**Persona 4 Arena Ultimax** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16746773` (Wikidata : [Q16746773](https://www.wikidata.org/wiki/Q16746773)).
 
 ## Audit de conformite structurelle
 

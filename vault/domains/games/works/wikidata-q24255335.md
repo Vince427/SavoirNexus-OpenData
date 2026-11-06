@@ -13,7 +13,7 @@ wikidata_id: Q24255335
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-08-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/391040/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q24255335:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # F1 2016
 
-**F1 2016** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q24255335](https://www.wikidata.org/wiki/Q24255335)).
+**F1 2016** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q24255335` (Wikidata : [Q24255335](https://www.wikidata.org/wiki/Q24255335)).
 
 ## Audit de conformite structurelle
 

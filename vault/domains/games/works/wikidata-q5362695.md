@@ -13,7 +13,7 @@ wikidata_id: Q5362695
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-05-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/345610/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q5362695:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Le Fruit de la Grisaia
 
-**Le Fruit de la Grisaia** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5362695](https://www.wikidata.org/wiki/Q5362695)).
+**Le Fruit de la Grisaia** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5362695` (Wikidata : [Q5362695](https://www.wikidata.org/wiki/Q5362695)).
 
 ## Audit de conformite structurelle
 

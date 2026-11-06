@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1154860
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-01-01
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1154860:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Really? Really!
 
-**Really? Really!** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1154860](https://www.wikidata.org/wiki/Q1154860)).
+**Really? Really!** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1154860` (Wikidata : [Q1154860](https://www.wikidata.org/wiki/Q1154860)).
 
 ## Audit de conformite structurelle
 

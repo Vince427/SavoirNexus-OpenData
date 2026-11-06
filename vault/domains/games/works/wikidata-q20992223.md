@@ -13,7 +13,7 @@ wikidata_id: Q20992223
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-06-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/390340/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q20992223:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Umbrella Corps
 
-**Umbrella Corps** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20992223](https://www.wikidata.org/wiki/Q20992223)).
+**Umbrella Corps** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20992223` (Wikidata : [Q20992223](https://www.wikidata.org/wiki/Q20992223)).
 
 ## Audit de conformite structurelle
 

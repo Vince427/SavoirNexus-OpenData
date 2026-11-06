@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2058640
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-10-18
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q2058640:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -102,7 +102,7 @@ observations:
 
 # Ben 10: Galactic Racing
 
-**Ben 10: Galactic Racing** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2058640](https://www.wikidata.org/wiki/Q2058640)).
+**Ben 10: Galactic Racing** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2058640` (Wikidata : [Q2058640](https://www.wikidata.org/wiki/Q2058640)).
 
 ## Audit de conformite structurelle
 

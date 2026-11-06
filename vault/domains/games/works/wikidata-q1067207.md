@@ -13,7 +13,7 @@ wikidata_id: Q1067207
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-06-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21130/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1067207:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Lego Harry Potter : Années 1 à 4
 
-**Lego Harry Potter : Années 1 à 4** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1067207](https://www.wikidata.org/wiki/Q1067207)).
+**Lego Harry Potter : Années 1 à 4** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1067207` (Wikidata : [Q1067207](https://www.wikidata.org/wiki/Q1067207)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1150928
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-18
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q1150928:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Sonic Unleashed : La Malédiction du Hérisson
 
-**Sonic Unleashed : La Malédiction du Hérisson** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1150928](https://www.wikidata.org/wiki/Q1150928)).
+**Sonic Unleashed : La Malédiction du Hérisson** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1150928` (Wikidata : [Q1150928](https://www.wikidata.org/wiki/Q1150928)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q151614
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-11-11
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q151614:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Sonic Colours
 
-**Sonic Colours** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q151614](https://www.wikidata.org/wiki/Q151614)).
+**Sonic Colours** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q151614` (Wikidata : [Q151614](https://www.wikidata.org/wiki/Q151614)).
 
 ## Audit de conformite structurelle
 

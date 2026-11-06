@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2659433
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-24
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q2659433:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Age of Empires: Mythologies
 
-**Age of Empires: Mythologies** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2659433](https://www.wikidata.org/wiki/Q2659433)).
+**Age of Empires: Mythologies** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2659433` (Wikidata : [Q2659433](https://www.wikidata.org/wiki/Q2659433)).
 
 ## Audit de conformite structurelle
 

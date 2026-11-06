@@ -13,7 +13,7 @@ wikidata_id: Q843124
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-03-03
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21900/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q843124:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Tom Clancy's HAWX
 
-**Tom Clancy's HAWX** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q843124](https://www.wikidata.org/wiki/Q843124)).
+**Tom Clancy's HAWX** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q843124` (Wikidata : [Q843124](https://www.wikidata.org/wiki/Q843124)).
 
 ## Audit de conformite structurelle
 

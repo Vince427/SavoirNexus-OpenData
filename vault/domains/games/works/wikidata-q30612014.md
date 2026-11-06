@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q30612014
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-10-24
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q30612014:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -101,7 +101,7 @@ observations:
 
 # Hidden Agenda
 
-**Hidden Agenda** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q30612014](https://www.wikidata.org/wiki/Q30612014)).
+**Hidden Agenda** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q30612014` (Wikidata : [Q30612014](https://www.wikidata.org/wiki/Q30612014)).
 
 ## Audit de conformite structurelle
 

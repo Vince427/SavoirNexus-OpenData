@@ -13,7 +13,7 @@ wikidata_id: Q63036222
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1110100/header.jpg"
-tags: [jeu, cataloged, action, fighting]
+tags: [jeu, audited, action, fighting]
 observations:
   - id: wikidata-q63036222:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Power Rangers: Battle for the Grid
 
-**Power Rangers: Battle for the Grid** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q63036222](https://www.wikidata.org/wiki/Q63036222)).
+**Power Rangers: Battle for the Grid** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q63036222` (Wikidata : [Q63036222](https://www.wikidata.org/wiki/Q63036222)).
 
 ## Audit de conformite structurelle
 

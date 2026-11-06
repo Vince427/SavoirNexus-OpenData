@@ -13,7 +13,7 @@ wikidata_id: Q28126941
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-02-03
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/730310/header.jpg"
-tags: [jeu, cataloged, hack-and-slash]
+tags: [jeu, audited, hack-and-slash]
 observations:
   - id: wikidata-q28126941:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Dynasty Warriors 9
 
-**Dynasty Warriors 9** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28126941](https://www.wikidata.org/wiki/Q28126941)).
+**Dynasty Warriors 9** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28126941` (Wikidata : [Q28126941](https://www.wikidata.org/wiki/Q28126941)).
 
 ## Audit de conformite structurelle
 

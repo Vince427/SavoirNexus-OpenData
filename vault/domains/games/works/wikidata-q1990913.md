@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1990913
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-09
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q1990913:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # WWE SmackDown vs. Raw 2008
 
-**WWE SmackDown vs. Raw 2008** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1990913](https://www.wikidata.org/wiki/Q1990913)).
+**WWE SmackDown vs. Raw 2008** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1990913` (Wikidata : [Q1990913](https://www.wikidata.org/wiki/Q1990913)).
 
 ## Audit de conformite structurelle
 

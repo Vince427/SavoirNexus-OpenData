@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q573768
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-06-20
-tags: [jeu, cataloged, action, adventure, hack-and-slash]
+tags: [jeu, audited, action, adventure, hack-and-slash]
 observations:
   - id: wikidata-q573768:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # God of War: Betrayal
 
-**God of War: Betrayal** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q573768](https://www.wikidata.org/wiki/Q573768)).
+**God of War: Betrayal** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q573768` (Wikidata : [Q573768](https://www.wikidata.org/wiki/Q573768)).
 
 ## Audit de conformite structurelle
 

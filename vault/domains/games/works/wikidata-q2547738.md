@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2547738
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-02-22
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q2547738:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Imperium Romanum
 
-**Imperium Romanum** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2547738](https://www.wikidata.org/wiki/Q2547738)).
+**Imperium Romanum** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2547738` (Wikidata : [Q2547738](https://www.wikidata.org/wiki/Q2547738)).
 
 ## Audit de conformite structurelle
 

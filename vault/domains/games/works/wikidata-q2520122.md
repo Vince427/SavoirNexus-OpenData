@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2520122
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-04
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q2520122:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dragon Ball Z: Budokai Tenkaichi 3
 
-**Dragon Ball Z: Budokai Tenkaichi 3** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2520122](https://www.wikidata.org/wiki/Q2520122)).
+**Dragon Ball Z: Budokai Tenkaichi 3** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2520122` (Wikidata : [Q2520122](https://www.wikidata.org/wiki/Q2520122)).
 
 ## Audit de conformite structurelle
 

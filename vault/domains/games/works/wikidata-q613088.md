@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q613088
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-23
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q613088:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -102,7 +102,7 @@ observations:
 
 # Pro Evolution Soccer 2010
 
-**Pro Evolution Soccer 2010** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q613088](https://www.wikidata.org/wiki/Q613088)).
+**Pro Evolution Soccer 2010** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q613088` (Wikidata : [Q613088](https://www.wikidata.org/wiki/Q613088)).
 
 ## Audit de conformite structurelle
 

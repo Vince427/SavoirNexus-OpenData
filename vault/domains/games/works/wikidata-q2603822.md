@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2603822
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-02
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2603822:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -102,7 +102,7 @@ observations:
 
 # NBA Live 08
 
-**NBA Live 08** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2603822](https://www.wikidata.org/wiki/Q2603822)).
+**NBA Live 08** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2603822` (Wikidata : [Q2603822](https://www.wikidata.org/wiki/Q2603822)).
 
 ## Audit de conformite structurelle
 

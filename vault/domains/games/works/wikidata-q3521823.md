@@ -13,7 +13,7 @@ wikidata_id: Q3521823
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-01-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/26000/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q3521823:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Maw
 
-**The Maw** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3521823](https://www.wikidata.org/wiki/Q3521823)).
+**The Maw** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3521823` (Wikidata : [Q3521823](https://www.wikidata.org/wiki/Q3521823)).
 
 ## Audit de conformite structurelle
 

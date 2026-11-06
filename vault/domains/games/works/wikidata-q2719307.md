@@ -13,7 +13,7 @@ wikidata_id: Q2719307
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-03-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15200/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2719307:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Silent Hunter 4: Wolves of the Pacific
 
-**Silent Hunter 4: Wolves of the Pacific** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2719307](https://www.wikidata.org/wiki/Q2719307)).
+**Silent Hunter 4: Wolves of the Pacific** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2719307` (Wikidata : [Q2719307](https://www.wikidata.org/wiki/Q2719307)).
 
 ## Audit de conformite structurelle
 

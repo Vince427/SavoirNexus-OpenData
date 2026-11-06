@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1204015
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-08-20
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1204015:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ōkami kakushi
 
-**Ōkami kakushi** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1204015](https://www.wikidata.org/wiki/Q1204015)).
+**Ōkami kakushi** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1204015` (Wikidata : [Q1204015](https://www.wikidata.org/wiki/Q1204015)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q60743421
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-10-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/897820/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q60743421:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Reigns : Game of Thrones
 
-**Reigns : Game of Thrones** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q60743421](https://www.wikidata.org/wiki/Q60743421)).
+**Reigns : Game of Thrones** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q60743421` (Wikidata : [Q60743421](https://www.wikidata.org/wiki/Q60743421)).
 
 ## Audit de conformite structurelle
 

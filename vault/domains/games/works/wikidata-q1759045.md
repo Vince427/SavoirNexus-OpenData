@@ -13,7 +13,7 @@ wikidata_id: Q1759045
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10130/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1759045:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # TimeShift
 
-**TimeShift** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1759045](https://www.wikidata.org/wiki/Q1759045)).
+**TimeShift** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1759045` (Wikidata : [Q1759045](https://www.wikidata.org/wiki/Q1759045)).
 
 ## Audit de conformite structurelle
 

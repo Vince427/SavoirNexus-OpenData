@@ -13,7 +13,7 @@ wikidata_id: Q28563526
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-04-04
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/402130/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q28563526:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # FlatOut 4: Total Insanity
 
-**FlatOut 4: Total Insanity** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28563526](https://www.wikidata.org/wiki/Q28563526)).
+**FlatOut 4: Total Insanity** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28563526` (Wikidata : [Q28563526](https://www.wikidata.org/wiki/Q28563526)).
 
 ## Audit de conformite structurelle
 

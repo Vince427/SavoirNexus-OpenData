@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1129452
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-03-16
-tags: [jeu, cataloged, action, adventure, hack-and-slash]
+tags: [jeu, audited, action, adventure, hack-and-slash]
 observations:
   - id: wikidata-q1129452:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # God of War III
 
-**God of War III** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1129452](https://www.wikidata.org/wiki/Q1129452)).
+**God of War III** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1129452` (Wikidata : [Q1129452](https://www.wikidata.org/wiki/Q1129452)).
 
 ## Audit de conformite structurelle
 

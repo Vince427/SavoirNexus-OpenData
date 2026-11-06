@@ -13,7 +13,7 @@ wikidata_id: Q17457242
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/226580/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q17457242:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # F1 2014
 
-**F1 2014** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17457242](https://www.wikidata.org/wiki/Q17457242)).
+**F1 2014** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17457242` (Wikidata : [Q17457242](https://www.wikidata.org/wiki/Q17457242)).
 
 ## Audit de conformite structurelle
 

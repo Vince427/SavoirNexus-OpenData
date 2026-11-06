@@ -13,7 +13,7 @@ wikidata_id: Q74545
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-09-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21000/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q74545:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Lego Batman, le jeu vidéo
 
-**Lego Batman, le jeu vidéo** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q74545](https://www.wikidata.org/wiki/Q74545)).
+**Lego Batman, le jeu vidéo** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q74545` (Wikidata : [Q74545](https://www.wikidata.org/wiki/Q74545)).
 
 ## Audit de conformite structurelle
 

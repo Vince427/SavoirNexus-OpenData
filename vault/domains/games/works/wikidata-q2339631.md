@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2339631
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-08-29
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q2339631:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Shonen Jump's One Piece: Grand Adventure
 
-**Shonen Jump's One Piece: Grand Adventure** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2339631](https://www.wikidata.org/wiki/Q2339631)).
+**Shonen Jump's One Piece: Grand Adventure** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2339631` (Wikidata : [Q2339631](https://www.wikidata.org/wiki/Q2339631)).
 
 ## Audit de conformite structurelle
 

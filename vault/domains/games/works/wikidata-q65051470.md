@@ -13,7 +13,7 @@ wikidata_id: Q65051470
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962400/header.jpg"
-tags: [jeu, cataloged, horror]
+tags: [jeu, audited, horror]
 observations:
   - id: wikidata-q65051470:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Granny
 
-**Granny** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q65051470](https://www.wikidata.org/wiki/Q65051470)).
+**Granny** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q65051470` (Wikidata : [Q65051470](https://www.wikidata.org/wiki/Q65051470)).
 
 ## Audit de conformite structurelle
 

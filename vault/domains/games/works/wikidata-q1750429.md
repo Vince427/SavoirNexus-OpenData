@@ -13,7 +13,7 @@ wikidata_id: Q1750429
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-09-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3328900/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q1750429:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # MySims
 
-**MySims** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1750429](https://www.wikidata.org/wiki/Q1750429)).
+**MySims** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1750429` (Wikidata : [Q1750429](https://www.wikidata.org/wiki/Q1750429)).
 
 ## Audit de conformite structurelle
 

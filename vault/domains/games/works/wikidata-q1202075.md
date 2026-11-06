@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1202075
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-01-01
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1202075:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Yosuga no sora
 
-**Yosuga no sora** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1202075](https://www.wikidata.org/wiki/Q1202075)).
+**Yosuga no sora** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1202075` (Wikidata : [Q1202075](https://www.wikidata.org/wiki/Q1202075)).
 
 ## Audit de conformite structurelle
 

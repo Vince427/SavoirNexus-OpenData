@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q683662
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-06-07
-tags: [jeu, cataloged, action, survival]
+tags: [jeu, audited, action, survival]
 observations:
   - id: wikidata-q683662:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Tokyo Jungle
 
-**Tokyo Jungle** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q683662](https://www.wikidata.org/wiki/Q683662)).
+**Tokyo Jungle** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q683662` (Wikidata : [Q683662](https://www.wikidata.org/wiki/Q683662)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q56307070
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-09-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/257420/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q56307070:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Serious Sam 4
 
-**Serious Sam 4** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q56307070](https://www.wikidata.org/wiki/Q56307070)).
+**Serious Sam 4** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q56307070` (Wikidata : [Q56307070](https://www.wikidata.org/wiki/Q56307070)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3024744
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-12-01
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q3024744:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Destroy All Humans! En route vers Paname !
 
-**Destroy All Humans! En route vers Paname !** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3024744](https://www.wikidata.org/wiki/Q3024744)).
+**Destroy All Humans! En route vers Paname !** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3024744` (Wikidata : [Q3024744](https://www.wikidata.org/wiki/Q3024744)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2777989
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-12-22
-tags: [jeu, cataloged, rpg, sports]
+tags: [jeu, audited, rpg, sports]
 observations:
   - id: wikidata-q2777989:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Inazuma Eleven Strikers 2012 Xtreme
 
-**Inazuma Eleven Strikers 2012 Xtreme** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2777989](https://www.wikidata.org/wiki/Q2777989)).
+**Inazuma Eleven Strikers 2012 Xtreme** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2777989` (Wikidata : [Q2777989](https://www.wikidata.org/wiki/Q2777989)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q690832
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-29
-tags: [jeu, cataloged, shooter, strategy]
+tags: [jeu, audited, shooter, strategy]
 observations:
   - id: wikidata-q690832:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Battalion Wars 2
 
-**Battalion Wars 2** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q690832](https://www.wikidata.org/wiki/Q690832)).
+**Battalion Wars 2** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q690832` (Wikidata : [Q690832](https://www.wikidata.org/wiki/Q690832)).
 
 ## Audit de conformite structurelle
 

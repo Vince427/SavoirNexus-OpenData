@@ -13,7 +13,7 @@ wikidata_id: Q17618314
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-08-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/319510/header.jpg"
-tags: [jeu, cataloged, adventure, horror, survival]
+tags: [jeu, audited, adventure, horror, survival]
 observations:
   - id: wikidata-q17618314:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Five Nights at Freddy's
 
-**Five Nights at Freddy's** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17618314](https://www.wikidata.org/wiki/Q17618314)).
+**Five Nights at Freddy's** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17618314` (Wikidata : [Q17618314](https://www.wikidata.org/wiki/Q17618314)).
 
 ## Audit de conformite structurelle
 

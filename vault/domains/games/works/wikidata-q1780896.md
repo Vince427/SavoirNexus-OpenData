@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1780896
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-01-27
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1780896:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # The Last Story
 
-**The Last Story** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1780896](https://www.wikidata.org/wiki/Q1780896)).
+**The Last Story** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1780896` (Wikidata : [Q1780896](https://www.wikidata.org/wiki/Q1780896)).
 
 ## Audit de conformite structurelle
 

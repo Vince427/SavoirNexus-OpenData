@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2468992
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-09-02
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2468992:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Freshly-Picked Tingle's Rosy Rupeeland
 
-**Freshly-Picked Tingle's Rosy Rupeeland** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2468992](https://www.wikidata.org/wiki/Q2468992)).
+**Freshly-Picked Tingle's Rosy Rupeeland** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2468992` (Wikidata : [Q2468992](https://www.wikidata.org/wiki/Q2468992)).
 
 ## Audit de conformite structurelle
 

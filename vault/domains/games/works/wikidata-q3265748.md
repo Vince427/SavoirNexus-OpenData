@@ -13,7 +13,7 @@ wikidata_id: Q3265748
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-01-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2552450/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q3265748:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Kingdom Hearts 3
 
-**Kingdom Hearts 3** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3265748](https://www.wikidata.org/wiki/Q3265748)).
+**Kingdom Hearts 3** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3265748` (Wikidata : [Q3265748](https://www.wikidata.org/wiki/Q3265748)).
 
 ## Audit de conformite structurelle
 

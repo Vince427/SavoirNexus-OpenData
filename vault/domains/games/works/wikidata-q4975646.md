@@ -13,7 +13,7 @@ wikidata_id: Q4975646
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-08-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/225080/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q4975646:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Brothers: A Tale of Two Sons
 
-**Brothers: A Tale of Two Sons** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4975646](https://www.wikidata.org/wiki/Q4975646)).
+**Brothers: A Tale of Two Sons** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4975646` (Wikidata : [Q4975646](https://www.wikidata.org/wiki/Q4975646)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q21246348
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-05-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q21246348:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Detroit : Become Human
 
-**Detroit : Become Human** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q21246348](https://www.wikidata.org/wiki/Q21246348)).
+**Detroit : Become Human** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q21246348` (Wikidata : [Q21246348](https://www.wikidata.org/wiki/Q21246348)).
 
 ## Audit de conformite structurelle
 

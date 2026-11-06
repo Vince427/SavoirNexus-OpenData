@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q868545
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-12-07
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q868545:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # The Legend of Zelda : Spirit Tracks
 
-**The Legend of Zelda : Spirit Tracks** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q868545](https://www.wikidata.org/wiki/Q868545)).
+**The Legend of Zelda : Spirit Tracks** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q868545` (Wikidata : [Q868545](https://www.wikidata.org/wiki/Q868545)).
 
 ## Audit de conformite structurelle
 

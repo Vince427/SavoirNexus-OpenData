@@ -13,7 +13,7 @@ wikidata_id: Q725057
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-01-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2362420/header.jpg"
-tags: [jeu, cataloged, rpg, shooter]
+tags: [jeu, audited, rpg, shooter]
 observations:
   - id: wikidata-q725057:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Mass Effect 2
 
-**Mass Effect 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q725057](https://www.wikidata.org/wiki/Q725057)).
+**Mass Effect 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q725057` (Wikidata : [Q725057](https://www.wikidata.org/wiki/Q725057)).
 
 ## Audit de conformite structurelle
 

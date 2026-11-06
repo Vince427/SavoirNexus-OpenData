@@ -13,7 +13,7 @@ wikidata_id: Q27773357
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-11-09
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/475550/header.jpg"
-tags: [jeu, cataloged, adventure, strategy]
+tags: [jeu, audited, adventure, strategy]
 observations:
   - id: wikidata-q27773357:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Beholder
 
-**Beholder** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q27773357](https://www.wikidata.org/wiki/Q27773357)).
+**Beholder** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q27773357` (Wikidata : [Q27773357](https://www.wikidata.org/wiki/Q27773357)).
 
 ## Audit de conformite structurelle
 

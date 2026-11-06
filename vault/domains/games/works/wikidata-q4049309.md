@@ -13,7 +13,7 @@ wikidata_id: Q4049309
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-10-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201480/header.jpg"
-tags: [jeu, cataloged, action, rpg, shooter, strategy]
+tags: [jeu, audited, action, rpg, shooter, strategy]
 observations:
   - id: wikidata-q4049309:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Serious Sam: The Random Encounter
 
-**Serious Sam: The Random Encounter** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4049309](https://www.wikidata.org/wiki/Q4049309)).
+**Serious Sam: The Random Encounter** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4049309` (Wikidata : [Q4049309](https://www.wikidata.org/wiki/Q4049309)).
 
 ## Audit de conformite structurelle
 

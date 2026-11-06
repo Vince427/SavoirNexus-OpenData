@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q11955502
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-03-15
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q11955502:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Yoshi's New Island
 
-**Yoshi's New Island** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q11955502](https://www.wikidata.org/wiki/Q11955502)).
+**Yoshi's New Island** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q11955502` (Wikidata : [Q11955502](https://www.wikidata.org/wiki/Q11955502)).
 
 ## Audit de conformite structurelle
 

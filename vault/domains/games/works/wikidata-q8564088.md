@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q8564088
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-10-24
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q8564088:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Flushed Away
 
-**Flushed Away** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q8564088](https://www.wikidata.org/wiki/Q8564088)).
+**Flushed Away** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q8564088` (Wikidata : [Q8564088](https://www.wikidata.org/wiki/Q8564088)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q572098
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-09-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227860/header.jpg"
-tags: [jeu, cataloged, sandbox, strategy]
+tags: [jeu, audited, sandbox, strategy]
 observations:
   - id: wikidata-q572098:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Castle Story
 
-**Castle Story** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q572098](https://www.wikidata.org/wiki/Q572098)).
+**Castle Story** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q572098` (Wikidata : [Q572098](https://www.wikidata.org/wiki/Q572098)).
 
 ## Audit de conformite structurelle
 

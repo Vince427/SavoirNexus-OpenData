@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q21078995
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-07-11
-tags: [jeu, cataloged, rpg, strategy]
+tags: [jeu, audited, rpg, strategy]
 observations:
   - id: wikidata-q21078995:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Yo-kai Watch
 
-**Yo-kai Watch** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q21078995](https://www.wikidata.org/wiki/Q21078995)).
+**Yo-kai Watch** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q21078995` (Wikidata : [Q21078995](https://www.wikidata.org/wiki/Q21078995)).
 
 ## Audit de conformite structurelle
 

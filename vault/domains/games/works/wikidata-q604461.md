@@ -13,7 +13,7 @@ wikidata_id: Q604461
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-01-19
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/45710/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q604461:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Dark Void
 
-**Dark Void** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q604461](https://www.wikidata.org/wiki/Q604461)).
+**Dark Void** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q604461` (Wikidata : [Q604461](https://www.wikidata.org/wiki/Q604461)).
 
 ## Audit de conformite structurelle
 

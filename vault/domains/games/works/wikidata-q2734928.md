@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2734928
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-01-21
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q2734928:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Advance Wars: Dark Conflict
 
-**Advance Wars: Dark Conflict** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2734928](https://www.wikidata.org/wiki/Q2734928)).
+**Advance Wars: Dark Conflict** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2734928` (Wikidata : [Q2734928](https://www.wikidata.org/wiki/Q2734928)).
 
 ## Audit de conformite structurelle
 

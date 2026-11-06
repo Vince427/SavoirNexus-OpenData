@@ -13,7 +13,7 @@ wikidata_id: Q14803834
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/314710/header.jpg"
-tags: [jeu, cataloged, action, platformer]
+tags: [jeu, audited, action, platformer]
 observations:
   - id: wikidata-q14803834:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Mighty No. 9
 
-**Mighty No. 9** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q14803834](https://www.wikidata.org/wiki/Q14803834)).
+**Mighty No. 9** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q14803834` (Wikidata : [Q14803834](https://www.wikidata.org/wiki/Q14803834)).
 
 ## Audit de conformite structurelle
 

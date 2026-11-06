@@ -13,7 +13,7 @@ wikidata_id: Q55263966
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/636480/header.jpg"
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q55263966:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Ravenfield
 
-**Ravenfield** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q55263966](https://www.wikidata.org/wiki/Q55263966)).
+**Ravenfield** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q55263966` (Wikidata : [Q55263966](https://www.wikidata.org/wiki/Q55263966)).
 
 ## Audit de conformite structurelle
 

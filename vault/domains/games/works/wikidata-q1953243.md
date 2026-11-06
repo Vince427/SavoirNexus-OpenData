@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1953243
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-11-18
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q1953243:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # The Lapins Crétins Land
 
-**The Lapins Crétins Land** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1953243](https://www.wikidata.org/wiki/Q1953243)).
+**The Lapins Crétins Land** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1953243` (Wikidata : [Q1953243](https://www.wikidata.org/wiki/Q1953243)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q17490239
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-05-28
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q17490239:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Splatoon
 
-**Splatoon** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17490239](https://www.wikidata.org/wiki/Q17490239)).
+**Splatoon** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17490239` (Wikidata : [Q17490239](https://www.wikidata.org/wiki/Q17490239)).
 
 ## Audit de conformite structurelle
 

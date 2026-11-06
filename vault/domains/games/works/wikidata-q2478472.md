@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2478472
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-19
-tags: [jeu, cataloged, horror]
+tags: [jeu, audited, horror]
 observations:
   - id: wikidata-q2478472:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Calling
 
-**Calling** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2478472](https://www.wikidata.org/wiki/Q2478472)).
+**Calling** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2478472` (Wikidata : [Q2478472](https://www.wikidata.org/wiki/Q2478472)).
 
 ## Audit de conformite structurelle
 

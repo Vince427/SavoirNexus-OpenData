@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2703275
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-01-22
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2703275:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Fragile Dreams: Farewell Ruins of the Moon
 
-**Fragile Dreams: Farewell Ruins of the Moon** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2703275](https://www.wikidata.org/wiki/Q2703275)).
+**Fragile Dreams: Farewell Ruins of the Moon** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2703275` (Wikidata : [Q2703275](https://www.wikidata.org/wiki/Q2703275)).
 
 ## Audit de conformite structurelle
 

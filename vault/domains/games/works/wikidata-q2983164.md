@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2983164
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-12-03
-tags: [jeu, cataloged, hack-and-slash]
+tags: [jeu, audited, hack-and-slash]
 observations:
   - id: wikidata-q2983164:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Samurai Warriors 3
 
-**Samurai Warriors 3** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2983164](https://www.wikidata.org/wiki/Q2983164)).
+**Samurai Warriors 3** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2983164` (Wikidata : [Q2983164](https://www.wikidata.org/wiki/Q2983164)).
 
 ## Audit de conformite structurelle
 

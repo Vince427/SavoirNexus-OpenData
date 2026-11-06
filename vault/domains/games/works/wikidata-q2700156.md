@@ -13,7 +13,7 @@ wikidata_id: Q2700156
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10440/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2700156:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # À la croisée des mondes : La Boussole d'or
 
-**À la croisée des mondes : La Boussole d'or** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2700156](https://www.wikidata.org/wiki/Q2700156)).
+**À la croisée des mondes : La Boussole d'or** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2700156` (Wikidata : [Q2700156](https://www.wikidata.org/wiki/Q2700156)).
 
 ## Audit de conformite structurelle
 

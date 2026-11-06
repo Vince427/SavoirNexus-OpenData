@@ -13,7 +13,7 @@ wikidata_id: Q68680176
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-09-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/881100/header.jpg"
-tags: [jeu, cataloged, action, adventure, roguelike]
+tags: [jeu, audited, action, adventure, roguelike]
 observations:
   - id: wikidata-q68680176:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Noita
 
-**Noita** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q68680176](https://www.wikidata.org/wiki/Q68680176)).
+**Noita** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q68680176` (Wikidata : [Q68680176](https://www.wikidata.org/wiki/Q68680176)).
 
 ## Audit de conformite structurelle
 

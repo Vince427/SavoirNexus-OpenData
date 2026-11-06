@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1989054
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-22
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q1989054:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Les Sims 2 : Naufragés
 
-**Les Sims 2 : Naufragés** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1989054](https://www.wikidata.org/wiki/Q1989054)).
+**Les Sims 2 : Naufragés** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1989054` (Wikidata : [Q1989054](https://www.wikidata.org/wiki/Q1989054)).
 
 ## Audit de conformite structurelle
 

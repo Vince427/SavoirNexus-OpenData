@@ -13,7 +13,7 @@ wikidata_id: Q28689822
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/716710/header.jpg"
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q28689822:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Touhou Hyouibana ~ Antinomy of Common Flowers
 
-**Touhou Hyouibana ~ Antinomy of Common Flowers** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28689822](https://www.wikidata.org/wiki/Q28689822)).
+**Touhou Hyouibana ~ Antinomy of Common Flowers** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28689822` (Wikidata : [Q28689822](https://www.wikidata.org/wiki/Q28689822)).
 
 ## Audit de conformite structurelle
 

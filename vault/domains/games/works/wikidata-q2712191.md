@@ -13,7 +13,7 @@ wikidata_id: Q2712191
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-03-04
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21010/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2712191:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Watchmen: The End Is Nigh
 
-**Watchmen: The End Is Nigh** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2712191](https://www.wikidata.org/wiki/Q2712191)).
+**Watchmen: The End Is Nigh** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2712191` (Wikidata : [Q2712191](https://www.wikidata.org/wiki/Q2712191)).
 
 ## Audit de conformite structurelle
 

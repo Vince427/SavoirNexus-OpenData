@@ -13,7 +13,7 @@ wikidata_id: Q969764
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-11-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/71340/header.jpg"
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q969764:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Sonic Generations
 
-**Sonic Generations** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q969764](https://www.wikidata.org/wiki/Q969764)).
+**Sonic Generations** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q969764` (Wikidata : [Q969764](https://www.wikidata.org/wiki/Q969764)).
 
 ## Audit de conformite structurelle
 

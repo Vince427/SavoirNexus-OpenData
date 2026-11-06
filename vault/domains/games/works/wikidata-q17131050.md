@@ -13,7 +13,7 @@ wikidata_id: Q17131050
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/970570/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q17131050:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Chaos;Child
 
-**Chaos;Child** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17131050](https://www.wikidata.org/wiki/Q17131050)).
+**Chaos;Child** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17131050` (Wikidata : [Q17131050](https://www.wikidata.org/wiki/Q17131050)).
 
 ## Audit de conformite structurelle
 

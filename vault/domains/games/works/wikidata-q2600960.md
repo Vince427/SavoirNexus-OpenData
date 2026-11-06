@@ -13,7 +13,7 @@ wikidata_id: Q2600960
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-04
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/333430/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2600960:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # L'Île noyée
 
-**L'Île noyée** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2600960](https://www.wikidata.org/wiki/Q2600960)).
+**L'Île noyée** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2600960` (Wikidata : [Q2600960](https://www.wikidata.org/wiki/Q2600960)).
 
 ## Audit de conformite structurelle
 

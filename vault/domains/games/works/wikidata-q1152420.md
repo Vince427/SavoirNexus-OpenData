@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1152420
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-01
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q1152420:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Gran Turismo
 
-**Gran Turismo** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1152420](https://www.wikidata.org/wiki/Q1152420)).
+**Gran Turismo** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1152420` (Wikidata : [Q1152420](https://www.wikidata.org/wiki/Q1152420)).
 
 ## Audit de conformite structurelle
 

@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q30589355
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-01-01
-tags: [jeu, cataloged, action, hack-and-slash]
+tags: [jeu, audited, action, hack-and-slash]
 observations:
   - id: wikidata-q30589355:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -101,7 +101,7 @@ observations:
 
 # Fire Emblem Warriors
 
-**Fire Emblem Warriors** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q30589355](https://www.wikidata.org/wiki/Q30589355)).
+**Fire Emblem Warriors** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q30589355` (Wikidata : [Q30589355](https://www.wikidata.org/wiki/Q30589355)).
 
 ## Audit de conformite structurelle
 

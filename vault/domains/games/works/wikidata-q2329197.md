@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2329197
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-02
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2329197:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # The Legend of Spyro: The Eternal Night
 
-**The Legend of Spyro: The Eternal Night** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2329197](https://www.wikidata.org/wiki/Q2329197)).
+**The Legend of Spyro: The Eternal Night** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2329197` (Wikidata : [Q2329197](https://www.wikidata.org/wiki/Q2329197)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q940775
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-02-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/102500/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q940775:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Les Royaumes d'Amalur : Reckoning
 
-**Les Royaumes d'Amalur : Reckoning** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q940775](https://www.wikidata.org/wiki/Q940775)).
+**Les Royaumes d'Amalur : Reckoning** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q940775` (Wikidata : [Q940775](https://www.wikidata.org/wiki/Q940775)).
 
 ## Audit de conformite structurelle
 

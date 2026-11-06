@@ -13,7 +13,7 @@ wikidata_id: Q17511795
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-09-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/321960/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q17511795:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Might and Magic: Heroes VII
 
-**Might and Magic: Heroes VII** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17511795](https://www.wikidata.org/wiki/Q17511795)).
+**Might and Magic: Heroes VII** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17511795` (Wikidata : [Q17511795](https://www.wikidata.org/wiki/Q17511795)).
 
 ## Audit de conformite structurelle
 

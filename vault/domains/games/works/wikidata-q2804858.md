@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q2804858
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-07-22
-tags: [jeu, cataloged, action, platformer]
+tags: [jeu, audited, action, platformer]
 observations:
   - id: wikidata-q2804858:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -101,7 +101,7 @@ observations:
 
 # 'Splosion Man
 
-**'Splosion Man** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2804858](https://www.wikidata.org/wiki/Q2804858)).
+**'Splosion Man** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2804858` (Wikidata : [Q2804858](https://www.wikidata.org/wiki/Q2804858)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q5229912
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-03-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1340140/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q5229912:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Dracu-riot!
 
-**Dracu-riot!** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5229912](https://www.wikidata.org/wiki/Q5229912)).
+**Dracu-riot!** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5229912` (Wikidata : [Q5229912](https://www.wikidata.org/wiki/Q5229912)).
 
 ## Audit de conformite structurelle
 

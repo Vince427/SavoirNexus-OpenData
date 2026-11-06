@@ -13,7 +13,7 @@ wikidata_id: Q22906387
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2022-07-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2291020/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q22906387:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Anonymous;Code
 
-**Anonymous;Code** est une oeuvre sortie initialement en 2022, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q22906387](https://www.wikidata.org/wiki/Q22906387)).
+**Anonymous;Code** est une oeuvre sortie initialement en 2022, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q22906387` (Wikidata : [Q22906387](https://www.wikidata.org/wiki/Q22906387)).
 
 ## Audit de conformite structurelle
 

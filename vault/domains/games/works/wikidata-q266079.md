@@ -13,7 +13,7 @@ wikidata_id: Q266079
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-05-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/34010/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q266079:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Alpha Protocol
 
-**Alpha Protocol** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q266079](https://www.wikidata.org/wiki/Q266079)).
+**Alpha Protocol** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q266079` (Wikidata : [Q266079](https://www.wikidata.org/wiki/Q266079)).
 
 ## Audit de conformite structurelle
 

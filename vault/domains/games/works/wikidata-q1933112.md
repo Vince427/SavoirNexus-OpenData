@@ -13,7 +13,7 @@ wikidata_id: Q1933112
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-05-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/277450/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1933112:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Imperial Glory
 
-**Imperial Glory** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1933112](https://www.wikidata.org/wiki/Q1933112)).
+**Imperial Glory** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1933112` (Wikidata : [Q1933112](https://www.wikidata.org/wiki/Q1933112)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q15984890
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-04-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/265930/header.jpg"
-tags: [jeu, cataloged, action, simulation]
+tags: [jeu, audited, action, simulation]
 observations:
   - id: wikidata-q15984890:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Goat Simulator
 
-**Goat Simulator** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15984890](https://www.wikidata.org/wiki/Q15984890)).
+**Goat Simulator** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15984890` (Wikidata : [Q15984890](https://www.wikidata.org/wiki/Q15984890)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q18920891
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/405310/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q18920891:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Lego Marvel's Avengers
 
-**Lego Marvel's Avengers** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18920891](https://www.wikidata.org/wiki/Q18920891)).
+**Lego Marvel's Avengers** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18920891` (Wikidata : [Q18920891](https://www.wikidata.org/wiki/Q18920891)).
 
 ## Audit de conformite structurelle
 

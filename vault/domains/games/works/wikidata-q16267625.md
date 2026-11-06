@@ -13,7 +13,7 @@ wikidata_id: Q16267625
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-03-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/421120/header.jpg"
-tags: [jeu, cataloged, adventure, puzzle]
+tags: [jeu, audited, adventure, puzzle]
 observations:
   - id: wikidata-q16267625:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Samorost 3
 
-**Samorost 3** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16267625](https://www.wikidata.org/wiki/Q16267625)).
+**Samorost 3** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16267625` (Wikidata : [Q16267625](https://www.wikidata.org/wiki/Q16267625)).
 
 ## Audit de conformite structurelle
 

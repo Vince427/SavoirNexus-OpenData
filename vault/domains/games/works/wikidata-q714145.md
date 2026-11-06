@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q714145
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-08-22
-tags: [jeu, cataloged, rpg, sports]
+tags: [jeu, audited, rpg, sports]
 observations:
   - id: wikidata-q714145:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Inazuma Eleven
 
-**Inazuma Eleven** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q714145](https://www.wikidata.org/wiki/Q714145)).
+**Inazuma Eleven** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q714145` (Wikidata : [Q714145](https://www.wikidata.org/wiki/Q714145)).
 
 ## Audit de conformite structurelle
 

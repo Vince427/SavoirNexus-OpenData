@@ -13,7 +13,7 @@ wikidata_id: Q97440998
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-12-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1186040/header.jpg"
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q97440998:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Worms Rumble
 
-**Worms Rumble** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q97440998](https://www.wikidata.org/wiki/Q97440998)).
+**Worms Rumble** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q97440998` (Wikidata : [Q97440998](https://www.wikidata.org/wiki/Q97440998)).
 
 ## Audit de conformite structurelle
 

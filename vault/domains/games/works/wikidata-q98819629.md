@@ -13,7 +13,7 @@ wikidata_id: Q98819629
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2022-03-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1036890/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q98819629:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Shadow Warrior 3
 
-**Shadow Warrior 3** est une oeuvre sortie initialement en 2022, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q98819629](https://www.wikidata.org/wiki/Q98819629)).
+**Shadow Warrior 3** est une oeuvre sortie initialement en 2022, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q98819629` (Wikidata : [Q98819629](https://www.wikidata.org/wiki/Q98819629)).
 
 ## Audit de conformite structurelle
 

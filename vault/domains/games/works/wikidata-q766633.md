@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q766633
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-04-10
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q766633:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -102,7 +102,7 @@ observations:
 
 # Skullgirls
 
-**Skullgirls** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q766633](https://www.wikidata.org/wiki/Q766633)).
+**Skullgirls** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q766633` (Wikidata : [Q766633](https://www.wikidata.org/wiki/Q766633)).
 
 ## Audit de conformite structurelle
 

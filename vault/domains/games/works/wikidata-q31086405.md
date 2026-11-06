@@ -13,7 +13,7 @@ wikidata_id: Q31086405
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-09-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/378860/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q31086405:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Project CARS 2
 
-**Project CARS 2** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q31086405](https://www.wikidata.org/wiki/Q31086405)).
+**Project CARS 2** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q31086405` (Wikidata : [Q31086405](https://www.wikidata.org/wiki/Q31086405)).
 
 ## Audit de conformite structurelle
 

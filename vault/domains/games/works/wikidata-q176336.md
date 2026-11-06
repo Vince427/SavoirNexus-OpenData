@@ -13,7 +13,7 @@ wikidata_id: Q176336
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-10-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/19900/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q176336:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Far Cry 2
 
-**Far Cry 2** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q176336](https://www.wikidata.org/wiki/Q176336)).
+**Far Cry 2** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q176336` (Wikidata : [Q176336](https://www.wikidata.org/wiki/Q176336)).
 
 ## Audit de conformite structurelle
 

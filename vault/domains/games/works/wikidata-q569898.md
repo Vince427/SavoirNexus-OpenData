@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q569898
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-05-14
-tags: [jeu, cataloged, horror, shooter, survival]
+tags: [jeu, audited, horror, shooter, survival]
 observations:
   - id: wikidata-q569898:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -102,7 +102,7 @@ observations:
 
 # Metro: Last Light
 
-**Metro: Last Light** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q569898](https://www.wikidata.org/wiki/Q569898)).
+**Metro: Last Light** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q569898` (Wikidata : [Q569898](https://www.wikidata.org/wiki/Q569898)).
 
 ## Audit de conformite structurelle
 

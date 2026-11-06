@@ -13,7 +13,7 @@ wikidata_id: Q16975080
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-01-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/224480/header.jpg"
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q16975080:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Octodad : Dadliest Catch
 
-**Octodad : Dadliest Catch** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16975080](https://www.wikidata.org/wiki/Q16975080)).
+**Octodad : Dadliest Catch** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16975080` (Wikidata : [Q16975080](https://www.wikidata.org/wiki/Q16975080)).
 
 ## Audit de conformite structurelle
 

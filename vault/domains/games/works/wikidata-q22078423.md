@@ -13,7 +13,7 @@ wikidata_id: Q22078423
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/575480/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q22078423:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Wagamama High Spec
 
-**Wagamama High Spec** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q22078423](https://www.wikidata.org/wiki/Q22078423)).
+**Wagamama High Spec** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q22078423` (Wikidata : [Q22078423](https://www.wikidata.org/wiki/Q22078423)).
 
 ## Audit de conformite structurelle
 

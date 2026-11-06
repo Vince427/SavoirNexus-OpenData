@@ -13,7 +13,7 @@ wikidata_id: Q3459548
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-03-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/252230/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q3459548:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Yaiba: Ninja Gaiden Z
 
-**Yaiba: Ninja Gaiden Z** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3459548](https://www.wikidata.org/wiki/Q3459548)).
+**Yaiba: Ninja Gaiden Z** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3459548` (Wikidata : [Q3459548](https://www.wikidata.org/wiki/Q3459548)).
 
 ## Audit de conformite structurelle
 

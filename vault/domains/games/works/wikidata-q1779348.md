@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1779348
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-10-21
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1779348:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # La Légende de Spyro : Naissance d'un dragon
 
-**La Légende de Spyro : Naissance d'un dragon** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1779348](https://www.wikidata.org/wiki/Q1779348)).
+**La Légende de Spyro : Naissance d'un dragon** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1779348` (Wikidata : [Q1779348](https://www.wikidata.org/wiki/Q1779348)).
 
 ## Audit de conformite structurelle
 

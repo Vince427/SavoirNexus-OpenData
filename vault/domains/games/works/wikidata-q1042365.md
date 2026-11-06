@@ -13,7 +13,7 @@ wikidata_id: Q1042365
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-09-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/237890/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1042365:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Agarest: Generations of War
 
-**Agarest: Generations of War** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1042365](https://www.wikidata.org/wiki/Q1042365)).
+**Agarest: Generations of War** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1042365` (Wikidata : [Q1042365](https://www.wikidata.org/wiki/Q1042365)).
 
 ## Audit de conformite structurelle
 

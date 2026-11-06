@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q22635280
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-03-23
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q22635280:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -102,7 +102,7 @@ observations:
 
 # Détective Pikachu
 
-**Détective Pikachu** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q22635280](https://www.wikidata.org/wiki/Q22635280)).
+**Détective Pikachu** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q22635280` (Wikidata : [Q22635280](https://www.wikidata.org/wiki/Q22635280)).
 
 ## Audit de conformite structurelle
 

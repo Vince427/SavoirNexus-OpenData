@@ -13,7 +13,7 @@ wikidata_id: Q17385447
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-01-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/222880/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q17385447:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Insurgency
 
-**Insurgency** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17385447](https://www.wikidata.org/wiki/Q17385447)).
+**Insurgency** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17385447` (Wikidata : [Q17385447](https://www.wikidata.org/wiki/Q17385447)).
 
 ## Audit de conformite structurelle
 

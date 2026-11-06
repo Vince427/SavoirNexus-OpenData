@@ -13,7 +13,7 @@ wikidata_id: Q536859
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-09-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/37700/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q536859:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -103,7 +103,7 @@ observations:
 
 # Darkest of Days
 
-**Darkest of Days** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q536859](https://www.wikidata.org/wiki/Q536859)).
+**Darkest of Days** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q536859` (Wikidata : [Q536859](https://www.wikidata.org/wiki/Q536859)).
 
 ## Audit de conformite structurelle
 

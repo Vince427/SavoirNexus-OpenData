@@ -13,7 +13,7 @@ wikidata_id: Q1108806
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/24400/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1108806:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # King Arthur: The Role-Playing Wargame
 
-**King Arthur: The Role-Playing Wargame** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1108806](https://www.wikidata.org/wiki/Q1108806)).
+**King Arthur: The Role-Playing Wargame** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1108806` (Wikidata : [Q1108806](https://www.wikidata.org/wiki/Q1108806)).
 
 ## Audit de conformite structurelle
 

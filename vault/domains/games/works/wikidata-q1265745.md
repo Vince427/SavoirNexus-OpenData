@@ -13,7 +13,7 @@ wikidata_id: Q1265745
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-06-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/39160/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q1265745:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Dungeon Siege III
 
-**Dungeon Siege III** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1265745](https://www.wikidata.org/wiki/Q1265745)).
+**Dungeon Siege III** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1265745` (Wikidata : [Q1265745](https://www.wikidata.org/wiki/Q1265745)).
 
 ## Audit de conformite structurelle
 

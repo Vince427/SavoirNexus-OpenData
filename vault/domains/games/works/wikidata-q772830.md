@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q772830
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-09-12
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q772830:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Heavenly Sword
 
-**Heavenly Sword** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q772830](https://www.wikidata.org/wiki/Q772830)).
+**Heavenly Sword** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q772830` (Wikidata : [Q772830](https://www.wikidata.org/wiki/Q772830)).
 
 ## Audit de conformite structurelle
 

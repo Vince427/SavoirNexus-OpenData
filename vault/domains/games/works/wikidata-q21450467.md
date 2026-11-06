@@ -13,7 +13,7 @@ wikidata_id: Q21450467
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-10-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/368230/header.jpg"
-tags: [jeu, cataloged, adventure, simulation]
+tags: [jeu, audited, adventure, simulation]
 observations:
   - id: wikidata-q21450467:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Kingdom: Classic
 
-**Kingdom: Classic** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q21450467](https://www.wikidata.org/wiki/Q21450467)).
+**Kingdom: Classic** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q21450467` (Wikidata : [Q21450467](https://www.wikidata.org/wiki/Q21450467)).
 
 ## Audit de conformite structurelle
 

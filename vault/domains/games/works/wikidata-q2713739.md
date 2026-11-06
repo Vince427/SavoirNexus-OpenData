@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q2713739
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-04-26
-tags: [jeu, cataloged, action, adventure, mmo, rpg]
+tags: [jeu, audited, action, adventure, mmo, rpg]
 observations:
   - id: wikidata-q2713739:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -101,7 +101,7 @@ observations:
 
 # Linkin Park: 8-Bit Rebellion
 
-**Linkin Park: 8-Bit Rebellion** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2713739](https://www.wikidata.org/wiki/Q2713739)).
+**Linkin Park: 8-Bit Rebellion** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2713739` (Wikidata : [Q2713739](https://www.wikidata.org/wiki/Q2713739)).
 
 ## Audit de conformite structurelle
 

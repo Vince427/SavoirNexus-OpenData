@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2472384
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-09-22
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2472384:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Kurohyō: Ryū ga Gotoku Shinshō
 
-**Kurohyō: Ryū ga Gotoku Shinshō** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2472384](https://www.wikidata.org/wiki/Q2472384)).
+**Kurohyō: Ryū ga Gotoku Shinshō** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2472384` (Wikidata : [Q2472384](https://www.wikidata.org/wiki/Q2472384)).
 
 ## Audit de conformite structurelle
 

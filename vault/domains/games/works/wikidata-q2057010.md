@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2057010
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-10-28
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2057010:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ben 10: Alien Force
 
-**Ben 10: Alien Force** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2057010](https://www.wikidata.org/wiki/Q2057010)).
+**Ben 10: Alien Force** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2057010` (Wikidata : [Q2057010](https://www.wikidata.org/wiki/Q2057010)).
 
 ## Audit de conformite structurelle
 

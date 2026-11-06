@@ -13,7 +13,7 @@ wikidata_id: Q1218367
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-08-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227280/header.jpg"
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q1218367:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # No Time to Explain
 
-**No Time to Explain** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1218367](https://www.wikidata.org/wiki/Q1218367)).
+**No Time to Explain** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1218367` (Wikidata : [Q1218367](https://www.wikidata.org/wiki/Q1218367)).
 
 ## Audit de conformite structurelle
 

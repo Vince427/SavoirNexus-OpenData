@@ -13,7 +13,7 @@ wikidata_id: Q1416043
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-12-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292140/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1416043:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Final Fantasy XIII-2
 
-**Final Fantasy XIII-2** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1416043](https://www.wikidata.org/wiki/Q1416043)).
+**Final Fantasy XIII-2** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1416043` (Wikidata : [Q1416043](https://www.wikidata.org/wiki/Q1416043)).
 
 ## Audit de conformite structurelle
 

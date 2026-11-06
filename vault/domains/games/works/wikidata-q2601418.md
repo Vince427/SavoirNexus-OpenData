@@ -13,7 +13,7 @@ wikidata_id: Q2601418
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-04-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/25870/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q2601418:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Stalin vs. Martians
 
-**Stalin vs. Martians** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2601418](https://www.wikidata.org/wiki/Q2601418)).
+**Stalin vs. Martians** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2601418` (Wikidata : [Q2601418](https://www.wikidata.org/wiki/Q2601418)).
 
 ## Audit de conformite structurelle
 

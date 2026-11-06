@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1195260
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-16
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q1195260:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Animal Crossing: Let's Go to the City
 
-**Animal Crossing: Let's Go to the City** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1195260](https://www.wikidata.org/wiki/Q1195260)).
+**Animal Crossing: Let's Go to the City** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1195260` (Wikidata : [Q1195260](https://www.wikidata.org/wiki/Q1195260)).
 
 ## Audit de conformite structurelle
 

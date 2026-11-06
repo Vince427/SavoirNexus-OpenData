@@ -13,7 +13,7 @@ wikidata_id: Q17634308
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-03-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/638970/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q17634308:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Yakuza Zero
 
-**Yakuza Zero** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17634308](https://www.wikidata.org/wiki/Q17634308)).
+**Yakuza Zero** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17634308` (Wikidata : [Q17634308](https://www.wikidata.org/wiki/Q17634308)).
 
 ## Audit de conformite structurelle
 

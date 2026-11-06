@@ -13,7 +13,7 @@ wikidata_id: Q1351726
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-04-02
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/215160/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1351726:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Book of Unwritten Tales
 
-**The Book of Unwritten Tales** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1351726](https://www.wikidata.org/wiki/Q1351726)).
+**The Book of Unwritten Tales** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1351726` (Wikidata : [Q1351726](https://www.wikidata.org/wiki/Q1351726)).
 
 ## Audit de conformite structurelle
 

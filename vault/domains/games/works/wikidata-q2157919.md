@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2157919
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-09-14
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2157919:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -102,7 +102,7 @@ observations:
 
 # Le Seigneur des anneaux : La Quête d'Aragorn
 
-**Le Seigneur des anneaux : La Quête d'Aragorn** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2157919](https://www.wikidata.org/wiki/Q2157919)).
+**Le Seigneur des anneaux : La Quête d'Aragorn** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2157919` (Wikidata : [Q2157919](https://www.wikidata.org/wiki/Q2157919)).
 
 ## Audit de conformite structurelle
 

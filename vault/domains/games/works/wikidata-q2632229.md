@@ -13,7 +13,7 @@ wikidata_id: Q2632229
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-12-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/35720/header.jpg"
-tags: [jeu, cataloged, platformer, puzzle]
+tags: [jeu, audited, platformer, puzzle]
 observations:
   - id: wikidata-q2632229:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Trine 2
 
-**Trine 2** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2632229](https://www.wikidata.org/wiki/Q2632229)).
+**Trine 2** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2632229` (Wikidata : [Q2632229](https://www.wikidata.org/wiki/Q2632229)).
 
 ## Audit de conformite structurelle
 

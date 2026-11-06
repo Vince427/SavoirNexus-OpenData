@@ -13,7 +13,7 @@ wikidata_id: Q19879485
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-10-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/341800/header.jpg"
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q19879485:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Keep Talking and Nobody Explodes
 
-**Keep Talking and Nobody Explodes** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q19879485](https://www.wikidata.org/wiki/Q19879485)).
+**Keep Talking and Nobody Explodes** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q19879485` (Wikidata : [Q19879485](https://www.wikidata.org/wiki/Q19879485)).
 
 ## Audit de conformite structurelle
 

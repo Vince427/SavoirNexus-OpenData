@@ -13,7 +13,7 @@ wikidata_id: Q2462284
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-06-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/58520/header.jpg"
-tags: [jeu, cataloged, sports, strategy]
+tags: [jeu, audited, sports, strategy]
 observations:
   - id: wikidata-q2462284:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Blood Bowl
 
-**Blood Bowl** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2462284](https://www.wikidata.org/wiki/Q2462284)).
+**Blood Bowl** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2462284` (Wikidata : [Q2462284](https://www.wikidata.org/wiki/Q2462284)).
 
 ## Audit de conformite structurelle
 

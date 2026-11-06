@@ -13,7 +13,7 @@ wikidata_id: Q1037628
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-10-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3328910/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q1037628:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # MySims Kingdom
 
-**MySims Kingdom** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1037628](https://www.wikidata.org/wiki/Q1037628)).
+**MySims Kingdom** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1037628` (Wikidata : [Q1037628](https://www.wikidata.org/wiki/Q1037628)).
 
 ## Audit de conformite structurelle
 

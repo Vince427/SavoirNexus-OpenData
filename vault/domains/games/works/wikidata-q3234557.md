@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3234557
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-07-01
-tags: [jeu, cataloged, adventure, simulation]
+tags: [jeu, audited, adventure, simulation]
 observations:
   - id: wikidata-q3234557:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Trauma Center: Under the Knife 2
 
-**Trauma Center: Under the Knife 2** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3234557](https://www.wikidata.org/wiki/Q3234557)).
+**Trauma Center: Under the Knife 2** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3234557` (Wikidata : [Q3234557](https://www.wikidata.org/wiki/Q3234557)).
 
 ## Audit de conformite structurelle
 

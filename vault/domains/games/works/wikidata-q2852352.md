@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2852352
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-02-05
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2852352:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Another Code: R - Les Portes de la mémoire
 
-**Another Code: R - Les Portes de la mémoire** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2852352](https://www.wikidata.org/wiki/Q2852352)).
+**Another Code: R - Les Portes de la mémoire** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2852352` (Wikidata : [Q2852352](https://www.wikidata.org/wiki/Q2852352)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q20990658
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-06-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/571260/header.jpg"
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q20990658:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # The King of Fighters XIV
 
-**The King of Fighters XIV** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20990658](https://www.wikidata.org/wiki/Q20990658)).
+**The King of Fighters XIV** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20990658` (Wikidata : [Q20990658](https://www.wikidata.org/wiki/Q20990658)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q62535002
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/704270/header.jpg"
-tags: [jeu, cataloged, shooter, survival]
+tags: [jeu, audited, shooter, survival]
 observations:
   - id: wikidata-q62535002:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Generation Zero
 
-**Generation Zero** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q62535002](https://www.wikidata.org/wiki/Q62535002)).
+**Generation Zero** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q62535002` (Wikidata : [Q62535002](https://www.wikidata.org/wiki/Q62535002)).
 
 ## Audit de conformite structurelle
 

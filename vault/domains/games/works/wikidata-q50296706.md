@@ -13,7 +13,7 @@ wikidata_id: Q50296706
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-02-06
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/612390/header.jpg"
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q50296706:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Dandara
 
-**Dandara** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q50296706](https://www.wikidata.org/wiki/Q50296706)).
+**Dandara** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q50296706` (Wikidata : [Q50296706](https://www.wikidata.org/wiki/Q50296706)).
 
 ## Audit de conformite structurelle
 

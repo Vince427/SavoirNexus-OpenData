@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2066589
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-03-14
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q2066589:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # L'Âge de glace 2
 
-**L'Âge de glace 2** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2066589](https://www.wikidata.org/wiki/Q2066589)).
+**L'Âge de glace 2** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2066589` (Wikidata : [Q2066589](https://www.wikidata.org/wiki/Q2066589)).
 
 ## Audit de conformite structurelle
 

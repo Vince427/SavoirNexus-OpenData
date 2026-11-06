@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q917647
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-03-05
-tags: [jeu, cataloged, mmo, simulation]
+tags: [jeu, audited, mmo, simulation]
 observations:
   - id: wikidata-q917647:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # SimCity
 
-**SimCity** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q917647](https://www.wikidata.org/wiki/Q917647)).
+**SimCity** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q917647` (Wikidata : [Q917647](https://www.wikidata.org/wiki/Q917647)).
 
 ## Audit de conformite structurelle
 

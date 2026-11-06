@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q10847068
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-06-24
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q10847068:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Euphoria
 
-**Euphoria** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q10847068](https://www.wikidata.org/wiki/Q10847068)).
+**Euphoria** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q10847068` (Wikidata : [Q10847068](https://www.wikidata.org/wiki/Q10847068)).
 
 ## Audit de conformite structurelle
 

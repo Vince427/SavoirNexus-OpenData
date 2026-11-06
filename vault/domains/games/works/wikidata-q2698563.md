@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2698563
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-08-07
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2698563:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Fire Emblem: Shadow Dragon
 
-**Fire Emblem: Shadow Dragon** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2698563](https://www.wikidata.org/wiki/Q2698563)).
+**Fire Emblem: Shadow Dragon** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2698563` (Wikidata : [Q2698563](https://www.wikidata.org/wiki/Q2698563)).
 
 ## Audit de conformite structurelle
 

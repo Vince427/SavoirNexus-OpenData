@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1075246
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-12-02
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q1075246:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # WarioWare: Smooth Moves
 
-**WarioWare: Smooth Moves** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1075246](https://www.wikidata.org/wiki/Q1075246)).
+**WarioWare: Smooth Moves** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1075246` (Wikidata : [Q1075246](https://www.wikidata.org/wiki/Q1075246)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3978028
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-10-09
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q3978028:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Supersonic Acrobatic Rocket-Powered Battle-Cars
 
-**Supersonic Acrobatic Rocket-Powered Battle-Cars** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3978028](https://www.wikidata.org/wiki/Q3978028)).
+**Supersonic Acrobatic Rocket-Powered Battle-Cars** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3978028` (Wikidata : [Q3978028](https://www.wikidata.org/wiki/Q3978028)).
 
 ## Audit de conformite structurelle
 

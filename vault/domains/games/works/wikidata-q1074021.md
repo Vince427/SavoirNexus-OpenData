@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q1074021
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-30
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1074021:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # Digimon World Data Squad
 
-**Digimon World Data Squad** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1074021](https://www.wikidata.org/wiki/Q1074021)).
+**Digimon World Data Squad** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1074021` (Wikidata : [Q1074021](https://www.wikidata.org/wiki/Q1074021)).
 
 ## Audit de conformite structurelle
 

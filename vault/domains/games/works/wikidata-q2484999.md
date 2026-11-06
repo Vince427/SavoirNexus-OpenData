@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2484999
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-02-25
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2484999:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # WWF War Zone
 
-**WWF War Zone** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2484999](https://www.wikidata.org/wiki/Q2484999)).
+**WWF War Zone** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2484999` (Wikidata : [Q2484999](https://www.wikidata.org/wiki/Q2484999)).
 
 ## Audit de conformite structurelle
 

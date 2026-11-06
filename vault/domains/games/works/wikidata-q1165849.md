@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1165849
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-06-23
-tags: [jeu, cataloged, platformer, puzzle]
+tags: [jeu, audited, platformer, puzzle]
 observations:
   - id: wikidata-q1165849:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # LocoRoco
 
-**LocoRoco** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1165849](https://www.wikidata.org/wiki/Q1165849)).
+**LocoRoco** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1165849` (Wikidata : [Q1165849](https://www.wikidata.org/wiki/Q1165849)).
 
 ## Audit de conformite structurelle
 

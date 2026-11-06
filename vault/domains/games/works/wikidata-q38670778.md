@@ -13,7 +13,7 @@ wikidata_id: Q38670778
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/961490/header.jpg"
-tags: [jeu, cataloged, action, adventure, hack-and-slash]
+tags: [jeu, audited, action, adventure, hack-and-slash]
 observations:
   - id: wikidata-q38670778:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Travis Strikes Again: No More Heroes
 
-**Travis Strikes Again: No More Heroes** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q38670778](https://www.wikidata.org/wiki/Q38670778)).
+**Travis Strikes Again: No More Heroes** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q38670778` (Wikidata : [Q38670778](https://www.wikidata.org/wiki/Q38670778)).
 
 ## Audit de conformite structurelle
 

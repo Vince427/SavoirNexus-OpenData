@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2088538
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-05-12
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q2088538:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Contra ReBirth
 
-**Contra ReBirth** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2088538](https://www.wikidata.org/wiki/Q2088538)).
+**Contra ReBirth** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2088538` (Wikidata : [Q2088538](https://www.wikidata.org/wiki/Q2088538)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q368074
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-06-23
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q368074:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # The Conduit
 
-**The Conduit** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q368074](https://www.wikidata.org/wiki/Q368074)).
+**The Conduit** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q368074` (Wikidata : [Q368074](https://www.wikidata.org/wiki/Q368074)).
 
 ## Audit de conformite structurelle
 

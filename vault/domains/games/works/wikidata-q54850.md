@@ -13,7 +13,7 @@ wikidata_id: Q54850
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-06
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32420/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q54850:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Star Wars: The Clone Wars - Les Héros de la République
 
-**Star Wars: The Clone Wars - Les Héros de la République** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q54850](https://www.wikidata.org/wiki/Q54850)).
+**Star Wars: The Clone Wars - Les Héros de la République** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q54850` (Wikidata : [Q54850](https://www.wikidata.org/wiki/Q54850)).
 
 ## Audit de conformite structurelle
 

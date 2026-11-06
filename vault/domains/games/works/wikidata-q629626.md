@@ -13,7 +13,7 @@ wikidata_id: Q629626
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4700/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q629626:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Medieval II: Total War
 
-**Medieval II: Total War** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q629626](https://www.wikidata.org/wiki/Q629626)).
+**Medieval II: Total War** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q629626` (Wikidata : [Q629626](https://www.wikidata.org/wiki/Q629626)).
 
 ## Audit de conformite structurelle
 

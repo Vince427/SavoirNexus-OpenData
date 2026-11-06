@@ -13,7 +13,7 @@ wikidata_id: Q94955293
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-09-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/842100/header.jpg"
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q94955293:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Daymare: 1998
 
-**Daymare: 1998** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q94955293](https://www.wikidata.org/wiki/Q94955293)).
+**Daymare: 1998** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q94955293` (Wikidata : [Q94955293](https://www.wikidata.org/wiki/Q94955293)).
 
 ## Audit de conformite structurelle
 

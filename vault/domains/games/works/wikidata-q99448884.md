@@ -13,7 +13,7 @@ wikidata_id: Q99448884
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2021-07-09
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1277400/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q99448884:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Monster Hunter Stories 2: Wings of Ruin
 
-**Monster Hunter Stories 2: Wings of Ruin** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q99448884](https://www.wikidata.org/wiki/Q99448884)).
+**Monster Hunter Stories 2: Wings of Ruin** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q99448884` (Wikidata : [Q99448884](https://www.wikidata.org/wiki/Q99448884)).
 
 ## Audit de conformite structurelle
 

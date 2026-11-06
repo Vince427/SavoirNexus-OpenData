@@ -13,7 +13,7 @@ wikidata_id: Q3063006
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-12-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286220/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q3063006:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Pier Solar and the Great Architects
 
-**Pier Solar and the Great Architects** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3063006](https://www.wikidata.org/wiki/Q3063006)).
+**Pier Solar and the Great Architects** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3063006` (Wikidata : [Q3063006](https://www.wikidata.org/wiki/Q3063006)).
 
 ## Audit de conformite structurelle
 

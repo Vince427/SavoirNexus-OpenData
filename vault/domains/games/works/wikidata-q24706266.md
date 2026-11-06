@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q24706266
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-10-07
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q24706266:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario Party: Star Rush
 
-**Mario Party: Star Rush** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q24706266](https://www.wikidata.org/wiki/Q24706266)).
+**Mario Party: Star Rush** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q24706266` (Wikidata : [Q24706266](https://www.wikidata.org/wiki/Q24706266)).
 
 ## Audit de conformite structurelle
 

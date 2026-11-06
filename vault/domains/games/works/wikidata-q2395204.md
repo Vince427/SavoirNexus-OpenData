@@ -13,7 +13,7 @@ wikidata_id: Q2395204
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-10-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/202330/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2395204:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Les Aventures de Tintin : Le Secret de La Licorne
 
-**Les Aventures de Tintin : Le Secret de La Licorne** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2395204](https://www.wikidata.org/wiki/Q2395204)).
+**Les Aventures de Tintin : Le Secret de La Licorne** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2395204` (Wikidata : [Q2395204](https://www.wikidata.org/wiki/Q2395204)).
 
 ## Audit de conformite structurelle
 

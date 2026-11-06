@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q392497
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-11-04
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q392497:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -101,7 +101,7 @@ observations:
 
 # Kinect Adventures
 
-**Kinect Adventures** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q392497](https://www.wikidata.org/wiki/Q392497)).
+**Kinect Adventures** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q392497` (Wikidata : [Q392497](https://www.wikidata.org/wiki/Q392497)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q1045759
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-08-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1100140/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1045759:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Mountain of Faith
 
-**Mountain of Faith** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1045759](https://www.wikidata.org/wiki/Q1045759)).
+**Mountain of Faith** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1045759` (Wikidata : [Q1045759](https://www.wikidata.org/wiki/Q1045759)).
 
 ## Audit de conformite structurelle
 

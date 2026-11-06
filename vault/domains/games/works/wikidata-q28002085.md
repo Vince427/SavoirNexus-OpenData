@@ -13,7 +13,7 @@ wikidata_id: Q28002085
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-06-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/897220/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q28002085:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Summer Pockets
 
-**Summer Pockets** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28002085](https://www.wikidata.org/wiki/Q28002085)).
+**Summer Pockets** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28002085` (Wikidata : [Q28002085](https://www.wikidata.org/wiki/Q28002085)).
 
 ## Audit de conformite structurelle
 

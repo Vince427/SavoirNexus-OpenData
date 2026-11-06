@@ -13,7 +13,7 @@ wikidata_id: Q540406
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-08-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/35130/header.jpg"
-tags: [jeu, cataloged, action, adventure, platformer, shooter]
+tags: [jeu, audited, action, adventure, platformer, shooter]
 observations:
   - id: wikidata-q540406:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Lara Croft and the Guardian of Light
 
-**Lara Croft and the Guardian of Light** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q540406](https://www.wikidata.org/wiki/Q540406)).
+**Lara Croft and the Guardian of Light** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q540406` (Wikidata : [Q540406](https://www.wikidata.org/wiki/Q540406)).
 
 ## Audit de conformite structurelle
 

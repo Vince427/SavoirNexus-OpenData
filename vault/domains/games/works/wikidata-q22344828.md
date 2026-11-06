@@ -13,7 +13,7 @@ wikidata_id: Q22344828
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-08-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/433340/header.jpg"
-tags: [jeu, cataloged, action, adventure, simulation]
+tags: [jeu, audited, action, adventure, simulation]
 observations:
   - id: wikidata-q22344828:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Slime Rancher
 
-**Slime Rancher** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q22344828](https://www.wikidata.org/wiki/Q22344828)).
+**Slime Rancher** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q22344828` (Wikidata : [Q22344828](https://www.wikidata.org/wiki/Q22344828)).
 
 ## Audit de conformite structurelle
 

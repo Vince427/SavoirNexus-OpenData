@@ -13,7 +13,7 @@ wikidata_id: Q96216165
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-11-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1817190/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q96216165:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Spider-Man: Miles Morales
 
-**Spider-Man: Miles Morales** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q96216165](https://www.wikidata.org/wiki/Q96216165)).
+**Spider-Man: Miles Morales** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q96216165` (Wikidata : [Q96216165](https://www.wikidata.org/wiki/Q96216165)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q51089453
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-06-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/818320/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q51089453:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Lego Les Indestructibles
 
-**Lego Les Indestructibles** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q51089453](https://www.wikidata.org/wiki/Q51089453)).
+**Lego Les Indestructibles** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q51089453` (Wikidata : [Q51089453](https://www.wikidata.org/wiki/Q51089453)).
 
 ## Audit de conformite structurelle
 

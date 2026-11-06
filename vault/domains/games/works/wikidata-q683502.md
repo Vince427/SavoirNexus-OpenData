@@ -13,7 +13,7 @@ wikidata_id: Q683502
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-07-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/635940/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q683502:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Little Busters!
 
-**Little Busters!** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q683502](https://www.wikidata.org/wiki/Q683502)).
+**Little Busters!** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q683502` (Wikidata : [Q683502](https://www.wikidata.org/wiki/Q683502)).
 
 ## Audit de conformite structurelle
 

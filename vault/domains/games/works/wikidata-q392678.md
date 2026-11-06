@@ -13,7 +13,7 @@ wikidata_id: Q392678
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-09-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/35450/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q392678:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Red Orchestra 2: Heroes of Stalingrad
 
-**Red Orchestra 2: Heroes of Stalingrad** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q392678](https://www.wikidata.org/wiki/Q392678)).
+**Red Orchestra 2: Heroes of Stalingrad** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q392678` (Wikidata : [Q392678](https://www.wikidata.org/wiki/Q392678)).
 
 ## Audit de conformite structurelle
 

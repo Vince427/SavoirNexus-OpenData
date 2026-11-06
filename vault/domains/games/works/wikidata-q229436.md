@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q229436
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-05
-tags: [jeu, cataloged, action, adventure, rpg]
+tags: [jeu, audited, action, adventure, rpg]
 observations:
   - id: wikidata-q229436:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # 3D Dot Game Heroes
 
-**3D Dot Game Heroes** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q229436](https://www.wikidata.org/wiki/Q229436)).
+**3D Dot Game Heroes** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q229436` (Wikidata : [Q229436](https://www.wikidata.org/wiki/Q229436)).
 
 ## Audit de conformite structurelle
 

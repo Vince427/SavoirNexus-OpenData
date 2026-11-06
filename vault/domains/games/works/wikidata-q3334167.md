@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3334167
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-12-17
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q3334167:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # N.O.V.A. Near Orbit Vanguard Alliance
 
-**N.O.V.A. Near Orbit Vanguard Alliance** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3334167](https://www.wikidata.org/wiki/Q3334167)).
+**N.O.V.A. Near Orbit Vanguard Alliance** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3334167` (Wikidata : [Q3334167](https://www.wikidata.org/wiki/Q3334167)).
 
 ## Audit de conformite structurelle
 

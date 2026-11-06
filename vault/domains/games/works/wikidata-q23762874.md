@@ -13,7 +13,7 @@ wikidata_id: Q23762874
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-04-05
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/448280/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q23762874:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Job Simulator
 
-**Job Simulator** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q23762874](https://www.wikidata.org/wiki/Q23762874)).
+**Job Simulator** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q23762874` (Wikidata : [Q23762874](https://www.wikidata.org/wiki/Q23762874)).
 
 ## Audit de conformite structurelle
 

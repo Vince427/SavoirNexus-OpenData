@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2608676
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-21
-tags: [jeu, cataloged, party, simulation]
+tags: [jeu, audited, party, simulation]
 observations:
   - id: wikidata-q2608676:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Thrillville
 
-**Thrillville** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2608676](https://www.wikidata.org/wiki/Q2608676)).
+**Thrillville** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2608676` (Wikidata : [Q2608676](https://www.wikidata.org/wiki/Q2608676)).
 
 ## Audit de conformite structurelle
 

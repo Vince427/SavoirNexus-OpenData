@@ -13,7 +13,7 @@ wikidata_id: Q20973486
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2552440/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q20973486:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -103,7 +103,7 @@ observations:
 
 # Kingdom Hearts HD 2.8 Final Chapter Prologue
 
-**Kingdom Hearts HD 2.8 Final Chapter Prologue** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20973486](https://www.wikidata.org/wiki/Q20973486)).
+**Kingdom Hearts HD 2.8 Final Chapter Prologue** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20973486` (Wikidata : [Q20973486](https://www.wikidata.org/wiki/Q20973486)).
 
 ## Audit de conformite structurelle
 

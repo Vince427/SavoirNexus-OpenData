@@ -13,7 +13,7 @@ wikidata_id: Q978362
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-09-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1520/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q978362:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Defcon
 
-**Defcon** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q978362](https://www.wikidata.org/wiki/Q978362)).
+**Defcon** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q978362` (Wikidata : [Q978362](https://www.wikidata.org/wiki/Q978362)).
 
 ## Audit de conformite structurelle
 

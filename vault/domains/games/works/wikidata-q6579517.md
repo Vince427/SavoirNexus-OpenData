@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q6579517
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-10-27
-tags: [jeu, cataloged, platformer, puzzle]
+tags: [jeu, audited, platformer, puzzle]
 observations:
   - id: wikidata-q6579517:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Little Big Planet
 
-**Little Big Planet** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q6579517](https://www.wikidata.org/wiki/Q6579517)).
+**Little Big Planet** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q6579517` (Wikidata : [Q6579517](https://www.wikidata.org/wiki/Q6579517)).
 
 ## Audit de conformite structurelle
 

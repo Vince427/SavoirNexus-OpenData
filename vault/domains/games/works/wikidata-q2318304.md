@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2318304
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-07-27
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2318304:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario Slam Basketball
 
-**Mario Slam Basketball** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2318304](https://www.wikidata.org/wiki/Q2318304)).
+**Mario Slam Basketball** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2318304` (Wikidata : [Q2318304](https://www.wikidata.org/wiki/Q2318304)).
 
 ## Audit de conformite structurelle
 

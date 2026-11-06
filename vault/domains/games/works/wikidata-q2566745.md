@@ -13,7 +13,7 @@ wikidata_id: Q2566745
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-07-31
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2130460/header.jpg"
-tags: [jeu, cataloged, action, adventure, horror, rpg]
+tags: [jeu, audited, action, adventure, horror, rpg]
 observations:
   - id: wikidata-q2566745:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Project Zero : Le Masque de l'Éclipse Lunaire
 
-**Project Zero : Le Masque de l'Éclipse Lunaire** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2566745](https://www.wikidata.org/wiki/Q2566745)).
+**Project Zero : Le Masque de l'Éclipse Lunaire** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2566745` (Wikidata : [Q2566745](https://www.wikidata.org/wiki/Q2566745)).
 
 ## Audit de conformite structurelle
 

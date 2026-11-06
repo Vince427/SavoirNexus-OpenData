@@ -13,7 +13,7 @@ wikidata_id: Q67138302
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-10-16
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1183510/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q67138302:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Little Town Hero
 
-**Little Town Hero** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q67138302](https://www.wikidata.org/wiki/Q67138302)).
+**Little Town Hero** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q67138302` (Wikidata : [Q67138302](https://www.wikidata.org/wiki/Q67138302)).
 
 ## Audit de conformite structurelle
 

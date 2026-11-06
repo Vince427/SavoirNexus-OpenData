@@ -13,7 +13,7 @@ wikidata_id: Q1368299
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1961950/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1368299:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Chaos;Head
 
-**Chaos;Head** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1368299](https://www.wikidata.org/wiki/Q1368299)).
+**Chaos;Head** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1368299` (Wikidata : [Q1368299](https://www.wikidata.org/wiki/Q1368299)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q26157961
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-10-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2356560/header.jpg"
-tags: [jeu, cataloged, rpg, strategy]
+tags: [jeu, audited, rpg, strategy]
 observations:
   - id: wikidata-q26157961:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Monster Hunter Stories
 
-**Monster Hunter Stories** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q26157961](https://www.wikidata.org/wiki/Q26157961)).
+**Monster Hunter Stories** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q26157961` (Wikidata : [Q26157961](https://www.wikidata.org/wiki/Q26157961)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3141079
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-07-24
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q3141079:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Lucas, fourmi malgré lui
 
-**Lucas, fourmi malgré lui** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3141079](https://www.wikidata.org/wiki/Q3141079)).
+**Lucas, fourmi malgré lui** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3141079` (Wikidata : [Q3141079](https://www.wikidata.org/wiki/Q3141079)).
 
 ## Audit de conformite structurelle
 

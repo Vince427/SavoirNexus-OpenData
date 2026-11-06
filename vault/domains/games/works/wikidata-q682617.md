@@ -13,7 +13,7 @@ wikidata_id: Q682617
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-08-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236090/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q682617:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Dust: An Elysian Tail
 
-**Dust: An Elysian Tail** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q682617](https://www.wikidata.org/wiki/Q682617)).
+**Dust: An Elysian Tail** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q682617` (Wikidata : [Q682617](https://www.wikidata.org/wiki/Q682617)).
 
 ## Audit de conformite structurelle
 

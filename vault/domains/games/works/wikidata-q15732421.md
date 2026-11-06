@@ -13,7 +13,7 @@ wikidata_id: Q15732421
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-06-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/245760/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q15732421:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Transformers: Rise of the Dark Spark
 
-**Transformers: Rise of the Dark Spark** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15732421](https://www.wikidata.org/wiki/Q15732421)).
+**Transformers: Rise of the Dark Spark** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15732421` (Wikidata : [Q15732421](https://www.wikidata.org/wiki/Q15732421)).
 
 ## Audit de conformite structurelle
 

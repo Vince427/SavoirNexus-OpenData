@@ -13,7 +13,7 @@ wikidata_id: Q2535021
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7980/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2535021:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Soldier of Fortune: Payback
 
-**Soldier of Fortune: Payback** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2535021](https://www.wikidata.org/wiki/Q2535021)).
+**Soldier of Fortune: Payback** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2535021` (Wikidata : [Q2535021](https://www.wikidata.org/wiki/Q2535021)).
 
 ## Audit de conformite structurelle
 

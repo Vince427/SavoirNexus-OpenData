@@ -13,7 +13,7 @@ wikidata_id: Q2081625
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-11-02
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42730/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2081625:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Blood Stone 007
 
-**Blood Stone 007** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2081625](https://www.wikidata.org/wiki/Q2081625)).
+**Blood Stone 007** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2081625` (Wikidata : [Q2081625](https://www.wikidata.org/wiki/Q2081625)).
 
 ## Audit de conformite structurelle
 

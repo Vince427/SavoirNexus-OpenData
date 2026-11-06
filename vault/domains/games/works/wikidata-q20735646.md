@@ -13,7 +13,7 @@ wikidata_id: Q20735646
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/368070/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q20735646:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Sniper: Ghost Warrior 3
 
-**Sniper: Ghost Warrior 3** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20735646](https://www.wikidata.org/wiki/Q20735646)).
+**Sniper: Ghost Warrior 3** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20735646` (Wikidata : [Q20735646](https://www.wikidata.org/wiki/Q20735646)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2531844
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-09-06
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2531844:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Resistance 3
 
-**Resistance 3** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2531844](https://www.wikidata.org/wiki/Q2531844)).
+**Resistance 3** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2531844` (Wikidata : [Q2531844](https://www.wikidata.org/wiki/Q2531844)).
 
 ## Audit de conformite structurelle
 

@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q843456
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-22
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q843456:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # Forza Motorsport 3
 
-**Forza Motorsport 3** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q843456](https://www.wikidata.org/wiki/Q843456)).
+**Forza Motorsport 3** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q843456` (Wikidata : [Q843456](https://www.wikidata.org/wiki/Q843456)).
 
 ## Audit de conformite structurelle
 

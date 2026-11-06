@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q15926552
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-03-18
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q15926552:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dengeki Bunko Fighting Climax
 
-**Dengeki Bunko Fighting Climax** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15926552](https://www.wikidata.org/wiki/Q15926552)).
+**Dengeki Bunko Fighting Climax** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15926552` (Wikidata : [Q15926552](https://www.wikidata.org/wiki/Q15926552)).
 
 ## Audit de conformite structurelle
 

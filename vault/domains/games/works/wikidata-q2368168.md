@@ -13,7 +13,7 @@ wikidata_id: Q2368168
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-11-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201830/header.jpg"
-tags: [jeu, cataloged, action, adventure, rpg]
+tags: [jeu, audited, action, adventure, rpg]
 observations:
   - id: wikidata-q2368168:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Jurassic Park: The Game
 
-**Jurassic Park: The Game** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2368168](https://www.wikidata.org/wiki/Q2368168)).
+**Jurassic Park: The Game** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2368168` (Wikidata : [Q2368168](https://www.wikidata.org/wiki/Q2368168)).
 
 ## Audit de conformite structurelle
 

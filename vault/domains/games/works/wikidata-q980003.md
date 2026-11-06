@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q980003
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-12-14
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q980003:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Final Fantasy Fables: Chocobo Tales
 
-**Final Fantasy Fables: Chocobo Tales** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q980003](https://www.wikidata.org/wiki/Q980003)).
+**Final Fantasy Fables: Chocobo Tales** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q980003` (Wikidata : [Q980003](https://www.wikidata.org/wiki/Q980003)).
 
 ## Audit de conformite structurelle
 

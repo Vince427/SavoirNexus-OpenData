@@ -13,7 +13,7 @@ wikidata_id: Q88550122
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-04-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1465360/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q88550122:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # SnowRunner
 
-**SnowRunner** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q88550122](https://www.wikidata.org/wiki/Q88550122)).
+**SnowRunner** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q88550122` (Wikidata : [Q88550122](https://www.wikidata.org/wiki/Q88550122)).
 
 ## Audit de conformite structurelle
 

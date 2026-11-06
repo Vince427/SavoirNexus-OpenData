@@ -13,7 +13,7 @@ wikidata_id: Q15408545
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-02-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/379430/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q15408545:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Kingdom Come: Deliverance
 
-**Kingdom Come: Deliverance** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15408545](https://www.wikidata.org/wiki/Q15408545)).
+**Kingdom Come: Deliverance** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15408545` (Wikidata : [Q15408545](https://www.wikidata.org/wiki/Q15408545)).
 
 ## Audit de conformite structurelle
 

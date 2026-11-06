@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q15479130
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-09-03
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q15479130:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dead or Alive 5 Ultimate
 
-**Dead or Alive 5 Ultimate** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15479130](https://www.wikidata.org/wiki/Q15479130)).
+**Dead or Alive 5 Ultimate** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15479130` (Wikidata : [Q15479130](https://www.wikidata.org/wiki/Q15479130)).
 
 ## Audit de conformite structurelle
 

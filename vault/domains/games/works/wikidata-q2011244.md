@@ -13,7 +13,7 @@ wikidata_id: Q2011244
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-09-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/817460/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2011244:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Age of Pirates: Caribbean Tales
 
-**Age of Pirates: Caribbean Tales** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2011244](https://www.wikidata.org/wiki/Q2011244)).
+**Age of Pirates: Caribbean Tales** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2011244` (Wikidata : [Q2011244](https://www.wikidata.org/wiki/Q2011244)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1671827
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-13
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q1671827:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Invizimals
 
-**Invizimals** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1671827](https://www.wikidata.org/wiki/Q1671827)).
+**Invizimals** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1671827` (Wikidata : [Q1671827](https://www.wikidata.org/wiki/Q1671827)).
 
 ## Audit de conformite structurelle
 

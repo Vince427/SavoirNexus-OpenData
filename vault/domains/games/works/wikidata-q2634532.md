@@ -13,7 +13,7 @@ wikidata_id: Q2634532
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-08-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22140/header.jpg"
-tags: [jeu, cataloged, horror]
+tags: [jeu, audited, horror]
 observations:
   - id: wikidata-q2634532:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Penumbra: Requiem
 
-**Penumbra: Requiem** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2634532](https://www.wikidata.org/wiki/Q2634532)).
+**Penumbra: Requiem** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2634532` (Wikidata : [Q2634532](https://www.wikidata.org/wiki/Q2634532)).
 
 ## Audit de conformite structurelle
 

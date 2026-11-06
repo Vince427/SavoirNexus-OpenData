@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q4045043
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-07-03
-tags: [jeu, cataloged, horror]
+tags: [jeu, audited, horror]
 observations:
   - id: wikidata-q4045043:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Nanashi no Game
 
-**Nanashi no Game** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4045043](https://www.wikidata.org/wiki/Q4045043)).
+**Nanashi no Game** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4045043` (Wikidata : [Q4045043](https://www.wikidata.org/wiki/Q4045043)).
 
 ## Audit de conformite structurelle
 

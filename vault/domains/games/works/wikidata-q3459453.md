@@ -13,7 +13,7 @@ wikidata_id: Q3459453
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-02-02
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/357340/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q3459453:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Cobalt
 
-**Cobalt** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3459453](https://www.wikidata.org/wiki/Q3459453)).
+**Cobalt** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3459453` (Wikidata : [Q3459453](https://www.wikidata.org/wiki/Q3459453)).
 
 ## Audit de conformite structurelle
 

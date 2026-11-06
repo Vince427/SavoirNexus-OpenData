@@ -13,7 +13,7 @@ wikidata_id: Q2002866
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-10-16
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/25000/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2002866:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Overgrowth
 
-**Overgrowth** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2002866](https://www.wikidata.org/wiki/Q2002866)).
+**Overgrowth** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2002866` (Wikidata : [Q2002866](https://www.wikidata.org/wiki/Q2002866)).
 
 ## Audit de conformite structurelle
 

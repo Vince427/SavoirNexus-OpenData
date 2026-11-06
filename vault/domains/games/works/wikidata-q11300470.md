@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q11300470
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-11-22
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q11300470:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # The Legend of Zelda: A Link Between Worlds
 
-**The Legend of Zelda: A Link Between Worlds** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q11300470](https://www.wikidata.org/wiki/Q11300470)).
+**The Legend of Zelda: A Link Between Worlds** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q11300470` (Wikidata : [Q11300470](https://www.wikidata.org/wiki/Q11300470)).
 
 ## Audit de conformite structurelle
 

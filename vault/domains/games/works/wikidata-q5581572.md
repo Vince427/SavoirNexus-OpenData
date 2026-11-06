@@ -13,7 +13,7 @@ wikidata_id: Q5581572
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-08-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/232430/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q5581572:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Gone Home
 
-**Gone Home** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5581572](https://www.wikidata.org/wiki/Q5581572)).
+**Gone Home** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5581572` (Wikidata : [Q5581572](https://www.wikidata.org/wiki/Q5581572)).
 
 ## Audit de conformite structurelle
 

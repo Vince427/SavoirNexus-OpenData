@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1000547
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-03-23
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1000547:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Yggdra Union: We'll Never Fight Alone
 
-**Yggdra Union: We'll Never Fight Alone** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1000547](https://www.wikidata.org/wiki/Q1000547)).
+**Yggdra Union: We'll Never Fight Alone** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1000547` (Wikidata : [Q1000547](https://www.wikidata.org/wiki/Q1000547)).
 
 ## Audit de conformite structurelle
 

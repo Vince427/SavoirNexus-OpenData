@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q784714
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-01-26
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q784714:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # MAG
 
-**MAG** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q784714](https://www.wikidata.org/wiki/Q784714)).
+**MAG** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q784714` (Wikidata : [Q784714](https://www.wikidata.org/wiki/Q784714)).
 
 ## Audit de conformite structurelle
 

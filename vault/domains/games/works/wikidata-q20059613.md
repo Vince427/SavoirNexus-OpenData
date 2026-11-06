@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q20059613
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-10-07
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q20059613:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -101,7 +101,7 @@ observations:
 
 # Uncharted: The Nathan Drake Collection
 
-**Uncharted: The Nathan Drake Collection** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20059613](https://www.wikidata.org/wiki/Q20059613)).
+**Uncharted: The Nathan Drake Collection** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20059613` (Wikidata : [Q20059613](https://www.wikidata.org/wiki/Q20059613)).
 
 ## Audit de conformite structurelle
 

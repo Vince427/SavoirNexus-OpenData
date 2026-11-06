@@ -13,7 +13,7 @@ wikidata_id: Q1461007
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-12-03
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/24880/header.jpg"
-tags: [jeu, cataloged, action, adventure, shooter]
+tags: [jeu, audited, action, adventure, shooter]
 observations:
   - id: wikidata-q1461007:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Saboteur
 
-**The Saboteur** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1461007](https://www.wikidata.org/wiki/Q1461007)).
+**The Saboteur** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1461007` (Wikidata : [Q1461007](https://www.wikidata.org/wiki/Q1461007)).
 
 ## Audit de conformite structurelle
 

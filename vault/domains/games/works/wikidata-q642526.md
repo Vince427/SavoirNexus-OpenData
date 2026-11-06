@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q642526
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-12-04
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q642526:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # The Legend of Zelda: Ocarina of Time 3D
 
-**The Legend of Zelda: Ocarina of Time 3D** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q642526](https://www.wikidata.org/wiki/Q642526)).
+**The Legend of Zelda: Ocarina of Time 3D** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q642526` (Wikidata : [Q642526](https://www.wikidata.org/wiki/Q642526)).
 
 ## Audit de conformite structurelle
 

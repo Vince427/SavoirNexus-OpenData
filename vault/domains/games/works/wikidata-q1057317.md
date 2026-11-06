@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1057317
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-04-28
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q1057317:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -102,7 +102,7 @@ observations:
 
 # Thor : Dieu du tonnerre
 
-**Thor : Dieu du tonnerre** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1057317](https://www.wikidata.org/wiki/Q1057317)).
+**Thor : Dieu du tonnerre** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1057317` (Wikidata : [Q1057317](https://www.wikidata.org/wiki/Q1057317)).
 
 ## Audit de conformite structurelle
 

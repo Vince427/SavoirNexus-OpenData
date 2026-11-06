@@ -13,7 +13,7 @@ wikidata_id: Q65040626
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2021-08-19
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1097200/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q65040626:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # 12 Minutes
 
-**12 Minutes** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q65040626](https://www.wikidata.org/wiki/Q65040626)).
+**12 Minutes** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q65040626` (Wikidata : [Q65040626](https://www.wikidata.org/wiki/Q65040626)).
 
 ## Audit de conformite structurelle
 

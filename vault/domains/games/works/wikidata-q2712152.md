@@ -13,7 +13,7 @@ wikidata_id: Q2712152
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-06-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/765390/header.jpg"
-tags: [jeu, cataloged, horror, shooter]
+tags: [jeu, audited, horror, shooter]
 observations:
   - id: wikidata-q2712152:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Darkness
 
-**The Darkness** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2712152](https://www.wikidata.org/wiki/Q2712152)).
+**The Darkness** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2712152` (Wikidata : [Q2712152](https://www.wikidata.org/wiki/Q2712152)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q1035512
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413410/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1035512:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Danganronpa : Trigger Happy Havoc
 
-**Danganronpa : Trigger Happy Havoc** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1035512](https://www.wikidata.org/wiki/Q1035512)).
+**Danganronpa : Trigger Happy Havoc** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1035512` (Wikidata : [Q1035512](https://www.wikidata.org/wiki/Q1035512)).
 
 ## Audit de conformite structurelle
 

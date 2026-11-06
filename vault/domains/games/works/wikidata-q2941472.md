@@ -13,7 +13,7 @@ wikidata_id: Q2941472
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-02-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/239250/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2941472:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Castlevania: Lords of Shadow 2
 
-**Castlevania: Lords of Shadow 2** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2941472](https://www.wikidata.org/wiki/Q2941472)).
+**Castlevania: Lords of Shadow 2** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2941472` (Wikidata : [Q2941472](https://www.wikidata.org/wiki/Q2941472)).
 
 ## Audit de conformite structurelle
 

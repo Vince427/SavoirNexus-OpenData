@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2452447
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-12-14
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q2452447:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mega Man Star Force
 
-**Mega Man Star Force** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2452447](https://www.wikidata.org/wiki/Q2452447)).
+**Mega Man Star Force** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2452447` (Wikidata : [Q2452447](https://www.wikidata.org/wiki/Q2452447)).
 
 ## Audit de conformite structurelle
 

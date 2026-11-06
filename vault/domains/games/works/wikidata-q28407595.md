@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q28407595
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-12-08
-tags: [jeu, cataloged, rpg, simulation]
+tags: [jeu, audited, rpg, simulation]
 observations:
   - id: wikidata-q28407595:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Miitopia
 
-**Miitopia** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28407595](https://www.wikidata.org/wiki/Q28407595)).
+**Miitopia** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28407595` (Wikidata : [Q28407595](https://www.wikidata.org/wiki/Q28407595)).
 
 ## Audit de conformite structurelle
 

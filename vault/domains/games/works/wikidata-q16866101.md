@@ -13,7 +13,7 @@ wikidata_id: Q16866101
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-05-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/937570/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q16866101:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Impossible Spell Card
 
-**Impossible Spell Card** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16866101](https://www.wikidata.org/wiki/Q16866101)).
+**Impossible Spell Card** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16866101` (Wikidata : [Q16866101](https://www.wikidata.org/wiki/Q16866101)).
 
 ## Audit de conformite structurelle
 

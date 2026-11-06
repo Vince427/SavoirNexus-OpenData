@@ -13,7 +13,7 @@ wikidata_id: Q15918760
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-08-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/249230/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q15918760:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Risen 3 : Titan Lords
 
-**Risen 3 : Titan Lords** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15918760](https://www.wikidata.org/wiki/Q15918760)).
+**Risen 3 : Titan Lords** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15918760` (Wikidata : [Q15918760](https://www.wikidata.org/wiki/Q15918760)).
 
 ## Audit de conformite structurelle
 

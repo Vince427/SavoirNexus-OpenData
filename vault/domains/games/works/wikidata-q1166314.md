@@ -13,7 +13,7 @@ wikidata_id: Q1166314
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-08-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/50650/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1166314:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Darksiders II
 
-**Darksiders II** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1166314](https://www.wikidata.org/wiki/Q1166314)).
+**Darksiders II** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1166314` (Wikidata : [Q1166314](https://www.wikidata.org/wiki/Q1166314)).
 
 ## Audit de conformite structurelle
 

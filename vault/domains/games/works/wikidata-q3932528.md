@@ -13,7 +13,7 @@ wikidata_id: Q3932528
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-01-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/237990/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q3932528:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # The Banner Saga
 
-**The Banner Saga** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3932528](https://www.wikidata.org/wiki/Q3932528)).
+**The Banner Saga** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3932528` (Wikidata : [Q3932528](https://www.wikidata.org/wiki/Q3932528)).
 
 ## Audit de conformite structurelle
 

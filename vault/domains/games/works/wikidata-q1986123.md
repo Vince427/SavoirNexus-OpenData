@@ -13,7 +13,7 @@ wikidata_id: Q1986123
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-08-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/317580/header.jpg"
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q1986123:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Toy Story Mania!
 
-**Toy Story Mania!** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1986123](https://www.wikidata.org/wiki/Q1986123)).
+**Toy Story Mania!** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1986123` (Wikidata : [Q1986123](https://www.wikidata.org/wiki/Q1986123)).
 
 ## Audit de conformite structurelle
 

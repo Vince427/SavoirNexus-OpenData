@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q20128820
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-01-01
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q20128820:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Animal Crossing: Amiibo Festival
 
-**Animal Crossing: Amiibo Festival** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20128820](https://www.wikidata.org/wiki/Q20128820)).
+**Animal Crossing: Amiibo Festival** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20128820` (Wikidata : [Q20128820](https://www.wikidata.org/wiki/Q20128820)).
 
 ## Audit de conformite structurelle
 

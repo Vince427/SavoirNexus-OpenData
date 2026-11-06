@@ -13,7 +13,7 @@ wikidata_id: Q24050047
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-10-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q24050047:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Civilization VI
 
-**Civilization VI** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q24050047](https://www.wikidata.org/wiki/Q24050047)).
+**Civilization VI** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q24050047` (Wikidata : [Q24050047](https://www.wikidata.org/wiki/Q24050047)).
 
 ## Audit de conformite structurelle
 

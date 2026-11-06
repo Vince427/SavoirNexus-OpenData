@@ -13,7 +13,7 @@ wikidata_id: Q98283523
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2021-09-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/976590/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q98283523:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Bus Simulator 21
 
-**Bus Simulator 21** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q98283523](https://www.wikidata.org/wiki/Q98283523)).
+**Bus Simulator 21** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q98283523` (Wikidata : [Q98283523](https://www.wikidata.org/wiki/Q98283523)).
 
 ## Audit de conformite structurelle
 

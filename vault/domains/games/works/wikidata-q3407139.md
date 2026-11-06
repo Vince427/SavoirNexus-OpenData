@@ -13,7 +13,7 @@ wikidata_id: Q3407139
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-08-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/268050/header.jpg"
-tags: [jeu, cataloged, horror, shooter, survival]
+tags: [jeu, audited, horror, shooter, survival]
 observations:
   - id: wikidata-q3407139:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # The Evil Within
 
-**The Evil Within** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3407139](https://www.wikidata.org/wiki/Q3407139)).
+**The Evil Within** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3407139` (Wikidata : [Q3407139](https://www.wikidata.org/wiki/Q3407139)).
 
 ## Audit de conformite structurelle
 

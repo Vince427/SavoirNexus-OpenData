@@ -13,7 +13,7 @@ wikidata_id: Q15277884
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-08-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244710/header.jpg"
-tags: [jeu, cataloged, simulation, survival]
+tags: [jeu, audited, simulation, survival]
 observations:
   - id: wikidata-q15277884:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Shelter
 
-**Shelter** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15277884](https://www.wikidata.org/wiki/Q15277884)).
+**Shelter** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15277884` (Wikidata : [Q15277884](https://www.wikidata.org/wiki/Q15277884)).
 
 ## Audit de conformite structurelle
 

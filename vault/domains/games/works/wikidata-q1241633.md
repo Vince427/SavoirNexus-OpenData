@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1241633
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-08-09
-tags: [jeu, cataloged, action, platformer]
+tags: [jeu, audited, action, platformer]
 observations:
   - id: wikidata-q1241633:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # DK Jungle Climber
 
-**DK Jungle Climber** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1241633](https://www.wikidata.org/wiki/Q1241633)).
+**DK Jungle Climber** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1241633` (Wikidata : [Q1241633](https://www.wikidata.org/wiki/Q1241633)).
 
 ## Audit de conformite structurelle
 

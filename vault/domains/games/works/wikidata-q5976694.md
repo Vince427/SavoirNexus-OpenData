@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q5976694
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-08-06
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q5976694:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Irozuki Tingle no Koi no Balloon Trip
 
-**Irozuki Tingle no Koi no Balloon Trip** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5976694](https://www.wikidata.org/wiki/Q5976694)).
+**Irozuki Tingle no Koi no Balloon Trip** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5976694` (Wikidata : [Q5976694](https://www.wikidata.org/wiki/Q5976694)).
 
 ## Audit de conformite structurelle
 

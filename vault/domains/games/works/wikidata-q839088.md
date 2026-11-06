@@ -13,7 +13,7 @@ wikidata_id: Q839088
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-03-03
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10500/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q839088:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Empire: Total War
 
-**Empire: Total War** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q839088](https://www.wikidata.org/wiki/Q839088)).
+**Empire: Total War** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q839088` (Wikidata : [Q839088](https://www.wikidata.org/wiki/Q839088)).
 
 ## Audit de conformite structurelle
 

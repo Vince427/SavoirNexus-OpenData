@@ -13,7 +13,7 @@ wikidata_id: Q53776357
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-04-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/859580/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q53776357:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Imperator: Rome
 
-**Imperator: Rome** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q53776357](https://www.wikidata.org/wiki/Q53776357)).
+**Imperator: Rome** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q53776357` (Wikidata : [Q53776357](https://www.wikidata.org/wiki/Q53776357)).
 
 ## Audit de conformite structurelle
 

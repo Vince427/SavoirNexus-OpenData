@@ -13,7 +13,7 @@ wikidata_id: Q3522664
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-09-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/965310/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q3522664:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Settlers : Bâtisseurs d'empire
 
-**The Settlers : Bâtisseurs d'empire** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3522664](https://www.wikidata.org/wiki/Q3522664)).
+**The Settlers : Bâtisseurs d'empire** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3522664` (Wikidata : [Q3522664](https://www.wikidata.org/wiki/Q3522664)).
 
 ## Audit de conformite structurelle
 

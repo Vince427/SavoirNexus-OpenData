@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1324740
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-01-30
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q1324740:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Purble Place
 
-**Purble Place** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1324740](https://www.wikidata.org/wiki/Q1324740)).
+**Purble Place** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1324740` (Wikidata : [Q1324740](https://www.wikidata.org/wiki/Q1324740)).
 
 ## Audit de conformite structurelle
 

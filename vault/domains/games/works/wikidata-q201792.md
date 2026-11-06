@@ -13,7 +13,7 @@ wikidata_id: Q201792
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/41500/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q201792:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Torchlight
 
-**Torchlight** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q201792](https://www.wikidata.org/wiki/Q201792)).
+**Torchlight** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q201792` (Wikidata : [Q201792](https://www.wikidata.org/wiki/Q201792)).
 
 ## Audit de conformite structurelle
 

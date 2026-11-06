@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q18646472
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-01-01
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q18646472:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # JoJo's Bizarre Adventure: Eyes of Heaven
 
-**JoJo's Bizarre Adventure: Eyes of Heaven** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18646472](https://www.wikidata.org/wiki/Q18646472)).
+**JoJo's Bizarre Adventure: Eyes of Heaven** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18646472` (Wikidata : [Q18646472](https://www.wikidata.org/wiki/Q18646472)).
 
 ## Audit de conformite structurelle
 

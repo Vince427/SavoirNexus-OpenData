@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3280208
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-12-18
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q3280208:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ragnarok DS
 
-**Ragnarok DS** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3280208](https://www.wikidata.org/wiki/Q3280208)).
+**Ragnarok DS** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3280208` (Wikidata : [Q3280208](https://www.wikidata.org/wiki/Q3280208)).
 
 ## Audit de conformite structurelle
 

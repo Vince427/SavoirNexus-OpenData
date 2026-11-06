@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3234598
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-22
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q3234598:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mega Man Star Force 2
 
-**Mega Man Star Force 2** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3234598](https://www.wikidata.org/wiki/Q3234598)).
+**Mega Man Star Force 2** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3234598` (Wikidata : [Q3234598](https://www.wikidata.org/wiki/Q3234598)).
 
 ## Audit de conformite structurelle
 

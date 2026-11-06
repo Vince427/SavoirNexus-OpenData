@@ -13,7 +13,7 @@ wikidata_id: Q30242632
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-08-31
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/554620/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q30242632:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Life Is Strange: Before the Storm
 
-**Life Is Strange: Before the Storm** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q30242632](https://www.wikidata.org/wiki/Q30242632)).
+**Life Is Strange: Before the Storm** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q30242632` (Wikidata : [Q30242632](https://www.wikidata.org/wiki/Q30242632)).
 
 ## Audit de conformite structurelle
 

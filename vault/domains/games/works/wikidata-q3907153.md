@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3907153
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-11-12
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q3907153:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -102,7 +102,7 @@ observations:
 
 # PokéPark 2 : Le Monde des vœux
 
-**PokéPark 2 : Le Monde des vœux** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3907153](https://www.wikidata.org/wiki/Q3907153)).
+**PokéPark 2 : Le Monde des vœux** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3907153` (Wikidata : [Q3907153](https://www.wikidata.org/wiki/Q3907153)).
 
 ## Audit de conformite structurelle
 

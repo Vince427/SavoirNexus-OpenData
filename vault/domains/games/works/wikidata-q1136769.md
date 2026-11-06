@@ -13,7 +13,7 @@ wikidata_id: Q1136769
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-01-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/50820/header.jpg"
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q1136769:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Max and the Magic Marker
 
-**Max and the Magic Marker** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1136769](https://www.wikidata.org/wiki/Q1136769)).
+**Max and the Magic Marker** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1136769` (Wikidata : [Q1136769](https://www.wikidata.org/wiki/Q1136769)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q634615
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-10-05
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q634615:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Pullblox
 
-**Pullblox** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q634615](https://www.wikidata.org/wiki/Q634615)).
+**Pullblox** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q634615` (Wikidata : [Q634615](https://www.wikidata.org/wiki/Q634615)).
 
 ## Audit de conformite structurelle
 

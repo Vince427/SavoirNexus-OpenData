@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q1388294
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-09-21
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q1388294:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -101,7 +101,7 @@ observations:
 
 # Layton Brothers: Mystery Room
 
-**Layton Brothers: Mystery Room** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1388294](https://www.wikidata.org/wiki/Q1388294)).
+**Layton Brothers: Mystery Room** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1388294` (Wikidata : [Q1388294](https://www.wikidata.org/wiki/Q1388294)).
 
 ## Audit de conformite structurelle
 

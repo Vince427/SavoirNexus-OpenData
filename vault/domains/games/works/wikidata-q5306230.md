@@ -13,7 +13,7 @@ wikidata_id: Q5306230
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-05-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/269790/header.jpg"
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q5306230:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # DreadOut
 
-**DreadOut** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5306230](https://www.wikidata.org/wiki/Q5306230)).
+**DreadOut** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5306230` (Wikidata : [Q5306230](https://www.wikidata.org/wiki/Q5306230)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q19515406
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-05-04
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/350080/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q19515406:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Wolfenstein: The Old Blood
 
-**Wolfenstein: The Old Blood** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q19515406](https://www.wikidata.org/wiki/Q19515406)).
+**Wolfenstein: The Old Blood** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q19515406` (Wikidata : [Q19515406](https://www.wikidata.org/wiki/Q19515406)).
 
 ## Audit de conformite structurelle
 

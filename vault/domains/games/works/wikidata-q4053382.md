@@ -13,7 +13,7 @@ wikidata_id: Q4053382
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-06-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/223830/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q4053382:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Xenonauts
 
-**Xenonauts** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4053382](https://www.wikidata.org/wiki/Q4053382)).
+**Xenonauts** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4053382` (Wikidata : [Q4053382](https://www.wikidata.org/wiki/Q4053382)).
 
 ## Audit de conformite structurelle
 

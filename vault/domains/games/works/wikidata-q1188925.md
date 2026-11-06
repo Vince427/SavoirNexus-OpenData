@@ -13,7 +13,7 @@ wikidata_id: Q1188925
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-04-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2052410/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1188925:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Witch on the Holy Night
 
-**Witch on the Holy Night** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1188925](https://www.wikidata.org/wiki/Q1188925)).
+**Witch on the Holy Night** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1188925` (Wikidata : [Q1188925](https://www.wikidata.org/wiki/Q1188925)).
 
 ## Audit de conformite structurelle
 

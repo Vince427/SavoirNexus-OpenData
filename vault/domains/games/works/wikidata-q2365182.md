@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2365182
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-09-07
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q2365182:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # The Settlers II: 10ème Anniversaire
 
-**The Settlers II: 10ème Anniversaire** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2365182](https://www.wikidata.org/wiki/Q2365182)).
+**The Settlers II: 10ème Anniversaire** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2365182` (Wikidata : [Q2365182](https://www.wikidata.org/wiki/Q2365182)).
 
 ## Audit de conformite structurelle
 

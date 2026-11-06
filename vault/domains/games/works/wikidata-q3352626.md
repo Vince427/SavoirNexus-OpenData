@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3352626
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-03-20
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q3352626:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # One Piece: Pirate Warriors 2
 
-**One Piece: Pirate Warriors 2** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3352626](https://www.wikidata.org/wiki/Q3352626)).
+**One Piece: Pirate Warriors 2** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3352626` (Wikidata : [Q3352626](https://www.wikidata.org/wiki/Q3352626)).
 
 ## Audit de conformite structurelle
 

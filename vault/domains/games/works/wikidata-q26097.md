@@ -13,7 +13,7 @@ wikidata_id: Q26097
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-10-09
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/200510/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q26097:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # XCOM : Enemy Unknown
 
-**XCOM : Enemy Unknown** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q26097](https://www.wikidata.org/wiki/Q26097)).
+**XCOM : Enemy Unknown** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q26097` (Wikidata : [Q26097](https://www.wikidata.org/wiki/Q26097)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q94778024
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-05-19
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1041920/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q94778024:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # If Found...
 
-**If Found...** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q94778024](https://www.wikidata.org/wiki/Q94778024)).
+**If Found...** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q94778024` (Wikidata : [Q94778024](https://www.wikidata.org/wiki/Q94778024)).
 
 ## Audit de conformite structurelle
 

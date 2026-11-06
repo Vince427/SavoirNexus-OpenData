@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q631367
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-16
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q631367:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mortal Kombat vs. DC Universe
 
-**Mortal Kombat vs. DC Universe** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q631367](https://www.wikidata.org/wiki/Q631367)).
+**Mortal Kombat vs. DC Universe** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q631367` (Wikidata : [Q631367](https://www.wikidata.org/wiki/Q631367)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q63866855
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-08-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/939850/header.jpg"
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q63866855:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # The Dark Pictures Anthology: Man of Medan
 
-**The Dark Pictures Anthology: Man of Medan** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q63866855](https://www.wikidata.org/wiki/Q63866855)).
+**The Dark Pictures Anthology: Man of Medan** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q63866855` (Wikidata : [Q63866855](https://www.wikidata.org/wiki/Q63866855)).
 
 ## Audit de conformite structurelle
 

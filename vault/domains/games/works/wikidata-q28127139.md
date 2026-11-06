@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q28127139
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-03-10
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q28127139:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario Sports Superstars
 
-**Mario Sports Superstars** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28127139](https://www.wikidata.org/wiki/Q28127139)).
+**Mario Sports Superstars** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28127139` (Wikidata : [Q28127139](https://www.wikidata.org/wiki/Q28127139)).
 
 ## Audit de conformite structurelle
 

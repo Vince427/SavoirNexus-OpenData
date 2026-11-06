@@ -13,7 +13,7 @@ wikidata_id: Q2594171
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-09-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/254480/header.jpg"
-tags: [jeu, cataloged, action, adventure, horror, survival]
+tags: [jeu, audited, action, adventure, horror, survival]
 observations:
   - id: wikidata-q2594171:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Obscure 2
 
-**Obscure 2** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2594171](https://www.wikidata.org/wiki/Q2594171)).
+**Obscure 2** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2594171` (Wikidata : [Q2594171](https://www.wikidata.org/wiki/Q2594171)).
 
 ## Audit de conformite structurelle
 

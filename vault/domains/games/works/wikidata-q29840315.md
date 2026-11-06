@@ -13,7 +13,7 @@ wikidata_id: Q29840315
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/278360/header.jpg"
-tags: [jeu, cataloged, action, platformer]
+tags: [jeu, audited, action, platformer]
 observations:
   - id: wikidata-q29840315:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # A Story About My Uncle
 
-**A Story About My Uncle** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q29840315](https://www.wikidata.org/wiki/Q29840315)).
+**A Story About My Uncle** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q29840315` (Wikidata : [Q29840315](https://www.wikidata.org/wiki/Q29840315)).
 
 ## Audit de conformite structurelle
 

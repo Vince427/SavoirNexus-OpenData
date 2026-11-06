@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q15965659
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-03-12
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q15965659:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Pokémon Link: Battle!
 
-**Pokémon Link: Battle!** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15965659](https://www.wikidata.org/wiki/Q15965659)).
+**Pokémon Link: Battle!** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15965659` (Wikidata : [Q15965659](https://www.wikidata.org/wiki/Q15965659)).
 
 ## Audit de conformite structurelle
 

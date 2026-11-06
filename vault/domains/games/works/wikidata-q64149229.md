@@ -13,7 +13,7 @@ wikidata_id: Q64149229
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-09-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/703860/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q64149229:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Grid
 
-**Grid** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q64149229](https://www.wikidata.org/wiki/Q64149229)).
+**Grid** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q64149229` (Wikidata : [Q64149229](https://www.wikidata.org/wiki/Q64149229)).
 
 ## Audit de conformite structurelle
 

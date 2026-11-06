@@ -13,7 +13,7 @@ wikidata_id: Q25831312
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-12-10
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/416590/header.jpg"
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q25831312:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Emily Wants to Play
 
-**Emily Wants to Play** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q25831312](https://www.wikidata.org/wiki/Q25831312)).
+**Emily Wants to Play** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q25831312` (Wikidata : [Q25831312](https://www.wikidata.org/wiki/Q25831312)).
 
 ## Audit de conformite structurelle
 

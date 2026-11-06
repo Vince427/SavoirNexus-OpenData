@@ -13,7 +13,7 @@ wikidata_id: Q21152203
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-02-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/346010/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q21152203:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Besiege
 
-**Besiege** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q21152203](https://www.wikidata.org/wiki/Q21152203)).
+**Besiege** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q21152203` (Wikidata : [Q21152203](https://www.wikidata.org/wiki/Q21152203)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q29344790
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-01-01
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q29344790:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -102,7 +102,7 @@ observations:
 
 # Cars 3 : Course vers la victoire
 
-**Cars 3 : Course vers la victoire** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q29344790](https://www.wikidata.org/wiki/Q29344790)).
+**Cars 3 : Course vers la victoire** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q29344790` (Wikidata : [Q29344790](https://www.wikidata.org/wiki/Q29344790)).
 
 ## Audit de conformite structurelle
 

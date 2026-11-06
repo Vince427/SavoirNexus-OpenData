@@ -13,7 +13,7 @@ wikidata_id: Q22131519
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-04-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/574050/header.jpg"
-tags: [jeu, cataloged, hack-and-slash]
+tags: [jeu, audited, hack-and-slash]
 observations:
   - id: wikidata-q22131519:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Dragon Quest Heroes II
 
-**Dragon Quest Heroes II** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q22131519](https://www.wikidata.org/wiki/Q22131519)).
+**Dragon Quest Heroes II** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q22131519` (Wikidata : [Q22131519](https://www.wikidata.org/wiki/Q22131519)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q816823
 metadata_provenance: "Wikidata (CC0)"
 first_release: http://www
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1368340/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q816823:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Beneath a Steel Sky
 
-**Beneath a Steel Sky** est une oeuvre sortie initialement en 0, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q816823](https://www.wikidata.org/wiki/Q816823)).
+**Beneath a Steel Sky** est une oeuvre sortie initialement en 0, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q816823` (Wikidata : [Q816823](https://www.wikidata.org/wiki/Q816823)).
 
 ## Audit de conformite structurelle
 

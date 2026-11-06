@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q2074178
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-10-09
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q2074178:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -101,7 +101,7 @@ observations:
 
 # Fable: The Journey
 
-**Fable: The Journey** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2074178](https://www.wikidata.org/wiki/Q2074178)).
+**Fable: The Journey** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2074178` (Wikidata : [Q2074178](https://www.wikidata.org/wiki/Q2074178)).
 
 ## Audit de conformite structurelle
 

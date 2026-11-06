@@ -13,7 +13,7 @@ wikidata_id: Q971046
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-02-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12720/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q971046:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Turning Point: Fall of Liberty
 
-**Turning Point: Fall of Liberty** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q971046](https://www.wikidata.org/wiki/Q971046)).
+**Turning Point: Fall of Liberty** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q971046` (Wikidata : [Q971046](https://www.wikidata.org/wiki/Q971046)).
 
 ## Audit de conformite structurelle
 

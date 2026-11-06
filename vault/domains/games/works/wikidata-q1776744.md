@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1776744
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-12
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q1776744:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Rail Simulator
 
-**Rail Simulator** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1776744](https://www.wikidata.org/wiki/Q1776744)).
+**Rail Simulator** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1776744` (Wikidata : [Q1776744](https://www.wikidata.org/wiki/Q1776744)).
 
 ## Audit de conformite structurelle
 

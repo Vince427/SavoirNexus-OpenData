@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q4460747
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-07-28
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q4460747:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Shin Megami Tensei: Devil Survivor 2
 
-**Shin Megami Tensei: Devil Survivor 2** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4460747](https://www.wikidata.org/wiki/Q4460747)).
+**Shin Megami Tensei: Devil Survivor 2** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4460747` (Wikidata : [Q4460747](https://www.wikidata.org/wiki/Q4460747)).
 
 ## Audit de conformite structurelle
 

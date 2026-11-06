@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q22674069
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-02-04
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q22674069:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -101,7 +101,7 @@ observations:
 
 # Adventures of Mana
 
-**Adventures of Mana** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q22674069](https://www.wikidata.org/wiki/Q22674069)).
+**Adventures of Mana** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q22674069` (Wikidata : [Q22674069](https://www.wikidata.org/wiki/Q22674069)).
 
 ## Audit de conformite structurelle
 

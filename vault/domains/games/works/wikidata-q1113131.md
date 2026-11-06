@@ -13,7 +13,7 @@ wikidata_id: Q1113131
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-04-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22200/header.jpg"
-tags: [jeu, cataloged, fighting, shooter]
+tags: [jeu, audited, fighting, shooter]
 observations:
   - id: wikidata-q1113131:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Zeno Clash
 
-**Zeno Clash** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1113131](https://www.wikidata.org/wiki/Q1113131)).
+**Zeno Clash** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1113131` (Wikidata : [Q1113131](https://www.wikidata.org/wiki/Q1113131)).
 
 ## Audit de conformite structurelle
 

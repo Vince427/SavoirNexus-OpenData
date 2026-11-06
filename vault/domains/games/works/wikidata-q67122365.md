@@ -13,7 +13,7 @@ wikidata_id: Q67122365
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-08-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1092660/header.jpg"
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q67122365:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Blair Witch
 
-**Blair Witch** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q67122365](https://www.wikidata.org/wiki/Q67122365)).
+**Blair Witch** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q67122365` (Wikidata : [Q67122365](https://www.wikidata.org/wiki/Q67122365)).
 
 ## Audit de conformite structurelle
 

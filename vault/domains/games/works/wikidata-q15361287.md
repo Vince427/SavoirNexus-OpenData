@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q15361287
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-08-14
-tags: [jeu, cataloged, action, hack-and-slash]
+tags: [jeu, audited, action, hack-and-slash]
 observations:
   - id: wikidata-q15361287:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Hyrule Warriors
 
-**Hyrule Warriors** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15361287](https://www.wikidata.org/wiki/Q15361287)).
+**Hyrule Warriors** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15361287` (Wikidata : [Q15361287](https://www.wikidata.org/wiki/Q15361287)).
 
 ## Audit de conformite structurelle
 

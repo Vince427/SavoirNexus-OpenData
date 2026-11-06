@@ -13,7 +13,7 @@ wikidata_id: Q55634067
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/573090/header.jpg"
-tags: [jeu, cataloged, sandbox, simulation]
+tags: [jeu, audited, sandbox, simulation]
 observations:
   - id: wikidata-q55634067:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Stormworks: Build and Rescue
 
-**Stormworks: Build and Rescue** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q55634067](https://www.wikidata.org/wiki/Q55634067)).
+**Stormworks: Build and Rescue** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q55634067` (Wikidata : [Q55634067](https://www.wikidata.org/wiki/Q55634067)).
 
 ## Audit de conformite structurelle
 

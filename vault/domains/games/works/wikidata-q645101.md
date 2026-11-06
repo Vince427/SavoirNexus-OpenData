@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q645101
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-01-21
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q645101:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # SimAnimals
 
-**SimAnimals** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q645101](https://www.wikidata.org/wiki/Q645101)).
+**SimAnimals** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q645101` (Wikidata : [Q645101](https://www.wikidata.org/wiki/Q645101)).
 
 ## Audit de conformite structurelle
 

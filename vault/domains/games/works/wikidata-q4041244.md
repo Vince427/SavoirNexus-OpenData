@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q4041244
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-06-30
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q4041244:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -102,7 +102,7 @@ observations:
 
 # L'Âge de glace 3 : Le Temps des dinosaures
 
-**L'Âge de glace 3 : Le Temps des dinosaures** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4041244](https://www.wikidata.org/wiki/Q4041244)).
+**L'Âge de glace 3 : Le Temps des dinosaures** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4041244` (Wikidata : [Q4041244](https://www.wikidata.org/wiki/Q4041244)).
 
 ## Audit de conformite structurelle
 

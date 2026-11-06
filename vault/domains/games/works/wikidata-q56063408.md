@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q56063408
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-09-14
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q56063408:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -101,7 +101,7 @@ observations:
 
 # Xenoblade Chronicles 2: Torna – The Golden Country
 
-**Xenoblade Chronicles 2: Torna – The Golden Country** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q56063408](https://www.wikidata.org/wiki/Q56063408)).
+**Xenoblade Chronicles 2: Torna – The Golden Country** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q56063408` (Wikidata : [Q56063408](https://www.wikidata.org/wiki/Q56063408)).
 
 ## Audit de conformite structurelle
 

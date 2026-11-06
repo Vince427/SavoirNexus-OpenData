@@ -13,7 +13,7 @@ wikidata_id: Q55381983
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/508440/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q55381983:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Totally Accurate Battle Simulator
 
-**Totally Accurate Battle Simulator** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q55381983](https://www.wikidata.org/wiki/Q55381983)).
+**Totally Accurate Battle Simulator** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q55381983` (Wikidata : [Q55381983](https://www.wikidata.org/wiki/Q55381983)).
 
 ## Audit de conformite structurelle
 

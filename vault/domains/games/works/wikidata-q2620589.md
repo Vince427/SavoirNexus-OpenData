@@ -13,7 +13,7 @@ wikidata_id: Q2620589
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-09-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/9400/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q2620589:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Juiced 2: Hot Import Nights
 
-**Juiced 2: Hot Import Nights** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2620589](https://www.wikidata.org/wiki/Q2620589)).
+**Juiced 2: Hot Import Nights** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2620589` (Wikidata : [Q2620589](https://www.wikidata.org/wiki/Q2620589)).
 
 ## Audit de conformite structurelle
 

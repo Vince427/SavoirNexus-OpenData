@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q4807949
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-01-01
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q4807949:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Asphalt 3: Street Rules
 
-**Asphalt 3: Street Rules** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4807949](https://www.wikidata.org/wiki/Q4807949)).
+**Asphalt 3: Street Rules** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4807949` (Wikidata : [Q4807949](https://www.wikidata.org/wiki/Q4807949)).
 
 ## Audit de conformite structurelle
 

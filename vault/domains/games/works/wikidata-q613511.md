@@ -13,7 +13,7 @@ wikidata_id: Q613511
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-12-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/31290/header.jpg"
-tags: [jeu, cataloged, adventure, rpg]
+tags: [jeu, audited, adventure, rpg]
 observations:
   - id: wikidata-q613511:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Retour vers le futur, le jeu
 
-**Retour vers le futur, le jeu** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q613511](https://www.wikidata.org/wiki/Q613511)).
+**Retour vers le futur, le jeu** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q613511` (Wikidata : [Q613511](https://www.wikidata.org/wiki/Q613511)).
 
 ## Audit de conformite structurelle
 

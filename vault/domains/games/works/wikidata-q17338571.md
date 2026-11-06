@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q17338571
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-07-09
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q17338571:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # The Great Ace Attorney : Adventures
 
-**The Great Ace Attorney : Adventures** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17338571](https://www.wikidata.org/wiki/Q17338571)).
+**The Great Ace Attorney : Adventures** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17338571` (Wikidata : [Q17338571](https://www.wikidata.org/wiki/Q17338571)).
 
 ## Audit de conformite structurelle
 

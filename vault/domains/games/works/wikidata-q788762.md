@@ -13,7 +13,7 @@ wikidata_id: Q788762
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-02
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/41700/header.jpg"
-tags: [jeu, cataloged, horror, shooter, survival]
+tags: [jeu, audited, horror, shooter, survival]
 observations:
   - id: wikidata-q788762:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # STALKER: Call of Pripyat
 
-**STALKER: Call of Pripyat** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q788762](https://www.wikidata.org/wiki/Q788762)).
+**STALKER: Call of Pripyat** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q788762` (Wikidata : [Q788762](https://www.wikidata.org/wiki/Q788762)).
 
 ## Audit de conformite structurelle
 

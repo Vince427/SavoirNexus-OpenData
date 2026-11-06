@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q1837400
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-12-04
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q1837400:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # Dragon Ball Z: Infinite World
 
-**Dragon Ball Z: Infinite World** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1837400](https://www.wikidata.org/wiki/Q1837400)).
+**Dragon Ball Z: Infinite World** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1837400` (Wikidata : [Q1837400](https://www.wikidata.org/wiki/Q1837400)).
 
 ## Audit de conformite structurelle
 

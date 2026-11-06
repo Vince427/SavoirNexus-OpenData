@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q13442177
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-10-25
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q13442177:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Wii Party U
 
-**Wii Party U** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q13442177](https://www.wikidata.org/wiki/Q13442177)).
+**Wii Party U** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q13442177` (Wikidata : [Q13442177](https://www.wikidata.org/wiki/Q13442177)).
 
 ## Audit de conformite structurelle
 

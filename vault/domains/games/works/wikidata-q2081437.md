@@ -13,7 +13,7 @@ wikidata_id: Q2081437
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-12-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6510/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2081437:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Lost Planet: Extreme Condition
 
-**Lost Planet: Extreme Condition** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2081437](https://www.wikidata.org/wiki/Q2081437)).
+**Lost Planet: Extreme Condition** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2081437` (Wikidata : [Q2081437](https://www.wikidata.org/wiki/Q2081437)).
 
 ## Audit de conformite structurelle
 

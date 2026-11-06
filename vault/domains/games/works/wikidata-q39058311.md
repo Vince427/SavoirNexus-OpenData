@@ -13,7 +13,7 @@ wikidata_id: Q39058311
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-10-16
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/950050/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q39058311:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Starlink: Battle for Atlas
 
-**Starlink: Battle for Atlas** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q39058311](https://www.wikidata.org/wiki/Q39058311)).
+**Starlink: Battle for Atlas** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q39058311` (Wikidata : [Q39058311](https://www.wikidata.org/wiki/Q39058311)).
 
 ## Audit de conformite structurelle
 

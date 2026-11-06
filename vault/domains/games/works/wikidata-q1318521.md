@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1318521
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-02-14
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1318521:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Alice au royaume de cœur
 
-**Alice au royaume de cœur** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1318521](https://www.wikidata.org/wiki/Q1318521)).
+**Alice au royaume de cœur** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1318521` (Wikidata : [Q1318521](https://www.wikidata.org/wiki/Q1318521)).
 
 ## Audit de conformite structurelle
 

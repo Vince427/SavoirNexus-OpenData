@@ -13,7 +13,7 @@ wikidata_id: Q18348080
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-04-16
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/324570/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q18348080:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Halo: Spartan Strike
 
-**Halo: Spartan Strike** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18348080](https://www.wikidata.org/wiki/Q18348080)).
+**Halo: Spartan Strike** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18348080` (Wikidata : [Q18348080](https://www.wikidata.org/wiki/Q18348080)).
 
 ## Audit de conformite structurelle
 

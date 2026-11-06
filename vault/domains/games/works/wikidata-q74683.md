@@ -13,7 +13,7 @@ wikidata_id: Q74683
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32450/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q74683:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Lego Indiana Jones 2 : L'aventure continue
 
-**Lego Indiana Jones 2 : L'aventure continue** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q74683](https://www.wikidata.org/wiki/Q74683)).
+**Lego Indiana Jones 2 : L'aventure continue** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q74683` (Wikidata : [Q74683](https://www.wikidata.org/wiki/Q74683)).
 
 ## Audit de conformite structurelle
 

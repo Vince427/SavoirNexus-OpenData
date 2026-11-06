@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2892962
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-09-29
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q2892962:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Beaterator
 
-**Beaterator** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2892962](https://www.wikidata.org/wiki/Q2892962)).
+**Beaterator** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2892962` (Wikidata : [Q2892962](https://www.wikidata.org/wiki/Q2892962)).
 
 ## Audit de conformite structurelle
 

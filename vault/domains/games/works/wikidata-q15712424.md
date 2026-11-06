@@ -13,7 +13,7 @@ wikidata_id: Q15712424
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-12-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/253840/header.jpg"
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q15712424:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Shantae: Half-Genie Hero
 
-**Shantae: Half-Genie Hero** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15712424](https://www.wikidata.org/wiki/Q15712424)).
+**Shantae: Half-Genie Hero** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15712424` (Wikidata : [Q15712424](https://www.wikidata.org/wiki/Q15712424)).
 
 ## Audit de conformite structurelle
 

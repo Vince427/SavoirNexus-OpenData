@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q81841
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-10-07
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q81841:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Fracture
 
-**Fracture** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q81841](https://www.wikidata.org/wiki/Q81841)).
+**Fracture** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q81841` (Wikidata : [Q81841](https://www.wikidata.org/wiki/Q81841)).
 
 ## Audit de conformite structurelle
 

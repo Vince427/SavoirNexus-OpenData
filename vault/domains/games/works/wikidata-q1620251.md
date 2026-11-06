@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q1620251
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-09-02
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q1620251:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # Viva Piñata : Pagaille au Paradis
 
-**Viva Piñata : Pagaille au Paradis** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1620251](https://www.wikidata.org/wiki/Q1620251)).
+**Viva Piñata : Pagaille au Paradis** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1620251` (Wikidata : [Q1620251](https://www.wikidata.org/wiki/Q1620251)).
 
 ## Audit de conformite structurelle
 

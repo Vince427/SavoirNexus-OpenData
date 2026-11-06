@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3270855
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-02-26
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q3270855:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Bust-a-Move Universe
 
-**Bust-a-Move Universe** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3270855](https://www.wikidata.org/wiki/Q3270855)).
+**Bust-a-Move Universe** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3270855` (Wikidata : [Q3270855](https://www.wikidata.org/wiki/Q3270855)).
 
 ## Audit de conformite structurelle
 

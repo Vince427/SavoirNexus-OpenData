@@ -13,7 +13,7 @@ wikidata_id: Q2664685
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-02-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22120/header.jpg"
-tags: [jeu, cataloged, horror]
+tags: [jeu, audited, horror]
 observations:
   - id: wikidata-q2664685:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Penumbra: Black Plague
 
-**Penumbra: Black Plague** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2664685](https://www.wikidata.org/wiki/Q2664685)).
+**Penumbra: Black Plague** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2664685` (Wikidata : [Q2664685](https://www.wikidata.org/wiki/Q2664685)).
 
 ## Audit de conformite structurelle
 

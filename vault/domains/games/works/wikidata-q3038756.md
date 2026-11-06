@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3038756
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-04-28
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q3038756:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dragon Quest Monsters : Joker 2
 
-**Dragon Quest Monsters : Joker 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3038756](https://www.wikidata.org/wiki/Q3038756)).
+**Dragon Quest Monsters : Joker 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3038756` (Wikidata : [Q3038756](https://www.wikidata.org/wiki/Q3038756)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q1627083
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-10-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/106000/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1627083:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # The Cursed Crusade
 
-**The Cursed Crusade** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1627083](https://www.wikidata.org/wiki/Q1627083)).
+**The Cursed Crusade** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1627083` (Wikidata : [Q1627083](https://www.wikidata.org/wiki/Q1627083)).
 
 ## Audit de conformite structurelle
 

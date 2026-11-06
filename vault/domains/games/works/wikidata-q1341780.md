@@ -13,7 +13,7 @@ wikidata_id: Q1341780
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-11-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/204120/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1341780:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Lego Harry Potter : Années 5 à 7
 
-**Lego Harry Potter : Années 5 à 7** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1341780](https://www.wikidata.org/wiki/Q1341780)).
+**Lego Harry Potter : Années 5 à 7** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1341780` (Wikidata : [Q1341780](https://www.wikidata.org/wiki/Q1341780)).
 
 ## Audit de conformite structurelle
 

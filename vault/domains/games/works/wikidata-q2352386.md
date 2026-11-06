@@ -13,7 +13,7 @@ wikidata_id: Q2352386
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/39620/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2352386:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -103,7 +103,7 @@ observations:
 
 # Agatha Christie : Le Crime de l'Orient-Express
 
-**Agatha Christie : Le Crime de l'Orient-Express** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2352386](https://www.wikidata.org/wiki/Q2352386)).
+**Agatha Christie : Le Crime de l'Orient-Express** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2352386` (Wikidata : [Q2352386](https://www.wikidata.org/wiki/Q2352386)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1705552
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-12-06
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1705552:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Yakuza 5
 
-**Yakuza 5** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1705552](https://www.wikidata.org/wiki/Q1705552)).
+**Yakuza 5** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1705552` (Wikidata : [Q1705552](https://www.wikidata.org/wiki/Q1705552)).
 
 ## Audit de conformite structurelle
 

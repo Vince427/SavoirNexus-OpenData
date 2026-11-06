@@ -13,7 +13,7 @@ wikidata_id: Q99397854
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2023-02-10
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990080/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q99397854:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Hogwarts Legacy : L'Héritage de Poudlard
 
-**Hogwarts Legacy : L'Héritage de Poudlard** est une oeuvre sortie initialement en 2023, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q99397854](https://www.wikidata.org/wiki/Q99397854)).
+**Hogwarts Legacy : L'Héritage de Poudlard** est une oeuvre sortie initialement en 2023, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q99397854` (Wikidata : [Q99397854](https://www.wikidata.org/wiki/Q99397854)).
 
 ## Audit de conformite structurelle
 

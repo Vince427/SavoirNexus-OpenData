@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2355468
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-11-01
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2355468:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Tales of Xillia 2
 
-**Tales of Xillia 2** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2355468](https://www.wikidata.org/wiki/Q2355468)).
+**Tales of Xillia 2** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2355468` (Wikidata : [Q2355468](https://www.wikidata.org/wiki/Q2355468)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1168536
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-01-01
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q1168536:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dead or Alive 5
 
-**Dead or Alive 5** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1168536](https://www.wikidata.org/wiki/Q1168536)).
+**Dead or Alive 5** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1168536` (Wikidata : [Q1168536](https://www.wikidata.org/wiki/Q1168536)).
 
 ## Audit de conformite structurelle
 

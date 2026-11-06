@@ -13,7 +13,7 @@ wikidata_id: Q91648385
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-12-03
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/983970/header.jpg"
-tags: [jeu, cataloged, adventure, rpg]
+tags: [jeu, audited, adventure, rpg]
 observations:
   - id: wikidata-q91648385:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Haven
 
-**Haven** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q91648385](https://www.wikidata.org/wiki/Q91648385)).
+**Haven** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q91648385` (Wikidata : [Q91648385](https://www.wikidata.org/wiki/Q91648385)).
 
 ## Audit de conformite structurelle
 

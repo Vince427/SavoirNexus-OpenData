@@ -13,7 +13,7 @@ wikidata_id: Q1328166
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-06-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/331750/header.jpg"
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q1328166:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # WALL-E
 
-**WALL-E** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1328166](https://www.wikidata.org/wiki/Q1328166)).
+**WALL-E** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1328166` (Wikidata : [Q1328166](https://www.wikidata.org/wiki/Q1328166)).
 
 ## Audit de conformite structurelle
 

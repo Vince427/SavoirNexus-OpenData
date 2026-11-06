@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1093923
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-02
-tags: [jeu, cataloged, action, adventure, fighting, platformer]
+tags: [jeu, audited, action, adventure, fighting, platformer]
 observations:
   - id: wikidata-q1093923:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -102,7 +102,7 @@ observations:
 
 # Spider-Man : Allié ou Ennemi
 
-**Spider-Man : Allié ou Ennemi** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1093923](https://www.wikidata.org/wiki/Q1093923)).
+**Spider-Man : Allié ou Ennemi** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1093923` (Wikidata : [Q1093923](https://www.wikidata.org/wiki/Q1093923)).
 
 ## Audit de conformite structurelle
 

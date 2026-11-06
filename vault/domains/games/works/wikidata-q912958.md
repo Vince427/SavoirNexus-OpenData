@@ -13,7 +13,7 @@ wikidata_id: Q912958
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-10-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/216910/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q912958:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Of Orcs and Men
 
-**Of Orcs and Men** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q912958](https://www.wikidata.org/wiki/Q912958)).
+**Of Orcs and Men** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q912958` (Wikidata : [Q912958](https://www.wikidata.org/wiki/Q912958)).
 
 ## Audit de conformite structurelle
 

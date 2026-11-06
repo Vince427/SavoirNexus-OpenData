@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2611741
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-01-29
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q2611741:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Final Fantasy Crystal Chronicles: Echoes of Time
 
-**Final Fantasy Crystal Chronicles: Echoes of Time** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2611741](https://www.wikidata.org/wiki/Q2611741)).
+**Final Fantasy Crystal Chronicles: Echoes of Time** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2611741` (Wikidata : [Q2611741](https://www.wikidata.org/wiki/Q2611741)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1322309
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-08-28
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1322309:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Warhawk
 
-**Warhawk** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1322309](https://www.wikidata.org/wiki/Q1322309)).
+**Warhawk** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1322309` (Wikidata : [Q1322309](https://www.wikidata.org/wiki/Q1322309)).
 
 ## Audit de conformite structurelle
 

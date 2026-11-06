@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q28450801
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-04-20
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q28450801:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Fire Emblem Echoes: Shadows of Valentia
 
-**Fire Emblem Echoes: Shadows of Valentia** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28450801](https://www.wikidata.org/wiki/Q28450801)).
+**Fire Emblem Echoes: Shadows of Valentia** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28450801` (Wikidata : [Q28450801](https://www.wikidata.org/wiki/Q28450801)).
 
 ## Audit de conformite structurelle
 

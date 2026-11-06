@@ -13,7 +13,7 @@ wikidata_id: Q55530599
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/838310/header.jpg"
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q55530599:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Bloodstained: Curse of the Moon
 
-**Bloodstained: Curse of the Moon** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q55530599](https://www.wikidata.org/wiki/Q55530599)).
+**Bloodstained: Curse of the Moon** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q55530599` (Wikidata : [Q55530599](https://www.wikidata.org/wiki/Q55530599)).
 
 ## Audit de conformite structurelle
 

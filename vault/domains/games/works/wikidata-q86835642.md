@@ -13,7 +13,7 @@ wikidata_id: Q86835642
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-08-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990630/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q86835642:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # The Last Campfire
 
-**The Last Campfire** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q86835642](https://www.wikidata.org/wiki/Q86835642)).
+**The Last Campfire** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q86835642` (Wikidata : [Q86835642](https://www.wikidata.org/wiki/Q86835642)).
 
 ## Audit de conformite structurelle
 

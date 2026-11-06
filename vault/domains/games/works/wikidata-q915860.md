@@ -13,7 +13,7 @@ wikidata_id: Q915860
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8140/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q915860:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Tomb Raider: Underworld
 
-**Tomb Raider: Underworld** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q915860](https://www.wikidata.org/wiki/Q915860)).
+**Tomb Raider: Underworld** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q915860` (Wikidata : [Q915860](https://www.wikidata.org/wiki/Q915860)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q16625874
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-09-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1732190/header.jpg"
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q16625874:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Project Zero : La Prêtresse des Eaux noires
 
-**Project Zero : La Prêtresse des Eaux noires** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16625874](https://www.wikidata.org/wiki/Q16625874)).
+**Project Zero : La Prêtresse des Eaux noires** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16625874` (Wikidata : [Q16625874](https://www.wikidata.org/wiki/Q16625874)).
 
 ## Audit de conformite structurelle
 

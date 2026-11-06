@@ -13,7 +13,7 @@ wikidata_id: Q73272920
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-10-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/846870/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q73272920:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Yooka-Laylee and the Impossible Lair
 
-**Yooka-Laylee and the Impossible Lair** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q73272920](https://www.wikidata.org/wiki/Q73272920)).
+**Yooka-Laylee and the Impossible Lair** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q73272920` (Wikidata : [Q73272920](https://www.wikidata.org/wiki/Q73272920)).
 
 ## Audit de conformite structurelle
 

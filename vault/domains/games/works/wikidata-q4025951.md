@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q4025951
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-07-26
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q4025951:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # L'Infernal Programme d'entraînement cérébral du Dr Kawashima : Pouvez-vous rester concentré ?
 
-**L'Infernal Programme d'entraînement cérébral du Dr Kawashima : Pouvez-vous rester concentré ?** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4025951](https://www.wikidata.org/wiki/Q4025951)).
+**L'Infernal Programme d'entraînement cérébral du Dr Kawashima : Pouvez-vous rester concentré ?** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4025951` (Wikidata : [Q4025951](https://www.wikidata.org/wiki/Q4025951)).
 
 ## Audit de conformite structurelle
 

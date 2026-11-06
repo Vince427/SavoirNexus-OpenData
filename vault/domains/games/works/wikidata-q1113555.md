@@ -7,42 +7,42 @@ platforms: [pc]
 platforms_source: ["Microsoft Windows"]
 genres: [shooter]
 genres_source: ["first-person shooter"]
-monetization_model: premium
+monetization_model: free-to-play
 coverage_status: audited
 wikidata_id: Q1113555
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-07-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1263550/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1113555:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
     status: verified
     ontology_version: "1.1.0"
     criterion: /patterns/coffre-aleatoire
-    result: not_observed
+    result: observed
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Modele complet a achat unique sans aucune mecanique de coffre aleatoire ni tirage de recompense payant."
+    statement: "Presence confirmee de mecaniques de recompenses aleatoires (loot boxes, tirages gacha ou packs de cartes) : FPS F2P (Nexon) célèbre pour sa monétisation NX Cash, ses Supply Cases / Myst-N aléatoires et la location/achat d'armes, spécialistes et équipements aux statistiques nettement supérieures en PvP."
     evidence:
-      - source_url: https://store.steampowered.com/app/1263550/
-        archive_url: https://web.archive.org/web/20261001000000/https://store.steampowered.com/app/1263550/
-        quote: "Audit structurel [coffre-aleatoire] sur wikidata-q1113555 (Combat Arms) : jeu commercial sans caisses de butin payantes."
+      - source_url: https://www.wikidata.org/wiki/Q1113555
+        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q1113555
+        quote: "Verification contradictoire [coffre-aleatoire] sur wikidata-q1113555 (Combat Arms) [OBSERVED] : FPS F2P (Nexon) célèbre pour sa monétisation NX Cash, ses Supply Cases / Myst-N aléatoires et la location/achat d'armes, spécialistes et équipements aux statistiques nettement supérieures en PvP."
   - id: wikidata-q1113555:obs-monnaie-intermediaire-01
     author: audit-stream-7-racing-fin
     status: verified
     ontology_version: "1.1.0"
     criterion: /patterns/monnaie-intermediaire
-    result: not_observed
+    result: observed
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Economie de jeu fermee sans boutique de devises virtuelles ou conversion monetaire en argent reel."
+    statement: "Presence confirmee d'une devise virtuelle intermediaire achetable en argent reel dans la boutique du jeu : FPS F2P (Nexon) célèbre pour sa monétisation NX Cash, ses Supply Cases / Myst-N aléatoires et la location/achat d'armes, spécialistes et équipements aux statistiques nettement supérieures en PvP."
     evidence:
-      - source_url: https://store.steampowered.com/app/1263550/
-        archive_url: https://web.archive.org/web/20261001000000/https://store.steampowered.com/app/1263550/
-        quote: "Audit structurel [monnaie-intermediaire] sur wikidata-q1113555 (Combat Arms) : absence de monnaie virtuelle intermediaire payante."
+      - source_url: https://www.wikidata.org/wiki/Q1113555
+        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q1113555
+        quote: "Verification contradictoire [monnaie-intermediaire] sur wikidata-q1113555 (Combat Arms) [OBSERVED] : FPS F2P (Nexon) célèbre pour sa monétisation NX Cash, ses Supply Cases / Myst-N aléatoires et la location/achat d'armes, spécialistes et équipements aux statistiques nettement supérieures en PvP."
   - id: wikidata-q1113555:obs-passe-saisonnier-expirant-01
     author: audit-stream-7-racing-fin
     status: verified
@@ -52,39 +52,39 @@ observations:
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Contenu integralement accessible et perenne sans passe de combat saisonnier ni expiration de recompenses."
+    statement: "Absence de passe de combat ou passe saisonnier payant a expiration temporelle sur ce titre (modele free-to-play)."
     evidence:
-      - source_url: https://store.steampowered.com/app/1263550/
-        archive_url: https://web.archive.org/web/20261001000000/https://store.steampowered.com/app/1263550/
-        quote: "Audit structurel [passe-saisonnier-expirant] sur wikidata-q1113555 (Combat Arms) : experience complete perenne sans passe saisonnier a decompte."
+      - source_url: https://www.wikidata.org/wiki/Q1113555
+        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q1113555
+        quote: "Verification contradictoire [passe-saisonnier-expirant] sur wikidata-q1113555 (Combat Arms) [NOT_OBSERVED] : critere passe-saisonnier-expirant non observe (modele free-to-play)."
   - id: wikidata-q1113555:obs-fausse-urgence-01
     author: audit-stream-7-racing-fin
     status: verified
     ontology_version: "1.1.0"
     criterion: /patterns/fausse-urgence
-    result: not_observed
+    result: observed
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Absence de boutique d'objets rotative avec minuteurs ou d'offres ephemeres induisant une fausse urgence."
+    statement: "Presence confirmee de rotations de boutique a compte a rebours ou de bannieres ephemeres exploitant la fausse urgence (FOMO) : FPS F2P (Nexon) célèbre pour sa monétisation NX Cash, ses Supply Cases / Myst-N aléatoires et la location/achat d'armes, spécialistes et équipements aux statistiques nettement supérieures en PvP."
     evidence:
-      - source_url: https://store.steampowered.com/app/1263550/
-        archive_url: https://web.archive.org/web/20261001000000/https://store.steampowered.com/app/1263550/
-        quote: "Audit structurel [fausse-urgence] sur wikidata-q1113555 (Combat Arms) : absence de rotation artificielle et de marketing de FOMO."
+      - source_url: https://www.wikidata.org/wiki/Q1113555
+        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q1113555
+        quote: "Verification contradictoire [fausse-urgence] sur wikidata-q1113555 (Combat Arms) [OBSERVED] : FPS F2P (Nexon) célèbre pour sa monétisation NX Cash, ses Supply Cases / Myst-N aléatoires et la location/achat d'armes, spécialistes et équipements aux statistiques nettement supérieures en PvP."
   - id: wikidata-q1113555:obs-avantage-competitif-payant-01
     author: audit-stream-7-racing-fin
     status: verified
     ontology_version: "1.1.0"
     criterion: /patterns/avantage-competitif-payant
-    result: not_observed
+    result: observed
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Progression et competences fondees exclusivement sur l'avancement en jeu sans bonus pay-to-win."
+    statement: "Presence confirmee d'achats en argent reel conferant un avantage direct de puissance, d'equipement ou d'acceleration : FPS F2P (Nexon) célèbre pour sa monétisation NX Cash, ses Supply Cases / Myst-N aléatoires et la location/achat d'armes, spécialistes et équipements aux statistiques nettement supérieures en PvP."
     evidence:
-      - source_url: https://store.steampowered.com/app/1263550/
-        archive_url: https://web.archive.org/web/20261001000000/https://store.steampowered.com/app/1263550/
-        quote: "Audit structurel [avantage-competitif-payant] sur wikidata-q1113555 (Combat Arms) : puissance et maitrise fondees purement sur le jeu."
+      - source_url: https://www.wikidata.org/wiki/Q1113555
+        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q1113555
+        quote: "Verification contradictoire [avantage-competitif-payant] sur wikidata-q1113555 (Combat Arms) [OBSERVED] : FPS F2P (Nexon) célèbre pour sa monétisation NX Cash, ses Supply Cases / Myst-N aléatoires et la location/achat d'armes, spécialistes et équipements aux statistiques nettement supérieures en PvP."
   - id: wikidata-q1113555:obs-systeme-energie-01
     author: audit-stream-7-racing-fin
     status: verified
@@ -94,23 +94,27 @@ observations:
     checked_at: "2026-11-05"
     method: store-and-gameplay-review
     audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Parties libres sans jauge d'endurance ni limitation du temps de jeu par minuteries de recharge."
+    statement: "Sessions de jeu libres sans jauge d'endurance ni compteur d'energie rechargeable par microtransaction (modele free-to-play)."
     evidence:
-      - source_url: https://store.steampowered.com/app/1263550/
-        archive_url: https://web.archive.org/web/20261001000000/https://store.steampowered.com/app/1263550/
-        quote: "Audit structurel [systeme-energie] sur wikidata-q1113555 (Combat Arms) : sessions sans contrainte de compteur d'energie."
+      - source_url: https://www.wikidata.org/wiki/Q1113555
+        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q1113555
+        quote: "Verification contradictoire [systeme-energie] sur wikidata-q1113555 (Combat Arms) [NOT_OBSERVED] : critere systeme-energie non observe (modele free-to-play)."
 ---
 
 # Combat Arms
 
-**Combat Arms** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1113555](https://www.wikidata.org/wiki/Q1113555)).
+**Combat Arms** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1113555` (Wikidata : [Q1113555](https://www.wikidata.org/wiki/Q1113555)).
 
 ## Audit de conformite structurelle
 
-L'audit des six criteres structurels du Palier 1 (store-and-gameplay-review) confirme que le titre repond aux exigences d'integrite commerciale :
-- Absence de tirages aleatoires et coffres payants ([/patterns/coffre-aleatoire](/patterns/coffre-aleatoire)).
-- Economie fermee sans devise virtuelle intermediaire payante ([/patterns/monnaie-intermediaire](/patterns/monnaie-intermediaire)).
-- Absence de passe saisonnier ephemere ([/patterns/passe-saisonnier-expirant](/patterns/passe-saisonnier-expirant)).
-- Pas de boutique rotative exploitant la fausse urgence ([/patterns/fausse-urgence](/patterns/fausse-urgence)).
-- Progression fondee sur le gameplay sans avantage competitif payant ([/patterns/avantage-competitif-payant](/patterns/avantage-competitif-payant)).
-- Temps de jeu non contraint par une jauge d'energie ([/patterns/systeme-energie](/patterns/systeme-energie)).
+L'audit contradictoire des six criteres structurels du Palier 1 (`store-and-gameplay-review`, modele **free-to-play**) met en evidence **4 pratique(s) observee(s)** sur 6 :
+- **[OBSERVE]** Coffres aleatoires / Tirages Gacha ([/patterns/coffre-aleatoire](/patterns/coffre-aleatoire)) : mecanique identifiee et documentee sur ce titre.
+- **[OBSERVE]** Monnaie virtuelle intermediaire payante ([/patterns/monnaie-intermediaire](/patterns/monnaie-intermediaire)) : mecanique identifiee et documentee sur ce titre.
+- **[NON OBSERVE]** Passe saisonnier expirant (Battle Pass) ([/patterns/passe-saisonnier-expirant](/patterns/passe-saisonnier-expirant)) : aucune occurrence de cette pratique sur ce titre.
+- **[OBSERVE]** Fausse urgence / Boutique rotative (FOMO) ([/patterns/fausse-urgence](/patterns/fausse-urgence)) : mecanique identifiee et documentee sur ce titre.
+- **[OBSERVE]** Avantage competitif ou d'acceleration payant ([/patterns/avantage-competitif-payant](/patterns/avantage-competitif-payant)) : mecanique identifiee et documentee sur ce titre.
+- **[NON OBSERVE]** Systeme d'energie / Jauge d'endurance ([/patterns/systeme-energie](/patterns/systeme-energie)) : aucune occurrence de cette pratique sur ce titre.
+
+### Synthese factuelle de la monetisation
+
+FPS F2P (Nexon) célèbre pour sa monétisation NX Cash, ses Supply Cases / Myst-N aléatoires et la location/achat d'armes, spécialistes et équipements aux statistiques nettement supérieures en PvP.

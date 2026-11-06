@@ -13,7 +13,7 @@ wikidata_id: Q24679822
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-03-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/543460/header.jpg"
-tags: [jeu, cataloged, action, adventure, horror, survival]
+tags: [jeu, audited, action, adventure, horror, survival]
 observations:
   - id: wikidata-q24679822:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Dead Rising 4
 
-**Dead Rising 4** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q24679822](https://www.wikidata.org/wiki/Q24679822)).
+**Dead Rising 4** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q24679822` (Wikidata : [Q24679822](https://www.wikidata.org/wiki/Q24679822)).
 
 ## Audit de conformite structurelle
 

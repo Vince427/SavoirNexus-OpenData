@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q6778221
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-09-25
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q6778221:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Marvel vs. Capcom Origins
 
-**Marvel vs. Capcom Origins** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q6778221](https://www.wikidata.org/wiki/Q6778221)).
+**Marvel vs. Capcom Origins** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q6778221` (Wikidata : [Q6778221](https://www.wikidata.org/wiki/Q6778221)).
 
 ## Audit de conformite structurelle
 

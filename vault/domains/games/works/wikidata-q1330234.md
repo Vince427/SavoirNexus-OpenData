@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1330234
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-03-23
-tags: [jeu, cataloged, action, adventure, rpg]
+tags: [jeu, audited, action, adventure, rpg]
 observations:
   - id: wikidata-q1330234:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Pokémon Ranger
 
-**Pokémon Ranger** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1330234](https://www.wikidata.org/wiki/Q1330234)).
+**Pokémon Ranger** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1330234` (Wikidata : [Q1330234](https://www.wikidata.org/wiki/Q1330234)).
 
 ## Audit de conformite structurelle
 

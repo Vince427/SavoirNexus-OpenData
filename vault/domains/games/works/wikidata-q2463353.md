@@ -13,7 +13,7 @@ wikidata_id: Q2463353
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-08-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289840/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2463353:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Dracula 3 : La Voie du dragon
 
-**Dracula 3 : La Voie du dragon** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2463353](https://www.wikidata.org/wiki/Q2463353)).
+**Dracula 3 : La Voie du dragon** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2463353` (Wikidata : [Q2463353](https://www.wikidata.org/wiki/Q2463353)).
 
 ## Audit de conformite structurelle
 

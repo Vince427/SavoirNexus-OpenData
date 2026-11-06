@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q15894363
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-02-27
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q15894363:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Story of Seasons
 
-**Story of Seasons** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15894363](https://www.wikidata.org/wiki/Q15894363)).
+**Story of Seasons** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15894363` (Wikidata : [Q15894363](https://www.wikidata.org/wiki/Q15894363)).
 
 ## Audit de conformite structurelle
 

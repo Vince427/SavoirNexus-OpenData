@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3281060
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-01-03
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q3281060:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Rune Factory 2: A Fantasy Harvest Moon
 
-**Rune Factory 2: A Fantasy Harvest Moon** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3281060](https://www.wikidata.org/wiki/Q3281060)).
+**Rune Factory 2: A Fantasy Harvest Moon** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3281060` (Wikidata : [Q3281060](https://www.wikidata.org/wiki/Q3281060)).
 
 ## Audit de conformite structurelle
 

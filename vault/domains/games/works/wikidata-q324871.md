@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q324871
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-06-26
-tags: [jeu, cataloged, action, hack-and-slash, rpg]
+tags: [jeu, audited, action, hack-and-slash, rpg]
 observations:
   - id: wikidata-q324871:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Titan Quest
 
-**Titan Quest** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q324871](https://www.wikidata.org/wiki/Q324871)).
+**Titan Quest** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q324871` (Wikidata : [Q324871](https://www.wikidata.org/wiki/Q324871)).
 
 ## Audit de conformite structurelle
 

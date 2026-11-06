@@ -13,7 +13,7 @@ wikidata_id: Q23540774
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-04-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/857450/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q23540774:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Island
 
-**Island** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q23540774](https://www.wikidata.org/wiki/Q23540774)).
+**Island** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q23540774` (Wikidata : [Q23540774](https://www.wikidata.org/wiki/Q23540774)).
 
 ## Audit de conformite structurelle
 

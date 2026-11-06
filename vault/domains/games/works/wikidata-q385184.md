@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q385184
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-04-20
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q385184:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ōkami
 
-**Ōkami** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q385184](https://www.wikidata.org/wiki/Q385184)).
+**Ōkami** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q385184` (Wikidata : [Q385184](https://www.wikidata.org/wiki/Q385184)).
 
 ## Audit de conformite structurelle
 

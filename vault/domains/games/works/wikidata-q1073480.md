@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1073480
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-01-01
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1073480:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Cross Days
 
-**Cross Days** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1073480](https://www.wikidata.org/wiki/Q1073480)).
+**Cross Days** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1073480` (Wikidata : [Q1073480](https://www.wikidata.org/wiki/Q1073480)).
 
 ## Audit de conformite structurelle
 

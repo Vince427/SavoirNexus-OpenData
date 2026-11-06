@@ -13,7 +13,7 @@ wikidata_id: Q70479604
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-10-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1194630/header.jpg"
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q70479604:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Dark Pictures Anthology: Little Hope
 
-**The Dark Pictures Anthology: Little Hope** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q70479604](https://www.wikidata.org/wiki/Q70479604)).
+**The Dark Pictures Anthology: Little Hope** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q70479604` (Wikidata : [Q70479604](https://www.wikidata.org/wiki/Q70479604)).
 
 ## Audit de conformite structurelle
 

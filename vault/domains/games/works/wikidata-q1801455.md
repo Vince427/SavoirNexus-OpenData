@@ -13,7 +13,7 @@ wikidata_id: Q1801455
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-11-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/55230/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1801455:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Saints Row: The Third
 
-**Saints Row: The Third** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1801455](https://www.wikidata.org/wiki/Q1801455)).
+**Saints Row: The Third** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1801455` (Wikidata : [Q1801455](https://www.wikidata.org/wiki/Q1801455)).
 
 ## Audit de conformite structurelle
 

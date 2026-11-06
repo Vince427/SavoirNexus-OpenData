@@ -13,7 +13,7 @@ wikidata_id: Q2366086
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-03-03
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/98300/header.jpg"
-tags: [jeu, cataloged, action, strategy]
+tags: [jeu, audited, action, strategy]
 observations:
   - id: wikidata-q2366086:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Toy Soldiers
 
-**Toy Soldiers** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2366086](https://www.wikidata.org/wiki/Q2366086)).
+**Toy Soldiers** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2366086` (Wikidata : [Q2366086](https://www.wikidata.org/wiki/Q2366086)).
 
 ## Audit de conformite structurelle
 

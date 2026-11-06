@@ -13,7 +13,7 @@ wikidata_id: Q677351
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-11-16
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/48190/header.jpg"
-tags: [jeu, cataloged, action, adventure, fighting]
+tags: [jeu, audited, action, adventure, fighting]
 observations:
   - id: wikidata-q677351:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Assassin's Creed Brotherhood
 
-**Assassin's Creed Brotherhood** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q677351](https://www.wikidata.org/wiki/Q677351)).
+**Assassin's Creed Brotherhood** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q677351` (Wikidata : [Q677351](https://www.wikidata.org/wiki/Q677351)).
 
 ## Audit de conformite structurelle
 

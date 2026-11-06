@@ -13,7 +13,7 @@ wikidata_id: Q1977545
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-09-02
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4850/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1977545:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Cossacks: Back to War
 
-**Cossacks: Back to War** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1977545](https://www.wikidata.org/wiki/Q1977545)).
+**Cossacks: Back to War** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1977545` (Wikidata : [Q1977545](https://www.wikidata.org/wiki/Q1977545)).
 
 ## Audit de conformite structurelle
 

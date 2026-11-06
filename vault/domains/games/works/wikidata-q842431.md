@@ -13,7 +13,7 @@ wikidata_id: Q842431
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-01-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/47780/header.jpg"
-tags: [jeu, cataloged, horror, shooter]
+tags: [jeu, audited, horror, shooter]
 observations:
   - id: wikidata-q842431:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Dead Space 2
 
-**Dead Space 2** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q842431](https://www.wikidata.org/wiki/Q842431)).
+**Dead Space 2** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q842431` (Wikidata : [Q842431](https://www.wikidata.org/wiki/Q842431)).
 
 ## Audit de conformite structurelle
 

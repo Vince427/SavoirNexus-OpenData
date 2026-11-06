@@ -13,7 +13,7 @@ wikidata_id: Q2660831
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-01-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6870/header.jpg"
-tags: [jeu, cataloged, action, strategy]
+tags: [jeu, audited, action, strategy]
 observations:
   - id: wikidata-q2660831:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -103,7 +103,7 @@ observations:
 
 # Battlestations: Midway
 
-**Battlestations: Midway** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2660831](https://www.wikidata.org/wiki/Q2660831)).
+**Battlestations: Midway** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2660831` (Wikidata : [Q2660831](https://www.wikidata.org/wiki/Q2660831)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q20160264
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-06-09
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/343710/header.jpg"
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q20160264:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Kholat
 
-**Kholat** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20160264](https://www.wikidata.org/wiki/Q20160264)).
+**Kholat** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20160264` (Wikidata : [Q20160264](https://www.wikidata.org/wiki/Q20160264)).
 
 ## Audit de conformite structurelle
 

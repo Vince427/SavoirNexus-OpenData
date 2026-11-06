@@ -13,7 +13,7 @@ wikidata_id: Q53594320
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-08-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/737800/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q53594320:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # F1 2018
 
-**F1 2018** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q53594320](https://www.wikidata.org/wiki/Q53594320)).
+**F1 2018** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q53594320` (Wikidata : [Q53594320](https://www.wikidata.org/wiki/Q53594320)).
 
 ## Audit de conformite structurelle
 

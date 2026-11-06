@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q4751684
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-07-05
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q4751684:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Anarchy Reigns
 
-**Anarchy Reigns** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4751684](https://www.wikidata.org/wiki/Q4751684)).
+**Anarchy Reigns** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4751684` (Wikidata : [Q4751684](https://www.wikidata.org/wiki/Q4751684)).
 
 ## Audit de conformite structurelle
 

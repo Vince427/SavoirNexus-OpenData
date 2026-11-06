@@ -13,7 +13,7 @@ wikidata_id: Q16501135
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-02-06
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/546050/header.jpg"
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q16501135:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Puyo Puyo Tetris
 
-**Puyo Puyo Tetris** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16501135](https://www.wikidata.org/wiki/Q16501135)).
+**Puyo Puyo Tetris** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16501135` (Wikidata : [Q16501135](https://www.wikidata.org/wiki/Q16501135)).
 
 ## Audit de conformite structurelle
 

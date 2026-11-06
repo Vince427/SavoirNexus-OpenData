@@ -13,7 +13,7 @@ wikidata_id: Q74705108
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2021-08-16
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1124300/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q74705108:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Humankind
 
-**Humankind** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q74705108](https://www.wikidata.org/wiki/Q74705108)).
+**Humankind** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q74705108` (Wikidata : [Q74705108](https://www.wikidata.org/wiki/Q74705108)).
 
 ## Audit de conformite structurelle
 

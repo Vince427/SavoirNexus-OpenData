@@ -13,7 +13,7 @@ wikidata_id: Q1337860
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-07-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/31170/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1337860:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Tales of Monkey Island
 
-**Tales of Monkey Island** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1337860](https://www.wikidata.org/wiki/Q1337860)).
+**Tales of Monkey Island** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1337860` (Wikidata : [Q1337860](https://www.wikidata.org/wiki/Q1337860)).
 
 ## Audit de conformite structurelle
 

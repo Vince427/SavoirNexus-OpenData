@@ -13,7 +13,7 @@ wikidata_id: Q2451545
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-03-09
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292760/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q2451545:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Rise of Prussia
 
-**Rise of Prussia** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2451545](https://www.wikidata.org/wiki/Q2451545)).
+**Rise of Prussia** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2451545` (Wikidata : [Q2451545](https://www.wikidata.org/wiki/Q2451545)).
 
 ## Audit de conformite structurelle
 

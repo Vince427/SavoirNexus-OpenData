@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2732145
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-29
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2732145:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Sin and Punishment: Successor of the Skies
 
-**Sin and Punishment: Successor of the Skies** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2732145](https://www.wikidata.org/wiki/Q2732145)).
+**Sin and Punishment: Successor of the Skies** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2732145` (Wikidata : [Q2732145](https://www.wikidata.org/wiki/Q2732145)).
 
 ## Audit de conformite structurelle
 

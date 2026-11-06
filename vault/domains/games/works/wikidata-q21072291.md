@@ -13,7 +13,7 @@ wikidata_id: Q21072291
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-02-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/371660/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q21072291:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Far Cry Primal
 
-**Far Cry Primal** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q21072291](https://www.wikidata.org/wiki/Q21072291)).
+**Far Cry Primal** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q21072291` (Wikidata : [Q21072291](https://www.wikidata.org/wiki/Q21072291)).
 
 ## Audit de conformite structurelle
 

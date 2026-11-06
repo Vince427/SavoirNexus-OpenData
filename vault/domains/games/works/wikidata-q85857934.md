@@ -13,7 +13,7 @@ wikidata_id: Q85857934
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-12-05
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1088790/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q85857934:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Rebel Inc.
 
-**Rebel Inc.** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q85857934](https://www.wikidata.org/wiki/Q85857934)).
+**Rebel Inc.** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q85857934` (Wikidata : [Q85857934](https://www.wikidata.org/wiki/Q85857934)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q867003
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-08-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1100180/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q867003:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Fairy Wars
 
-**Fairy Wars** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q867003](https://www.wikidata.org/wiki/Q867003)).
+**Fairy Wars** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q867003` (Wikidata : [Q867003](https://www.wikidata.org/wiki/Q867003)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q773395
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-11-24
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q773395:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Gran Turismo 5
 
-**Gran Turismo 5** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q773395](https://www.wikidata.org/wiki/Q773395)).
+**Gran Turismo 5** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q773395` (Wikidata : [Q773395](https://www.wikidata.org/wiki/Q773395)).
 
 ## Audit de conformite structurelle
 

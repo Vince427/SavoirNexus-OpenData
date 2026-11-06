@@ -13,7 +13,7 @@ wikidata_id: Q66605135
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2023-02-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/954850/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q66605135:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Kerbal Space Program 2
 
-**Kerbal Space Program 2** est une oeuvre sortie initialement en 2023, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q66605135](https://www.wikidata.org/wiki/Q66605135)).
+**Kerbal Space Program 2** est une oeuvre sortie initialement en 2023, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q66605135` (Wikidata : [Q66605135](https://www.wikidata.org/wiki/Q66605135)).
 
 ## Audit de conformite structurelle
 

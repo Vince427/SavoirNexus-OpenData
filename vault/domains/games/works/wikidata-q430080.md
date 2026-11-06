@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q430080
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-19
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q430080:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Excite Truck
 
-**Excite Truck** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q430080](https://www.wikidata.org/wiki/Q430080)).
+**Excite Truck** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q430080` (Wikidata : [Q430080](https://www.wikidata.org/wiki/Q430080)).
 
 ## Audit de conformite structurelle
 

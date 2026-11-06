@@ -13,7 +13,7 @@ wikidata_id: Q21198154
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-10-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/360740/header.jpg"
-tags: [jeu, cataloged, platformer, roguelike, shooter]
+tags: [jeu, audited, platformer, roguelike, shooter]
 observations:
   - id: wikidata-q21198154:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Downwell
 
-**Downwell** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q21198154](https://www.wikidata.org/wiki/Q21198154)).
+**Downwell** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q21198154` (Wikidata : [Q21198154](https://www.wikidata.org/wiki/Q21198154)).
 
 ## Audit de conformite structurelle
 

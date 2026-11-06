@@ -13,7 +13,7 @@ wikidata_id: Q14563775
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-05-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/224860/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q14563775:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # ARMA Tactics
 
-**ARMA Tactics** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q14563775](https://www.wikidata.org/wiki/Q14563775)).
+**ARMA Tactics** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q14563775` (Wikidata : [Q14563775](https://www.wikidata.org/wiki/Q14563775)).
 
 ## Audit de conformite structurelle
 

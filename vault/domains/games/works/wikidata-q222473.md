@@ -13,7 +13,7 @@ wikidata_id: Q222473
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-06-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/25890/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q222473:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -103,7 +103,7 @@ observations:
 
 # Hearts of Iron III
 
-**Hearts of Iron III** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q222473](https://www.wikidata.org/wiki/Q222473)).
+**Hearts of Iron III** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q222473` (Wikidata : [Q222473](https://www.wikidata.org/wiki/Q222473)).
 
 ## Audit de conformite structurelle
 

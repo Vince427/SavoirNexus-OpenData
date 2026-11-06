@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1633714
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-02-20
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1633714:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Sonic and the Secret Rings
 
-**Sonic and the Secret Rings** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1633714](https://www.wikidata.org/wiki/Q1633714)).
+**Sonic and the Secret Rings** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1633714` (Wikidata : [Q1633714](https://www.wikidata.org/wiki/Q1633714)).
 
 ## Audit de conformite structurelle
 

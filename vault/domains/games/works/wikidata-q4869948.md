@@ -13,7 +13,7 @@ wikidata_id: Q4869948
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-04-03
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238460/header.jpg"
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q4869948:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # BattleBlock Theater
 
-**BattleBlock Theater** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4869948](https://www.wikidata.org/wiki/Q4869948)).
+**BattleBlock Theater** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4869948` (Wikidata : [Q4869948](https://www.wikidata.org/wiki/Q4869948)).
 
 ## Audit de conformite structurelle
 

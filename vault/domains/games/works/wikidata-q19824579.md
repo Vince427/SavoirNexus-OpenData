@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q19824579
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-01-01
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q19824579:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Alto's Adventure
 
-**Alto's Adventure** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q19824579](https://www.wikidata.org/wiki/Q19824579)).
+**Alto's Adventure** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q19824579` (Wikidata : [Q19824579](https://www.wikidata.org/wiki/Q19824579)).
 
 ## Audit de conformite structurelle
 

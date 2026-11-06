@@ -13,7 +13,7 @@ wikidata_id: Q736887
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-04-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/71390/header.jpg"
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q736887:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Virtua Tennis 4
 
-**Virtua Tennis 4** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q736887](https://www.wikidata.org/wiki/Q736887)).
+**Virtua Tennis 4** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q736887` (Wikidata : [Q736887](https://www.wikidata.org/wiki/Q736887)).
 
 ## Audit de conformite structurelle
 

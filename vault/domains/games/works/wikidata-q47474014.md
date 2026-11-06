@@ -13,7 +13,7 @@ wikidata_id: Q47474014
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/755500/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q47474014:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # One Piece: World Seeker
 
-**One Piece: World Seeker** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q47474014](https://www.wikidata.org/wiki/Q47474014)).
+**One Piece: World Seeker** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q47474014` (Wikidata : [Q47474014](https://www.wikidata.org/wiki/Q47474014)).
 
 ## Audit de conformite structurelle
 

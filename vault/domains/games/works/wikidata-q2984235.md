@@ -13,7 +13,7 @@ wikidata_id: Q2984235
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-02-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/115110/header.jpg"
-tags: [jeu, cataloged, adventure, puzzle]
+tags: [jeu, audited, adventure, puzzle]
 observations:
   - id: wikidata-q2984235:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Stacking
 
-**Stacking** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2984235](https://www.wikidata.org/wiki/Q2984235)).
+**Stacking** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2984235` (Wikidata : [Q2984235](https://www.wikidata.org/wiki/Q2984235)).
 
 ## Audit de conformite structurelle
 

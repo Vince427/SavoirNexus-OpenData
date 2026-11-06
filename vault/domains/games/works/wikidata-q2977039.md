@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q2977039
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-12-21
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2977039:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -101,7 +101,7 @@ observations:
 
 # Dawn of Mana
 
-**Dawn of Mana** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2977039](https://www.wikidata.org/wiki/Q2977039)).
+**Dawn of Mana** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2977039` (Wikidata : [Q2977039](https://www.wikidata.org/wiki/Q2977039)).
 
 ## Audit de conformite structurelle
 

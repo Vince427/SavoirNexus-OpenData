@@ -13,7 +13,7 @@ wikidata_id: Q5424173
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-11-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/203680/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q5424173:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # F1 Race Stars
 
-**F1 Race Stars** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5424173](https://www.wikidata.org/wiki/Q5424173)).
+**F1 Race Stars** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5424173` (Wikidata : [Q5424173](https://www.wikidata.org/wiki/Q5424173)).
 
 ## Audit de conformite structurelle
 

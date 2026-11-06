@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q7497192
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-12-26
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q7497192:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Tokyo Mirage Sessions ♯FE
 
-**Tokyo Mirage Sessions ♯FE** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q7497192](https://www.wikidata.org/wiki/Q7497192)).
+**Tokyo Mirage Sessions ♯FE** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q7497192` (Wikidata : [Q7497192](https://www.wikidata.org/wiki/Q7497192)).
 
 ## Audit de conformite structurelle
 

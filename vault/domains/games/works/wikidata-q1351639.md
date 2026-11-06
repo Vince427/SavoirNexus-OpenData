@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1351639
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-19
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1351639:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Link's Crossbow Training
 
-**Link's Crossbow Training** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1351639](https://www.wikidata.org/wiki/Q1351639)).
+**Link's Crossbow Training** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1351639` (Wikidata : [Q1351639](https://www.wikidata.org/wiki/Q1351639)).
 
 ## Audit de conformite structurelle
 

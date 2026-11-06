@@ -13,7 +13,7 @@ wikidata_id: Q647855
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-02-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/960910/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q647855:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Heavy Rain
 
-**Heavy Rain** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q647855](https://www.wikidata.org/wiki/Q647855)).
+**Heavy Rain** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q647855` (Wikidata : [Q647855](https://www.wikidata.org/wiki/Q647855)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q1684851
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-10-05
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/65950/header.jpg"
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q1684851:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # NBA 2K11
 
-**NBA 2K11** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1684851](https://www.wikidata.org/wiki/Q1684851)).
+**NBA 2K11** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1684851` (Wikidata : [Q1684851](https://www.wikidata.org/wiki/Q1684851)).
 
 ## Audit de conformite structurelle
 

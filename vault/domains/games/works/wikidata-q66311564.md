@@ -13,7 +13,7 @@ wikidata_id: Q66311564
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-08-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/861540/header.jpg"
-tags: [jeu, cataloged, roguelike]
+tags: [jeu, audited, roguelike]
 observations:
   - id: wikidata-q66311564:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Dicey Dungeons
 
-**Dicey Dungeons** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q66311564](https://www.wikidata.org/wiki/Q66311564)).
+**Dicey Dungeons** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q66311564` (Wikidata : [Q66311564](https://www.wikidata.org/wiki/Q66311564)).
 
 ## Audit de conformite structurelle
 

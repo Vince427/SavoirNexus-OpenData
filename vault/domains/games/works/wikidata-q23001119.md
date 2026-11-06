@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q23001119
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-10-07
-tags: [jeu, cataloged, action, adventure, rpg]
+tags: [jeu, audited, action, adventure, rpg]
 observations:
   - id: wikidata-q23001119:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Paper Mario: Color Splash
 
-**Paper Mario: Color Splash** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q23001119](https://www.wikidata.org/wiki/Q23001119)).
+**Paper Mario: Color Splash** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q23001119` (Wikidata : [Q23001119](https://www.wikidata.org/wiki/Q23001119)).
 
 ## Audit de conformite structurelle
 

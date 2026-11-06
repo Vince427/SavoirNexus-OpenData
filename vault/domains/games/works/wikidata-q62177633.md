@@ -13,7 +13,7 @@ wikidata_id: Q62177633
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2025-10-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/532790/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q62177633:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # Vampire : The Masquerade - Bloodlines 2
 
-**Vampire : The Masquerade - Bloodlines 2** est une oeuvre sortie initialement en 2025, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q62177633](https://www.wikidata.org/wiki/Q62177633)).
+**Vampire : The Masquerade - Bloodlines 2** est une oeuvre sortie initialement en 2025, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q62177633` (Wikidata : [Q62177633](https://www.wikidata.org/wiki/Q62177633)).
 
 ## Audit de conformite structurelle
 

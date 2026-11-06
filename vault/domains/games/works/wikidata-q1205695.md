@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1205695
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-01-01
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1205695:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Akane-Iro ni Somaru Saka
 
-**Akane-Iro ni Somaru Saka** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1205695](https://www.wikidata.org/wiki/Q1205695)).
+**Akane-Iro ni Somaru Saka** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1205695` (Wikidata : [Q1205695](https://www.wikidata.org/wiki/Q1205695)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1187259
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-03-06
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q1187259:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Pokémon Ranger : Sillages de lumière
 
-**Pokémon Ranger : Sillages de lumière** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1187259](https://www.wikidata.org/wiki/Q1187259)).
+**Pokémon Ranger : Sillages de lumière** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1187259` (Wikidata : [Q1187259](https://www.wikidata.org/wiki/Q1187259)).
 
 ## Audit de conformite structurelle
 

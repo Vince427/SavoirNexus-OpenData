@@ -13,7 +13,7 @@ wikidata_id: Q2442910
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-04-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/25900/header.jpg"
-tags: [jeu, cataloged, rpg, strategy]
+tags: [jeu, audited, rpg, strategy]
 observations:
   - id: wikidata-q2442910:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # King's Bounty: The Legend
 
-**King's Bounty: The Legend** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2442910](https://www.wikidata.org/wiki/Q2442910)).
+**King's Bounty: The Legend** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2442910` (Wikidata : [Q2442910](https://www.wikidata.org/wiki/Q2442910)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2700027
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-07-08
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2700027:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Harvest Moon : Les Deux Villages
 
-**Harvest Moon : Les Deux Villages** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2700027](https://www.wikidata.org/wiki/Q2700027)).
+**Harvest Moon : Les Deux Villages** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2700027` (Wikidata : [Q2700027](https://www.wikidata.org/wiki/Q2700027)).
 
 ## Audit de conformite structurelle
 

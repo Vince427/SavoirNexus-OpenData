@@ -13,7 +13,7 @@ wikidata_id: Q30895910
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-10-13
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/601430/header.jpg"
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q30895910:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Evil Within 2
 
-**The Evil Within 2** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q30895910](https://www.wikidata.org/wiki/Q30895910)).
+**The Evil Within 2** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q30895910` (Wikidata : [Q30895910](https://www.wikidata.org/wiki/Q30895910)).
 
 ## Audit de conformite structurelle
 

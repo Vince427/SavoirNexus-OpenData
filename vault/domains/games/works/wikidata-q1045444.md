@@ -13,7 +13,7 @@ wikidata_id: Q1045444
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-12-04
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/648580/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1045444:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # 428: Shibuya Scramble
 
-**428: Shibuya Scramble** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1045444](https://www.wikidata.org/wiki/Q1045444)).
+**428: Shibuya Scramble** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1045444` (Wikidata : [Q1045444](https://www.wikidata.org/wiki/Q1045444)).
 
 ## Audit de conformite structurelle
 

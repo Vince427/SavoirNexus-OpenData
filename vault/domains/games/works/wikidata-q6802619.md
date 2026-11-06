@@ -13,7 +13,7 @@ wikidata_id: Q6802619
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-06-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/220860/header.jpg"
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q6802619:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # McPixel
 
-**McPixel** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q6802619](https://www.wikidata.org/wiki/Q6802619)).
+**McPixel** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q6802619` (Wikidata : [Q6802619](https://www.wikidata.org/wiki/Q6802619)).
 
 ## Audit de conformite structurelle
 

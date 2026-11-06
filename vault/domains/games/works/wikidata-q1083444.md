@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1083444
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-18
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q1083444:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Kingdom Hearts: Coded
 
-**Kingdom Hearts: Coded** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1083444](https://www.wikidata.org/wiki/Q1083444)).
+**Kingdom Hearts: Coded** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1083444` (Wikidata : [Q1083444](https://www.wikidata.org/wiki/Q1083444)).
 
 ## Audit de conformite structurelle
 

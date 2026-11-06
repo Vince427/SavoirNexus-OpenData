@@ -13,7 +13,7 @@ wikidata_id: Q1279815
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-09-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40350/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1279815:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Lost Horizon
 
-**Lost Horizon** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1279815](https://www.wikidata.org/wiki/Q1279815)).
+**Lost Horizon** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1279815` (Wikidata : [Q1279815](https://www.wikidata.org/wiki/Q1279815)).
 
 ## Audit de conformite structurelle
 

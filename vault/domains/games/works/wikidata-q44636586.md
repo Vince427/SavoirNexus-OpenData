@@ -13,7 +13,7 @@ wikidata_id: Q44636586
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/742300/header.jpg"
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q44636586:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Mega Man 11
 
-**Mega Man 11** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q44636586](https://www.wikidata.org/wiki/Q44636586)).
+**Mega Man 11** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q44636586` (Wikidata : [Q44636586](https://www.wikidata.org/wiki/Q44636586)).
 
 ## Audit de conformite structurelle
 

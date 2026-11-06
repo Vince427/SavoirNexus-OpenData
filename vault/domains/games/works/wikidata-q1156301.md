@@ -13,7 +13,7 @@ wikidata_id: Q1156301
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-08-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/57690/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q1156301:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Tropico 4
 
-**Tropico 4** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1156301](https://www.wikidata.org/wiki/Q1156301)).
+**Tropico 4** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1156301` (Wikidata : [Q1156301](https://www.wikidata.org/wiki/Q1156301)).
 
 ## Audit de conformite structurelle
 

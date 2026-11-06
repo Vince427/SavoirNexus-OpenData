@@ -13,7 +13,7 @@ wikidata_id: Q64590169
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-02-04
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/694280/header.jpg"
-tags: [jeu, cataloged, horror, shooter, survival]
+tags: [jeu, audited, horror, shooter, survival]
 observations:
   - id: wikidata-q64590169:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Zombie Army 4: Dead War
 
-**Zombie Army 4: Dead War** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q64590169](https://www.wikidata.org/wiki/Q64590169)).
+**Zombie Army 4: Dead War** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q64590169` (Wikidata : [Q64590169](https://www.wikidata.org/wiki/Q64590169)).
 
 ## Audit de conformite structurelle
 

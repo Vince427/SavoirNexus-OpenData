@@ -13,7 +13,7 @@ wikidata_id: Q3205367
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-04-02
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/225420/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q3205367:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Cities in Motion 2
 
-**Cities in Motion 2** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3205367](https://www.wikidata.org/wiki/Q3205367)).
+**Cities in Motion 2** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3205367` (Wikidata : [Q3205367](https://www.wikidata.org/wiki/Q3205367)).
 
 ## Audit de conformite structurelle
 

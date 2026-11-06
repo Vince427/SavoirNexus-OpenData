@@ -13,7 +13,7 @@ wikidata_id: Q1653815
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-09-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/65740/header.jpg"
-tags: [jeu, cataloged, action, strategy]
+tags: [jeu, audited, action, strategy]
 observations:
   - id: wikidata-q1653815:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Carrier Command: Gaea Mission
 
-**Carrier Command: Gaea Mission** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1653815](https://www.wikidata.org/wiki/Q1653815)).
+**Carrier Command: Gaea Mission** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1653815` (Wikidata : [Q1653815](https://www.wikidata.org/wiki/Q1653815)).
 
 ## Audit de conformite structurelle
 

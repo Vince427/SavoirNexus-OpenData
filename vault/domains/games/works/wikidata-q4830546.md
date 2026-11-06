@@ -13,7 +13,7 @@ wikidata_id: Q4830546
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332200/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q4830546:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Axiom Verge
 
-**Axiom Verge** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4830546](https://www.wikidata.org/wiki/Q4830546)).
+**Axiom Verge** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4830546` (Wikidata : [Q4830546](https://www.wikidata.org/wiki/Q4830546)).
 
 ## Audit de conformite structurelle
 

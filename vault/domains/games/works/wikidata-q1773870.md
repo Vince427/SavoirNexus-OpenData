@@ -13,7 +13,7 @@ wikidata_id: Q1773870
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-05-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42660/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1773870:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Shrek Forever After
 
-**Shrek Forever After** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1773870](https://www.wikidata.org/wiki/Q1773870)).
+**Shrek Forever After** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1773870` (Wikidata : [Q1773870](https://www.wikidata.org/wiki/Q1773870)).
 
 ## Audit de conformite structurelle
 

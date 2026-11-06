@@ -13,7 +13,7 @@ wikidata_id: Q2087449
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-02-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40930/header.jpg"
-tags: [jeu, cataloged, platformer, puzzle]
+tags: [jeu, audited, platformer, puzzle]
 observations:
   - id: wikidata-q2087449:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Les Mésaventures de P.B. Winterbottom
 
-**Les Mésaventures de P.B. Winterbottom** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2087449](https://www.wikidata.org/wiki/Q2087449)).
+**Les Mésaventures de P.B. Winterbottom** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2087449` (Wikidata : [Q2087449](https://www.wikidata.org/wiki/Q2087449)).
 
 ## Audit de conformite structurelle
 

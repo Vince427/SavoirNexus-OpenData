@@ -13,7 +13,7 @@ wikidata_id: Q376217
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-03-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21780/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q376217:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Driver: Parallel Lines
 
-**Driver: Parallel Lines** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q376217](https://www.wikidata.org/wiki/Q376217)).
+**Driver: Parallel Lines** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q376217` (Wikidata : [Q376217](https://www.wikidata.org/wiki/Q376217)).
 
 ## Audit de conformite structurelle
 

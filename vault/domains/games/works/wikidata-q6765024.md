@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q6765024
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-05-09
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q6765024:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario and Donkey Kong: Minis on the Move
 
-**Mario and Donkey Kong: Minis on the Move** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q6765024](https://www.wikidata.org/wiki/Q6765024)).
+**Mario and Donkey Kong: Minis on the Move** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q6765024` (Wikidata : [Q6765024](https://www.wikidata.org/wiki/Q6765024)).
 
 ## Audit de conformite structurelle
 

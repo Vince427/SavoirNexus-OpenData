@@ -13,7 +13,7 @@ wikidata_id: Q7460767
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-07-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/234650/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q7460767:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Shadowrun Returns
 
-**Shadowrun Returns** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q7460767](https://www.wikidata.org/wiki/Q7460767)).
+**Shadowrun Returns** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q7460767` (Wikidata : [Q7460767](https://www.wikidata.org/wiki/Q7460767)).
 
 ## Audit de conformite structurelle
 

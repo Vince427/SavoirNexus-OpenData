@@ -13,7 +13,7 @@ wikidata_id: Q2631997
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-10-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46290/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q2631997:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Theatre of War
 
-**Theatre of War** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2631997](https://www.wikidata.org/wiki/Q2631997)).
+**Theatre of War** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2631997` (Wikidata : [Q2631997](https://www.wikidata.org/wiki/Q2631997)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q28603919
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/658260/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q28603919:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Blue Reflection
 
-**Blue Reflection** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28603919](https://www.wikidata.org/wiki/Q28603919)).
+**Blue Reflection** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28603919` (Wikidata : [Q28603919](https://www.wikidata.org/wiki/Q28603919)).
 
 ## Audit de conformite structurelle
 

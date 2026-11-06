@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q588754
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-01-01
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q588754:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Nanatsuiro Drops
 
-**Nanatsuiro Drops** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q588754](https://www.wikidata.org/wiki/Q588754)).
+**Nanatsuiro Drops** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q588754` (Wikidata : [Q588754](https://www.wikidata.org/wiki/Q588754)).
 
 ## Audit de conformite structurelle
 

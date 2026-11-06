@@ -13,7 +13,7 @@ wikidata_id: Q1987250
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-09-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/221430/header.jpg"
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q1987250:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # PES 2013
 
-**PES 2013** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1987250](https://www.wikidata.org/wiki/Q1987250)).
+**PES 2013** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1987250` (Wikidata : [Q1987250](https://www.wikidata.org/wiki/Q1987250)).
 
 ## Audit de conformite structurelle
 

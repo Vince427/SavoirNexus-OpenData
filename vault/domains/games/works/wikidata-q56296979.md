@@ -13,7 +13,7 @@ wikidata_id: Q56296979
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/427100/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q56296979:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Fernbus Simulator
 
-**Fernbus Simulator** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q56296979](https://www.wikidata.org/wiki/Q56296979)).
+**Fernbus Simulator** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q56296979` (Wikidata : [Q56296979](https://www.wikidata.org/wiki/Q56296979)).
 
 ## Audit de conformite structurelle
 

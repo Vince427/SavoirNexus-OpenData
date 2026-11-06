@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q4039700
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-06-07
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q4039700:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -102,7 +102,7 @@ observations:
 
 # Green Lantern : La Révolte des Manhunters
 
-**Green Lantern : La Révolte des Manhunters** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4039700](https://www.wikidata.org/wiki/Q4039700)).
+**Green Lantern : La Révolte des Manhunters** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4039700` (Wikidata : [Q4039700](https://www.wikidata.org/wiki/Q4039700)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q25345979
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-10-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/411300/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q25345979:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Elex
 
-**Elex** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q25345979](https://www.wikidata.org/wiki/Q25345979)).
+**Elex** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q25345979` (Wikidata : [Q25345979](https://www.wikidata.org/wiki/Q25345979)).
 
 ## Audit de conformite structurelle
 

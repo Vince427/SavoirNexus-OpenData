@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q913218
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-09
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q913218:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Viva Piñata
 
-**Viva Piñata** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q913218](https://www.wikidata.org/wiki/Q913218)).
+**Viva Piñata** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q913218` (Wikidata : [Q913218](https://www.wikidata.org/wiki/Q913218)).
 
 ## Audit de conformite structurelle
 

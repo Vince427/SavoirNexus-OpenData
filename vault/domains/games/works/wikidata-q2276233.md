@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2276233
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-08-19
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q2276233:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Shadow Complex
 
-**Shadow Complex** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2276233](https://www.wikidata.org/wiki/Q2276233)).
+**Shadow Complex** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2276233` (Wikidata : [Q2276233](https://www.wikidata.org/wiki/Q2276233)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q2564473
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-12-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22310/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2564473:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Rogue Warrior
 
-**Rogue Warrior** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2564473](https://www.wikidata.org/wiki/Q2564473)).
+**Rogue Warrior** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2564473` (Wikidata : [Q2564473](https://www.wikidata.org/wiki/Q2564473)).
 
 ## Audit de conformite structurelle
 

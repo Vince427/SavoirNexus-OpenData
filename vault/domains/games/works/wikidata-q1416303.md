@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1416303
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-07-27
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1416303:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # The World Ends with You
 
-**The World Ends with You** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1416303](https://www.wikidata.org/wiki/Q1416303)).
+**The World Ends with You** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1416303` (Wikidata : [Q1416303](https://www.wikidata.org/wiki/Q1416303)).
 
 ## Audit de conformite structurelle
 

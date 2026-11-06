@@ -13,7 +13,7 @@ wikidata_id: Q1167453
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-16
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/39610/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1167453:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Agatha Christie : Meurtre au soleil
 
-**Agatha Christie : Meurtre au soleil** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1167453](https://www.wikidata.org/wiki/Q1167453)).
+**Agatha Christie : Meurtre au soleil** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1167453` (Wikidata : [Q1167453](https://www.wikidata.org/wiki/Q1167453)).
 
 ## Audit de conformite structurelle
 

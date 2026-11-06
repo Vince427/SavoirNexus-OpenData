@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2420118
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-04-19
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2420118:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # SOCOM: Special Forces
 
-**SOCOM: Special Forces** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2420118](https://www.wikidata.org/wiki/Q2420118)).
+**SOCOM: Special Forces** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2420118` (Wikidata : [Q2420118](https://www.wikidata.org/wiki/Q2420118)).
 
 ## Audit de conformite structurelle
 

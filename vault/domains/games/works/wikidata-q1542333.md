@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1542333
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-05-27
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q1542333:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Oolite
 
-**Oolite** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1542333](https://www.wikidata.org/wiki/Q1542333)).
+**Oolite** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1542333` (Wikidata : [Q1542333](https://www.wikidata.org/wiki/Q1542333)).
 
 ## Audit de conformite structurelle
 

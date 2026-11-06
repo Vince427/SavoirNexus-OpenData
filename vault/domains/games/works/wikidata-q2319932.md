@@ -13,7 +13,7 @@ wikidata_id: Q2319932
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-10-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7600/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2319932:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Sid Meier's Railroads!
 
-**Sid Meier's Railroads!** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2319932](https://www.wikidata.org/wiki/Q2319932)).
+**Sid Meier's Railroads!** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2319932` (Wikidata : [Q2319932](https://www.wikidata.org/wiki/Q2319932)).
 
 ## Audit de conformite structurelle
 

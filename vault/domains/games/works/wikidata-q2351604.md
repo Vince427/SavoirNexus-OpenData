@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2351604
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-09-18
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2351604:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Castlevania: Order of Shadows
 
-**Castlevania: Order of Shadows** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2351604](https://www.wikidata.org/wiki/Q2351604)).
+**Castlevania: Order of Shadows** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2351604` (Wikidata : [Q2351604](https://www.wikidata.org/wiki/Q2351604)).
 
 ## Audit de conformite structurelle
 

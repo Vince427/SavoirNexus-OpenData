@@ -13,7 +13,7 @@ wikidata_id: Q867001
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-03-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1100170/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q867001:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Double Spoiler
 
-**Double Spoiler** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q867001](https://www.wikidata.org/wiki/Q867001)).
+**Double Spoiler** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q867001` (Wikidata : [Q867001](https://www.wikidata.org/wiki/Q867001)).
 
 ## Audit de conformite structurelle
 

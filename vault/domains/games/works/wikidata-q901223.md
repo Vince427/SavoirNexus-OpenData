@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q901223
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-12-14
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q901223:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Puyo Puyo! 15th Anniversary
 
-**Puyo Puyo! 15th Anniversary** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q901223](https://www.wikidata.org/wiki/Q901223)).
+**Puyo Puyo! 15th Anniversary** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q901223` (Wikidata : [Q901223](https://www.wikidata.org/wiki/Q901223)).
 
 ## Audit de conformite structurelle
 

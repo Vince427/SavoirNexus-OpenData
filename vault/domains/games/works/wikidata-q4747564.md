@@ -13,7 +13,7 @@ wikidata_id: Q4747564
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-05-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/250620/header.jpg"
-tags: [jeu, cataloged, action, adventure, horror, survival]
+tags: [jeu, audited, action, adventure, horror, survival]
 observations:
   - id: wikidata-q4747564:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Among the Sleep
 
-**Among the Sleep** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4747564](https://www.wikidata.org/wiki/Q4747564)).
+**Among the Sleep** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4747564` (Wikidata : [Q4747564](https://www.wikidata.org/wiki/Q4747564)).
 
 ## Audit de conformite structurelle
 

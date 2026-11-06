@@ -13,7 +13,7 @@ wikidata_id: Q16242145
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-05-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/237430/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q16242145:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Expeditions: Conquistador
 
-**Expeditions: Conquistador** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16242145](https://www.wikidata.org/wiki/Q16242145)).
+**Expeditions: Conquistador** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16242145` (Wikidata : [Q16242145](https://www.wikidata.org/wiki/Q16242145)).
 
 ## Audit de conformite structurelle
 

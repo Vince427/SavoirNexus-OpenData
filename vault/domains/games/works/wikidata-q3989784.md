@@ -13,7 +13,7 @@ wikidata_id: Q3989784
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-10-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1206430/header.jpg"
-tags: [jeu, cataloged, adventure, platformer, puzzle]
+tags: [jeu, audited, adventure, platformer, puzzle]
 observations:
   - id: wikidata-q3989784:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # The Unfinished Swan
 
-**The Unfinished Swan** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3989784](https://www.wikidata.org/wiki/Q3989784)).
+**The Unfinished Swan** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3989784` (Wikidata : [Q3989784](https://www.wikidata.org/wiki/Q3989784)).
 
 ## Audit de conformite structurelle
 

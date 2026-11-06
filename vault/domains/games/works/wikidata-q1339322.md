@@ -13,7 +13,7 @@ wikidata_id: Q1339322
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/23310/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q1339322:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Last Remnant
 
-**The Last Remnant** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1339322](https://www.wikidata.org/wiki/Q1339322)).
+**The Last Remnant** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1339322` (Wikidata : [Q1339322](https://www.wikidata.org/wiki/Q1339322)).
 
 ## Audit de conformite structurelle
 

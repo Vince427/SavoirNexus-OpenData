@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q869960
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-26
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q869960:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Tekken 6
 
-**Tekken 6** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q869960](https://www.wikidata.org/wiki/Q869960)).
+**Tekken 6** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q869960` (Wikidata : [Q869960](https://www.wikidata.org/wiki/Q869960)).
 
 ## Audit de conformite structurelle
 

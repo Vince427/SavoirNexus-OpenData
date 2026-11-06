@@ -13,7 +13,7 @@ wikidata_id: Q76255
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-05
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7940/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q76255:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Call of Duty 4: Modern Warfare
 
-**Call of Duty 4: Modern Warfare** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q76255](https://www.wikidata.org/wiki/Q76255)).
+**Call of Duty 4: Modern Warfare** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q76255` (Wikidata : [Q76255](https://www.wikidata.org/wiki/Q76255)).
 
 ## Audit de conformite structurelle
 

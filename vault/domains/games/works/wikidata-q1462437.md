@@ -13,7 +13,7 @@ wikidata_id: Q1462437
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-12-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/33280/header.jpg"
-tags: [jeu, cataloged, action, adventure, shooter]
+tags: [jeu, audited, action, adventure, shooter]
 observations:
   - id: wikidata-q1462437:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # James Cameron's Avatar: The Game
 
-**James Cameron's Avatar: The Game** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1462437](https://www.wikidata.org/wiki/Q1462437)).
+**James Cameron's Avatar: The Game** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1462437` (Wikidata : [Q1462437](https://www.wikidata.org/wiki/Q1462437)).
 
 ## Audit de conformite structurelle
 

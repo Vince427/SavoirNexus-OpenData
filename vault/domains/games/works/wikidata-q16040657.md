@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q16040657
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-07-25
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q16040657:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario Kart Arcade GP DX
 
-**Mario Kart Arcade GP DX** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16040657](https://www.wikidata.org/wiki/Q16040657)).
+**Mario Kart Arcade GP DX** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16040657` (Wikidata : [Q16040657](https://www.wikidata.org/wiki/Q16040657)).
 
 ## Audit de conformite structurelle
 

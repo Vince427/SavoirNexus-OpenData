@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q17166292
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-01-01
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q17166292:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Code Name: S.T.E.A.M.
 
-**Code Name: S.T.E.A.M.** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17166292](https://www.wikidata.org/wiki/Q17166292)).
+**Code Name: S.T.E.A.M.** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17166292` (Wikidata : [Q17166292](https://www.wikidata.org/wiki/Q17166292)).
 
 ## Audit de conformite structurelle
 

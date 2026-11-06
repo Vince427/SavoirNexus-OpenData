@@ -13,7 +13,7 @@ wikidata_id: Q766077
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-10-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/65800/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q766077:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Dungeon Defenders
 
-**Dungeon Defenders** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q766077](https://www.wikidata.org/wiki/Q766077)).
+**Dungeon Defenders** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q766077` (Wikidata : [Q766077](https://www.wikidata.org/wiki/Q766077)).
 
 ## Audit de conformite structurelle
 

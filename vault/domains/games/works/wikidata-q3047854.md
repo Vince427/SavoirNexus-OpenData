@@ -13,7 +13,7 @@ wikidata_id: Q3047854
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-01-06
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1842984/header.jpg"
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q3047854:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -103,7 +103,7 @@ observations:
 
 # Mega Man 2: The Power Fighters
 
-**Mega Man 2: The Power Fighters** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3047854](https://www.wikidata.org/wiki/Q3047854)).
+**Mega Man 2: The Power Fighters** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3047854` (Wikidata : [Q3047854](https://www.wikidata.org/wiki/Q3047854)).
 
 ## Audit de conformite structurelle
 

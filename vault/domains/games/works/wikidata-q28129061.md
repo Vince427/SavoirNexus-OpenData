@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q28129061
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-07-21
-tags: [jeu, cataloged, action, shooter]
+tags: [jeu, audited, action, shooter]
 observations:
   - id: wikidata-q28129061:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -101,7 +101,7 @@ observations:
 
 # Splatoon 2
 
-**Splatoon 2** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28129061](https://www.wikidata.org/wiki/Q28129061)).
+**Splatoon 2** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28129061` (Wikidata : [Q28129061](https://www.wikidata.org/wiki/Q28129061)).
 
 ## Audit de conformite structurelle
 

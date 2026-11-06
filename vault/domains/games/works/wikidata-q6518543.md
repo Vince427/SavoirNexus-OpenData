@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q6518543
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-04-21
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q6518543:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Lego City Undercover: The Chase Begins
 
-**Lego City Undercover: The Chase Begins** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q6518543](https://www.wikidata.org/wiki/Q6518543)).
+**Lego City Undercover: The Chase Begins** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q6518543` (Wikidata : [Q6518543](https://www.wikidata.org/wiki/Q6518543)).
 
 ## Audit de conformite structurelle
 

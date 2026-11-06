@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q4794331
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-03-26
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q4794331:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Army of Two : Le Cartel du diable
 
-**Army of Two : Le Cartel du diable** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q4794331](https://www.wikidata.org/wiki/Q4794331)).
+**Army of Two : Le Cartel du diable** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q4794331` (Wikidata : [Q4794331](https://www.wikidata.org/wiki/Q4794331)).
 
 ## Audit de conformite structurelle
 

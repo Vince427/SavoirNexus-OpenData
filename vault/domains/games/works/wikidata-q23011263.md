@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q23011263
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-04-28
-tags: [jeu, cataloged, action, platformer]
+tags: [jeu, audited, action, platformer]
 observations:
   - id: wikidata-q23011263:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Kirby : Planet Robobot
 
-**Kirby : Planet Robobot** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q23011263](https://www.wikidata.org/wiki/Q23011263)).
+**Kirby : Planet Robobot** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q23011263` (Wikidata : [Q23011263](https://www.wikidata.org/wiki/Q23011263)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3137430
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-06-14
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q3137430:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -102,7 +102,7 @@ observations:
 
 # Transformers 3 : La Face cachée de la Lune
 
-**Transformers 3 : La Face cachée de la Lune** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3137430](https://www.wikidata.org/wiki/Q3137430)).
+**Transformers 3 : La Face cachée de la Lune** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3137430` (Wikidata : [Q3137430](https://www.wikidata.org/wiki/Q3137430)).
 
 ## Audit de conformite structurelle
 

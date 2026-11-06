@@ -13,7 +13,7 @@ wikidata_id: Q28127320
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-12-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/521890/header.jpg"
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q28127320:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Hello Neighbor
 
-**Hello Neighbor** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28127320](https://www.wikidata.org/wiki/Q28127320)).
+**Hello Neighbor** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28127320` (Wikidata : [Q28127320](https://www.wikidata.org/wiki/Q28127320)).
 
 ## Audit de conformite structurelle
 

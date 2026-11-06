@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2469760
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-09-17
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q2469760:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Stuntman: Ignition
 
-**Stuntman: Ignition** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2469760](https://www.wikidata.org/wiki/Q2469760)).
+**Stuntman: Ignition** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2469760` (Wikidata : [Q2469760](https://www.wikidata.org/wiki/Q2469760)).
 
 ## Audit de conformite structurelle
 

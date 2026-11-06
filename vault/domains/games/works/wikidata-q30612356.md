@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q30612356
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-03-29
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q30612356:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -101,7 +101,7 @@ observations:
 
 # Yoshi’s Crafted World
 
-**Yoshi’s Crafted World** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q30612356](https://www.wikidata.org/wiki/Q30612356)).
+**Yoshi’s Crafted World** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q30612356` (Wikidata : [Q30612356](https://www.wikidata.org/wiki/Q30612356)).
 
 ## Audit de conformite structurelle
 

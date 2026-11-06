@@ -13,7 +13,7 @@ wikidata_id: Q18536861
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-01-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/319630/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q18536861:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Life Is Strange
 
-**Life Is Strange** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18536861](https://www.wikidata.org/wiki/Q18536861)).
+**Life Is Strange** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18536861` (Wikidata : [Q18536861](https://www.wikidata.org/wiki/Q18536861)).
 
 ## Audit de conformite structurelle
 

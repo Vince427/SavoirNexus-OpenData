@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2973804
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-12-24
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q2973804:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Une pause avec... Dr. Mario
 
-**Une pause avec... Dr. Mario** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2973804](https://www.wikidata.org/wiki/Q2973804)).
+**Une pause avec... Dr. Mario** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2973804` (Wikidata : [Q2973804](https://www.wikidata.org/wiki/Q2973804)).
 
 ## Audit de conformite structurelle
 

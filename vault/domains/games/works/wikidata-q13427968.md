@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q13427968
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-02-20
-tags: [jeu, cataloged, action, adventure, shooter]
+tags: [jeu, audited, action, adventure, shooter]
 observations:
   - id: wikidata-q13427968:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -101,7 +101,7 @@ observations:
 
 # The Order: 1886
 
-**The Order: 1886** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q13427968](https://www.wikidata.org/wiki/Q13427968)).
+**The Order: 1886** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q13427968` (Wikidata : [Q13427968](https://www.wikidata.org/wiki/Q13427968)).
 
 ## Audit de conformite structurelle
 

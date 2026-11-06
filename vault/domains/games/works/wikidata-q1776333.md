@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q1776333
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-03-29
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q1776333:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # Hokuto no Ken Fighting
 
-**Hokuto no Ken Fighting** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1776333](https://www.wikidata.org/wiki/Q1776333)).
+**Hokuto no Ken Fighting** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1776333` (Wikidata : [Q1776333](https://www.wikidata.org/wiki/Q1776333)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2537396
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-08-28
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2537396:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Afrika
 
-**Afrika** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2537396](https://www.wikidata.org/wiki/Q2537396)).
+**Afrika** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2537396` (Wikidata : [Q2537396](https://www.wikidata.org/wiki/Q2537396)).
 
 ## Audit de conformite structurelle
 

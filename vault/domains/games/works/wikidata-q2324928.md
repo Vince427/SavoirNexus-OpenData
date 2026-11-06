@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2324928
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-12-13
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q2324928:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Gran Turismo 5 Prologue
 
-**Gran Turismo 5 Prologue** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2324928](https://www.wikidata.org/wiki/Q2324928)).
+**Gran Turismo 5 Prologue** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2324928` (Wikidata : [Q2324928](https://www.wikidata.org/wiki/Q2324928)).
 
 ## Audit de conformite structurelle
 

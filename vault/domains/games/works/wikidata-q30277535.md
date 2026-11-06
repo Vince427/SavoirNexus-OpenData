@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q30277535
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-01-23
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q30277535:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -101,7 +101,7 @@ observations:
 
 # The Inpatient
 
-**The Inpatient** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q30277535](https://www.wikidata.org/wiki/Q30277535)).
+**The Inpatient** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q30277535` (Wikidata : [Q30277535](https://www.wikidata.org/wiki/Q30277535)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q14928420
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-12-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/253110/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q14928420:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Cat Lady
 
-**The Cat Lady** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q14928420](https://www.wikidata.org/wiki/Q14928420)).
+**The Cat Lady** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q14928420` (Wikidata : [Q14928420](https://www.wikidata.org/wiki/Q14928420)).
 
 ## Audit de conformite structurelle
 

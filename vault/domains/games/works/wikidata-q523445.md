@@ -13,7 +13,7 @@ wikidata_id: Q523445
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-03-03
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/312780/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q523445:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Way of the Samurai 4
 
-**Way of the Samurai 4** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q523445](https://www.wikidata.org/wiki/Q523445)).
+**Way of the Samurai 4** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q523445` (Wikidata : [Q523445](https://www.wikidata.org/wiki/Q523445)).
 
 ## Audit de conformite structurelle
 

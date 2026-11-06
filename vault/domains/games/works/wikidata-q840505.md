@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q840505
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-02-26
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q840505:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -101,7 +101,7 @@ observations:
 
 # Shin Megami Tensei: Devil Summoner - Raidou Kuzunoha vs. The Soulless Army
 
-**Shin Megami Tensei: Devil Summoner - Raidou Kuzunoha vs. The Soulless Army** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q840505](https://www.wikidata.org/wiki/Q840505)).
+**Shin Megami Tensei: Devil Summoner - Raidou Kuzunoha vs. The Soulless Army** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q840505` (Wikidata : [Q840505](https://www.wikidata.org/wiki/Q840505)).
 
 ## Audit de conformite structurelle
 

@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q1753628
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-16
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1753628:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # Call of Duty: World at War – Zombies
 
-**Call of Duty: World at War – Zombies** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1753628](https://www.wikidata.org/wiki/Q1753628)).
+**Call of Duty: World at War – Zombies** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1753628` (Wikidata : [Q1753628](https://www.wikidata.org/wiki/Q1753628)).
 
 ## Audit de conformite structurelle
 

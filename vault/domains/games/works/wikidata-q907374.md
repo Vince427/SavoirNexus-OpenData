@@ -13,7 +13,7 @@ wikidata_id: Q907374
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-06
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/254800/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q907374:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Empire Earth III
 
-**Empire Earth III** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q907374](https://www.wikidata.org/wiki/Q907374)).
+**Empire Earth III** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q907374` (Wikidata : [Q907374](https://www.wikidata.org/wiki/Q907374)).
 
 ## Audit de conformite structurelle
 

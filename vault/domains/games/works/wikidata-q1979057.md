@@ -13,7 +13,7 @@ wikidata_id: Q1979057
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-06
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12830/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1979057:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Operation Flashpoint: Dragon Rising
 
-**Operation Flashpoint: Dragon Rising** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1979057](https://www.wikidata.org/wiki/Q1979057)).
+**Operation Flashpoint: Dragon Rising** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1979057` (Wikidata : [Q1979057](https://www.wikidata.org/wiki/Q1979057)).
 
 ## Audit de conformite structurelle
 

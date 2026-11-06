@@ -13,7 +13,7 @@ wikidata_id: Q2216367
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/901663/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q2216367:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Sam and Max: Au-delà du temps et de l'espace
 
-**Sam and Max: Au-delà du temps et de l'espace** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2216367](https://www.wikidata.org/wiki/Q2216367)).
+**Sam and Max: Au-delà du temps et de l'espace** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2216367` (Wikidata : [Q2216367](https://www.wikidata.org/wiki/Q2216367)).
 
 ## Audit de conformite structurelle
 

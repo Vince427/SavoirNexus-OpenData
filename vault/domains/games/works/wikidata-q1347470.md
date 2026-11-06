@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1347470
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-04-25
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1347470:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # 11eyes : Tsumi to batsu to aganai no shōjo
 
-**11eyes : Tsumi to batsu to aganai no shōjo** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1347470](https://www.wikidata.org/wiki/Q1347470)).
+**11eyes : Tsumi to batsu to aganai no shōjo** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1347470` (Wikidata : [Q1347470](https://www.wikidata.org/wiki/Q1347470)).
 
 ## Audit de conformite structurelle
 

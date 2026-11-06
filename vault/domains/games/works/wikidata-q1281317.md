@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1281317
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-16
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1281317:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Code Lyoko : Plongez vers l'infini
 
-**Code Lyoko : Plongez vers l'infini** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1281317](https://www.wikidata.org/wiki/Q1281317)).
+**Code Lyoko : Plongez vers l'infini** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1281317` (Wikidata : [Q1281317](https://www.wikidata.org/wiki/Q1281317)).
 
 ## Audit de conformite structurelle
 

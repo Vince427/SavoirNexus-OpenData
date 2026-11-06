@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q553702
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-03-20
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q553702:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Tetris DS
 
-**Tetris DS** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q553702](https://www.wikidata.org/wiki/Q553702)).
+**Tetris DS** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q553702` (Wikidata : [Q553702](https://www.wikidata.org/wiki/Q553702)).
 
 ## Audit de conformite structurelle
 

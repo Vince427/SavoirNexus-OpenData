@@ -13,7 +13,7 @@ wikidata_id: Q378664
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-04-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/220160/header.jpg"
-tags: [jeu, cataloged, platformer, racing]
+tags: [jeu, audited, platformer, racing]
 observations:
   - id: wikidata-q378664:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Trials Evolution
 
-**Trials Evolution** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q378664](https://www.wikidata.org/wiki/Q378664)).
+**Trials Evolution** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q378664` (Wikidata : [Q378664](https://www.wikidata.org/wiki/Q378664)).
 
 ## Audit de conformite structurelle
 

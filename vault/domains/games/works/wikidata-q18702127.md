@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q18702127
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-03-05
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q18702127:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Etrian Mystery Dungeon
 
-**Etrian Mystery Dungeon** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18702127](https://www.wikidata.org/wiki/Q18702127)).
+**Etrian Mystery Dungeon** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18702127` (Wikidata : [Q18702127](https://www.wikidata.org/wiki/Q18702127)).
 
 ## Audit de conformite structurelle
 

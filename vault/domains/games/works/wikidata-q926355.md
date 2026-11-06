@@ -13,7 +13,7 @@ wikidata_id: Q926355
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-02-19
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15620/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q926355:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -103,7 +103,7 @@ observations:
 
 # Warhammer 40,000: Dawn of War II
 
-**Warhammer 40,000: Dawn of War II** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q926355](https://www.wikidata.org/wiki/Q926355)).
+**Warhammer 40,000: Dawn of War II** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q926355` (Wikidata : [Q926355](https://www.wikidata.org/wiki/Q926355)).
 
 ## Audit de conformite structurelle
 

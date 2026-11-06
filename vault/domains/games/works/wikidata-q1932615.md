@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1932615
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-08-30
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1932615:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Bladestorm: The Hundred Years' War
 
-**Bladestorm: The Hundred Years' War** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1932615](https://www.wikidata.org/wiki/Q1932615)).
+**Bladestorm: The Hundred Years' War** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1932615` (Wikidata : [Q1932615](https://www.wikidata.org/wiki/Q1932615)).
 
 ## Audit de conformite structurelle
 

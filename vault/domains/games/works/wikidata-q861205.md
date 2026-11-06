@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q861205
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-11-18
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q861205:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # The Legend of Zelda : Skyward Sword
 
-**The Legend of Zelda : Skyward Sword** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q861205](https://www.wikidata.org/wiki/Q861205)).
+**The Legend of Zelda : Skyward Sword** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q861205` (Wikidata : [Q861205](https://www.wikidata.org/wiki/Q861205)).
 
 ## Audit de conformite structurelle
 

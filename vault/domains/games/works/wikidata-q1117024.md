@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1117024
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-12-01
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q1117024:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario Kart 7
 
-**Mario Kart 7** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1117024](https://www.wikidata.org/wiki/Q1117024)).
+**Mario Kart 7** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1117024` (Wikidata : [Q1117024](https://www.wikidata.org/wiki/Q1117024)).
 
 ## Audit de conformite structurelle
 

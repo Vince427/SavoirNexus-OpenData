@@ -13,7 +13,7 @@ wikidata_id: Q21039919
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-03-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/840720/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q21039919:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Sword Art Online: Lost Song
 
-**Sword Art Online: Lost Song** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q21039919](https://www.wikidata.org/wiki/Q21039919)).
+**Sword Art Online: Lost Song** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q21039919` (Wikidata : [Q21039919](https://www.wikidata.org/wiki/Q21039919)).
 
 ## Audit de conformite structurelle
 

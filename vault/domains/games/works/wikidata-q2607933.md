@@ -13,7 +13,7 @@ wikidata_id: Q2607933
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/34000/header.jpg"
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2607933:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Football Manager 2010
 
-**Football Manager 2010** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2607933](https://www.wikidata.org/wiki/Q2607933)).
+**Football Manager 2010** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2607933` (Wikidata : [Q2607933](https://www.wikidata.org/wiki/Q2607933)).
 
 ## Audit de conformite structurelle
 

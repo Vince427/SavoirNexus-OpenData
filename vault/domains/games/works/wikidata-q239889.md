@@ -13,7 +13,7 @@ wikidata_id: Q239889
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-05-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6860/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q239889:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Hitman: Blood Money
 
-**Hitman: Blood Money** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q239889](https://www.wikidata.org/wiki/Q239889)).
+**Hitman: Blood Money** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q239889` (Wikidata : [Q239889](https://www.wikidata.org/wiki/Q239889)).
 
 ## Audit de conformite structurelle
 

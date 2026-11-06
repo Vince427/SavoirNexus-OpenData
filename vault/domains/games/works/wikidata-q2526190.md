@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2526190
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-03-02
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q2526190:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Children of Mana
 
-**Children of Mana** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2526190](https://www.wikidata.org/wiki/Q2526190)).
+**Children of Mana** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2526190` (Wikidata : [Q2526190](https://www.wikidata.org/wiki/Q2526190)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2530441
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-03-25
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2530441:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Pilotwings Resort
 
-**Pilotwings Resort** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2530441](https://www.wikidata.org/wiki/Q2530441)).
+**Pilotwings Resort** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2530441` (Wikidata : [Q2530441](https://www.wikidata.org/wiki/Q2530441)).
 
 ## Audit de conformite structurelle
 

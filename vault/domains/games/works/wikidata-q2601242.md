@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2601242
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-06-16
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q2601242:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Pokémon Rumble
 
-**Pokémon Rumble** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2601242](https://www.wikidata.org/wiki/Q2601242)).
+**Pokémon Rumble** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2601242` (Wikidata : [Q2601242](https://www.wikidata.org/wiki/Q2601242)).
 
 ## Audit de conformite structurelle
 

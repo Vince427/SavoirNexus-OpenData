@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q25340029
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-09-07
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q25340029:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -101,7 +101,7 @@ observations:
 
 # Spider-Man
 
-**Spider-Man** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q25340029](https://www.wikidata.org/wiki/Q25340029)).
+**Spider-Man** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q25340029` (Wikidata : [Q25340029](https://www.wikidata.org/wiki/Q25340029)).
 
 ## Audit de conformite structurelle
 

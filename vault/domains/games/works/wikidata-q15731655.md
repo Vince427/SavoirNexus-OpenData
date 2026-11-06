@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q15731655
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-07-29
-tags: [jeu, cataloged, action, adventure, hack-and-slash]
+tags: [jeu, audited, action, adventure, hack-and-slash]
 observations:
   - id: wikidata-q15731655:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Sengoku Basara: Samurai Heroes
 
-**Sengoku Basara: Samurai Heroes** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15731655](https://www.wikidata.org/wiki/Q15731655)).
+**Sengoku Basara: Samurai Heroes** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15731655` (Wikidata : [Q15731655](https://www.wikidata.org/wiki/Q15731655)).
 
 ## Audit de conformite structurelle
 

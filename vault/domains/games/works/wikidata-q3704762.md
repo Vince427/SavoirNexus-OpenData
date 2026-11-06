@@ -13,7 +13,7 @@ wikidata_id: Q3704762
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-02-19
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227760/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q3704762:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # March of the Eagles
 
-**March of the Eagles** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3704762](https://www.wikidata.org/wiki/Q3704762)).
+**March of the Eagles** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3704762` (Wikidata : [Q3704762](https://www.wikidata.org/wiki/Q3704762)).
 
 ## Audit de conformite structurelle
 

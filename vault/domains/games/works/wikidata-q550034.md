@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q550034
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-06-26
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q550034:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Tales of Symphonia: Dawn of the New World
 
-**Tales of Symphonia: Dawn of the New World** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q550034](https://www.wikidata.org/wiki/Q550034)).
+**Tales of Symphonia: Dawn of the New World** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q550034` (Wikidata : [Q550034](https://www.wikidata.org/wiki/Q550034)).
 
 ## Audit de conformite structurelle
 

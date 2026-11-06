@@ -13,7 +13,7 @@ wikidata_id: Q10354645
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-01-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/219680/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q10354645:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Proteus
 
-**Proteus** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q10354645](https://www.wikidata.org/wiki/Q10354645)).
+**Proteus** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q10354645` (Wikidata : [Q10354645](https://www.wikidata.org/wiki/Q10354645)).
 
 ## Audit de conformite structurelle
 

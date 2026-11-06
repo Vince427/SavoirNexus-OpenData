@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2907887
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-10-16
-tags: [jeu, cataloged, action, adventure, platformer]
+tags: [jeu, audited, action, adventure, platformer]
 observations:
   - id: wikidata-q2907887:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Bob l'éponge : La Créature du crabe croustillant
 
-**Bob l'éponge : La Créature du crabe croustillant** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2907887](https://www.wikidata.org/wiki/Q2907887)).
+**Bob l'éponge : La Créature du crabe croustillant** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2907887` (Wikidata : [Q2907887](https://www.wikidata.org/wiki/Q2907887)).
 
 ## Audit de conformite structurelle
 

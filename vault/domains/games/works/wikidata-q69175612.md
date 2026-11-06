@@ -13,7 +13,7 @@ wikidata_id: Q69175612
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1100600/header.jpg"
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q69175612:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Football Manager 2020
 
-**Football Manager 2020** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q69175612](https://www.wikidata.org/wiki/Q69175612)).
+**Football Manager 2020** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q69175612` (Wikidata : [Q69175612](https://www.wikidata.org/wiki/Q69175612)).
 
 ## Audit de conformite structurelle
 

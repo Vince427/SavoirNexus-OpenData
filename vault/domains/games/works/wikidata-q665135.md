@@ -13,7 +13,7 @@ wikidata_id: Q665135
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-06-19
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/301830/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q665135:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Brave
 
-**Brave** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q665135](https://www.wikidata.org/wiki/Q665135)).
+**Brave** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q665135` (Wikidata : [Q665135](https://www.wikidata.org/wiki/Q665135)).
 
 ## Audit de conformite structurelle
 

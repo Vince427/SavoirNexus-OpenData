@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2570333
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-10-13
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2570333:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Avatar, le dernier maître de l'air : Into the Inferno
 
-**Avatar, le dernier maître de l'air : Into the Inferno** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2570333](https://www.wikidata.org/wiki/Q2570333)).
+**Avatar, le dernier maître de l'air : Into the Inferno** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2570333` (Wikidata : [Q2570333](https://www.wikidata.org/wiki/Q2570333)).
 
 ## Audit de conformite structurelle
 

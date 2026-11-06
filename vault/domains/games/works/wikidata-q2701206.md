@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2701206
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-10-30
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2701206:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Harvest Moon : Parade des animaux
 
-**Harvest Moon : Parade des animaux** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2701206](https://www.wikidata.org/wiki/Q2701206)).
+**Harvest Moon : Parade des animaux** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2701206` (Wikidata : [Q2701206](https://www.wikidata.org/wiki/Q2701206)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q633046
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-03-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/24790/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q633046:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -103,7 +103,7 @@ observations:
 
 # Command and Conquer 3 : Les Guerres du Tiberium
 
-**Command and Conquer 3 : Les Guerres du Tiberium** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q633046](https://www.wikidata.org/wiki/Q633046)).
+**Command and Conquer 3 : Les Guerres du Tiberium** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q633046` (Wikidata : [Q633046](https://www.wikidata.org/wiki/Q633046)).
 
 ## Audit de conformite structurelle
 

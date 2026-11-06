@@ -13,7 +13,7 @@ wikidata_id: Q17505226
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-11-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/260790/header.jpg"
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q17505226:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # 1001 Spikes
 
-**1001 Spikes** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q17505226](https://www.wikidata.org/wiki/Q17505226)).
+**1001 Spikes** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q17505226` (Wikidata : [Q17505226](https://www.wikidata.org/wiki/Q17505226)).
 
 ## Audit de conformite structurelle
 

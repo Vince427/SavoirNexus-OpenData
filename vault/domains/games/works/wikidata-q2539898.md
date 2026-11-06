@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2539898
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-10-20
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2539898:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Football Manager 2007
 
-**Football Manager 2007** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2539898](https://www.wikidata.org/wiki/Q2539898)).
+**Football Manager 2007** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2539898` (Wikidata : [Q2539898](https://www.wikidata.org/wiki/Q2539898)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2532697
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-02-21
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2532697:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Asura's Wrath
 
-**Asura's Wrath** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2532697](https://www.wikidata.org/wiki/Q2532697)).
+**Asura's Wrath** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2532697` (Wikidata : [Q2532697](https://www.wikidata.org/wiki/Q2532697)).
 
 ## Audit de conformite structurelle
 

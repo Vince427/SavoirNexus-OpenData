@@ -13,7 +13,7 @@ wikidata_id: Q23015138
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-06-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/446590/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q23015138:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # 7 Mages
 
-**7 Mages** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q23015138](https://www.wikidata.org/wiki/Q23015138)).
+**7 Mages** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q23015138` (Wikidata : [Q23015138](https://www.wikidata.org/wiki/Q23015138)).
 
 ## Audit de conformite structurelle
 

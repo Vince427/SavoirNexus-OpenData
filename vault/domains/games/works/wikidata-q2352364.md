@@ -13,7 +13,7 @@ wikidata_id: Q2352364
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-09-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/39650/header.jpg"
-tags: [jeu, cataloged, rpg, simulation]
+tags: [jeu, audited, rpg, simulation]
 observations:
   - id: wikidata-q2352364:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Guild 2
 
-**The Guild 2** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2352364](https://www.wikidata.org/wiki/Q2352364)).
+**The Guild 2** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2352364` (Wikidata : [Q2352364](https://www.wikidata.org/wiki/Q2352364)).
 
 ## Audit de conformite structurelle
 

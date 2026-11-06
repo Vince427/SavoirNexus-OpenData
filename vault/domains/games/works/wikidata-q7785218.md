@@ -13,7 +13,7 @@ wikidata_id: Q7785218
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-08-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/214700/header.jpg"
-tags: [jeu, cataloged, adventure, simulation]
+tags: [jeu, audited, adventure, simulation]
 observations:
   - id: wikidata-q7785218:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Thirty Flights of Loving
 
-**Thirty Flights of Loving** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q7785218](https://www.wikidata.org/wiki/Q7785218)).
+**Thirty Flights of Loving** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q7785218` (Wikidata : [Q7785218](https://www.wikidata.org/wiki/Q7785218)).
 
 ## Audit de conformite structurelle
 

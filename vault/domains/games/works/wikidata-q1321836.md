@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1321836
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-12-06
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q1321836:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Doraemon Wii
 
-**Doraemon Wii** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1321836](https://www.wikidata.org/wiki/Q1321836)).
+**Doraemon Wii** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1321836` (Wikidata : [Q1321836](https://www.wikidata.org/wiki/Q1321836)).
 
 ## Audit de conformite structurelle
 

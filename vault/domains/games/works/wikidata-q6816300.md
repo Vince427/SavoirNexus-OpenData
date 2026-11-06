@@ -13,7 +13,7 @@ wikidata_id: Q6816300
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-02-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/64000/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q6816300:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Men of War: Assault Squad
 
-**Men of War: Assault Squad** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q6816300](https://www.wikidata.org/wiki/Q6816300)).
+**Men of War: Assault Squad** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q6816300` (Wikidata : [Q6816300](https://www.wikidata.org/wiki/Q6816300)).
 
 ## Audit de conformite structurelle
 

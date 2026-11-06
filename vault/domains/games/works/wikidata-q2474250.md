@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2474250
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-06-28
-tags: [jeu, cataloged, action, adventure, hack-and-slash]
+tags: [jeu, audited, action, adventure, hack-and-slash]
 observations:
   - id: wikidata-q2474250:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Pirates des Caraïbes : La Légende de Jack Sparrow
 
-**Pirates des Caraïbes : La Légende de Jack Sparrow** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2474250](https://www.wikidata.org/wiki/Q2474250)).
+**Pirates des Caraïbes : La Légende de Jack Sparrow** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2474250` (Wikidata : [Q2474250](https://www.wikidata.org/wiki/Q2474250)).
 
 ## Audit de conformite structurelle
 

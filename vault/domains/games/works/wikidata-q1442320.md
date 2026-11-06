@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1442320
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-06-21
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q1442320:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Itadaki Street DS
 
-**Itadaki Street DS** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1442320](https://www.wikidata.org/wiki/Q1442320)).
+**Itadaki Street DS** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1442320` (Wikidata : [Q1442320](https://www.wikidata.org/wiki/Q1442320)).
 
 ## Audit de conformite structurelle
 

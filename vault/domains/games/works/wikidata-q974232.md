@@ -13,7 +13,7 @@ wikidata_id: Q974232
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-04-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/216250/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q974232:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Dead Island Riptide
 
-**Dead Island Riptide** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q974232](https://www.wikidata.org/wiki/Q974232)).
+**Dead Island Riptide** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q974232` (Wikidata : [Q974232](https://www.wikidata.org/wiki/Q974232)).
 
 ## Audit de conformite structurelle
 

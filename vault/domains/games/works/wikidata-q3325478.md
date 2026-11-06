@@ -13,7 +13,7 @@ wikidata_id: Q3325478
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-02-21
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/274130/header.jpg"
-tags: [jeu, cataloged, action, adventure, shooter]
+tags: [jeu, audited, action, adventure, shooter]
 observations:
   - id: wikidata-q3325478:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Rambo: The Video Game
 
-**Rambo: The Video Game** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3325478](https://www.wikidata.org/wiki/Q3325478)).
+**Rambo: The Video Game** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3325478` (Wikidata : [Q3325478](https://www.wikidata.org/wiki/Q3325478)).
 
 ## Audit de conformite structurelle
 

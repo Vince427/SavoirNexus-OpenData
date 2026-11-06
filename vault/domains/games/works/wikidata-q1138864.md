@@ -13,7 +13,7 @@ wikidata_id: Q1138864
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-01-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/222480/header.jpg"
-tags: [jeu, cataloged, action, horror, shooter, survival]
+tags: [jeu, audited, action, horror, shooter, survival]
 observations:
   - id: wikidata-q1138864:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Resident Evil: Revelations
 
-**Resident Evil: Revelations** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1138864](https://www.wikidata.org/wiki/Q1138864)).
+**Resident Evil: Revelations** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1138864` (Wikidata : [Q1138864](https://www.wikidata.org/wiki/Q1138864)).
 
 ## Audit de conformite structurelle
 

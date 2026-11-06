@@ -13,7 +13,7 @@ wikidata_id: Q3272454
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-07-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/696180/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q3272454:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Bullet Witch
 
-**Bullet Witch** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3272454](https://www.wikidata.org/wiki/Q3272454)).
+**Bullet Witch** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3272454` (Wikidata : [Q3272454](https://www.wikidata.org/wiki/Q3272454)).
 
 ## Audit de conformite structurelle
 

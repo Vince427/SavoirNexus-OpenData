@@ -13,7 +13,7 @@ wikidata_id: Q2275208
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-03-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/302080/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2275208:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Bus Driver
 
-**Bus Driver** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2275208](https://www.wikidata.org/wiki/Q2275208)).
+**Bus Driver** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2275208` (Wikidata : [Q2275208](https://www.wikidata.org/wiki/Q2275208)).
 
 ## Audit de conformite structurelle
 

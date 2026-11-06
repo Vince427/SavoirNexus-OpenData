@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q281392
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-10-31
-tags: [jeu, cataloged, action, shooter]
+tags: [jeu, audited, action, shooter]
 observations:
   - id: wikidata-q281392:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Killzone: Liberation
 
-**Killzone: Liberation** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q281392](https://www.wikidata.org/wiki/Q281392)).
+**Killzone: Liberation** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q281392` (Wikidata : [Q281392](https://www.wikidata.org/wiki/Q281392)).
 
 ## Audit de conformite structurelle
 

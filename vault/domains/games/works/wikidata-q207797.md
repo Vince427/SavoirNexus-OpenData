@@ -13,7 +13,7 @@ wikidata_id: Q207797
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10090/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q207797:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Call of Duty: World at War
 
-**Call of Duty: World at War** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q207797](https://www.wikidata.org/wiki/Q207797)).
+**Call of Duty: World at War** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q207797` (Wikidata : [Q207797](https://www.wikidata.org/wiki/Q207797)).
 
 ## Audit de conformite structurelle
 

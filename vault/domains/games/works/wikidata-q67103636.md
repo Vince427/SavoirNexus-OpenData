@@ -13,7 +13,7 @@ wikidata_id: Q67103636
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-09-03
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/330020/header.jpg"
-tags: [jeu, cataloged, adventure, hack-and-slash, roguelike, rpg]
+tags: [jeu, audited, adventure, hack-and-slash, roguelike, rpg]
 observations:
   - id: wikidata-q67103636:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # Children of Morta
 
-**Children of Morta** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q67103636](https://www.wikidata.org/wiki/Q67103636)).
+**Children of Morta** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q67103636` (Wikidata : [Q67103636](https://www.wikidata.org/wiki/Q67103636)).
 
 ## Audit de conformite structurelle
 

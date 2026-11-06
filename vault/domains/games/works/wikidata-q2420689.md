@@ -13,7 +13,7 @@ wikidata_id: Q2420689
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-05-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/45750/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2420689:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Lost Planet 2
 
-**Lost Planet 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2420689](https://www.wikidata.org/wiki/Q2420689)).
+**Lost Planet 2** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2420689` (Wikidata : [Q2420689](https://www.wikidata.org/wiki/Q2420689)).
 
 ## Audit de conformite structurelle
 

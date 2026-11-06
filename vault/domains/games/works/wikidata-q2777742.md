@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2777742
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-01-26
-tags: [jeu, cataloged, shooter, simulation]
+tags: [jeu, audited, shooter, simulation]
 observations:
   - id: wikidata-q2777742:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -102,7 +102,7 @@ observations:
 
 # Armored Core V
 
-**Armored Core V** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2777742](https://www.wikidata.org/wiki/Q2777742)).
+**Armored Core V** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2777742` (Wikidata : [Q2777742](https://www.wikidata.org/wiki/Q2777742)).
 
 ## Audit de conformite structurelle
 

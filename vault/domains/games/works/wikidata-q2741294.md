@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2741294
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-07-26
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q2741294:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dewy’s Adventure
 
-**Dewy’s Adventure** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2741294](https://www.wikidata.org/wiki/Q2741294)).
+**Dewy’s Adventure** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2741294` (Wikidata : [Q2741294](https://www.wikidata.org/wiki/Q2741294)).
 
 ## Audit de conformite structurelle
 

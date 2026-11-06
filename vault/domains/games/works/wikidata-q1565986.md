@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1565986
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-10-24
-tags: [jeu, cataloged, racing, sports]
+tags: [jeu, audited, racing, sports]
 observations:
   - id: wikidata-q1565986:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Tony Hawk's Downhill Jam
 
-**Tony Hawk's Downhill Jam** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1565986](https://www.wikidata.org/wiki/Q1565986)).
+**Tony Hawk's Downhill Jam** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1565986` (Wikidata : [Q1565986](https://www.wikidata.org/wiki/Q1565986)).
 
 ## Audit de conformite structurelle
 

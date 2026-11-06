@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3027791
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-02-01
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q3027791:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Digital: A Love Story
 
-**Digital: A Love Story** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3027791](https://www.wikidata.org/wiki/Q3027791)).
+**Digital: A Love Story** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3027791` (Wikidata : [Q3027791](https://www.wikidata.org/wiki/Q3027791)).
 
 ## Audit de conformite structurelle
 

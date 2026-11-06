@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1373328
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-13
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q1373328:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Rayman contre les lapins encore plus crétins
 
-**Rayman contre les lapins encore plus crétins** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1373328](https://www.wikidata.org/wiki/Q1373328)).
+**Rayman contre les lapins encore plus crétins** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1373328` (Wikidata : [Q1373328](https://www.wikidata.org/wiki/Q1373328)).
 
 ## Audit de conformite structurelle
 

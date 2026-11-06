@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3902264
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-02-26
-tags: [jeu, cataloged, puzzle, rpg]
+tags: [jeu, audited, puzzle, rpg]
 observations:
   - id: wikidata-q3902264:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Place Mii StreetPass
 
-**Place Mii StreetPass** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3902264](https://www.wikidata.org/wiki/Q3902264)).
+**Place Mii StreetPass** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3902264` (Wikidata : [Q3902264](https://www.wikidata.org/wiki/Q3902264)).
 
 ## Audit de conformite structurelle
 

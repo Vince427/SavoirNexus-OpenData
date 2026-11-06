@@ -13,7 +13,7 @@ wikidata_id: Q27951316
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/610190/header.jpg"
-tags: [jeu, cataloged, hack-and-slash]
+tags: [jeu, audited, hack-and-slash]
 observations:
   - id: wikidata-q27951316:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Warriors All-Stars
 
-**Warriors All-Stars** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q27951316](https://www.wikidata.org/wiki/Q27951316)).
+**Warriors All-Stars** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q27951316` (Wikidata : [Q27951316](https://www.wikidata.org/wiki/Q27951316)).
 
 ## Audit de conformite structurelle
 

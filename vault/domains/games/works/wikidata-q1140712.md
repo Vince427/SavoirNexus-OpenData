@@ -13,7 +13,7 @@ wikidata_id: Q1140712
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-03-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/209100/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1140712:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Resident Evil: Operation Raccoon City
 
-**Resident Evil: Operation Raccoon City** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1140712](https://www.wikidata.org/wiki/Q1140712)).
+**Resident Evil: Operation Raccoon City** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1140712` (Wikidata : [Q1140712](https://www.wikidata.org/wiki/Q1140712)).
 
 ## Audit de conformite structurelle
 

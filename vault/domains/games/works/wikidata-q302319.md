@@ -13,7 +13,7 @@ wikidata_id: Q302319
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-04-05
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/73170/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q302319:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Darkest Hour: A Hearts of Iron Game
 
-**Darkest Hour: A Hearts of Iron Game** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q302319](https://www.wikidata.org/wiki/Q302319)).
+**Darkest Hour: A Hearts of Iron Game** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q302319` (Wikidata : [Q302319](https://www.wikidata.org/wiki/Q302319)).
 
 ## Audit de conformite structurelle
 

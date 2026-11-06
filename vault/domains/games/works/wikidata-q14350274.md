@@ -13,7 +13,7 @@ wikidata_id: Q14350274
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-10-04
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/223670/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q14350274:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # F1 2013
 
-**F1 2013** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q14350274](https://www.wikidata.org/wiki/Q14350274)).
+**F1 2013** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q14350274` (Wikidata : [Q14350274](https://www.wikidata.org/wiki/Q14350274)).
 
 ## Audit de conformite structurelle
 

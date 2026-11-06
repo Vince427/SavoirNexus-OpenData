@@ -13,7 +13,7 @@ wikidata_id: Q43154153
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-08-22
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/641990/header.jpg"
-tags: [jeu, cataloged, rpg, simulation, strategy]
+tags: [jeu, audited, rpg, simulation, strategy]
 observations:
   - id: wikidata-q43154153:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # The Escapists 2
 
-**The Escapists 2** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q43154153](https://www.wikidata.org/wiki/Q43154153)).
+**The Escapists 2** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q43154153` (Wikidata : [Q43154153](https://www.wikidata.org/wiki/Q43154153)).
 
 ## Audit de conformite structurelle
 

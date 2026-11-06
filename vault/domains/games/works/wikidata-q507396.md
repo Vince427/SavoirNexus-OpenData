@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q507396
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-10-07
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q507396:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Crash: Génération Mutant
 
-**Crash: Génération Mutant** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q507396](https://www.wikidata.org/wiki/Q507396)).
+**Crash: Génération Mutant** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q507396` (Wikidata : [Q507396](https://www.wikidata.org/wiki/Q507396)).
 
 ## Audit de conformite structurelle
 

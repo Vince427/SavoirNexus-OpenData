@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3070290
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-01-19
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q3070290:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # WipEout 2048
 
-**WipEout 2048** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3070290](https://www.wikidata.org/wiki/Q3070290)).
+**WipEout 2048** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3070290` (Wikidata : [Q3070290](https://www.wikidata.org/wiki/Q3070290)).
 
 ## Audit de conformite structurelle
 

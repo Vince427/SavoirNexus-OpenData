@@ -13,7 +13,7 @@ wikidata_id: Q14322389
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-06-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1293820/header.jpg"
-tags: [jeu, cataloged, adventure, horror]
+tags: [jeu, audited, adventure, horror]
 observations:
   - id: wikidata-q14322389:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # You And Me And Her: A Love Story
 
-**You And Me And Her: A Love Story** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q14322389](https://www.wikidata.org/wiki/Q14322389)).
+**You And Me And Her: A Love Story** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q14322389` (Wikidata : [Q14322389](https://www.wikidata.org/wiki/Q14322389)).
 
 ## Audit de conformite structurelle
 

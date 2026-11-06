@@ -13,7 +13,7 @@ wikidata_id: Q3502927
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-06-20
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/612540/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q3502927:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Sudden Strike 3: Arms for Victory
 
-**Sudden Strike 3: Arms for Victory** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3502927](https://www.wikidata.org/wiki/Q3502927)).
+**Sudden Strike 3: Arms for Victory** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3502927` (Wikidata : [Q3502927](https://www.wikidata.org/wiki/Q3502927)).
 
 ## Audit de conformite structurelle
 

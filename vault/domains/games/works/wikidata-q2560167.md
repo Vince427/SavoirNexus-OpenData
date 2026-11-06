@@ -13,7 +13,7 @@ wikidata_id: Q2560167
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-06-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/55110/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2560167:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Red Faction: Armageddon
 
-**Red Faction: Armageddon** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2560167](https://www.wikidata.org/wiki/Q2560167)).
+**Red Faction: Armageddon** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2560167` (Wikidata : [Q2560167](https://www.wikidata.org/wiki/Q2560167)).
 
 ## Audit de conformite structurelle
 

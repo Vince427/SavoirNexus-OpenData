@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3075019
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-01-01
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q3075019:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # LFP Manager 12
 
-**LFP Manager 12** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3075019](https://www.wikidata.org/wiki/Q3075019)).
+**LFP Manager 12** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3075019` (Wikidata : [Q3075019](https://www.wikidata.org/wiki/Q3075019)).
 
 ## Audit de conformite structurelle
 

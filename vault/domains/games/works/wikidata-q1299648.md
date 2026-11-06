@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1299648
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-10-11
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q1299648:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mortal Kombat: Armageddon
 
-**Mortal Kombat: Armageddon** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1299648](https://www.wikidata.org/wiki/Q1299648)).
+**Mortal Kombat: Armageddon** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1299648` (Wikidata : [Q1299648](https://www.wikidata.org/wiki/Q1299648)).
 
 ## Audit de conformite structurelle
 

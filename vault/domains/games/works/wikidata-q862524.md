@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q862524
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-06-30
-tags: [jeu, cataloged, action, adventure, shooter]
+tags: [jeu, audited, action, adventure, shooter]
 observations:
   - id: wikidata-q862524:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -102,7 +102,7 @@ observations:
 
 # Harry Potter et le Prince de sang-mêlé
 
-**Harry Potter et le Prince de sang-mêlé** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q862524](https://www.wikidata.org/wiki/Q862524)).
+**Harry Potter et le Prince de sang-mêlé** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q862524` (Wikidata : [Q862524](https://www.wikidata.org/wiki/Q862524)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q1502524
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8600/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q1502524:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Race 07
 
-**Race 07** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1502524](https://www.wikidata.org/wiki/Q1502524)).
+**Race 07** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1502524` (Wikidata : [Q1502524](https://www.wikidata.org/wiki/Q1502524)).
 
 ## Audit de conformite structurelle
 

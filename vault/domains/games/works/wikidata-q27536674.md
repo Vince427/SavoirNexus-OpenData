@@ -13,7 +13,7 @@ wikidata_id: Q27536674
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-03-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/427660/header.jpg"
-tags: [jeu, cataloged, horror, survival]
+tags: [jeu, audited, horror, survival]
 observations:
   - id: wikidata-q27536674:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # NightCry
 
-**NightCry** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q27536674](https://www.wikidata.org/wiki/Q27536674)).
+**NightCry** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q27536674` (Wikidata : [Q27536674](https://www.wikidata.org/wiki/Q27536674)).
 
 ## Audit de conformite structurelle
 

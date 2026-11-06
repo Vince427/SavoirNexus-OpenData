@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q253111
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-12-18
-tags: [jeu, cataloged, action, fighting, rpg]
+tags: [jeu, audited, action, fighting, rpg]
 observations:
   - id: wikidata-q253111:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dissidia: Final Fantasy
 
-**Dissidia: Final Fantasy** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q253111](https://www.wikidata.org/wiki/Q253111)).
+**Dissidia: Final Fantasy** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q253111` (Wikidata : [Q253111](https://www.wikidata.org/wiki/Q253111)).
 
 ## Audit de conformite structurelle
 

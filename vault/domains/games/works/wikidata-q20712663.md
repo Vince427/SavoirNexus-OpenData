@@ -13,7 +13,7 @@ wikidata_id: Q20712663
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-08-10
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/320240/header.jpg"
-tags: [jeu, cataloged, action, adventure, horror, roguelike, rpg, survival]
+tags: [jeu, audited, action, adventure, horror, roguelike, rpg, survival]
 observations:
   - id: wikidata-q20712663:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # We Happy Few
 
-**We Happy Few** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20712663](https://www.wikidata.org/wiki/Q20712663)).
+**We Happy Few** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20712663` (Wikidata : [Q20712663](https://www.wikidata.org/wiki/Q20712663)).
 
 ## Audit de conformite structurelle
 

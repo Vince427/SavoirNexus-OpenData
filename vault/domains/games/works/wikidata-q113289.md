@@ -13,7 +13,7 @@ wikidata_id: Q113289
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-10-16
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/219640/header.jpg"
-tags: [jeu, cataloged, hack-and-slash]
+tags: [jeu, audited, hack-and-slash]
 observations:
   - id: wikidata-q113289:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Chivalry: Medieval Warfare
 
-**Chivalry: Medieval Warfare** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q113289](https://www.wikidata.org/wiki/Q113289)).
+**Chivalry: Medieval Warfare** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q113289` (Wikidata : [Q113289](https://www.wikidata.org/wiki/Q113289)).
 
 ## Audit de conformite structurelle
 

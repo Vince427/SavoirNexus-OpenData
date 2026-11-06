@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2758082
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-01-25
-tags: [jeu, cataloged, rpg, simulation]
+tags: [jeu, audited, rpg, simulation]
 observations:
   - id: wikidata-q2758082:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Harvest Moon GBC 3
 
-**Harvest Moon GBC 3** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2758082](https://www.wikidata.org/wiki/Q2758082)).
+**Harvest Moon GBC 3** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2758082` (Wikidata : [Q2758082](https://www.wikidata.org/wiki/Q2758082)).
 
 ## Audit de conformite structurelle
 

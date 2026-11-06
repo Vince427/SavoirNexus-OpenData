@@ -13,7 +13,7 @@ wikidata_id: Q2032494
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-08-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/419360/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q2032494:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Reservoir Dogs
 
-**Reservoir Dogs** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2032494](https://www.wikidata.org/wiki/Q2032494)).
+**Reservoir Dogs** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2032494` (Wikidata : [Q2032494](https://www.wikidata.org/wiki/Q2032494)).
 
 ## Audit de conformite structurelle
 

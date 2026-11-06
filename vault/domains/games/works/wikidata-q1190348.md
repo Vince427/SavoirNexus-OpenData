@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1190348
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-07-12
-tags: [jeu, cataloged, puzzle, strategy]
+tags: [jeu, audited, puzzle, strategy]
 observations:
   - id: wikidata-q1190348:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Amazing Alex
 
-**Amazing Alex** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1190348](https://www.wikidata.org/wiki/Q1190348)).
+**Amazing Alex** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1190348` (Wikidata : [Q1190348](https://www.wikidata.org/wiki/Q1190348)).
 
 ## Audit de conformite structurelle
 

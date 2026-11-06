@@ -13,7 +13,7 @@ wikidata_id: Q16743220
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-09-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/258520/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q16743220:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Vanishing of Ethan Carter
 
-**The Vanishing of Ethan Carter** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16743220](https://www.wikidata.org/wiki/Q16743220)).
+**The Vanishing of Ethan Carter** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16743220` (Wikidata : [Q16743220](https://www.wikidata.org/wiki/Q16743220)).
 
 ## Audit de conformite structurelle
 

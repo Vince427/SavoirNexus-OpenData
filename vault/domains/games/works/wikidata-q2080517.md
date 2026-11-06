@@ -13,7 +13,7 @@ wikidata_id: Q2080517
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-04-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/215690/header.jpg"
-tags: [jeu, cataloged, fighting, shooter]
+tags: [jeu, audited, fighting, shooter]
 observations:
   - id: wikidata-q2080517:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Zeno Clash 2
 
-**Zeno Clash 2** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2080517](https://www.wikidata.org/wiki/Q2080517)).
+**Zeno Clash 2** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2080517` (Wikidata : [Q2080517](https://www.wikidata.org/wiki/Q2080517)).
 
 ## Audit de conformite structurelle
 

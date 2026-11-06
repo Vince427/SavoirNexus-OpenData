@@ -13,7 +13,7 @@ wikidata_id: Q939588
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-04-24
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/207610/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q939588:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # The Walking Dead
 
-**The Walking Dead** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q939588](https://www.wikidata.org/wiki/Q939588)).
+**The Walking Dead** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q939588` (Wikidata : [Q939588](https://www.wikidata.org/wiki/Q939588)).
 
 ## Audit de conformite structurelle
 

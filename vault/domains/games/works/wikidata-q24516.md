@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q24516
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-07-15
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q24516:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Fire Emblem: New Mystery of the Emblem
 
-**Fire Emblem: New Mystery of the Emblem** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q24516](https://www.wikidata.org/wiki/Q24516)).
+**Fire Emblem: New Mystery of the Emblem** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q24516` (Wikidata : [Q24516](https://www.wikidata.org/wiki/Q24516)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1950734
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-03-21
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1950734:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Tom Clancy's Splinter Cell: Essentials
 
-**Tom Clancy's Splinter Cell: Essentials** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1950734](https://www.wikidata.org/wiki/Q1950734)).
+**Tom Clancy's Splinter Cell: Essentials** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1950734` (Wikidata : [Q1950734](https://www.wikidata.org/wiki/Q1950734)).
 
 ## Audit de conformite structurelle
 

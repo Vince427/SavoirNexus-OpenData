@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1608742
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-09-08
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q1608742:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Viva Piñata: Pocket Paradise
 
-**Viva Piñata: Pocket Paradise** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1608742](https://www.wikidata.org/wiki/Q1608742)).
+**Viva Piñata: Pocket Paradise** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1608742` (Wikidata : [Q1608742](https://www.wikidata.org/wiki/Q1608742)).
 
 ## Audit de conformite structurelle
 

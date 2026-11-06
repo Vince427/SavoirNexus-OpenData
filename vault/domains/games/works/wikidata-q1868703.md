@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q1868703
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-06-12
-tags: [jeu, cataloged, action, adventure, hack-and-slash]
+tags: [jeu, audited, action, adventure, hack-and-slash]
 observations:
   - id: wikidata-q1868703:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -101,7 +101,7 @@ observations:
 
 # Lollipop Chainsaw
 
-**Lollipop Chainsaw** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1868703](https://www.wikidata.org/wiki/Q1868703)).
+**Lollipop Chainsaw** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1868703` (Wikidata : [Q1868703](https://www.wikidata.org/wiki/Q1868703)).
 
 ## Audit de conformite structurelle
 

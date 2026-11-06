@@ -13,7 +13,7 @@ wikidata_id: Q618266
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-10-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/24240/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q618266:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Payday: The Heist
 
-**Payday: The Heist** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q618266](https://www.wikidata.org/wiki/Q618266)).
+**Payday: The Heist** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q618266` (Wikidata : [Q618266](https://www.wikidata.org/wiki/Q618266)).
 
 ## Audit de conformite structurelle
 

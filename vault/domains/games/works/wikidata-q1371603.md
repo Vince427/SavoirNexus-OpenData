@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1371603
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-07-14
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1371603:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Star Fox 64 3D
 
-**Star Fox 64 3D** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1371603](https://www.wikidata.org/wiki/Q1371603)).
+**Star Fox 64 3D** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1371603` (Wikidata : [Q1371603](https://www.wikidata.org/wiki/Q1371603)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2452472
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-23
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q2452472:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mega Man ZX Advent
 
-**Mega Man ZX Advent** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2452472](https://www.wikidata.org/wiki/Q2452472)).
+**Mega Man ZX Advent** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2452472` (Wikidata : [Q2452472](https://www.wikidata.org/wiki/Q2452472)).
 
 ## Audit de conformite structurelle
 

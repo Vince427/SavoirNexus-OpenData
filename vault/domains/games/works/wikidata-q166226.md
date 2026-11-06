@@ -13,7 +13,7 @@ wikidata_id: Q166226
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-10-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/960990/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q166226:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Beyond: Two Souls
 
-**Beyond: Two Souls** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q166226](https://www.wikidata.org/wiki/Q166226)).
+**Beyond: Two Souls** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q166226` (Wikidata : [Q166226](https://www.wikidata.org/wiki/Q166226)).
 
 ## Audit de conformite structurelle
 

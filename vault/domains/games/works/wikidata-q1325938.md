@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1325938
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-02-27
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q1325938:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # SSX Blur
 
-**SSX Blur** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1325938](https://www.wikidata.org/wiki/Q1325938)).
+**SSX Blur** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1325938` (Wikidata : [Q1325938](https://www.wikidata.org/wiki/Q1325938)).
 
 ## Audit de conformite structurelle
 

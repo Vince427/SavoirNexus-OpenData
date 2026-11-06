@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q1527294
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-04-14
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1527294:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # Army Men: Major Malfunction
 
-**Army Men: Major Malfunction** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1527294](https://www.wikidata.org/wiki/Q1527294)).
+**Army Men: Major Malfunction** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1527294` (Wikidata : [Q1527294](https://www.wikidata.org/wiki/Q1527294)).
 
 ## Audit de conformite structurelle
 

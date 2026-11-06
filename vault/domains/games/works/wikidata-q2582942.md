@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2582942
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-04-04
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q2582942:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Fate of Hellas
 
-**Fate of Hellas** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2582942](https://www.wikidata.org/wiki/Q2582942)).
+**Fate of Hellas** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2582942` (Wikidata : [Q2582942](https://www.wikidata.org/wiki/Q2582942)).
 
 ## Audit de conformite structurelle
 

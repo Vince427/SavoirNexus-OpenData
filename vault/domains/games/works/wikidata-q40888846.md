@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q40888846
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-11-03
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q40888846:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -102,7 +102,7 @@ observations:
 
 # Kirby Battle Royale
 
-**Kirby Battle Royale** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q40888846](https://www.wikidata.org/wiki/Q40888846)).
+**Kirby Battle Royale** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q40888846` (Wikidata : [Q40888846](https://www.wikidata.org/wiki/Q40888846)).
 
 ## Audit de conformite structurelle
 

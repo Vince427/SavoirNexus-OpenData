@@ -12,7 +12,7 @@ wikidata_id: Q2734000
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-06-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10470/header.jpg"
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q2734000:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Happy Tree Friends: False Alarm
 
-**Happy Tree Friends: False Alarm** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2734000](https://www.wikidata.org/wiki/Q2734000)).
+**Happy Tree Friends: False Alarm** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2734000` (Wikidata : [Q2734000](https://www.wikidata.org/wiki/Q2734000)).
 
 ## Audit de conformite structurelle
 

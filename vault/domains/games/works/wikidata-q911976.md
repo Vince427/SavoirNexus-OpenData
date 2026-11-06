@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q911976
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-05-26
-tags: [jeu, cataloged, hack-and-slash]
+tags: [jeu, audited, hack-and-slash]
 observations:
   - id: wikidata-q911976:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Warriors: Legends of Troy
 
-**Warriors: Legends of Troy** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q911976](https://www.wikidata.org/wiki/Q911976)).
+**Warriors: Legends of Troy** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q911976` (Wikidata : [Q911976](https://www.wikidata.org/wiki/Q911976)).
 
 ## Audit de conformite structurelle
 

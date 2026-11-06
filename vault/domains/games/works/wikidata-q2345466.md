@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2345466
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-05-19
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q2345466:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # ModNation Racers
 
-**ModNation Racers** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2345466](https://www.wikidata.org/wiki/Q2345466)).
+**ModNation Racers** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2345466` (Wikidata : [Q2345466](https://www.wikidata.org/wiki/Q2345466)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3021186
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-03-06
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q3021186:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Def Jam: Icon
 
-**Def Jam: Icon** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3021186](https://www.wikidata.org/wiki/Q3021186)).
+**Def Jam: Icon** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3021186` (Wikidata : [Q3021186](https://www.wikidata.org/wiki/Q3021186)).
 
 ## Audit de conformite structurelle
 

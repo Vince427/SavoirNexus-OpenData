@@ -13,7 +13,7 @@ wikidata_id: Q925438
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-05-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7020/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q925438:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Rogue Trooper
 
-**Rogue Trooper** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q925438](https://www.wikidata.org/wiki/Q925438)).
+**Rogue Trooper** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q925438` (Wikidata : [Q925438](https://www.wikidata.org/wiki/Q925438)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q16259332
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-03-03
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q16259332:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Super Monkey Ball 3D
 
-**Super Monkey Ball 3D** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16259332](https://www.wikidata.org/wiki/Q16259332)).
+**Super Monkey Ball 3D** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16259332` (Wikidata : [Q16259332](https://www.wikidata.org/wiki/Q16259332)).
 
 ## Audit de conformite structurelle
 

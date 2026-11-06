@@ -13,7 +13,7 @@ wikidata_id: Q16267679
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-06-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/251470/header.jpg"
-tags: [jeu, cataloged, action, platformer]
+tags: [jeu, audited, action, platformer]
 observations:
   - id: wikidata-q16267679:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # TowerFall
 
-**TowerFall** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q16267679](https://www.wikidata.org/wiki/Q16267679)).
+**TowerFall** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q16267679` (Wikidata : [Q16267679](https://www.wikidata.org/wiki/Q16267679)).
 
 ## Audit de conformite structurelle
 

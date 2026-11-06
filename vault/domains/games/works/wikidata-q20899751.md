@@ -13,7 +13,7 @@ wikidata_id: Q20899751
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-08-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/429660/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q20899751:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Tales of Berseria
 
-**Tales of Berseria** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20899751](https://www.wikidata.org/wiki/Q20899751)).
+**Tales of Berseria** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20899751` (Wikidata : [Q20899751](https://www.wikidata.org/wiki/Q20899751)).
 
 ## Audit de conformite structurelle
 

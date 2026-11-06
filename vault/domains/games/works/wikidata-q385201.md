@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q385201
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-09-25
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q385201:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # MySims Agents
 
-**MySims Agents** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q385201](https://www.wikidata.org/wiki/Q385201)).
+**MySims Agents** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q385201` (Wikidata : [Q385201](https://www.wikidata.org/wiki/Q385201)).
 
 ## Audit de conformite structurelle
 

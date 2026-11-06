@@ -13,7 +13,7 @@ wikidata_id: Q83565
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-11-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/245300/header.jpg"
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q83565:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # Epic Mickey : Le Retour des héros
 
-**Epic Mickey : Le Retour des héros** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q83565](https://www.wikidata.org/wiki/Q83565)).
+**Epic Mickey : Le Retour des héros** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q83565` (Wikidata : [Q83565](https://www.wikidata.org/wiki/Q83565)).
 
 ## Audit de conformite structurelle
 

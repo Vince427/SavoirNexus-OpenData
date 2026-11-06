@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q55608276
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-10-08
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q55608276:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -101,7 +101,7 @@ observations:
 
 # Concrete Genie
 
-**Concrete Genie** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q55608276](https://www.wikidata.org/wiki/Q55608276)).
+**Concrete Genie** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q55608276` (Wikidata : [Q55608276](https://www.wikidata.org/wiki/Q55608276)).
 
 ## Audit de conformite structurelle
 

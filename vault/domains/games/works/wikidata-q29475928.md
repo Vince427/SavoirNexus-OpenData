@@ -13,7 +13,7 @@ wikidata_id: Q29475928
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-09-27
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/678960/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q29475928:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Code Vein
 
-**Code Vein** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q29475928](https://www.wikidata.org/wiki/Q29475928)).
+**Code Vein** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q29475928` (Wikidata : [Q29475928](https://www.wikidata.org/wiki/Q29475928)).
 
 ## Audit de conformite structurelle
 

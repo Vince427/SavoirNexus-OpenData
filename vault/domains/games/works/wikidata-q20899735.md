@@ -13,7 +13,7 @@ wikidata_id: Q20899735
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-09-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/435150/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q20899735:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # Divinity: Original Sin II
 
-**Divinity: Original Sin II** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q20899735](https://www.wikidata.org/wiki/Q20899735)).
+**Divinity: Original Sin II** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20899735` (Wikidata : [Q20899735](https://www.wikidata.org/wiki/Q20899735)).
 
 ## Audit de conformite structurelle
 

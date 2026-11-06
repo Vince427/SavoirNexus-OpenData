@@ -13,7 +13,7 @@ wikidata_id: Q7201228
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-09-05
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/233250/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q7201228:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Planetary Annihilation
 
-**Planetary Annihilation** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q7201228](https://www.wikidata.org/wiki/Q7201228)).
+**Planetary Annihilation** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q7201228` (Wikidata : [Q7201228](https://www.wikidata.org/wiki/Q7201228)).
 
 ## Audit de conformite structurelle
 

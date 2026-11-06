@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1432682
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-01-01
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q1432682:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # TrackMania DS
 
-**TrackMania DS** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1432682](https://www.wikidata.org/wiki/Q1432682)).
+**TrackMania DS** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1432682` (Wikidata : [Q1432682](https://www.wikidata.org/wiki/Q1432682)).
 
 ## Audit de conformite structurelle
 

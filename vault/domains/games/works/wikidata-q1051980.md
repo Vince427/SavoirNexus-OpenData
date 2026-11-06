@@ -13,7 +13,7 @@ wikidata_id: Q1051980
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13210/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1051980:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Unreal Tournament 3
 
-**Unreal Tournament 3** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1051980](https://www.wikidata.org/wiki/Q1051980)).
+**Unreal Tournament 3** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1051980` (Wikidata : [Q1051980](https://www.wikidata.org/wiki/Q1051980)).
 
 ## Audit de conformite structurelle
 

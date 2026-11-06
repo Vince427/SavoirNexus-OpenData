@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q657710
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-06-23
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q657710:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # The Legend of Zelda: Phantom Hourglass
 
-**The Legend of Zelda: Phantom Hourglass** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q657710](https://www.wikidata.org/wiki/Q657710)).
+**The Legend of Zelda: Phantom Hourglass** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q657710` (Wikidata : [Q657710](https://www.wikidata.org/wiki/Q657710)).
 
 ## Audit de conformite structurelle
 

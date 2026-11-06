@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1328243
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-23
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q1328243:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Zack et Wiki : Le Trésor de Barbaros
 
-**Zack et Wiki : Le Trésor de Barbaros** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1328243](https://www.wikidata.org/wiki/Q1328243)).
+**Zack et Wiki : Le Trésor de Barbaros** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1328243` (Wikidata : [Q1328243](https://www.wikidata.org/wiki/Q1328243)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1139501
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-07-25
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1139501:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Scarface: The World Is Yours
 
-**Scarface: The World Is Yours** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1139501](https://www.wikidata.org/wiki/Q1139501)).
+**Scarface: The World Is Yours** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1139501` (Wikidata : [Q1139501](https://www.wikidata.org/wiki/Q1139501)).
 
 ## Audit de conformite structurelle
 

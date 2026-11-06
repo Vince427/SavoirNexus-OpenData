@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q769042
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-05-29
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q769042:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario Party 8
 
-**Mario Party 8** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q769042](https://www.wikidata.org/wiki/Q769042)).
+**Mario Party 8** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q769042` (Wikidata : [Q769042](https://www.wikidata.org/wiki/Q769042)).
 
 ## Audit de conformite structurelle
 

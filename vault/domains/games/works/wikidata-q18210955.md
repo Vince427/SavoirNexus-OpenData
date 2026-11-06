@@ -13,7 +13,7 @@ wikidata_id: Q18210955
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-07-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/460120/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q18210955:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Hyperdimension Neptunia Victory II
 
-**Hyperdimension Neptunia Victory II** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18210955](https://www.wikidata.org/wiki/Q18210955)).
+**Hyperdimension Neptunia Victory II** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18210955` (Wikidata : [Q18210955](https://www.wikidata.org/wiki/Q18210955)).
 
 ## Audit de conformite structurelle
 

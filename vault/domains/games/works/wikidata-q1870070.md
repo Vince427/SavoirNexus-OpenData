@@ -13,7 +13,7 @@ wikidata_id: Q1870070
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-11-18
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21750/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1870070:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Les Experts : Manhattan
 
-**Les Experts : Manhattan** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1870070](https://www.wikidata.org/wiki/Q1870070)).
+**Les Experts : Manhattan** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1870070` (Wikidata : [Q1870070](https://www.wikidata.org/wiki/Q1870070)).
 
 ## Audit de conformite structurelle
 

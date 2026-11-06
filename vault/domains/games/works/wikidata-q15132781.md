@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q15132781
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-10-17
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q15132781:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Saint Seiya: Brave Soldiers
 
-**Saint Seiya: Brave Soldiers** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15132781](https://www.wikidata.org/wiki/Q15132781)).
+**Saint Seiya: Brave Soldiers** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15132781` (Wikidata : [Q15132781](https://www.wikidata.org/wiki/Q15132781)).
 
 ## Audit de conformite structurelle
 

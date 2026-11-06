@@ -13,7 +13,7 @@ wikidata_id: Q2127932
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-06-30
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/31270/header.jpg"
-tags: [jeu, cataloged, adventure, puzzle]
+tags: [jeu, audited, adventure, puzzle]
 observations:
   - id: wikidata-q2127932:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Puzzle Agent
 
-**Puzzle Agent** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2127932](https://www.wikidata.org/wiki/Q2127932)).
+**Puzzle Agent** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2127932` (Wikidata : [Q2127932](https://www.wikidata.org/wiki/Q2127932)).
 
 ## Audit de conformite structurelle
 

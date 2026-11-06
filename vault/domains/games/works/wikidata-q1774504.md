@@ -13,7 +13,7 @@ wikidata_id: Q1774504
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-10-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21610/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q1774504:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # MotoGP '08
 
-**MotoGP '08** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1774504](https://www.wikidata.org/wiki/Q1774504)).
+**MotoGP '08** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1774504` (Wikidata : [Q1774504](https://www.wikidata.org/wiki/Q1774504)).
 
 ## Audit de conformite structurelle
 

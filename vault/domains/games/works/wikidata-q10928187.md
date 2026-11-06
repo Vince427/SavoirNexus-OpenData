@@ -13,7 +13,7 @@ wikidata_id: Q10928187
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-05-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/326480/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q10928187:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # If My Heart Had Wings
 
-**If My Heart Had Wings** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q10928187](https://www.wikidata.org/wiki/Q10928187)).
+**If My Heart Had Wings** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q10928187` (Wikidata : [Q10928187](https://www.wikidata.org/wiki/Q10928187)).
 
 ## Audit de conformite structurelle
 

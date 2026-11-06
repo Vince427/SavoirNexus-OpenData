@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1441569
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-10-17
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q1441569:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -102,7 +102,7 @@ observations:
 
 # Pro Evolution Soccer 2009
 
-**Pro Evolution Soccer 2009** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1441569](https://www.wikidata.org/wiki/Q1441569)).
+**Pro Evolution Soccer 2009** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1441569` (Wikidata : [Q1441569](https://www.wikidata.org/wiki/Q1441569)).
 
 ## Audit de conformite structurelle
 

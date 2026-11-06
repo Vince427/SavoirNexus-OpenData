@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q858935
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-03-23
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q858935:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -102,7 +102,7 @@ observations:
 
 # Dragons
 
-**Dragons** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q858935](https://www.wikidata.org/wiki/Q858935)).
+**Dragons** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q858935` (Wikidata : [Q858935](https://www.wikidata.org/wiki/Q858935)).
 
 ## Audit de conformite structurelle
 

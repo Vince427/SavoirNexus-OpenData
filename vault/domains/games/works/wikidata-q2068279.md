@@ -13,7 +13,7 @@ wikidata_id: Q2068279
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-07-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/24043/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2068279:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Train Simulator
 
-**Train Simulator** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2068279](https://www.wikidata.org/wiki/Q2068279)).
+**Train Simulator** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2068279` (Wikidata : [Q2068279](https://www.wikidata.org/wiki/Q2068279)).
 
 ## Audit de conformite structurelle
 

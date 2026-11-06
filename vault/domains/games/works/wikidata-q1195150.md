@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1195150
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-01-01
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q1195150:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Super Smash Bros. pour Nintendo 3DS et Wii U
 
-**Super Smash Bros. pour Nintendo 3DS et Wii U** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1195150](https://www.wikidata.org/wiki/Q1195150)).
+**Super Smash Bros. pour Nintendo 3DS et Wii U** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1195150` (Wikidata : [Q1195150](https://www.wikidata.org/wiki/Q1195150)).
 
 ## Audit de conformite structurelle
 

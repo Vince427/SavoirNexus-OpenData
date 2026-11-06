@@ -13,7 +13,7 @@ wikidata_id: Q482494
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-10-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/412830/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q482494:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Steins;Gate
 
-**Steins;Gate** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q482494](https://www.wikidata.org/wiki/Q482494)).
+**Steins;Gate** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q482494` (Wikidata : [Q482494](https://www.wikidata.org/wiki/Q482494)).
 
 ## Audit de conformite structurelle
 

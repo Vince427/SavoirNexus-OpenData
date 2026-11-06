@@ -13,7 +13,7 @@ wikidata_id: Q93777745
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2021-07-29
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/979690/header.jpg"
-tags: [jeu, cataloged, action, rpg, shooter]
+tags: [jeu, audited, action, rpg, shooter]
 observations:
   - id: wikidata-q93777745:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg
@@ -103,7 +103,7 @@ observations:
 
 # The Ascent
 
-**The Ascent** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q93777745](https://www.wikidata.org/wiki/Q93777745)).
+**The Ascent** est une oeuvre sortie initialement en 2021, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q93777745` (Wikidata : [Q93777745](https://www.wikidata.org/wiki/Q93777745)).
 
 ## Audit de conformite structurelle
 

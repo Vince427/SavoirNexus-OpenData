@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2761032
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-03-19
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q2761032:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Dragonball Evolution
 
-**Dragonball Evolution** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2761032](https://www.wikidata.org/wiki/Q2761032)).
+**Dragonball Evolution** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2761032` (Wikidata : [Q2761032](https://www.wikidata.org/wiki/Q2761032)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3494256
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-09-12
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q3494256:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # NHL 07
 
-**NHL 07** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3494256](https://www.wikidata.org/wiki/Q3494256)).
+**NHL 07** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3494256` (Wikidata : [Q3494256](https://www.wikidata.org/wiki/Q3494256)).
 
 ## Audit de conformite structurelle
 

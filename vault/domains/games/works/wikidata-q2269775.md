@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2269775
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-02-19
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2269775:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # NBA Street Homecourt
 
-**NBA Street Homecourt** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2269775](https://www.wikidata.org/wiki/Q2269775)).
+**NBA Street Homecourt** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2269775` (Wikidata : [Q2269775](https://www.wikidata.org/wiki/Q2269775)).
 
 ## Audit de conformite structurelle
 

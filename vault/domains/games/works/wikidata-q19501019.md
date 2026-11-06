@@ -13,7 +13,7 @@ wikidata_id: Q19501019
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/587260/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q19501019:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Tokyo Xanadu
 
-**Tokyo Xanadu** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q19501019](https://www.wikidata.org/wiki/Q19501019)).
+**Tokyo Xanadu** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q19501019` (Wikidata : [Q19501019](https://www.wikidata.org/wiki/Q19501019)).
 
 ## Audit de conformite structurelle
 

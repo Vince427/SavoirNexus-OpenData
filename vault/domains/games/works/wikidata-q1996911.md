@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1996911
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-12-05
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q1996911:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Metal Gear Solid: Portable Ops
 
-**Metal Gear Solid: Portable Ops** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1996911](https://www.wikidata.org/wiki/Q1996911)).
+**Metal Gear Solid: Portable Ops** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1996911` (Wikidata : [Q1996911](https://www.wikidata.org/wiki/Q1996911)).
 
 ## Audit de conformite structurelle
 

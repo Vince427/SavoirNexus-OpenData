@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1050298
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-11-03
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q1050298:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Super Mario 3D Land
 
-**Super Mario 3D Land** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1050298](https://www.wikidata.org/wiki/Q1050298)).
+**Super Mario 3D Land** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1050298` (Wikidata : [Q1050298](https://www.wikidata.org/wiki/Q1050298)).
 
 ## Audit de conformite structurelle
 

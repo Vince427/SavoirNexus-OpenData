@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q930248
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-02-06
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q930248:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Les Sims : Histoires de vie
 
-**Les Sims : Histoires de vie** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q930248](https://www.wikidata.org/wiki/Q930248)).
+**Les Sims : Histoires de vie** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q930248` (Wikidata : [Q930248](https://www.wikidata.org/wiki/Q930248)).
 
 ## Audit de conformite structurelle
 

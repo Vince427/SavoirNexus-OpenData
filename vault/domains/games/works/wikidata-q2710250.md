@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2710250
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-01-25
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q2710250:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Picross DS
 
-**Picross DS** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2710250](https://www.wikidata.org/wiki/Q2710250)).
+**Picross DS** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2710250` (Wikidata : [Q2710250](https://www.wikidata.org/wiki/Q2710250)).
 
 ## Audit de conformite structurelle
 

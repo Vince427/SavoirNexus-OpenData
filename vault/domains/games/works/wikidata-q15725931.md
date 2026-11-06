@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q15725931
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-10-02
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q15725931:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Kingdom Hearts HD 2.5 Remix
 
-**Kingdom Hearts HD 2.5 Remix** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q15725931](https://www.wikidata.org/wiki/Q15725931)).
+**Kingdom Hearts HD 2.5 Remix** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q15725931` (Wikidata : [Q15725931](https://www.wikidata.org/wiki/Q15725931)).
 
 ## Audit de conformite structurelle
 

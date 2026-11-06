@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q948821
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-01-29
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q948821:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Les Sims : Histoires de naufragés
 
-**Les Sims : Histoires de naufragés** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q948821](https://www.wikidata.org/wiki/Q948821)).
+**Les Sims : Histoires de naufragés** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q948821` (Wikidata : [Q948821](https://www.wikidata.org/wiki/Q948821)).
 
 ## Audit de conformite structurelle
 

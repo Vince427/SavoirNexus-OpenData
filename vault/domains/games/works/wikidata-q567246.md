@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q567246
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-06-23
-tags: [jeu, cataloged, simulation, strategy]
+tags: [jeu, audited, simulation, strategy]
 observations:
   - id: wikidata-q567246:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Anno 1404
 
-**Anno 1404** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q567246](https://www.wikidata.org/wiki/Q567246)).
+**Anno 1404** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q567246` (Wikidata : [Q567246](https://www.wikidata.org/wiki/Q567246)).
 
 ## Audit de conformite structurelle
 

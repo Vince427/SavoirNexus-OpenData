@@ -13,7 +13,7 @@ wikidata_id: Q2617729
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-01-12
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/34180/header.jpg"
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q2617729:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Vancouver 2010
 
-**Vancouver 2010** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2617729](https://www.wikidata.org/wiki/Q2617729)).
+**Vancouver 2010** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2617729` (Wikidata : [Q2617729](https://www.wikidata.org/wiki/Q2617729)).
 
 ## Audit de conformite structurelle
 

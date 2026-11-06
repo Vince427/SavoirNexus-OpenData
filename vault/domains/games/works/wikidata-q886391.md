@@ -13,7 +13,7 @@ wikidata_id: Q886391
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-05-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42640/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q886391:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Blur
 
-**Blur** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q886391](https://www.wikidata.org/wiki/Q886391)).
+**Blur** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q886391` (Wikidata : [Q886391](https://www.wikidata.org/wiki/Q886391)).
 
 ## Audit de conformite structurelle
 

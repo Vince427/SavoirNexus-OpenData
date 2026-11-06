@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1806733
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-01-14
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1806733:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Last Window : Le Secret de Cape West
 
-**Last Window : Le Secret de Cape West** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1806733](https://www.wikidata.org/wiki/Q1806733)).
+**Last Window : Le Secret de Cape West** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1806733` (Wikidata : [Q1806733](https://www.wikidata.org/wiki/Q1806733)).
 
 ## Audit de conformite structurelle
 

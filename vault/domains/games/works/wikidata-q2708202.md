@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2708202
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-11
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q2708202:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ridge Racer 7
 
-**Ridge Racer 7** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2708202](https://www.wikidata.org/wiki/Q2708202)).
+**Ridge Racer 7** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2708202` (Wikidata : [Q2708202](https://www.wikidata.org/wiki/Q2708202)).
 
 ## Audit de conformite structurelle
 

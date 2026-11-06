@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1117741
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-03-26
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1117741:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Medal of Honor : Avant-garde
 
-**Medal of Honor : Avant-garde** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1117741](https://www.wikidata.org/wiki/Q1117741)).
+**Medal of Honor : Avant-garde** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1117741` (Wikidata : [Q1117741](https://www.wikidata.org/wiki/Q1117741)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q95975531
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/678030/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q95975531:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # Fast and Furious Crossroads
 
-**Fast and Furious Crossroads** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q95975531](https://www.wikidata.org/wiki/Q95975531)).
+**Fast and Furious Crossroads** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q95975531` (Wikidata : [Q95975531](https://www.wikidata.org/wiki/Q95975531)).
 
 ## Audit de conformite structurelle
 

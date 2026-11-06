@@ -13,7 +13,7 @@ wikidata_id: Q1544650
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-31
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/431180/header.jpg"
-tags: [jeu, cataloged, rpg, simulation]
+tags: [jeu, audited, rpg, simulation]
 observations:
   - id: wikidata-q1544650:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # WolfQuest
 
-**WolfQuest** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1544650](https://www.wikidata.org/wiki/Q1544650)).
+**WolfQuest** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1544650` (Wikidata : [Q1544650](https://www.wikidata.org/wiki/Q1544650)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q580667
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-06-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8000/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q580667:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Tomb Raider: Anniversary
 
-**Tomb Raider: Anniversary** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q580667](https://www.wikidata.org/wiki/Q580667)).
+**Tomb Raider: Anniversary** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q580667` (Wikidata : [Q580667](https://www.wikidata.org/wiki/Q580667)).
 
 ## Audit de conformite structurelle
 

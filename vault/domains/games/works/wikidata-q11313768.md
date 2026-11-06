@@ -13,7 +13,7 @@ wikidata_id: Q11313768
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413420/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q11313768:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Danganronpa 2 : Goodbye Despair
 
-**Danganronpa 2 : Goodbye Despair** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q11313768](https://www.wikidata.org/wiki/Q11313768)).
+**Danganronpa 2 : Goodbye Despair** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q11313768` (Wikidata : [Q11313768](https://www.wikidata.org/wiki/Q11313768)).
 
 ## Audit de conformite structurelle
 

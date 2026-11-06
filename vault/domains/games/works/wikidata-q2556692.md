@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2556692
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-12-01
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q2556692:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Tatsunoko vs. Capcom: Cross Generation of Heroes
 
-**Tatsunoko vs. Capcom: Cross Generation of Heroes** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2556692](https://www.wikidata.org/wiki/Q2556692)).
+**Tatsunoko vs. Capcom: Cross Generation of Heroes** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2556692` (Wikidata : [Q2556692](https://www.wikidata.org/wiki/Q2556692)).
 
 ## Audit de conformite structurelle
 

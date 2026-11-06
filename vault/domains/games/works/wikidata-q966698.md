@@ -13,7 +13,7 @@ wikidata_id: Q966698
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-09-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/538680/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q966698:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-b2
@@ -103,7 +103,7 @@ observations:
 
 # The Legend of Heroes: Trails of Cold Steel
 
-**The Legend of Heroes: Trails of Cold Steel** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q966698](https://www.wikidata.org/wiki/Q966698)).
+**The Legend of Heroes: Trails of Cold Steel** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q966698` (Wikidata : [Q966698](https://www.wikidata.org/wiki/Q966698)).
 
 ## Audit de conformite structurelle
 

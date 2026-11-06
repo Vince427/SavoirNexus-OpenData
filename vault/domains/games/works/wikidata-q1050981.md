@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1050981
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-02-15
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q1050981:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Bleach: Dark Souls
 
-**Bleach: Dark Souls** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1050981](https://www.wikidata.org/wiki/Q1050981)).
+**Bleach: Dark Souls** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1050981` (Wikidata : [Q1050981](https://www.wikidata.org/wiki/Q1050981)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q3284388
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-11-08
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q3284388:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Call of Duty: Modern Warfare 3: Defiance
 
-**Call of Duty: Modern Warfare 3: Defiance** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3284388](https://www.wikidata.org/wiki/Q3284388)).
+**Call of Duty: Modern Warfare 3: Defiance** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3284388` (Wikidata : [Q3284388](https://www.wikidata.org/wiki/Q3284388)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q2118860
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-09-16
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/322600/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q2118860:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-fin
@@ -103,7 +103,7 @@ observations:
 
 # Pure
 
-**Pure** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2118860](https://www.wikidata.org/wiki/Q2118860)).
+**Pure** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2118860` (Wikidata : [Q2118860](https://www.wikidata.org/wiki/Q2118860)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1022328
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-01-01
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1022328:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # C-evo
 
-**C-evo** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1022328](https://www.wikidata.org/wiki/Q1022328)).
+**C-evo** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1022328` (Wikidata : [Q1022328](https://www.wikidata.org/wiki/Q1022328)).
 
 ## Audit de conformite structurelle
 

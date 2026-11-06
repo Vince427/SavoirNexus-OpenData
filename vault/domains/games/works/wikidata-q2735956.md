@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2735956
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2013-02-05
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q2735956:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Sly Cooper : Voleurs à travers le temps
 
-**Sly Cooper : Voleurs à travers le temps** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2735956](https://www.wikidata.org/wiki/Q2735956)).
+**Sly Cooper : Voleurs à travers le temps** est une oeuvre sortie initialement en 2013, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2735956` (Wikidata : [Q2735956](https://www.wikidata.org/wiki/Q2735956)).
 
 ## Audit de conformite structurelle
 

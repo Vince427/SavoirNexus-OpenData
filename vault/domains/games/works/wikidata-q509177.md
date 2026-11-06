@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q509177
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-11-08
-tags: [jeu, cataloged, party]
+tags: [jeu, audited, party]
 observations:
   - id: wikidata-q509177:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Mario Party DS
 
-**Mario Party DS** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q509177](https://www.wikidata.org/wiki/Q509177)).
+**Mario Party DS** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q509177` (Wikidata : [Q509177](https://www.wikidata.org/wiki/Q509177)).
 
 ## Audit de conformite structurelle
 

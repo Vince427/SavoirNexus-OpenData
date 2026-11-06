@@ -13,7 +13,7 @@ wikidata_id: Q277377
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-02-17
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/893180/header.jpg"
-tags: [jeu, cataloged, action, adventure, horror, platformer, puzzle, survival]
+tags: [jeu, audited, action, adventure, horror, platformer, puzzle, survival]
 observations:
   - id: wikidata-q277377:obs-coffre-aleatoire-01
     author: audit-stream-5-sports
@@ -103,7 +103,7 @@ observations:
 
 # Catherine
 
-**Catherine** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q277377](https://www.wikidata.org/wiki/Q277377)).
+**Catherine** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q277377` (Wikidata : [Q277377](https://www.wikidata.org/wiki/Q277377)).
 
 ## Audit de conformite structurelle
 

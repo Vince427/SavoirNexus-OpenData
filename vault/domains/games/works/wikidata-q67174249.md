@@ -13,7 +13,7 @@ wikidata_id: Q67174249
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2019-09-05
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1004750/header.jpg"
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q67174249:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -103,7 +103,7 @@ observations:
 
 # WRC 8 FIA World Rally Championship
 
-**WRC 8 FIA World Rally Championship** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q67174249](https://www.wikidata.org/wiki/Q67174249)).
+**WRC 8 FIA World Rally Championship** est une oeuvre sortie initialement en 2019, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q67174249` (Wikidata : [Q67174249](https://www.wikidata.org/wiki/Q67174249)).
 
 ## Audit de conformite structurelle
 

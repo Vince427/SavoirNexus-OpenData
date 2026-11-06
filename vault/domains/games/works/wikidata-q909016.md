@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q909016
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-11-23
-tags: [jeu, cataloged, rpg, shooter]
+tags: [jeu, audited, rpg, shooter]
 observations:
   - id: wikidata-q909016:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # Doom II RPG
 
-**Doom II RPG** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q909016](https://www.wikidata.org/wiki/Q909016)).
+**Doom II RPG** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q909016` (Wikidata : [Q909016](https://www.wikidata.org/wiki/Q909016)).
 
 ## Audit de conformite structurelle
 

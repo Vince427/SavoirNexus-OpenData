@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q18185769
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-07-16
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q18185769:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Pokkén Tournament
 
-**Pokkén Tournament** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q18185769](https://www.wikidata.org/wiki/Q18185769)).
+**Pokkén Tournament** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q18185769` (Wikidata : [Q18185769](https://www.wikidata.org/wiki/Q18185769)).
 
 ## Audit de conformite structurelle
 

@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q28127331
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-01-01
-tags: [jeu, cataloged, action]
+tags: [jeu, audited, action]
 observations:
   - id: wikidata-q28127331:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -101,7 +101,7 @@ observations:
 
 # Knack 2
 
-**Knack 2** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q28127331](https://www.wikidata.org/wiki/Q28127331)).
+**Knack 2** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q28127331` (Wikidata : [Q28127331](https://www.wikidata.org/wiki/Q28127331)).
 
 ## Audit de conformite structurelle
 

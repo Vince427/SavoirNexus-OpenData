@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2501239
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-11-01
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q2501239:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Rigs of Rods
 
-**Rigs of Rods** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2501239](https://www.wikidata.org/wiki/Q2501239)).
+**Rigs of Rods** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2501239` (Wikidata : [Q2501239](https://www.wikidata.org/wiki/Q2501239)).
 
 ## Audit de conformite structurelle
 

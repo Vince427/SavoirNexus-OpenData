@@ -13,7 +13,7 @@ wikidata_id: Q963189
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-03-25
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/29900/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q963189:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # Dark Sector
 
-**Dark Sector** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q963189](https://www.wikidata.org/wiki/Q963189)).
+**Dark Sector** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q963189` (Wikidata : [Q963189](https://www.wikidata.org/wiki/Q963189)).
 
 ## Audit de conformite structurelle
 

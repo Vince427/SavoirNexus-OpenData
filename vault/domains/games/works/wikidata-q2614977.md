@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2614977
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-03-25
-tags: [jeu, cataloged, fighting]
+tags: [jeu, audited, fighting]
 observations:
   - id: wikidata-q2614977:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Fist of the North Star: Ken's Rage
 
-**Fist of the North Star: Ken's Rage** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2614977](https://www.wikidata.org/wiki/Q2614977)).
+**Fist of the North Star: Ken's Rage** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2614977` (Wikidata : [Q2614977](https://www.wikidata.org/wiki/Q2614977)).
 
 ## Audit de conformite structurelle
 

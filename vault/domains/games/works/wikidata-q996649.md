@@ -13,7 +13,7 @@ wikidata_id: Q996649
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-01-14
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/232790/header.jpg"
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q996649:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Broken Age
 
-**Broken Age** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q996649](https://www.wikidata.org/wiki/Q996649)).
+**Broken Age** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q996649` (Wikidata : [Q996649](https://www.wikidata.org/wiki/Q996649)).
 
 ## Audit de conformite structurelle
 

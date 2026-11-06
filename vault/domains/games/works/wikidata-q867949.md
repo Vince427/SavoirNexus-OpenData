@@ -13,7 +13,7 @@ wikidata_id: Q867949
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-08-16
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1100150/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q867949:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # Subterranean Animism
 
-**Subterranean Animism** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q867949](https://www.wikidata.org/wiki/Q867949)).
+**Subterranean Animism** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q867949` (Wikidata : [Q867949](https://www.wikidata.org/wiki/Q867949)).
 
 ## Audit de conformite structurelle
 

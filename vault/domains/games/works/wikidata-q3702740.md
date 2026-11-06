@@ -13,7 +13,7 @@ wikidata_id: Q3702740
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2014-03-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236430/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q3702740:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Dark Souls II
 
-**Dark Souls II** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3702740](https://www.wikidata.org/wiki/Q3702740)).
+**Dark Souls II** est une oeuvre sortie initialement en 2014, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3702740` (Wikidata : [Q3702740](https://www.wikidata.org/wiki/Q3702740)).
 
 ## Audit de conformite structurelle
 

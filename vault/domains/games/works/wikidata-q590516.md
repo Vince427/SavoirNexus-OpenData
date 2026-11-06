@@ -13,7 +13,7 @@ wikidata_id: Q590516
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-11-10
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2780/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q590516:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -103,7 +103,7 @@ observations:
 
 # ARMA: Armed Assault
 
-**ARMA: Armed Assault** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q590516](https://www.wikidata.org/wiki/Q590516)).
+**ARMA: Armed Assault** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q590516` (Wikidata : [Q590516](https://www.wikidata.org/wiki/Q590516)).
 
 ## Audit de conformite structurelle
 

@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q764736
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-11-11
-tags: [jeu, cataloged, rpg, strategy]
+tags: [jeu, audited, rpg, strategy]
 observations:
   - id: wikidata-q764736:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Paper Mario : Sticker Star
 
-**Paper Mario : Sticker Star** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q764736](https://www.wikidata.org/wiki/Q764736)).
+**Paper Mario : Sticker Star** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q764736` (Wikidata : [Q764736](https://www.wikidata.org/wiki/Q764736)).
 
 ## Audit de conformite structurelle
 

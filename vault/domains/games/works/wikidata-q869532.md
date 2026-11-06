@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q869532
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-10-02
-tags: [jeu, cataloged, platformer]
+tags: [jeu, audited, platformer]
 observations:
   - id: wikidata-q869532:obs-coffre-aleatoire-01
     author: audit-stream-5-strategy-fin
@@ -102,7 +102,7 @@ observations:
 
 # Crash of the Titans
 
-**Crash of the Titans** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q869532](https://www.wikidata.org/wiki/Q869532)).
+**Crash of the Titans** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q869532` (Wikidata : [Q869532](https://www.wikidata.org/wiki/Q869532)).
 
 ## Audit de conformite structurelle
 

@@ -13,7 +13,7 @@ wikidata_id: Q5766
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-01-11
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/70300/header.jpg"
-tags: [jeu, cataloged, platformer, puzzle]
+tags: [jeu, audited, platformer, puzzle]
 observations:
   - id: wikidata-q5766:obs-coffre-aleatoire-01
     author: audit-stream-1-action
@@ -103,7 +103,7 @@ observations:
 
 # VVVVVV
 
-**VVVVVV** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q5766](https://www.wikidata.org/wiki/Q5766)).
+**VVVVVV** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q5766` (Wikidata : [Q5766](https://www.wikidata.org/wiki/Q5766)).
 
 ## Audit de conformite structurelle
 

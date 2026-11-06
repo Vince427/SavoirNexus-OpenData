@@ -13,7 +13,7 @@ wikidata_id: Q60748005
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2020-07-10
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/956030/header.jpg"
-tags: [jeu, cataloged, adventure, platformer, puzzle]
+tags: [jeu, audited, adventure, platformer, puzzle]
 observations:
   - id: wikidata-q60748005:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Creaks
 
-**Creaks** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q60748005](https://www.wikidata.org/wiki/Q60748005)).
+**Creaks** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q60748005` (Wikidata : [Q60748005](https://www.wikidata.org/wiki/Q60748005)).
 
 ## Audit de conformite structurelle
 

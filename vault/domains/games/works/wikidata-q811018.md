@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q811018
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2009-07-08
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q811018:obs-coffre-aleatoire-01
     author: audit-stream-9-tactics-fin
@@ -102,7 +102,7 @@ observations:
 
 # Battlefield 1943
 
-**Battlefield 1943** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q811018](https://www.wikidata.org/wiki/Q811018)).
+**Battlefield 1943** est une oeuvre sortie initialement en 2009, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q811018` (Wikidata : [Q811018](https://www.wikidata.org/wiki/Q811018)).
 
 ## Audit de conformite structurelle
 

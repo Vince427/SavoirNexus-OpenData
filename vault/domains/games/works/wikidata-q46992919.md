@@ -13,7 +13,7 @@ wikidata_id: Q46992919
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-01-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/675010/header.jpg"
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q46992919:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # MudRunner
 
-**MudRunner** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q46992919](https://www.wikidata.org/wiki/Q46992919)).
+**MudRunner** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q46992919` (Wikidata : [Q46992919](https://www.wikidata.org/wiki/Q46992919)).
 
 ## Audit de conformite structurelle
 

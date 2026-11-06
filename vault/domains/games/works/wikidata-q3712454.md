@@ -13,7 +13,7 @@ wikidata_id: Q3712454
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-05-23
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/217080/header.jpg"
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q3712454:obs-coffre-aleatoire-01
     author: audit-stream-4-indie
@@ -103,7 +103,7 @@ observations:
 
 # Doctor Who: The Eternity Clock
 
-**Doctor Who: The Eternity Clock** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q3712454](https://www.wikidata.org/wiki/Q3712454)).
+**Doctor Who: The Eternity Clock** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q3712454` (Wikidata : [Q3712454](https://www.wikidata.org/wiki/Q3712454)).
 
 ## Audit de conformite structurelle
 

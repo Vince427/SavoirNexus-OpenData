@@ -11,7 +11,7 @@ coverage_status: audited
 wikidata_id: Q693592
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-05-24
-tags: [jeu, cataloged, racing]
+tags: [jeu, audited, racing]
 observations:
   - id: wikidata-q693592:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -101,7 +101,7 @@ observations:
 
 # Forza Motorsport 2
 
-**Forza Motorsport 2** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q693592](https://www.wikidata.org/wiki/Q693592)).
+**Forza Motorsport 2** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q693592` (Wikidata : [Q693592](https://www.wikidata.org/wiki/Q693592)).
 
 ## Audit de conformite structurelle
 

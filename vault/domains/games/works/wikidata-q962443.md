@@ -13,7 +13,7 @@ wikidata_id: Q962443
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2012-06-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/50300/header.jpg"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q962443:obs-coffre-aleatoire-01
     author: audit-stream-1-action-b2
@@ -103,7 +103,7 @@ observations:
 
 # Spec Ops: The Line
 
-**Spec Ops: The Line** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q962443](https://www.wikidata.org/wiki/Q962443)).
+**Spec Ops: The Line** est une oeuvre sortie initialement en 2012, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q962443` (Wikidata : [Q962443](https://www.wikidata.org/wiki/Q962443)).
 
 ## Audit de conformite structurelle
 

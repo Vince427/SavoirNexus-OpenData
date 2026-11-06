@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q24514709
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-01-01
-tags: [jeu, cataloged, simulation]
+tags: [jeu, audited, simulation]
 observations:
   - id: wikidata-q24514709:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Story of Seasons: Trio of Towns
 
-**Story of Seasons: Trio of Towns** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q24514709](https://www.wikidata.org/wiki/Q24514709)).
+**Story of Seasons: Trio of Towns** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q24514709` (Wikidata : [Q24514709](https://www.wikidata.org/wiki/Q24514709)).
 
 ## Audit de conformite structurelle
 

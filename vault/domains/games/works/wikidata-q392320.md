@@ -13,7 +13,7 @@ wikidata_id: Q392320
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-12-16
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12770/header.jpg"
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q392320:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Rise of the Argonauts
 
-**Rise of the Argonauts** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q392320](https://www.wikidata.org/wiki/Q392320)).
+**Rise of the Argonauts** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q392320` (Wikidata : [Q392320](https://www.wikidata.org/wiki/Q392320)).
 
 ## Audit de conformite structurelle
 

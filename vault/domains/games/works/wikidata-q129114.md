@@ -13,7 +13,7 @@ wikidata_id: Q129114
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-10-26
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/35460/header.jpg"
-tags: [jeu, cataloged, puzzle, shooter]
+tags: [jeu, audited, puzzle, shooter]
 observations:
   - id: wikidata-q129114:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-fin
@@ -103,7 +103,7 @@ observations:
 
 # The Ball
 
-**The Ball** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q129114](https://www.wikidata.org/wiki/Q129114)).
+**The Ball** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q129114` (Wikidata : [Q129114](https://www.wikidata.org/wiki/Q129114)).
 
 ## Audit de conformite structurelle
 

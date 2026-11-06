@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q19861425
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-09-25
-tags: [jeu, cataloged, sports]
+tags: [jeu, audited, sports]
 observations:
   - id: wikidata-q19861425:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Tony Hawk's Pro Skater 5
 
-**Tony Hawk's Pro Skater 5** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q19861425](https://www.wikidata.org/wiki/Q19861425)).
+**Tony Hawk's Pro Skater 5** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q19861425` (Wikidata : [Q19861425](https://www.wikidata.org/wiki/Q19861425)).
 
 ## Audit de conformite structurelle
 

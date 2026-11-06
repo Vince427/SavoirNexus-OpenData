@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1074108
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2006-01-17
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q1074108:obs-coffre-aleatoire-01
     author: audit-stream-8-sandbox-fin
@@ -102,7 +102,7 @@ observations:
 
 # 25 to Life
 
-**25 to Life** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1074108](https://www.wikidata.org/wiki/Q1074108)).
+**25 to Life** est une oeuvre sortie initialement en 2006, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1074108` (Wikidata : [Q1074108](https://www.wikidata.org/wiki/Q1074108)).
 
 ## Audit de conformite structurelle
 

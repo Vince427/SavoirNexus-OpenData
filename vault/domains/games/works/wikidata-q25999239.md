@@ -13,7 +13,7 @@ wikidata_id: Q25999239
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2017-11-07
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/637100/header.jpg"
-tags: [jeu, cataloged, action, adventure, platformer]
+tags: [jeu, audited, action, adventure, platformer]
 observations:
   - id: wikidata-q25999239:obs-coffre-aleatoire-01
     author: audit-stream-1-action-fin
@@ -103,7 +103,7 @@ observations:
 
 # Sonic Forces
 
-**Sonic Forces** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q25999239](https://www.wikidata.org/wiki/Q25999239)).
+**Sonic Forces** est une oeuvre sortie initialement en 2017, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q25999239` (Wikidata : [Q25999239](https://www.wikidata.org/wiki/Q25999239)).
 
 ## Audit de conformite structurelle
 

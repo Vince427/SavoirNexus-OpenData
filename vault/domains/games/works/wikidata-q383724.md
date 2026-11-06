@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q383724
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2007-07-25
-tags: [jeu, cataloged, shooter]
+tags: [jeu, audited, shooter]
 observations:
   - id: wikidata-q383724:obs-coffre-aleatoire-01
     author: audit-stream-10-experimental-fin
@@ -102,7 +102,7 @@ observations:
 
 # Silent Hill: The Arcade
 
-**Silent Hill: The Arcade** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q383724](https://www.wikidata.org/wiki/Q383724)).
+**Silent Hill: The Arcade** est une oeuvre sortie initialement en 2007, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q383724` (Wikidata : [Q383724](https://www.wikidata.org/wiki/Q383724)).
 
 ## Audit de conformite structurelle
 

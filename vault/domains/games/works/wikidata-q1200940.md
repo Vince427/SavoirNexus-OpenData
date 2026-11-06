@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1200940
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2008-06-13
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q1200940:obs-coffre-aleatoire-01
     author: audit-stream-3-horror-b2
@@ -102,7 +102,7 @@ observations:
 
 # Civilization Revolution
 
-**Civilization Revolution** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1200940](https://www.wikidata.org/wiki/Q1200940)).
+**Civilization Revolution** est une oeuvre sortie initialement en 2008, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1200940` (Wikidata : [Q1200940](https://www.wikidata.org/wiki/Q1200940)).
 
 ## Audit de conformite structurelle
 

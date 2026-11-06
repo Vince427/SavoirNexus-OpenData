@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q1998765
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-02-03
-tags: [jeu, cataloged, adventure]
+tags: [jeu, audited, adventure]
 observations:
   - id: wikidata-q1998765:obs-coffre-aleatoire-01
     author: audit-stream-7-racing-fin
@@ -102,7 +102,7 @@ observations:
 
 # Ace Attorney Investigations 2: Prosecutor's Gambit
 
-**Ace Attorney Investigations 2: Prosecutor's Gambit** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q1998765](https://www.wikidata.org/wiki/Q1998765)).
+**Ace Attorney Investigations 2: Prosecutor's Gambit** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q1998765` (Wikidata : [Q1998765](https://www.wikidata.org/wiki/Q1998765)).
 
 ## Audit de conformite structurelle
 

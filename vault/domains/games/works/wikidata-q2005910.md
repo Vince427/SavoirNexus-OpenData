@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2005910
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2010-08-31
-tags: [jeu, cataloged, action, adventure]
+tags: [jeu, audited, action, adventure]
 observations:
   - id: wikidata-q2005910:obs-coffre-aleatoire-01
     author: audit-stream-6-platform-fin
@@ -102,7 +102,7 @@ observations:
 
 # Metroid: Other M
 
-**Metroid: Other M** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2005910](https://www.wikidata.org/wiki/Q2005910)).
+**Metroid: Other M** est une oeuvre sortie initialement en 2010, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2005910` (Wikidata : [Q2005910](https://www.wikidata.org/wiki/Q2005910)).
 
 ## Audit de conformite structurelle
 

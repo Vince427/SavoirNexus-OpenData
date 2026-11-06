@@ -13,7 +13,7 @@ wikidata_id: Q24057203
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2018-02-08
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/645402/header.jpg"
-tags: [jeu, cataloged, strategy]
+tags: [jeu, audited, strategy]
 observations:
   - id: wikidata-q24057203:obs-coffre-aleatoire-01
     author: audit-stream-2-rpg-b2
@@ -103,7 +103,7 @@ observations:
 
 # Civilization VI: Rise and Fall
 
-**Civilization VI: Rise and Fall** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q24057203](https://www.wikidata.org/wiki/Q24057203)).
+**Civilization VI: Rise and Fall** est une oeuvre sortie initialement en 2018, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q24057203` (Wikidata : [Q24057203](https://www.wikidata.org/wiki/Q24057203)).
 
 ## Audit de conformite structurelle
 

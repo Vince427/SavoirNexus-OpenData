@@ -13,7 +13,7 @@ wikidata_id: Q21427534
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2015-10-15
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/375820/header.jpg"
-tags: [jeu, cataloged, puzzle]
+tags: [jeu, audited, puzzle]
 observations:
   - id: wikidata-q21427534:obs-coffre-aleatoire-01
     author: audit-stream-3-horror
@@ -103,7 +103,7 @@ observations:
 
 # Human Resource Machine
 
-**Human Resource Machine** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q21427534](https://www.wikidata.org/wiki/Q21427534)).
+**Human Resource Machine** est une oeuvre sortie initialement en 2015, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q21427534` (Wikidata : [Q21427534](https://www.wikidata.org/wiki/Q21427534)).
 
 ## Audit de conformite structurelle
 

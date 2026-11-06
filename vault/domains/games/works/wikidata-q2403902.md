@@ -12,7 +12,7 @@ coverage_status: audited
 wikidata_id: Q2403902
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2011-02-24
-tags: [jeu, cataloged, rpg]
+tags: [jeu, audited, rpg]
 observations:
   - id: wikidata-q2403902:obs-coffre-aleatoire-01
     author: audit-stream-4-indie-fin
@@ -102,7 +102,7 @@ observations:
 
 # Disgaea 4: A Promise Unforgotten
 
-**Disgaea 4: A Promise Unforgotten** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q2403902](https://www.wikidata.org/wiki/Q2403902)).
+**Disgaea 4: A Promise Unforgotten** est une oeuvre sortie initialement en 2011, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q2403902` (Wikidata : [Q2403902](https://www.wikidata.org/wiki/Q2403902)).
 
 ## Audit de conformite structurelle
 

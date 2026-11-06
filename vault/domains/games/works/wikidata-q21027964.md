@@ -13,7 +13,7 @@ wikidata_id: Q21027964
 metadata_provenance: "Wikidata (CC0)"
 first_release: 2016-06-28
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/338390/header.jpg"
-tags: [jeu, cataloged, action, rpg]
+tags: [jeu, audited, action, rpg]
 observations:
   - id: wikidata-q21027964:obs-coffre-aleatoire-01
     author: audit-stream-5-sports-b2
@@ -103,7 +103,7 @@ observations:
 
 # The Technomancer
 
-**The Technomancer** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique $bName (Wikidata : [Q21027964](https://www.wikidata.org/wiki/Q21027964)).
+**The Technomancer** est une oeuvre sortie initialement en 2016, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q21027964` (Wikidata : [Q21027964](https://www.wikidata.org/wiki/Q21027964)).
 
 ## Audit de conformite structurelle
 
