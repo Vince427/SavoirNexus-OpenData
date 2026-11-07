@@ -24,7 +24,7 @@ observations:
     result: not_observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "Aucun coffre de butin payant, roulette ou mécanique gacha n'est présent dans le playtest en cours."
     evidence:
       - source_url: https://store.steampowered.com/app/1422450/
@@ -38,7 +38,7 @@ observations:
     result: not_observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "Aucune monnaie virtuelle payante n'est intégrée dans le jeu à ce stade du développement."
     evidence:
       - source_url: https://store.steampowered.com/app/1422450/
@@ -52,7 +52,7 @@ observations:
     result: not_observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "Aucun battle pass ou passe saisonnier payant à expiration temporelle n'est actif."
     evidence:
       - source_url: https://store.steampowered.com/app/1422450/
@@ -66,7 +66,7 @@ observations:
     result: not_observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "Aucune offre commerciale temporaire ou compteur FOMO incitant à un achat impulsif."
     evidence:
       - source_url: https://store.steampowered.com/app/1422450/
@@ -80,7 +80,7 @@ observations:
     result: not_observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "Aucun avantage compétitif ou amélioration de statistique n'est vendu contre de l'argent réel."
     evidence:
       - source_url: https://store.steampowered.com/app/1422450/
@@ -94,7 +94,7 @@ observations:
     result: not_observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "Aucune jauge d'énergie, d'endurance ou restriction limitant le nombre de parties jouables."
     evidence:
       - source_url: https://store.steampowered.com/app/1422450/

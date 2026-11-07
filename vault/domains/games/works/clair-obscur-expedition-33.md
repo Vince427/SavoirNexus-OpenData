@@ -26,7 +26,7 @@ observations:
     result: not_observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "Aucun coffre de butin aléatoire payant ni tirage gacha n'est présent dans le jeu."
     evidence:
       - source_url: https://store.steampowered.com/app/1903340/
@@ -40,7 +40,7 @@ observations:
     result: not_observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "Aucune monnaie virtuelle convertible en argent réel n'est utilisée."
     evidence:
       - source_url: https://store.steampowered.com/app/1903340/
@@ -54,7 +54,7 @@ observations:
     result: not_observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "Aucun passe saisonnier payant à durée limitée ou mécanique FOMO."
     evidence:
       - source_url: https://store.steampowered.com/app/1903340/
@@ -68,7 +68,7 @@ observations:
     result: not_observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "Aucune offre commerciale temporaire ou compteur FOMO dans l'œuvre."
     evidence:
       - source_url: https://store.steampowered.com/app/1903340/
@@ -82,7 +82,7 @@ observations:
     result: not_observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "Aucun achat en argent réel n'altère l'équilibre ou la puissance du jeu."
     evidence:
       - source_url: https://store.steampowered.com/app/1903340/
@@ -96,7 +96,7 @@ observations:
     result: not_observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "Aucune jauge d'énergie ni limitation de temps limitant les sessions."
     evidence:
       - source_url: https://store.steampowered.com/app/1903340/

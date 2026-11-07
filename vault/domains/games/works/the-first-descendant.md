@@ -24,7 +24,7 @@ observations:
     result: not_observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "Pas de système de loot box payante à tirage aveugle direct dans la boutique (achats directs de personnages et cosmétiques)."
     evidence:
       - source_url: https://store.steampowered.com/app/2074920/
@@ -38,7 +38,7 @@ observations:
     result: observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "Utilisation du Caliber, monnaie virtuelle payante vendue par paliers asymétriques pour masquer les tarifs réels."
     evidence:
       - source_url: https://store.steampowered.com/app/2074920/
@@ -52,7 +52,7 @@ observations:
     result: observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "Présence d'un Battle Pass saisonnier payant avec compte à rebours et récompenses expirantes."
     evidence:
       - source_url: https://store.steampowered.com/app/2074920/
@@ -66,7 +66,7 @@ observations:
     result: observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "Boutique rotative à compte à rebours créant une urgence d'achat sur des skins et packs temporaires."
     evidence:
       - source_url: https://store.steampowered.com/app/2074920/
@@ -80,7 +80,7 @@ observations:
     result: observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "Vente directe de Légataires Ultimes, d'activateurs d'énergie et de catalyseurs augmentant directement la puissance des builds."
     evidence:
       - source_url: https://store.steampowered.com/app/2074920/
@@ -94,7 +94,7 @@ observations:
     result: not_observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "Looter-shooter jouable en continu sans barre d'énergie limitant le nombre de parties."
     evidence:
       - source_url: https://store.steampowered.com/app/2074920/

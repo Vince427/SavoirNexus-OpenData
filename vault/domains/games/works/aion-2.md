@@ -24,7 +24,7 @@ observations:
     result: observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "Présence d'achats d'objets aléatoires payants (loot boxes et tirages cosmétiques/équipements aléatoires)."
     evidence:
       - source_url: https://store.steampowered.com/app/3393110/
@@ -38,7 +38,7 @@ observations:
     result: observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "Utilisation de monnaies virtuelles intermédiaires payantes pour la boutique en jeu."
     evidence:
       - source_url: https://store.steampowered.com/app/3393110/
@@ -52,7 +52,7 @@ observations:
     result: observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "Passe saisonnier à durée limitée avec incitation FOMO et récompenses exclusives."
     evidence:
       - source_url: https://store.steampowered.com/app/3393110/
@@ -66,7 +66,7 @@ observations:
     result: observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "Présence de bannières promotionnelles temporaires et ventes flash à compte à rebours créant une urgence d'achat artificielle."
     evidence:
       - source_url: https://store.steampowered.com/app/3393110/
@@ -80,7 +80,7 @@ observations:
     result: observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "Achats payants conférant des avantages directs sur le rythme de progression et l'efficacité d'équipement en affrontement."
     evidence:
       - source_url: https://store.steampowered.com/app/3393110/
@@ -94,7 +94,7 @@ observations:
     result: not_observed
     checked_at: "2026-11-07"
     method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-steam-storefront-audit-1220.md
+    audit_trail: docs/audits/2026-11-recent-games-batch-audit.md
     statement: "MMORPG sur monde persistant sans blocage d'accès par jauge d'énergie de connexion mobile."
     evidence:
       - source_url: https://store.steampowered.com/app/3393110/
