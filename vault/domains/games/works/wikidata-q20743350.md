@@ -8,108 +8,16 @@ platforms_source: ["macOS", "Microsoft Windows"]
 genres: [adventure]
 genres_source: ["adventure video game"]
 monetization_model: premium
-coverage_status: audited
+coverage_status: cataloged
 wikidata_id: Q20743350
 metadata_provenance: "Wikidata (CC0)"
-publication_status: in_development
-tags: [jeu, audited, adventure]
-observations:
-  - id: wikidata-q20743350:obs-coffre-aleatoire-01
-    author: audit-stream-10-experimental-fin
-    status: verified
-    ontology_version: "1.1.0"
-    criterion: /patterns/coffre-aleatoire
-    result: not_observed
-    checked_at: "2026-11-05"
-    method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Modele complet a achat unique sans aucune mecanique de coffre aleatoire ni tirage de recompense payant."
-    evidence:
-      - source_url: https://www.wikidata.org/wiki/Q20743350
-        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q20743350
-        quote: "Audit structurel [coffre-aleatoire] sur wikidata-q20743350 (Titanic: Honor and Glory) : jeu commercial sans caisses de butin payantes."
-  - id: wikidata-q20743350:obs-monnaie-intermediaire-01
-    author: audit-stream-10-experimental-fin
-    status: verified
-    ontology_version: "1.1.0"
-    criterion: /patterns/monnaie-intermediaire
-    result: not_observed
-    checked_at: "2026-11-05"
-    method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Economie de jeu fermee sans boutique de devises virtuelles ou conversion monetaire en argent reel."
-    evidence:
-      - source_url: https://www.wikidata.org/wiki/Q20743350
-        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q20743350
-        quote: "Audit structurel [monnaie-intermediaire] sur wikidata-q20743350 (Titanic: Honor and Glory) : absence de monnaie virtuelle intermediaire payante."
-  - id: wikidata-q20743350:obs-passe-saisonnier-expirant-01
-    author: audit-stream-10-experimental-fin
-    status: verified
-    ontology_version: "1.1.0"
-    criterion: /patterns/passe-saisonnier-expirant
-    result: not_observed
-    checked_at: "2026-11-05"
-    method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Contenu integralement accessible et perenne sans passe de combat saisonnier ni expiration de recompenses."
-    evidence:
-      - source_url: https://www.wikidata.org/wiki/Q20743350
-        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q20743350
-        quote: "Audit structurel [passe-saisonnier-expirant] sur wikidata-q20743350 (Titanic: Honor and Glory) : experience complete perenne sans passe saisonnier a decompte."
-  - id: wikidata-q20743350:obs-fausse-urgence-01
-    author: audit-stream-10-experimental-fin
-    status: verified
-    ontology_version: "1.1.0"
-    criterion: /patterns/fausse-urgence
-    result: not_observed
-    checked_at: "2026-11-05"
-    method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Absence de boutique d'objets rotative avec minuteurs ou d'offres ephemeres induisant une fausse urgence."
-    evidence:
-      - source_url: https://www.wikidata.org/wiki/Q20743350
-        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q20743350
-        quote: "Audit structurel [fausse-urgence] sur wikidata-q20743350 (Titanic: Honor and Glory) : absence de rotation artificielle et de marketing de FOMO."
-  - id: wikidata-q20743350:obs-avantage-competitif-payant-01
-    author: audit-stream-10-experimental-fin
-    status: verified
-    ontology_version: "1.1.0"
-    criterion: /patterns/avantage-competitif-payant
-    result: not_observed
-    checked_at: "2026-11-05"
-    method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Progression et competences fondees exclusivement sur l'avancement en jeu sans bonus pay-to-win."
-    evidence:
-      - source_url: https://www.wikidata.org/wiki/Q20743350
-        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q20743350
-        quote: "Audit structurel [avantage-competitif-payant] sur wikidata-q20743350 (Titanic: Honor and Glory) : puissance et maitrise fondees purement sur le jeu."
-  - id: wikidata-q20743350:obs-systeme-energie-01
-    author: audit-stream-10-experimental-fin
-    status: verified
-    ontology_version: "1.1.0"
-    criterion: /patterns/systeme-energie
-    result: not_observed
-    checked_at: "2026-11-05"
-    method: store-and-gameplay-review
-    audit_trail: docs/audits/2026-11-corpus-batch-remaining-audit.md
-    statement: "Parties libres sans jauge d'endurance ni limitation du temps de jeu par minuteries de recharge."
-    evidence:
-      - source_url: https://www.wikidata.org/wiki/Q20743350
-        archive_url: https://web.archive.org/web/20261001000000/https://www.wikidata.org/wiki/Q20743350
-        quote: "Audit structurel [systeme-energie] sur wikidata-q20743350 (Titanic: Honor and Glory) : sessions sans contrainte de compteur d'energie."
+publication_status: announced
+tags: [jeu, cataloged, announced, adventure]
 ---
 
 # Titanic: Honor and Glory
 
-**Titanic: Honor and Glory** est une oeuvre sortie initialement en 0, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q20743350` (Wikidata : [Q20743350](https://www.wikidata.org/wiki/Q20743350)).
+**Titanic: Honor and Glory** est un projet de reconstitution historique immersive du paquebot Titanic développé par Four Funnels Entertainment / Vintage Digital Revival.
 
-## Audit de conformite structurelle
-
-L'audit des six criteres structurels du Palier 1 (store-and-gameplay-review) confirme que le titre repond aux exigences d'integrite commerciale :
-- Absence de tirages aleatoires et coffres payants ([/patterns/coffre-aleatoire](/patterns/coffre-aleatoire)).
-- Economie fermee sans devise virtuelle intermediaire payante ([/patterns/monnaie-intermediaire](/patterns/monnaie-intermediaire)).
-- Absence de passe saisonnier ephemere ([/patterns/passe-saisonnier-expirant](/patterns/passe-saisonnier-expirant)).
-- Pas de boutique rotative exploitant la fausse urgence ([/patterns/fausse-urgence](/patterns/fausse-urgence)).
-- Progression fondee sur le gameplay sans avantage competitif payant ([/patterns/avantage-competitif-payant](/patterns/avantage-competitif-payant)).
-- Temps de jeu non contraint par une jauge d'energie ([/patterns/systeme-energie](/patterns/systeme-energie)).
+> [!WARNING]
+> **Jeu en cours de développement (Annoncé)** : Titanic: Honor and Glory n'est pas encore commercialisé dans sa version complète. Aucun audit définitif de son modèle économique final ne peut être certifié avant sa sortie effective.

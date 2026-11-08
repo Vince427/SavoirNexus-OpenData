@@ -11,7 +11,8 @@ monetization_model: premium
 coverage_status: audited
 wikidata_id: Q87410571
 metadata_provenance: "Wikidata (CC0)"
-publication_status: in_development
+publication_status: released
+first_release: 2020-09-01
 cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/826630/header.jpg"
 tags: [jeu, audited, strategy]
 observations:
@@ -103,7 +104,7 @@ observations:
 
 # Iron Harvest
 
-**Iron Harvest** est une oeuvre sortie initialement en 0, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q87410571` (Wikidata : [Q87410571](https://www.wikidata.org/wiki/Q87410571)).
+**Iron Harvest** est une oeuvre sortie initialement en 2020, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q87410571` (Wikidata : [Q87410571](https://www.wikidata.org/wiki/Q87410571)).
 
 ## Audit de conformite structurelle
 

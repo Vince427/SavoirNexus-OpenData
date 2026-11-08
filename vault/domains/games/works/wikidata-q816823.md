@@ -103,7 +103,7 @@ observations:
 
 # Beneath a Steel Sky
 
-**Beneath a Steel Sky** est une oeuvre sortie initialement en 0, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q816823` (Wikidata : [Q816823](https://www.wikidata.org/wiki/Q816823)).
+**Beneath a Steel Sky** est une oeuvre sortie initialement en 1994, repertoriee dans l'Observatoire SavoirNexus sous l'identifiant canonique `wikidata-q816823` (Wikidata : [Q816823](https://www.wikidata.org/wiki/Q816823)).
 
 ## Audit de conformite structurelle
 
