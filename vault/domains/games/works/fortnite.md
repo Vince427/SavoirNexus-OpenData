@@ -40,6 +40,9 @@ claims:
         archive_url: http://web.archive.org/web/20260514094036/https://www.ftc.gov/business-guidance/blog/2022/12/245-million-ftc-settlement-alleges-fortnite-owner-epic-games-used-digital-dark-patterns-charge
         captured: 2026-05-14
         rights: Analyse publiée par l'autorité elle-même.
+        quote: >
+          Analyse de la FTC exposant le recours par l'editeur a des interfaces trompeuses
+          conduisant a des debits non intentionnels par simple pression de touche.
     notes: >
       L'ordonnance interdit pour l'avenir toute facturation par recours à des
       dark patterns, ou sans consentement affirmatif. La correction est donc
@@ -61,6 +64,9 @@ claims:
         archive_url: http://web.archive.org/web/20260617100512/https://www.ftc.gov/news-events/news/press-releases/2022/12/fortnite-video-game-maker-epic-games-pay-more-half-billion-dollars-over-ftc-allegations
         captured: 2026-06-17
         rights: Communiqué d'une autorité publique américaine.
+        quote: >
+          Communique de la FTC etablissant que les comptes de joueurs contestant des debits
+          non autorises aupres de leur banque etaient verrouilles en represailles.
     notes: >
       Ce claim n'est rattaché à aucun pattern du fonds : le blocage d'accès en
       représailles d'une contestation bancaire n'a pas d'équivalent dans la

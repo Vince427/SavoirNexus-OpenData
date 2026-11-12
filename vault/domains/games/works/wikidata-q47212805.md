@@ -7,7 +7,7 @@ platforms: [pc]
 platforms_source: ["macOS", "Microsoft Windows"]
 genres: [rpg]
 genres_source: ["role-playing video game"]
-monetization_model: premium
+monetization_model: free-to-play
 coverage_status: audited
 wikidata_id: Q47212805
 metadata_provenance: "Wikidata (CC0)"

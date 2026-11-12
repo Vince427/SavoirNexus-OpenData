@@ -7,7 +7,7 @@ platforms: [pc]
 platforms_source: ["Microsoft Windows"]
 genres: [adventure]
 genres_source: ["adventure video game"]
-monetization_model: premium
+monetization_model: free-to-play
 coverage_status: audited
 wikidata_id: Q300548
 metadata_provenance: "Wikidata (CC0)"

@@ -7,7 +7,7 @@ platforms: [pc]
 platforms_source: ["Mac operating system", "macOS", "Microsoft Windows", "Linux"]
 genres: [adventure]
 genres_source: ["visual novel"]
-monetization_model: premium
+monetization_model: free-to-play
 coverage_status: audited
 wikidata_id: Q3027791
 metadata_provenance: "Wikidata (CC0)"

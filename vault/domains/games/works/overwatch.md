@@ -41,6 +41,9 @@ claims:
         archive_url: http://web.archive.org/web/20250916222641/https://www.nintendolife.com/news/2022/06/overwatch-2-is-getting-rid-of-loot-boxes-in-favour-of-a-battle-pass
         captured: 2025-09-16
         rights: Article de presse, cité au titre du droit de citation.
+        quote: >
+          Confirmation de l'abandon du modele des coffres aleatoires au profit
+          d'un passe de combat et d'une boutique a prix determines.
     notes: >
       Les objets déjà achetés n'ont pas été perdus : les coffres détenus ont été
       ouverts automatiquement avant la bascule. C'est un point de méthode — une

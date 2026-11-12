@@ -6,7 +6,7 @@ lang: fr
 platforms: [pc]
 genres: [fighting]
 genres_source: ["beat 'em up", "crossover fiction"]
-monetization_model: premium
+monetization_model: free-to-play
 coverage_status: audited
 wikidata_id: Q4668202
 metadata_provenance: "Wikidata (CC0)"

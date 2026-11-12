@@ -37,6 +37,9 @@ claims:
         archive_url: http://web.archive.org/web/20240823232022/https://www.gamesradar.com/diablo-immortal-pulled-from-launch-in-belgium-and-the-netherlands-over-loot-box-laws/
         captured: 2024-08-23
         rights: Article de presse, cité au titre du droit de citation.
+        quote: >
+          Confirmation du retrait de Diablo Immortal aux Pays-Bas et en Belgique
+          en raison des lois sur les jeux de hasard relatives aux coffres de butin.
     notes: >
       Le fait documenté est l'indisponibilité et son motif déclaré. Le détail
       des mécaniques concernées n'a fait l'objet d'aucun relevé de première main

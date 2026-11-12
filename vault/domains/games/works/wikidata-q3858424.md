@@ -7,7 +7,7 @@ platforms: [pc]
 platforms_source: ["cross-platform", "Java virtual machine", "Java"]
 genres: [action, adventure, rpg, survival]
 genres_source: ["action game", "survival game", "action role-playing game", "action-adventure game"]
-monetization_model: premium
+monetization_model: free-to-play
 coverage_status: audited
 wikidata_id: Q3858424
 metadata_provenance: "Wikidata (CC0)"

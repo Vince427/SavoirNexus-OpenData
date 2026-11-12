@@ -7,7 +7,7 @@ platforms: [pc]
 platforms_source: ["Microsoft Windows"]
 genres: [puzzle]
 genres_source: ["puzzle video game"]
-monetization_model: premium
+monetization_model: free-to-play
 coverage_status: audited
 wikidata_id: Q3656375
 metadata_provenance: "Wikidata (CC0)"

@@ -7,7 +7,7 @@ platforms: [pc]
 platforms_source: ["Microsoft Windows"]
 genres: [simulation]
 genres_source: ["train simulator"]
-monetization_model: premium
+monetization_model: premium-plus-mtx
 coverage_status: audited
 wikidata_id: Q2068279
 metadata_provenance: "Wikidata (CC0)"
@@ -107,9 +107,9 @@ observations:
 
 ## Audit de conformite structurelle
 
-L'audit des six criteres structurels du Palier 1 (store-and-gameplay-review) confirme que le titre repond aux exigences d'integrite commerciale :
+L'audit des six criteres structurels du Palier 1 (store-and-gameplay-review) a permis d'etablir le profil commercial suivant :
 - Absence de tirages aleatoires et coffres payants ([/patterns/coffre-aleatoire](/patterns/coffre-aleatoire)).
-- Economie fermee sans devise virtuelle intermediaire payante ([/patterns/monnaie-intermediaire](/patterns/monnaie-intermediaire)).
+- Presence documentee d'achats integres et microtransactions ([/patterns/monnaie-intermediaire](/patterns/monnaie-intermediaire)).
 - Absence de passe saisonnier ephemere ([/patterns/passe-saisonnier-expirant](/patterns/passe-saisonnier-expirant)).
 - Pas de boutique rotative exploitant la fausse urgence ([/patterns/fausse-urgence](/patterns/fausse-urgence)).
 - Progression fondee sur le gameplay sans avantage competitif payant ([/patterns/avantage-competitif-payant](/patterns/avantage-competitif-payant)).
