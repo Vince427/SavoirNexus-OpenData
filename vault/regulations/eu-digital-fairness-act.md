@@ -8,8 +8,8 @@ authority: "Commission européenne (DG JUST)"
 status: proposal
 adopted: "2026-11-11"
 in_force: false
-source_url: https://ec.europa.eu/commission/presscorner/detail/en/ip_26_digital_fairness
-archive_url: https://web.archive.org/web/20261111120000/https://ec.europa.eu/commission/presscorner/detail/en/ip_26_digital_fairness
+source_url: https://commission.europa.eu/law/law-topic/consumer-protection-law/digital-fairness-act_en
+archive_url: https://web.archive.org/web/*/https://commission.europa.eu/law/law-topic/consumer-protection-law/digital-fairness-act_en
 tags: [dark-patterns, loot-boxes, gaming, addiction, consumer-protection, europe, dfa]
 ---
 
