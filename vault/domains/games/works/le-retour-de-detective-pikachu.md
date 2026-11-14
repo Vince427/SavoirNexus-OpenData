@@ -9,6 +9,7 @@ game_modes: [single-player]
 monetization_model: premium
 publication_status: released
 coverage_status: cataloged
+cover_url: /covers/le-retour-de-detective-pikachu.svg
 first_release: "2023-10-06"
 published_by: /domains/games/orgs/nintendo
 metadata_provenance: "Découverte store vérifiée (novembre 2026)"

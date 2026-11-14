@@ -9,6 +9,7 @@ game_modes: [single-player, multiplayer]
 monetization_model: premium
 publication_status: released
 coverage_status: cataloged
+cover_url: /covers/programme-dentrainement-cerebral-du-dr-kawashima-pour-nintendo-switch.svg
 first_release: "2019-12-27"
 published_by: /domains/games/orgs/nintendo
 metadata_provenance: "Découverte store vérifiée (novembre 2026)"

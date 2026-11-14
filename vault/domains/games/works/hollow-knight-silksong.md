@@ -9,6 +9,7 @@ game_modes: [single-player]
 monetization_model: premium
 publication_status: released
 coverage_status: cataloged
+cover_url: /covers/hollow-knight-silksong.svg
 first_release: "2025-09-04"
 published_by: /domains/games/orgs/team-cherry
 metadata_provenance: "Vérification multi-sources (novembre 2026)"

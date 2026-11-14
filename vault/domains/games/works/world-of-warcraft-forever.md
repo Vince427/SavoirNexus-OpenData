@@ -9,6 +9,7 @@ game_modes: [multiplayer]
 monetization_model: subscription
 publication_status: released
 coverage_status: cataloged
+cover_url: /covers/world-of-warcraft-forever.svg
 first_release: "2026-11-04"
 published_by: /domains/games/orgs/blizzard-entertainment
 metadata_provenance: "Vérification multi-sources (novembre 2026)"

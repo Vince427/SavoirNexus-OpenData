@@ -9,6 +9,7 @@ game_modes: [single-player, multiplayer]
 monetization_model: premium
 publication_status: released
 coverage_status: cataloged
+cover_url: /covers/gears-of-war-e-day.svg
 first_release: "2026-10-06"
 published_by: /domains/games/orgs/xbox-game-studios
 metadata_provenance: "Vérification multi-sources (novembre 2026)"

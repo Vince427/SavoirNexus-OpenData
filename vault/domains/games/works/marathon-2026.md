@@ -9,6 +9,7 @@ game_modes: [multiplayer]
 monetization_model: premium-plus-mtx
 publication_status: released
 coverage_status: cataloged
+cover_url: /covers/marathon-2026.svg
 first_release: "2026-03-05"
 published_by: /domains/games/orgs/bungie
 metadata_provenance: "Vérification multi-sources (novembre 2026)"

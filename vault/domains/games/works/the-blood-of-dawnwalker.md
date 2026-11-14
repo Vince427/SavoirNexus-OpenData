@@ -9,6 +9,7 @@ game_modes: [single-player]
 monetization_model: premium
 publication_status: released
 coverage_status: cataloged
+cover_url: /covers/the-blood-of-dawnwalker.svg
 first_release: "2026-09-03"
 published_by: /domains/games/orgs/bandai-namco-entertainment
 metadata_provenance: "Vérification multi-sources (novembre 2026)"

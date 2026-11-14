@@ -9,6 +9,7 @@ game_modes: [single-player]
 monetization_model: premium
 publication_status: released
 coverage_status: cataloged
+cover_url: /covers/crimson-desert.svg
 first_release: "2026-03-19"
 published_by: /domains/games/orgs/pearl-abyss
 metadata_provenance: "Vérification multi-sources (novembre 2026)"

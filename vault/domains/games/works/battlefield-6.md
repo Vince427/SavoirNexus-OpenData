@@ -9,6 +9,7 @@ game_modes: [single-player, multiplayer]
 monetization_model: premium-plus-mtx
 publication_status: released
 coverage_status: cataloged
+cover_url: /covers/battlefield-6.svg
 first_release: "2025-10-10"
 published_by: /domains/games/orgs/electronic-arts
 metadata_provenance: "Vérification multi-sources (novembre 2026)"

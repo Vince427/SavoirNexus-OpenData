@@ -9,6 +9,7 @@ game_modes: [single-player]
 monetization_model: free-to-play
 publication_status: released
 coverage_status: cataloged
+cover_url: /covers/block-blast.svg
 first_release: "2022-09-23"
 metadata_provenance: "Découverte store vérifiée (novembre 2026)"
 tags: [jeu, cataloged, released, free-to-play]

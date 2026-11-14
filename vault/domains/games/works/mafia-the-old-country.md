@@ -9,6 +9,7 @@ game_modes: [single-player]
 monetization_model: premium
 publication_status: released
 coverage_status: cataloged
+cover_url: /covers/mafia-the-old-country.svg
 first_release: "2025-08-08"
 published_by: /domains/games/orgs/2k
 metadata_provenance: "Vérification multi-sources (novembre 2026)"

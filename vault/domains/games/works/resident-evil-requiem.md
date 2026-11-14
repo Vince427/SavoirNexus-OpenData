@@ -9,6 +9,7 @@ game_modes: [single-player]
 monetization_model: premium
 publication_status: released
 coverage_status: cataloged
+cover_url: /covers/resident-evil-requiem.svg
 first_release: "2026-02-27"
 published_by: /domains/games/orgs/capcom
 metadata_provenance: "Vérification multi-sources (novembre 2026)"
