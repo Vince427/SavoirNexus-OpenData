@@ -109,6 +109,20 @@ observations:
       - source_url: https://playvalorant.com/fr-fr/
         archive_url: https://web.archive.org/web/20241015000000/https://playvalorant.com/fr-fr/
         quote: "Relevé d'audit Lot 4 [passe-saisonnier-expirant -> observed] sur valorant : Passe de combat par Acte dont les paliers non atteints expirent à la clôture de l'Acte."
+  - id: valorant:obs-anti-triche-noyau-01
+    criterion: anti-triche-noyau
+    result: observed
+    status: verified
+    author: savoirnexus-audit
+    ontology_version: "1.0.0"
+    checked_at: "2026-11-18"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-11-cataloged-and-eu-criteria-audit.md
+    statement: "Exige le pilote noyau Ring 0 Riot Vanguard (vgk.sys) chargé dès le démarrage de Windows et actif en arrière-plan hors partie, bloquant Linux et Steam Deck."
+    evidence:
+      - source_url: https://playvalorant.com/fr-fr/
+        archive_url: https://web.archive.org/web/20261117000000/https://playvalorant.com/fr-fr/
+        quote: "Relevé UE [anti-triche-noyau -> observed] sur valorant : installation obligatoire du pilote noyau Ring 0 Riot Vanguard (vgk.sys) persistant au démarrage."
 
 ---
 

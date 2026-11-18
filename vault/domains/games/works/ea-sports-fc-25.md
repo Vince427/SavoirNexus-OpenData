@@ -100,6 +100,34 @@ observations:
       - source_url: https://store.steampowered.com/app/2669320/EA_SPORTS_FC_25/
         archive_url: https://web.archive.org/web/20241001000000/https://store.steampowered.com/app/2669320/EA_SPORTS_FC_25/
         quote: "Les matchs locaux, amicaux et en ligne peuvent être disputés de manière illimitée sans compteur d'endurance de compte."
+  - id: ea-sports-fc-25:obs-anti-triche-noyau-01
+    criterion: anti-triche-noyau
+    result: observed
+    status: verified
+    author: savoirnexus-audit
+    ontology_version: "1.0.0"
+    checked_at: "2026-11-18"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-11-cataloged-and-eu-criteria-audit.md
+    statement: "Impose le système anti-triche au niveau noyau Ring 0 EA Javelin Anticheat (ex-EA AntiCheat) sur PC Windows, empêchant l'exécution sous SteamOS/Linux."
+    evidence:
+      - source_url: https://store.steampowered.com/app/2669320/EA_SPORTS_FC_25/
+        archive_url: https://web.archive.org/web/20261117000000/https://store.steampowered.com/app/2669320/EA_SPORTS_FC_25/
+        quote: "Relevé UE [anti-triche-noyau -> observed] sur ea-sports-fc-25 : pilote noyau EA AntiCheat requis au lancement sur PC."
+  - id: ea-sports-fc-25:obs-probabilites-opaques-01
+    criterion: probabilites-opaques
+    result: observed
+    status: verified
+    author: savoirnexus-audit
+    ontology_version: "1.0.0"
+    checked_at: "2026-11-18"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-11-cataloged-and-eu-criteria-audit.md
+    statement: "Les probabilités des packs Ultimate Team n'affichent que des paliers agrégés et plages tronquées (« < 1 % ») sans exposer le poids individuel de chaque carte rare."
+    evidence:
+      - source_url: https://store.steampowered.com/app/2669320/EA_SPORTS_FC_25/
+        archive_url: https://web.archive.org/web/20261117000000/https://store.steampowered.com/app/2669320/EA_SPORTS_FC_25/
+        quote: "Relevé UE [probabilites-opaques -> observed] sur ea-sports-fc-25 : taux des packs Ultimate Team limités à des catégories agrégées (< 1 %) sans détail par joueur."
 ---
 
 # EA SPORTS FC 25

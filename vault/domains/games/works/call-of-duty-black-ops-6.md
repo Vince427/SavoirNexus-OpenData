@@ -139,6 +139,34 @@ observations:
       - source_url: https://www.callofduty.com/blackops6
         archive_url: https://web.archive.org/web/20241015000000/https://www.callofduty.com/blackops6
         quote: "Relevé d'audit Lot 4 [fausse-urgence -> observed] sur call-of-duty-black-ops-6 : Rotation temporaire des packs cosmétiques dans la boutique en ligne."
+  - id: call-of-duty-black-ops-6:obs-anti-triche-noyau-01
+    criterion: anti-triche-noyau
+    result: observed
+    status: verified
+    author: savoirnexus-audit
+    ontology_version: "1.0.0"
+    checked_at: "2026-11-18"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-11-cataloged-and-eu-criteria-audit.md
+    statement: "Déploie le pilote anti-triche au niveau noyau Ring 0 RICOCHET Anti-Cheat (randgrid.sys) obligatoire sur PC pour lancer le jeu."
+    evidence:
+      - source_url: https://www.callofduty.com/blackops6
+        archive_url: https://web.archive.org/web/20261117000000/https://www.callofduty.com/blackops6
+        quote: "Relevé UE [anti-triche-noyau -> observed] sur call-of-duty-black-ops-6 : pilote noyau RICOCHET Anti-Cheat exigé sur PC."
+  - id: call-of-duty-black-ops-6:obs-connexion-permanente-solo-01
+    criterion: connexion-permanente-solo
+    result: observed
+    status: verified
+    author: savoirnexus-audit
+    ontology_version: "1.0.0"
+    checked_at: "2026-11-18"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-11-cataloged-and-eu-criteria-audit.md
+    statement: "Exige une connexion Internet permanente dans tous les modes, y compris la campagne scénarisée solo, en raison du streaming continu de textures."
+    evidence:
+      - source_url: https://www.callofduty.com/blackops6
+        archive_url: https://web.archive.org/web/20261117000000/https://www.callofduty.com/blackops6
+        quote: "Relevé UE [connexion-permanente-solo -> observed] sur call-of-duty-black-ops-6 : connexion Internet continue requise y compris pour la campagne solo."
 
 ---
 

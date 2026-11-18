@@ -102,6 +102,20 @@ observations:
       - source_url: https://www.wikidata.org/wiki/Q73154387
         archive_url: https://web.archive.org/web/20241001000000/https://www.wikidata.org/wiki/Q73154387
         quote: "Releve d'audit Observatoire [systeme-energie -> not_observed] sur diablo-4 (Q73154387) : Aucune jauge d'energie, de vies ou d'endurance ne bride la duree des sessions de jeu."
+  - id: diablo-4:obs-connexion-permanente-solo-01
+    criterion: connexion-permanente-solo
+    result: observed
+    status: verified
+    author: savoirnexus-audit
+    ontology_version: "1.0.0"
+    checked_at: "2026-11-18"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-11-cataloged-and-eu-criteria-audit.md
+    statement: "Exige une connexion Internet permanente authentifiée aux serveurs Battle.net pour jouer, y compris lors de la campagne scénarisée en solo, sans aucun mode hors-ligne."
+    evidence:
+      - source_url: https://www.wikidata.org/wiki/Q73154387
+        archive_url: https://web.archive.org/web/20261117000000/https://www.wikidata.org/wiki/Q73154387
+        quote: "Relevé UE [connexion-permanente-solo -> observed] sur diablo-4 (Q73154387) : connexion permanente obligatoire pour la campagne solo, aucun mode hors-ligne disponible."
 ---
 
 # Diablo IV

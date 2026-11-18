@@ -101,6 +101,20 @@ observations:
       - source_url: https://www.wikidata.org/wiki/Q18345763
         archive_url: https://web.archive.org/web/20241001000000/https://www.wikidata.org/wiki/Q18345763
         quote: "Releve d'audit Observatoire [systeme-energie -> not_observed] sur gran-turismo-7 (Q18345763) : Aucune jauge d'energie, de vies ou d'endurance ne bride la duree des sessions de jeu."
+  - id: gran-turismo-7:obs-connexion-permanente-solo-01
+    criterion: connexion-permanente-solo
+    result: observed
+    status: verified
+    author: savoirnexus-audit
+    ontology_version: "1.0.0"
+    checked_at: "2026-11-18"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-11-cataloged-and-eu-criteria-audit.md
+    statement: "Verrouille la campagne solo (GT Café, Permis, circuits mondiaux, garage et sauvegarde de progression) derrière une connexion permanente aux serveurs PSN."
+    evidence:
+      - source_url: https://www.wikidata.org/wiki/Q18345763
+        archive_url: https://web.archive.org/web/20261117000000/https://www.wikidata.org/wiki/Q18345763
+        quote: "Relevé UE [connexion-permanente-solo -> observed] sur gran-turismo-7 (Q18345763) : la campagne solo et la sauvegarde de progression exigent une connexion serveur active."
 ---
 
 # Gran Turismo 7

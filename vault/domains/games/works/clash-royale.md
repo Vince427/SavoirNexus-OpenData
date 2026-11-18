@@ -131,6 +131,20 @@ observations:
       - source_url: https://supercell.com/en/games/clashroyale/
         archive_url: https://web.archive.org/web/20241015000000/https://supercell.com/en/games/clashroyale/
         quote: "Relevé d'audit Lot 4 [fausse-urgence -> observed] sur clash-royale : Rotation quotidienne de la boutique et offres promotionnelles temporaires sous minuterie."
+  - id: clash-royale:obs-tarification-dynamique-01
+    criterion: tarification-dynamique
+    result: observed
+    status: verified
+    author: savoirnexus-audit
+    ontology_version: "1.0.0"
+    checked_at: "2026-11-18"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-11-cataloged-and-eu-criteria-audit.md
+    statement: "Personnalise les tarifs, paliers et multiplicateurs des lots promotionnels en boutique entre comptes gratuits et acheteurs récurrents sur la même plateforme et région."
+    evidence:
+      - source_url: https://supercell.com/en/games/clashroyale/
+        archive_url: https://web.archive.org/web/20261117000000/https://supercell.com/en/games/clashroyale/
+        quote: "Relevé UE [tarification-dynamique -> observed] sur clash-royale : variation ciblée des prix et offres en boutique selon le profil de dépense du compte."
 
 ---
 

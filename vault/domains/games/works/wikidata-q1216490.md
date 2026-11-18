@@ -1,0 +1,18 @@
+---
+type: game
+id: wikidata-q1216490
+title: "Celtic Kings: The Punic Wars"
+lang: fr
+platforms: [pc]
+genres: [strategy]
+coverage_status: heritage
+wikidata_id: Q1216490
+metadata_provenance: "Wikidata (CC0)"
+first_release: 2003-01-01
+cover_url: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/433290/header.jpg"
+tags: [jeu, heritage]
+---
+
+# Celtic Kings: The Punic Wars
+
+Fiche de catalogue importée depuis Wikidata (CC0). Œuvre patrimoniale antérieure à 2006 sur support physique clos, exempte par conception de dark patterns marchands en ligne.

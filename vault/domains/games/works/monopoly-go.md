@@ -99,6 +99,20 @@ observations:
       - source_url: https://www.wikidata.org/wiki/Q124179369
         archive_url: https://web.archive.org/web/20241001000000/https://www.wikidata.org/wiki/Q124179369
         quote: "Releve d'audit Observatoire [systeme-energie -> observed] sur monopoly-go (Q124179369) : La jauge de lancers de des est plafonnee et limite la duree des sessions sans paiement."
+  - id: monopoly-go:obs-tarification-dynamique-01
+    criterion: tarification-dynamique
+    result: observed
+    status: verified
+    author: savoirnexus-audit
+    ontology_version: "1.0.0"
+    checked_at: "2026-11-18"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-11-cataloged-and-eu-criteria-audit.md
+    statement: "Ajuste dynamiquement le prix et la composition des offres de dés et d'autocollants d'un compte à l'autre via le moteur de profilage comportemental Playgami selon l'historique de dépense."
+    evidence:
+      - source_url: https://www.wikidata.org/wiki/Q124179369
+        archive_url: https://web.archive.org/web/20261117000000/https://www.wikidata.org/wiki/Q124179369
+        quote: "Relevé UE [tarification-dynamique -> observed] sur monopoly-go : offres et paliers de prix de lots personnalisés algorithmiquement selon la valeur estimée du joueur."
 ---
 
 # Monopoly GO!

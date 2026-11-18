@@ -100,6 +100,20 @@ observations:
       - source_url: https://apps.apple.com/fr/app/whiteout-survival/id1661263267
         archive_url: https://web.archive.org/web/20240901000000/https://apps.apple.com/fr/app/whiteout-survival/id1661263267
         quote: "Chaque attaque de cible extérieure coûte entre 10 et 20 points d'endurance ; la réserve se régénère lentement ou via l'achat de canettes d'endurance."
+  - id: whiteout-survival:obs-tarification-dynamique-01
+    criterion: tarification-dynamique
+    result: observed
+    status: verified
+    author: savoirnexus-audit
+    ontology_version: "1.0.0"
+    checked_at: "2026-11-18"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-11-cataloged-and-eu-criteria-audit.md
+    statement: "Déclenche des offres pop-up de ressources et de héros dynamiquement calibrées selon les pics de stagnation, pénuries en événement ou segments de dépense."
+    evidence:
+      - source_url: https://apps.apple.com/fr/app/whiteout-survival/id1661263267
+        archive_url: https://web.archive.org/web/20261117000000/https://apps.apple.com/fr/app/whiteout-survival/id1661263267
+        quote: "Relevé UE [tarification-dynamique -> observed] sur whiteout-survival : packs contextuels personnalisés selon l'historique d'achats et les blocages de progression."
 ---
 
 # Whiteout Survival

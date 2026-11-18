@@ -185,6 +185,20 @@ observations:
       - source_url: https://diabloimmortal.blizzard.com/fr-fr/
         archive_url: https://web.archive.org/web/20241015000000/https://diabloimmortal.blizzard.com/fr-fr/
         quote: "Relevé Palier 2 [paquet-force -> observed] sur diablo-immortal : regroupement forcé de monnaies et objets dans les faisceaux promotionnels."
+  - id: diablo-immortal:obs-probabilites-opaques-01
+    criterion: probabilites-opaques
+    result: observed
+    status: verified
+    author: savoirnexus-audit
+    ontology_version: "1.0.0"
+    checked_at: "2026-11-18"
+    method: store-and-gameplay-review
+    audit_trail: docs/audits/2026-11-cataloged-and-eu-criteria-audit.md
+    statement: "Les tirages d'emblèmes légendaires et du marché fantôme n'exposent que des paliers de rareté agrégés sans afficher le poids individuel détaillé de chaque récompense phare avant achat."
+    evidence:
+      - source_url: https://diabloimmortal.blizzard.com/fr-fr/
+        archive_url: https://web.archive.org/web/20261117000000/https://diabloimmortal.blizzard.com/fr-fr/
+        quote: "Relevé UE [probabilites-opaques -> observed] sur diablo-immortal : affichage limité à des tranches agrégées par nombre d'étoiles sans pondération transparente individuelle."
 
 ---
 
