@@ -5,12 +5,15 @@ title: "Perfect World"
 lang: fr
 platforms: [pc]
 genres: [mmo, rpg]
-coverage_status: cataloged
+monetization_model: free-to-play
+publication_status: released
+coverage_status: heritage
 wikidata_id: Q142972
 metadata_provenance: "Wikidata (CC0)"
-tags: [jeu, cataloged, mmo, rpg]
+first_release: 2005-07-01
+tags: [jeu, heritage, mmo, rpg]
 ---
 
 # Perfect World
 
-Fiche de catalogue importée depuis Wikidata (CC0). Aucune observation de pratique ni dark pattern documenté à ce stade.
+MMORPG PC lancé en Chine en juillet 2005. Rattaché au statut patrimonial par sa date de sortie initiale antérieure à 2006 (règle AUDIT006).

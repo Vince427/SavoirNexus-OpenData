@@ -3,14 +3,15 @@ type: game
 id: wikidata-q2030761
 title: "The Crossing"
 lang: fr
-platforms: [pc]
+platforms: [pc, xbox]
 genres: [shooter]
+publication_status: cancelled
 coverage_status: cataloged
 wikidata_id: Q2030761
 metadata_provenance: "Wikidata (CC0)"
-tags: [jeu, cataloged, shooter]
+tags: [jeu, cataloged, cancelled, shooter]
 ---
 
 # The Crossing
 
-Fiche de catalogue importée depuis Wikidata (CC0). Aucune observation de pratique ni dark pattern documenté à ce stade.
+Projet de FPS « crossplayer » développé par Arkane Studios et officiellement suspendu puis annulé sans sortie commerciale. Non auditable en l'état.

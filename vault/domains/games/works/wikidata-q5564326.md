@@ -3,14 +3,17 @@ type: game
 id: wikidata-q5564326
 title: "Girl's Garden"
 lang: fr
-platforms: [pc]
+platforms: [retro]
 genres: [action, adventure]
-coverage_status: cataloged
+monetization_model: premium
+publication_status: released
+coverage_status: heritage
 wikidata_id: Q5564326
 metadata_provenance: "Wikidata (CC0)"
-tags: [jeu, cataloged, action, adventure]
+first_release: 1984-12-01
+tags: [jeu, heritage, action, adventure]
 ---
 
 # Girl's Garden
 
-Fiche de catalogue importée depuis Wikidata (CC0). Aucune observation de pratique ni dark pattern documenté à ce stade.
+Jeu d'action sorti en 1984 sur Sega SG-1000 (premier projet de Yuji Naka). Œuvre patrimoniale antérieure à 2006 sur support physique clos.

@@ -3,14 +3,16 @@ type: game
 id: wikidata-q971467
 title: "Hitori"
 lang: fr
-platforms: [nintendo-switch]
+platforms: [pc, nintendo-switch]
 genres: [puzzle]
-coverage_status: cataloged
+publication_status: released
+coverage_status: heritage
 wikidata_id: Q971467
 metadata_provenance: "Wikidata (CC0)"
-tags: [jeu, cataloged, puzzle]
+first_release: 1990-03-01
+tags: [jeu, heritage, puzzle]
 ---
 
 # Hitori
 
-Fiche de catalogue importée depuis Wikidata (CC0). Aucune observation de pratique ni dark pattern documenté à ce stade.
+Jeu de logique publié initialement en mars 1990 chez Nikoli puis décliné sur ordinateurs et consoles. Classé en patrimoine antérieur à 2006.

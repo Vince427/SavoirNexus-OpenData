@@ -4,13 +4,16 @@ id: wikidata-q3542472
 title: "Tux Typing"
 lang: fr
 platforms: [pc]
-genres: [puzzle]
-coverage_status: cataloged
+genres: [puzzle, casual]
+monetization_model: free-to-play
+publication_status: released
+coverage_status: heritage
 wikidata_id: Q3542472
 metadata_provenance: "Wikidata (CC0)"
-tags: [jeu, cataloged]
+first_release: 2001-08-06
+tags: [jeu, heritage]
 ---
 
 # Tux Typing
 
-Fiche de catalogue importée depuis Wikidata (CC0). Aucune observation de pratique ni dark pattern documenté à ce stade.
+Jeu éducatif open source de dactylographie publié sous licence GPL en août 2001, sans aucune monétisation marchande.

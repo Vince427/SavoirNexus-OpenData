@@ -5,12 +5,15 @@ title: "Akane Maniax"
 lang: fr
 platforms: [pc]
 genres: [adventure, action]
-coverage_status: cataloged
+monetization_model: premium
+publication_status: released
+coverage_status: heritage
 wikidata_id: Q1072198
 metadata_provenance: "Wikidata (CC0)"
-tags: [jeu, cataloged, adventure]
+first_release: 2002-05-01
+tags: [jeu, heritage, adventure]
 ---
 
 # Akane Maniax
 
-Fiche de catalogue importée depuis Wikidata (CC0). Aucune observation de pratique ni dark pattern documenté à ce stade.
+Visual novel PC publié en 2002 par âge. Œuvre patrimoniale antérieure à 2006 sur support physique clos, exempte par conception de dark patterns marchands en ligne.

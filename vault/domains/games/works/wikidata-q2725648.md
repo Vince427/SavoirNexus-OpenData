@@ -3,14 +3,15 @@ type: game
 id: wikidata-q2725648
 title: "Sadness"
 lang: fr
-platforms: [nintendo-switch]
+platforms: [retro]
 genres: [horror]
+publication_status: cancelled
 coverage_status: cataloged
 wikidata_id: Q2725648
 metadata_provenance: "Wikidata (CC0)"
-tags: [jeu, cataloged, horror]
+tags: [jeu, cataloged, cancelled, horror]
 ---
 
 # Sadness
 
-Fiche de catalogue importée depuis Wikidata (CC0). Aucune observation de pratique ni dark pattern documenté à ce stade.
+Projet de jeu d'horreur psychologique annoncé sur Wii par Nibris et annulé vers 2010 sans sortie commerciale. Non auditable en l'état.

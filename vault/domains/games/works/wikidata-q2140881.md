@@ -4,13 +4,16 @@ id: wikidata-q2140881
 title: "Vega Strike"
 lang: fr
 platforms: [pc]
-genres: [simulation]
-coverage_status: cataloged
+genres: [simulation, action]
+monetization_model: free-to-play
+publication_status: released
+coverage_status: heritage
 wikidata_id: Q2140881
 metadata_provenance: "Wikidata (CC0)"
-tags: [jeu, cataloged, simulation]
+first_release: 2001-02-07
+tags: [jeu, heritage, simulation]
 ---
 
 # Vega Strike
 
-Fiche de catalogue importée depuis Wikidata (CC0). Aucune observation de pratique ni dark pattern documenté à ce stade.
+Simulateur spatial open source lancé en février 2001 sur PC, sans aucune microtransaction ni boutique en ligne.

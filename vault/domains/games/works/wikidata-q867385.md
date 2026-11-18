@@ -5,12 +5,15 @@ title: "Microsoft FreeCell"
 lang: fr
 platforms: [pc]
 genres: [card-game]
-coverage_status: cataloged
+monetization_model: premium
+publication_status: released
+coverage_status: heritage
 wikidata_id: Q867385
 metadata_provenance: "Wikidata (CC0)"
-tags: [jeu, cataloged]
+first_release: 1991-01-01
+tags: [jeu, heritage]
 ---
 
 # Microsoft FreeCell
 
-Fiche de catalogue importée depuis Wikidata (CC0). Aucune observation de pratique ni dark pattern documenté à ce stade.
+Jeu de cartes solitaire livré nativement avec Microsoft Windows depuis 1991. Œuvre patrimoniale antérieure à 2006.

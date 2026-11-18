@@ -12,6 +12,7 @@ coverage_status: audited
 cover_url: /covers/le-retour-de-detective-pikachu.svg
 first_release: "2023-10-06"
 published_by: /domains/games/orgs/nintendo
+wikidata_id: Q119833218
 metadata_provenance: "Découverte store vérifiée (novembre 2026)"
 tags: [jeu, audited, released, premium]
 observations:

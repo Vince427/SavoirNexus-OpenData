@@ -10,6 +10,7 @@ monetization_model: free-to-play
 publication_status: released
 coverage_status: audited
 first_release: 2012-05-24
+wikidata_id: Q9176944
 cover_url: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/bf/5a/3dbf5af4-cefb-7548-2cbe-fa2ae1954388/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 published_by: /domains/games/orgs/sybo-games
 storefronts: [app-store]
